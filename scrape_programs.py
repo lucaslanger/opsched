@@ -64,35 +64,5 @@ def fast_unique_list(li):
             unique.append(e)
     return unique
         
-        
-def find_info_by_program(link):
-    #title,courses = find_info_by_program(link)
-    #program_graph = make_program_graph(title, courses, course_graph)
-    #program_object = {'title':title, 'url':link, 'courses':courses, 'graph':program_graph}
-    #program_urls.append(program_object)
-    
-    
-    html = requests.get(link).text
-    soup = BeautifulSoup(html)
-    
-    title = soup.find('h1').text
-    
-    courses_li = soup.find_all(class_='program-course-title')
-    courses = []
-    for c in courses_li:
-        name = re.findall(r'[A-Z]{2,6} [0-9]{2,6}[a-zA-Z]*[0-9]*', c.text)[0]
-        if name != None:
-            courses.append(name)
-        else:
-            print 'Something went wrong -->   ' + c.text 
-               
-    return title,courses
-    
-def make_program_graph(courses, cg):
-    graph = {}
-    for c in courses:
-        graph[c] = cg[c]
-        
-    return graph
 
 get_program_pages(0)

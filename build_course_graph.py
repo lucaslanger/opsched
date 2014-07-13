@@ -2,7 +2,7 @@ import json
 from bs4 import BeautifulSoup
 import re
     
-def build_graph(read_courses = True):
+def build_graph(read_courses = False):
     with open("course_titles.txt","r") as f:
         titles = json.load(f)
     
@@ -13,6 +13,8 @@ def build_graph(read_courses = True):
         course_graph = {}
     
     for title in titles:
+        print title
+        
         try:     
             get_course_info( title, course_graph )
             
@@ -72,7 +74,7 @@ def evaluate_requirements(req_exp): #needs fix
     curr = []
     for v in req_exp:
         if re.search(r'[A-Z]{2,6} [0-9]{2,6}[a-zA-Z]*[0-9]*',v) != None:
-            curr.append(v)
+            curr.append( v.replace(" ", "_") )
         #make conditionals for  (, | and | or | permission | equivalent)
       
     return curr               
@@ -86,9 +88,12 @@ def find_description(soup):
 
     
 def test():
-   jdata = open("course_graph.txt")
-   data = json.load(jdata)
-   print data['COMP 252']
+    with open("course_titles.txt","r") as f:
+        titles = json.load(f)
+        print len(set(titles))
+        print len(titles)
+        
+   
 
 test()
 #build_graph()
