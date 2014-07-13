@@ -74,7 +74,7 @@ def evaluate_requirements(req_exp): #needs fix
     curr = []
     for v in req_exp:
         if re.search(r'[A-Z]{2,6} [0-9]{2,6}[a-zA-Z]*[0-9]*',v) != None:
-            curr.append( v.replace(" ", "_") )
+            curr.append( v.replace(" ", "-") )
         #make conditionals for  (, | and | or | permission | equivalent)
       
     return curr               
