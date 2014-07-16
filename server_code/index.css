@@ -7,39 +7,41 @@
 
 #header-left{
 	float: left;
-	width: 40%;
+	width: 70%;
 	height: 100%;
-
-	background: blue;
+	background: white;
+	color: black;
 }
 
 #header-left h1{
-	position: relative;
-	margin: 0 auto;
+	margin-left: 50%;
 	font-size: 32px;
 }
 
 #header-left h2{
+	margin-left: 50%;
 	font-size: 16px;
 }
+/*Done Header Left*/
 
 #header-right{
 	float: left;
-	width: 60%;
+	width: 30%;
 	height: 100%;
-	background: red;
+	background: white;
 }
 
 #logos{
-	margin: 0 20%;
+	padding-left: 100px;
 	width: 60%;
 	height: 100%;
 }
 
 #logos div{
+	padding: 20px 10px;
 	display: inline-block;
 	height: inherit;
-	width: 100px;
+	width: 60px;
 }
 
 
@@ -48,45 +50,42 @@
 }
 
 #tw-logo{
-	
+
 }
 
 
 #content{
 	display: block;
 	width: 100%;
-	height: 475px;
-	background: black;
-}
-
-#main-image{
-	float:left;
-	width: 50%;
-	height: 100%;
-	background: yellow;
-
+	height: 600px;
+	background: url("images/sex.png");
+	background-size: cover;
 }
 
 #form-submit{
-	float: left;
-	width: 50%;
-	height: 100%;
-	background: purple;
+	margin-left: 60%;
+	width: 40%;
+	height: 500px;
+	
+}
+
+#form-submit h2{
+	padding-top: 15px;
+	color: white;
+	margin: 0 20px;
+	
 }
 
 form{
-	margin: 10% 20% 0 20%;
-
-	height: inherit;
-	display: block;
+	margin: 5% 0 0 0;
 }
 
 input{
-	
-	padding: 12px 15px;
+	padding: 20px 15px;
 	margin: 10px 0;
-	width: 270px;
+	width: 400px;
 	border-radius: 10px;
+	border-color : none;
 }
 
 #generate-schedule{
@@ -95,9 +94,26 @@ input{
 }
 
 #footer{
+	border-top: 5px solid black;
 	display: block;
 	width: 100%;
-	height: 100px;
+	height: 50px;
+	background: white;
+}
 
-	background: green;
+#redirects{
+	height: 100px;
+	margin: 15px 200px;
+	display: inline-block;
+}
+#redirects div{
+	padding: 0 20px;
+	display: inline-block;
+	font-size: 26px;
+	color: black;
+}
+
+#copyright{
+	margin-left: 50px;
+	display: inline-block;
 }
