@@ -31,13 +31,24 @@
 }
 
 #logos{
-	margin-top: 15px;
-	margin-left: 50%;
+	margin: 0 20%;
+	width: 60%;
+	height: 100%;
 }
 
-#header-right li{
-	display: inline;
-	padding: 0 5px;
+#logos div{
+	display: inline-block;
+	height: inherit;
+	width: 100px;
+}
+
+
+#fb-logo{
+
+}
+
+#tw-logo{
+	
 }
 
 
