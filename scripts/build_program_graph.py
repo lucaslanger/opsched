@@ -5,14 +5,14 @@ import re
 def build_program_graphs():
     find_graph_by_program = {}
     
-    with open("program_titles.txt", "r") as f:
+    with open("../data/program_titles.txt", "r") as f:
         titles = json.load(f)
         
-    with open("course_graph.txt","r") as f2:
+    with open("../data/course_database.txt","r") as f2:
         course_graph = json.load(f2)
         
     for title in titles:
-        with open("programs/" + title) as f:
+        with open("../programs/" + title) as f:
             html = f.read()    
     
         soup = BeautifulSoup(html)
@@ -33,7 +33,7 @@ def build_program_graphs():
                 
         find_graph_by_program[ title ] = {"graph": make_program_graph(courses, course_graph)}
         
-    with open("program_graph.txt" , "w") as f:
+    with open("../data/program_graph.txt" , "w") as f:
         print "Successfully wrote out program graphs"
         json.dump(find_graph_by_program, f)
     

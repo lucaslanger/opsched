@@ -3,49 +3,49 @@ from bs4 import BeautifulSoup
 import re
     
 def build_graph(read_courses = False):
-    with open("course_titles.txt","r") as f:
+    with open("../data/course_titles.txt","r") as f:
         titles = json.load(f)
     
     if read_courses:
-        with open("course_graph.txt","r") as f:
+        with open("../data/course_graph.txt","r") as f:
             course_graph = json.load(f)
     else:        
         course_graph = {}
     
     for title in titles:
         
-        #try:     
-        get_course_info( title, course_graph )
+        try:     
+            get_course_info( title, course_graph )
             
-        #except Exception, e:
-        #    print str(e)
-        #    print "Failed on " + title
+        except Exception, e:
+            print str(e)
+            print "Failed on " + title
             
-            #with open("course_graph.txt","w") as f:
-             #   f.write( json.dumps(course_graph) )
-              #  break
+            with open("../data/course_graph.txt","w") as f:
+            	json.dump(course_graph, f)
+                break
                 
-    #with open("course_graph.txt","w") as f:
-     #   f.write( json.dumps(course_graph) )
-      #  print "Successfully built the graph!"
+    with open("../data/course_graph.txt","w") as f:
+        json.dump(course_graph, f)
+        print "Successfully built the graph!"
  
     return course_graph
    
 def get_course_info(title, course_graph): # courses should have a title, url, prereqs, coreqs, description
-    with open("courses/"+title, "r") as f:
+    with open("../courses/"+title, "r") as f:
         soup = BeautifulSoup( f.read() )
         link = 'http://www.mcgill.ca/study/2014-2015/courses/' + title.lower()
         name, credit = find_name(soup) 
         
         faculty = find_faculty(soup)
         
-        prereq, coreq = find_requisites(soup)
+        prereq, coreq = find_requisites(soup,title)
         desc = find_description(soup)
         
-        offerings = find_offerings(soup)
+        #offerings = find_offerings(soup)
         
         
-        #course_graph[title] = {"url": link,"prereq": prereq,"coreq":coreq,"desc": desc}
+        course_graph[title] = {"name":name,"credit":credit, 'url': link,"prereq": prereq,"coreq":coreq,"desc": desc}
 
 def find_name(soup):
     h1 = soup.find('div',{'id': 'content-inner'} ).find('h1').text
@@ -81,7 +81,7 @@ def find_faculty(soup):
     #faculty = faculty[11:]
     return faculty
 
-def find_requisites(soup):
+def find_requisites(soup, title):
     prereq = []
     coreq = []    
     
@@ -98,12 +98,24 @@ def find_requisites(soup):
             #p = re.findall(r'[A-Z]{2,6} [0-9]{2,6}[a-zA-Z]{0-4}| or |[E,e]quivalent|[p,P]ermission|,| and |',text)
             p = re.findall(r'[A-Z]{2,6} [0-9]{2,6}[a-zA-Z]*[0-9]*',text) 
             prereq.extend( evaluate_requirements(p) )     
+        
             
-        elif re.search(r'Corequi',text) != None:
+            
+        if re.search(r'Corequi',text) != None:
             #p = re.findall(r'[A-Z]{2,6} [0-9]{2,6}[a-zA-Z]{0-4}| or |[E,e]quivalent|[p,P]ermission|,| and |',text)
             p = re.findall(r'[A-Z]{2,6} [0-9]{2,6}[a-zA-Z]*[0-9]*',text)
 
-            coreq.extend( evaluate_requirements(p) ) 
+            coreq.extend( evaluate_requirements(p) )
+            
+    if len(prereq) == 0:
+        try:
+            level = re.findall("-[0-9]{3,6}", title)[0][1]
+            print title, level
+            if int(level) > 2:
+                prereq.append("Level" +  level)
+        
+        except:
+            print "Fail: " + title
     
     return prereq,coreq
 
@@ -181,7 +193,7 @@ def evaluate_requirements(req_exp): #needs fix
     
           
 def test():
-    with open("course_titles.txt","r") as f:
+    with open("../data/course_titles.txt","r") as f:
         titles = json.load(f)
         print len(set(titles))
         print len(titles)
