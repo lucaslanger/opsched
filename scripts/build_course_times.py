@@ -30,18 +30,26 @@ def build_course_times():
 				'science'
 				]
 
-	course_data = {}
+	course_timing = {}
 	for f in faculties:
-		add_data("../course_times_csv/f2014/" + f + "_f2014.csv", "fall", course_data)
-		add_data("../course_times_csv/w2015/" + f + "_w2015.csv", "winter", course_data)
+		add_data("../course_times_csv/f2014/" + f + "_f2014.csv", "fall", course_timing)
+		add_data("../course_times_csv/w2015/" + f + "_w2015.csv", "winter", course_timing)
 
-	with open("../data/course_times.txt", "w") as f:
-		#print course_data['COMP-250']
-		json.dump(course_data, f)
+	with open("../data/course_graph.txt", "r") as f:
+		course_graph = json.load(f)
+
+	for key in course_graph:
+		if key in course_timing:
+			course_graph[key] = dict(course_graph[key].items() + course_timing[key].items() )
+			#print course_timing[key].keys()
+		else:
+			print "Not offered: " + str(key)
+
+	with open('../data/course_graph.txt','w') as f:
+		json.dump(course_graph,f)
 		
-	return course_data
 
-def add_data(location, semester ,course_data):
+def add_data(location, semester ,course_timing):
 
 	with open(location, "r") as f:
 		r = csv.reader(f, delimiter=',')
@@ -61,35 +69,22 @@ def add_data(location, semester ,course_data):
 					except: 
 						instructor = unicode(data[13], errors='ignore')
 					
-					info = {
-						'Type':typeofclass, 'section': section,
-						"Days": days,
-						"Time": time,
-						"Instructor": instructor,
-						"Status": status
-					}
-					
-					if course_data.has_key(course):
-						if course_data[course].has_key(semester):
-							course_data[course][semester].append(info)
+					if status == 'Active':# any other kinds?
+						info = {
+							'Type':typeofclass, 
+							'Section': section,
+							"Days": days,
+							"Time": time,
+							"Instructor": instructor,
+							"Status": status
+						}
+						#print info
+
+						if course_timing.has_key(course) == False:
+							course_timing[course] = {semester: [info] }
+						elif course_timing[course].has_key(semester) == False:
+							course_timing[course][semester] = [info]
 						else:
-							course_data[course][semester] = [info]
-					else:
-						course_data[course] = {semester: [info]}
-						
-def merge_data(course_times):
-	with open('../data/course_graph.txt', 'r') as f:
-		course_graph = json.load(f)
-	with open('../data/course_database.txt', 'w') as f1:
-		c = 0
-		for key in course_graph.keys():
-			try:
-				course_graph[key]['Timing'] = course_times[key]
-			except:
-				if re.search('COMP',key) != None:
-					#print key
-					pass
-		json.dump(course_graph, f1)
+							course_timing[course][semester].append(info)
 		
-ct = build_course_times()
-merge_data(ct)
+build_course_times()

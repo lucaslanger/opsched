@@ -8,7 +8,7 @@ def build_program_graphs():
     with open("../data/program_titles.txt", "r") as f:
         titles = json.load(f)
         
-    with open("../data/course_database.txt","r") as f2:
+    with open("../data/course_graph.txt","r") as f2:
         course_graph = json.load(f2)
         
     for title in titles:
@@ -16,8 +16,6 @@ def build_program_graphs():
             html = f.read()    
     
         soup = BeautifulSoup(html)
-        
-        #url =  ... add a url for every program?
         
         courses = []
         courses_li = soup.find_all(class_='program-course-title')
@@ -31,20 +29,15 @@ def build_program_graphs():
                 print 'Something went wrong -->   ' + c.text
                 print
                 
-        find_graph_by_program[ title ] = {"graph": make_program_graph(courses, course_graph)}
+        find_graph_by_program[ title ] = make_program_graph(courses, course_graph)
         
     with open("../data/program_graph.txt" , "w") as f:
         print "Successfully wrote out program graphs"
         json.dump(find_graph_by_program, f)
     
 def make_program_graph(courses, cg):
-    graph = {}
+    graph = {"Required","Complementary"}
     
-    for c in courses:
-        try:
-            graph[c] = cg[c]
-        except:
-            print c
-    return graph
+    return courses
 
 build_program_graphs()

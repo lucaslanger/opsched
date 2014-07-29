@@ -2,15 +2,12 @@ import json
 from bs4 import BeautifulSoup
 import re
     
-def build_graph(read_courses = False):
+def build_graph():
     with open("../data/course_titles.txt","r") as f:
         titles = json.load(f)
     
-    if read_courses:
-        with open("../data/course_graph.txt","r") as f:
-            course_graph = json.load(f)
-    else:        
-        course_graph = {}
+        
+    course_graph = {}
     
     for title in titles:
         
@@ -20,11 +17,7 @@ def build_graph(read_courses = False):
         except Exception, e:
             print str(e)
             print "Failed on " + title
-            
-            with open("../data/course_graph.txt","w") as f:
-            	json.dump(course_graph, f)
-                break
-                
+         
     with open("../data/course_graph.txt","w") as f:
         json.dump(course_graph, f)
         print "Successfully built the graph!"
@@ -36,16 +29,21 @@ def get_course_info(title, course_graph): # courses should have a title, url, pr
         soup = BeautifulSoup( f.read() )
         link = 'http://www.mcgill.ca/study/2014-2015/courses/' + title.lower()
         name, credit = find_name(soup) 
-        
-        faculty = find_faculty(soup)
-        
         prereq, coreq = find_requisites(soup,title)
         desc = find_description(soup)
-        
+        #faculty = find_faculty(soup)
         #offerings = find_offerings(soup)
-        
-        
-        course_graph[title] = {"name":name,"credit":credit, 'url': link,"prereq": prereq,"coreq":coreq,"desc": desc}
+
+        data =	{
+                "name":name,
+                "credit":credit, 
+                'url': link,
+                "prereq": prereq,
+                "coreq":coreq,
+                "desc": desc
+                }
+	print data
+	course_graph[title] = data
 
 def find_name(soup):
     h1 = soup.find('div',{'id': 'content-inner'} ).find('h1').text
@@ -61,8 +59,7 @@ def find_name(soup):
     else:
         name = h1
         print "No match"
-        print h1
-        
+    
     creds = re.findall(r'([0-9]+ credit|[0-9]+ CE)', h1)
     if len(creds) > 0:
         creds = creds[0]
@@ -98,8 +95,6 @@ def find_requisites(soup, title):
             #p = re.findall(r'[A-Z]{2,6} [0-9]{2,6}[a-zA-Z]{0-4}| or |[E,e]quivalent|[p,P]ermission|,| and |',text)
             p = re.findall(r'[A-Z]{2,6} [0-9]{2,6}[a-zA-Z]*[0-9]*',text) 
             prereq.extend( evaluate_requirements(p) )     
-        
-            
             
         if re.search(r'Corequi',text) != None:
             #p = re.findall(r'[A-Z]{2,6} [0-9]{2,6}[a-zA-Z]{0-4}| or |[E,e]quivalent|[p,P]ermission|,| and |',text)
@@ -110,7 +105,6 @@ def find_requisites(soup, title):
     if len(prereq) == 0:
         try:
             level = re.findall("-[0-9]{3,6}", title)[0][1]
-            print title, level
             if int(level) > 2:
                 prereq.append("Level" +  level)
         
@@ -141,6 +135,8 @@ def find_offerings(soup): # add summer in
         
         for t in teachers:
             if re.search("Fall",t) != None:
+                name = process_name(name)
+                #print name
                 if teacher_info.has_key('Fall'):
                     teacher_info['Fall'].append(name)
                 else:
@@ -152,6 +148,8 @@ def find_offerings(soup): # add summer in
                 name = ''
                     
             elif re.search("Winter",t) != None:
+                name = process_name(name)
+                #print name
                 if teacher_info.has_key('Winter') > 0:
                     teacher_info['Winter'].append(name)
                 else:
@@ -180,7 +178,16 @@ def find_offerings(soup): # add summer in
             teacher_info['Winter'] = 'Unassigned'
                    
     return teacher_info
-        
+
+def process_name(name):
+    try:
+        parts = re.findall('[A-Za-z]{3,50}', name)
+        new_name = parts[0] + " " + parts[-1]
+        return new_name
+    except:
+        print "Problem: " + name
+        return name
+    
 def evaluate_requirements(req_exp): #needs fix
     choices = []
     curr = []

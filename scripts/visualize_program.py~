@@ -2,9 +2,9 @@ import json
 
 def visualize(program_title):
     
-    with open("../data/program_graph.txt", "r") as f1:
+    with open("program_graph.txt", "r") as f1:
         program_graph = json.load(f1)
-    with open("../data/course_graph.txt", "r") as f2:
+    with open("course_graph.txt", "r") as f2:
         course_graph = json.load(f2)
         
     with open("visual_test.dot", "w") as f3:
