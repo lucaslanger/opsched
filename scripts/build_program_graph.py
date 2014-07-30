@@ -2,14 +2,11 @@ from bs4 import BeautifulSoup
 import json
 import re
 
-def build_program_graphs():
+def build_programs():
     find_graph_by_program = {}
     
     with open("../data/program_titles.txt", "r") as f:
         titles = json.load(f)
-        
-    with open("../data/course_graph.txt","r") as f2:
-        course_graph = json.load(f2)
         
     for title in titles:
         with open("../programs/" + title) as f:
@@ -29,15 +26,15 @@ def build_program_graphs():
                 print 'Something went wrong -->   ' + c.text
                 print
                 
-        find_graph_by_program[ title ] = make_program_graph(courses, course_graph)
+        find_graph_by_program[ title ] = make_program_graph(courses)
         
     with open("../data/program_graph.txt" , "w") as f:
-        print "Successfully wrote out program graphs"
+        print "Successfully wrote out programs"
         json.dump(find_graph_by_program, f)
     
-def make_program_graph(courses, cg):
+def make_program_graph(courses):
     graph = {"Required","Complementary"}
     
     return courses
 
-build_program_graphs()
+build_programs()

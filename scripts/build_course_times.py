@@ -1,15 +1,11 @@
-#coding: utf8
-
 import csv
 import json
 import re
 import unicodedata
 
 def remove_accents(s):
-	nkfd_form = unicodedata.normalize('NFKD', unicode(s.decode("utf-8")  ))
+	nkfd_form = unicodedata.normalize('NFKD', unicode(s.decode("latin-1")  ))
 	return u"".join([c for c in nkfd_form if not unicodedata.combining(c)])
-
-#print remove_accents('François Crépeau')
 
 def build_course_times():
 	faculties = ['arts',
@@ -31,26 +27,31 @@ def build_course_times():
 				]
 
 	course_timing = {}
+	teacher_names = {}
 	for f in faculties:
-		add_data("../course_times_csv/f2014/" + f + "_f2014.csv", "fall", course_timing)
-		add_data("../course_times_csv/w2015/" + f + "_w2015.csv", "winter", course_timing)
+		add_data("../course_times_csv/f2014/" + f + "_f2014.csv", "fall", course_timing, teacher_names)
+		add_data("../course_times_csv/w2015/" + f + "_w2015.csv", "winter", course_timing, teacher_names)
 
 	with open("../data/course_graph.txt", "r") as f:
 		course_graph = json.load(f)
 
+	course_database = {}
 	for key in course_graph:
 		if key in course_timing:
-			course_graph[key] = dict(course_graph[key].items() + course_timing[key].items() )
+			course_database[key] = dict(course_graph[key].items() + course_timing[key].items() )
 			#print course_timing[key].keys()
 		else:
-			print "Not offered: " + str(key)
+			course_database[key] = course_graph[key]
+			#print "Not offered: " + str(key)
 
-	with open('../data/course_graph.txt','w') as f:
-		json.dump(course_graph,f)
+	with open('../data/course_database.txt','w') as f:
+		json.dump(course_database,f)
 		
+	with open('../data/teacher_names.txt', 'w') as f:
+		json.dump(teacher_names,f)
 
-def add_data(location, semester ,course_timing):
-
+def add_data(location, semester ,course_timing, teacher_names={}):
+	#c = 0
 	with open(location, "r") as f:
 		r = csv.reader(f, delimiter=',')
 		for data in r:
@@ -64,10 +65,15 @@ def add_data(location, semester ,course_timing):
 					section = data[3]
 					typeofclass = data[4]
 					status = data[16]
-					try:
-						instructor = remove_accents(data[13])
-					except: 
-						instructor = unicode(data[13], errors='ignore')
+					
+					instructors = [i for i in remove_accents(data[13]).split(',')]
+					
+					for i in instructors:
+						#if i == 'TBA':
+							#c+=1
+							#print c, course
+						teacher_names[i] = True
+					
 					
 					if status == 'Active':# any other kinds?
 						info = {
@@ -75,7 +81,7 @@ def add_data(location, semester ,course_timing):
 							'Section': section,
 							"Days": days,
 							"Time": time,
-							"Instructor": instructor,
+							"Instructor": instructors,
 							"Status": status
 						}
 						#print info

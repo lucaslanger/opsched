@@ -2,12 +2,15 @@ import json
 from bs4 import BeautifulSoup
 import re
     
-def build_graph():
+def build_graph(read_courses = False):
     with open("../data/course_titles.txt","r") as f:
         titles = json.load(f)
     
-        
-    course_graph = {}
+    if read_courses:
+        with open("../data/course_graph.txt","r") as f:
+            course_graph = json.load(f)
+    else:        
+        course_graph = {}
     
     for title in titles:
         
@@ -17,6 +20,10 @@ def build_graph():
         except Exception, e:
             print str(e)
             print "Failed on " + title
+            
+            with open("../data/course_graph.txt","w") as f:
+            	json.dump(course_graph, f)
+                break
          
     with open("../data/course_graph.txt","w") as f:
         json.dump(course_graph, f)
@@ -42,7 +49,6 @@ def get_course_info(title, course_graph): # courses should have a title, url, pr
                 "coreq":coreq,
                 "desc": desc
                 }
-	print data
 	course_graph[title] = data
 
 def find_name(soup):
