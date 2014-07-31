@@ -5,9 +5,7 @@ import json
 found = 0
 not_found = 0
 
-def gen_possible_schedules(program, semester, fload=5, wload=5): # should also take, semester that one starts from and completed courses
-    with open('../data/course_database.txt', 'r') as f:
-	course_database = json.load(f)
+def gen_possible_schedules(database, program, semester, fload=5, wload=5): # should also take, semester that one starts from and completed courses
     
     if semester == 'fall':
 	schedules = {}
@@ -15,9 +13,11 @@ def gen_possible_schedules(program, semester, fload=5, wload=5): # should also t
 	w_comb_dict = {}
     
 	f_candidates = determine_candidates(course_database, program, 'fall',{})
-	#print len(f_candidates)
+	print len(f_candidates)
+	print f_candidates
 	
-	f_combs = list(itertools.combinations(f_candidates, fload ) )
+	
+	f_combs = list(itertools.combinations(f_candidates, min(fload,len(f_candidates) ) ) )
 
 	for fc in f_combs:
 	    f_comb_dict[fc] = find_valid_combs(course_database, fc, 'fall')
@@ -30,9 +30,9 @@ def gen_possible_schedules(program, semester, fload=5, wload=5): # should also t
 		#kindof a recursive step, but since only 2 cases and need to track schedules, wrote it out again	
     
 		w_candidates = determine_candidates(course_database, program, 'winter' ,seen_courses)
-		#print len(w_candidates)
+		print len(w_candidates)
     
-		w_combs = list(itertools.combinations( w_candidates, wload ) )
+		w_combs = list(itertools.combinations( w_candidates, load ) ) #min of the two, like with fall?
 		for wc in w_combs:
 		    w_comb_dict[wc] = find_valid_combs( course_database, wc, 'winter' )
 		    if len( w_comb_dict[wc]) > 0:
@@ -47,7 +47,6 @@ def gen_possible_schedules(program, semester, fload=5, wload=5): # should also t
 	schedules = {}
 	
 	w_candidates = determine_candidates(course_database,'winter',{})
-	print w_candidates
 	
 	w_combs = list(itertools.combinations(w_candidates, wload ) )
 	for wc in w_combs:
@@ -55,7 +54,7 @@ def gen_possible_schedules(program, semester, fload=5, wload=5): # should also t
 	    
 	
 
-def optimize(schedules, fcomb, wcomb, filt3r ):
+def optimize(database,schedules, fcomb, wcomb, filt3r ):
     with open('../data/teacher_data.txt', 'r') as f:
 	ratings = json.load(f)
     
@@ -71,18 +70,35 @@ def optimize(schedules, fcomb, wcomb, filt3r ):
 		for j in wcomb[wc]:
 		    w_score, teacher_course_w, w_entries = get_score(j, ratings, filt3r)
 		    total = (f_score + w_score) / (w_entries + f_entries )
+		    
 		    if total > optimal_score:
 			optimal = [teacher_course_f, teacher_course_w]
 			optimal_score = total
 			
 		    elif low == None or total < low:
 			low = total
-		
-    print low, optimal_score, optimal		
+			
+    tmp = []
+
+    #for c in optimal[0]:
+    #	sections = database[c[0]]['fall']
+    #	for s in sections:
+    #	    #cprint c[1], s['Crn']
+    #	    if c[1] == s['Crn']:
+    #		
+    #		tmp.append(s)
+    #print database['MATH-242']['fall']
+    #print tmp[0].keys()
+    #print [i['Course'] for i in tmp]
+    #print test_schedule(tmp)
+    print optimal_score, low
+    print get_vsb_url(database, optimal[0], 'fall')
+    
+    #print optimal
     return optimal, optimal_score	
 	
 def get_score(courses,ratings, filt3r):
-    #global found, not_found
+    global found, not_found
     filter_dict = {'hotness': -1, 'easyness': -2, 'quality': -3}
     total = 0
     entries = 0 
@@ -90,6 +106,7 @@ def get_score(courses,ratings, filt3r):
     for c in courses:
 	instructors = c['Instructor']
 	course, typ3 = c['Course'], c['Type']
+	crn = c['Crn']
 
 	score = 0.0
 	known_teachers = 0.0
@@ -100,24 +117,90 @@ def get_score(courses,ratings, filt3r):
 		score += float(ratings[i][2])
 		#data.append( (course, typ3, instructor, score) )
 		known_teachers += 1 
-	    #    found += 1
-	    #else:
+	        found += 1
+	    else:
 	     
-	    #    not_found+=1
+	        not_found+=1
 		
 		#total += 2.0
 	
 	if known_teachers != 0:
 	    avg = score/known_teachers
-	    data.append( (course, typ3 , instructors, avg))
+	    data.append( (course, crn, typ3 , instructors, avg))
 	    total += avg
 	    entries += 1
 	else:
-	    
-	    data.append( (course, typ3 , instructors, 'N/A'))
+	    data.append( (course, crn, typ3 , instructors, 'N/A'))
     	    
-    return total, data, entries    
+    return total, data, entries
+
+def get_vsb_url(database,optimal,semester):
+    if semester == 'fall':
+	semnumber = '201409'
+    url = "https://vsb.mcgill.ca/results.jsp?session_" + semnumber + "=1"
+    
+    o = optimal # shorten length of lines below
+    seen_courses = {}
+    l_seen = 0
+    for i in range(len (o)):
+	#print seen_courses
+	if o[i][0] not in seen_courses:
+	    seen_courses[o[i][0]] = True
+	    si = str(l_seen)
+	    sa_code, course_parts = getsa(database,o[i][0], semester)
+	    dropdown_code = 'us_' + o[i][0] + "-" + semnumber + "-" + getdd(o[i], o)
+	    addon = '&course'+"_"+ si+"_0="+str(o[i][0])+'&'+'sa' + "_"+ si+"_0="+ sa_code+'&dropdown'+ "_"+ si+"_0="+ dropdown_code
+	    url += addon
+	    l_seen += 1
 	
+    end = "&sf=ffftimeinclass&submit_action=search"
+    url += end
+    
+    return url
+
+def getsa(database,course,semester):
+    sections = database[course][semester]
+
+    lecs = 0
+    labs = 0
+    tut = 0
+    for s in sections:
+	typ = s['Type']
+	if typ == 'Lecture':
+	    lecs += 1
+	elif typ == 'Laboratory':
+	    labs += 1
+	elif typ == 'Tutorial':
+	    tut += 1
+	else:
+	    print typ
+	    
+    l = max(labs, lecs, tut)
+    p = (1 if labs > 0 else 0) + (1 if tut > 0 else 0) + (1 if lecs>0 else 0)
+    
+    if l == 1:
+	return 'tm',p
+    elif l == 2:
+	return 'tty',p
+    elif l == 3:
+	return 'tttk',p
+    elif l == 4:
+	print course, " 4 sections "
+    elif l == 5:
+	return 'ttttti',p
+
+def getdd(course, optimal):
+    s = ''
+    for o in optimal:
+	if o[0] == course[0]:
+	    if s != '':
+		s = s + "-" + o[1]
+	    else:
+		s = o[1]
+    return s
+
+
+'''	
 def process_name(name):
     try:
         parts = re.findall('[A-Za-z]{3,50}', name)
@@ -126,7 +209,7 @@ def process_name(name):
     except:
         print "Problem: " + name
         return name
-    
+'''    
 
 
 def determine_candidates(course_database, program ,semester ,completed):
@@ -176,6 +259,7 @@ def find_valid_combs(course_database, courses, semester): #possible optimization
     for co in courses:
 	cd = course_database[co][semester]
 	lectures = []
+	tutorials = [] # do we want this?
 	labs = []
 	for p in cd:
 	    t = p['Type']
@@ -187,10 +271,16 @@ def find_valid_combs(course_database, courses, semester): #possible optimization
 		p['Course'] = co
 		labs.append(p)
 		
+	    elif t == 'Tutorial':
+		p['Course'] = co
+		tutorials.append(p)
+		
 	if len(lectures) > 0:
 	    semester_components.append(lectures)
 	if len(labs) > 0:
 	    semester_components.append(labs)
+	if len(tutorials) > 0:
+	    semester_components.append(tutorials)
 	
     combs = []
     gen_combs( semester_components ,combs)
@@ -215,9 +305,12 @@ def gen_combs(components, combs ,prefix = []):
 	    prefix.pop()
 
 def test_schedule(combo):
+    
     sched = {'M':[],'T': [],'W':[],'R':[],'F':[] }
     for course in combo:
-	days = course['Days'].replace("TR", "R")
+	#print course['Days']
+	days = course['Days']#.replace("TR", "R")
+	#print days
 	time = convert_time(course['Time'])
 
 	for d in days:
@@ -266,10 +359,13 @@ def collision(time, t): #time[1] must be greater than or equal to t[0], if time[
 def load_test_graph():
     with open("../data/program_graph.txt") as f:
 	data = json.load(f)
-	return data['Major_Physiology_and_Mathematics_(77_credits)']
+	return data['Honours_Biology_(75_credits)']
 
 
+
+with open('../data/course_database.txt', 'r') as f:
+    course_database = json.load(f)
 g = load_test_graph()
-ps = gen_possible_schedules(g,'fall')
-optimize(ps[0],ps[1], ps[2], 'quality')
+ps = gen_possible_schedules(course_database, g,'fall')
+optimize(course_database, ps[0],ps[1], ps[2], 'quality')
 print found, not_found

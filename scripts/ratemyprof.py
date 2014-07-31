@@ -33,7 +33,7 @@ def scrape_rmp():
             hotness = r.find(class_="profHot").text
             
             for p in names:
-                teachers[p] = (link, dept, rating, diff, hotness)
+                teachers[p] = [link, dept, rating, diff, hotness]
             
         c = c + 1    
         html = requests.get("http://www.ratemyprofessors.com/SelectTeacher.jsp", params= {"sid": 1439, "pageNo": c} )

@@ -65,6 +65,7 @@ def add_data(location, semester ,course_timing, teacher_names={}):
 					section = data[3]
 					typeofclass = data[4]
 					status = data[16]
+					crn = data[0]
 					
 					instructors = [i for i in remove_accents(data[13]).split(',')]
 					
@@ -76,7 +77,9 @@ def add_data(location, semester ,course_timing, teacher_names={}):
 					
 					
 					if status == 'Active':# any other kinds?
+						
 						info = {
+							'Crn' : crn,
 							'Type':typeofclass, 
 							'Section': section,
 							"Days": days,
