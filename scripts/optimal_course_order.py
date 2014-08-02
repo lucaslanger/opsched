@@ -30,9 +30,9 @@ def gen_possible_schedules(database, program, semester, fload=5, wload=5): # sho
 		#kindof a recursive step, but since only 2 cases and need to track schedules, wrote it out again	
     
 		w_candidates = determine_candidates(course_database, program, 'winter' ,seen_courses)
-		print len(w_candidates)
+		#print len(w_candidates)
     
-		w_combs = list(itertools.combinations( w_candidates, load ) ) #min of the two, like with fall?
+		w_combs = list(itertools.combinations( w_candidates, wload ) ) #min of the two, like with fall?
 		for wc in w_combs:
 		    w_comb_dict[wc] = find_valid_combs( course_database, wc, 'winter' )
 		    if len( w_comb_dict[wc]) > 0:
@@ -94,7 +94,7 @@ def optimize(database,schedules, fcomb, wcomb, filt3r ):
     print optimal_score, low
     print get_vsb_url(database, optimal[0], 'fall')
     
-    #print optimal
+    print optimal
     return optimal, optimal_score	
 	
 def get_score(courses,ratings, filt3r):
@@ -113,11 +113,15 @@ def get_score(courses,ratings, filt3r):
 	for i in instructors:
     
 	    if re.findall('TBA', i) != None and ratings.has_key(i):
+		try:
 		#score = float(ratings[instructor][ filter_dict[filt3r] ])
-		score += float(ratings[i][2])
-		#data.append( (course, typ3, instructor, score) )
-		known_teachers += 1 
-	        found += 1
+		
+		    score += float(ratings[i][2])
+		    #data.append( (course, typ3, instructor, score) )
+		    known_teachers += 1 
+		    found += 1
+		except:
+		    pass
 	    else:
 	     
 	        not_found+=1
@@ -219,7 +223,7 @@ def determine_candidates(course_database, program ,semester ,completed):
 	for key in program:
 	    t = course_database[key].has_key(semester)
 	    
-	    if key not in completed and t:
+	    if key not in completed and t and re.findall('-[0-9]+',key)[0][1] != '1':
 		possible = True
 		for p in course_database[key]['prereq']:
 		    try:
@@ -231,7 +235,7 @@ def determine_candidates(course_database, program ,semester ,completed):
 		    except:
 			l = None
 			
-		    if pl != None and pl >= 2 and p not in completed: #ignores prereqs below 100 level
+		    if pl != None and pl >= 2 and p not in completed and p in program: #ignores prereqs below 100 level
 			possible = False
 			break
 		    
@@ -359,7 +363,7 @@ def collision(time, t): #time[1] must be greater than or equal to t[0], if time[
 def load_test_graph():
     with open("../data/program_graph.txt") as f:
 	data = json.load(f)
-	return data['Honours_Biology_(75_credits)']
+	return data['Major_Software_Engineering_(63_credits)']
 
 
 
