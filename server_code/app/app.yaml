@@ -15,11 +15,14 @@ handlers:
 - url: /static/images
   static_dir: static/images
 
+- url: /static/data
+  static_dir: static/data
+
 - url: /static
   static_dir: static
   application_readable: true
 
-- url: /index
+- url: /.*
   script: course_mate.course_mate.app
 
 libraries:

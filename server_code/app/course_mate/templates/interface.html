@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>interfacetest</title>
+	 <link href="http://visjs.org/dist/vis.css" rel="stylesheet" type="text/css" />
+	<script type="text/javascript" src="http://visjs.org/dist/vis.js"></script>
+</head>
+<body>
+	<div>
+		<h2>Fall:</h2>
+		{% for o in optimalfall %}
+			<div>{{o}}</div>
+		{% endfor %}
+		<a href="{{url}}" target="_blank">Click Here to see VSB schedule!</a>
+		<h2>Winter:</h2>
+		{% for o in optimalwinter %}
+			<div>{{o}}</div>
+		{% endfor %}
+	</div>
+
+	<div id="graph"></div>
+
+	<script type="text/javascript">
+
+	    var nodes = {{nodes|safe}};
+
+	  // create an array with edges
+	    var edges = {{edges|safe}};
+
+		var container = document.getElementById('graph');
+		var data = {
+    		nodes: nodes,
+    		edges: edges
+  		};
+		var options = {
+			nodes : {'radius': 50, 'shape':'dot'},
+			hierarchicalLayout: {
+				nodeSpacing: 100,
+      			direction: "UD"
+      		}
+		};
+		var network = new vis.Network(container, data, options);
+		
+	</script>
+	
+
+</body>
+</html>
