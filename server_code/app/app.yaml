@@ -6,11 +6,11 @@ threadsafe: true
 
 handlers:
 
-- url: /static/javascript
-  static_dir: static/javascript
+- url: /static/scripts
+  static_dir: static/scripts
 
-- url: /static/stylesheets
-  static_dir: static/stylesheets
+- url: /static/css
+  static_dir: static/css
 
 - url: /static/images
   static_dir: static/images

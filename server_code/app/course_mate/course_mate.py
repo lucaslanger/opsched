@@ -52,7 +52,7 @@ class Index(Handler):
 
     def render_front(self, ue='',pe='',ve='',ee='',iu=''):
         loggedout = not(self.isloggedIn())
-        self.my_render('index.html', loggedout=loggedout,
+        self.my_render('results.html', loggedout=loggedout,
                        major=program_titles, minor=program_titles, 
                        ue=ue, pe=pe, ve=ve, ee=ee,
                        iu=iu)

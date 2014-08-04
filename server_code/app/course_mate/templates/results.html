@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<head>
+	<title>Course Mate - Owned by Hans Weis, Uri Kaslov, and some indian guy</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link rel="stylesheet" href="static/css/bootstrap.min.css">
+
+	<!-- Optional theme -->
+	<link rel="stylesheet" href="static/css/bootstrap-theme.min.css">
+
+	<!-- Latest compiled and minified JavaScript -->
+	<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+	<script src="static/scripts/bootstrap.min.js"></script>
+
+	<script type="text/javascript">
+		$(document).ready(function(){
+    		$("#filter_menu").dropdown('toggle');
+    		//$("#filter_menu").dropdown('toggle');
+		});  
+	</script>
+
+	</head>
+</head>
+<body>
+	{% include 'header.html' %}
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<button class="dropdown">
+		          <a href="#" class="dropdown-toggle" data-toggle="dropdown" id="filter_menu">Completed Courses and Optimization Filters</a>
+		          <div class="dropdown-menu" role="menu">
+		          
+		         	<form method="post" accept-charset="UTF-8">
+							<h4>Completed Courses</h2>
+						    <label><input type="checkbox" value="">Introduction to Computer Science </label>
+						    <label><input type="checkbox" value="">Introduction to Computer Science </label>
+						    <label><input type="checkbox" value="">Introduction to Computer Science </label>
+						    <label><input type="checkbox" value="">Introduction to Computer Science </label>
+						    <label><input type="checkbox" value="">Introduction to Computer Science </label>
+				
+						 	<input type="submit" value="Update Changes">
+						 	<hr/>
+
+							<h4>Add new course to your degree</h2>
+							<input type="text" value="" placeholder="Start typing the name/code of the course">	
+							<input type="submit" value="Add">	
+							<hr/>
+
+							<h4>Category to Filter by:</h4>
+							<select>
+								<option>Quality</option>
+								<option>Easyness</option>
+								<option>Hotness (Not Recommended)</option>
+							</select>	
+							<input type="submit" value="Save Filter Setting">	
+					</form>
+					
+		          </div>
+		        </button>
+			</div>
+		</div>
+		<div class="row" style="margin-top:400px;">
+			<div class="col-md-12">
+				<ul class="list-inline">
+					<li>
+						<form>
+							<input type="submit" value="Change To Fall">	
+							<input type="submit" value="Changle To Winter">	
+						</form>
+					</li>
+					<li>Top Results</li>	
+					<li>
+						<form>
+							<input type="submit" value="Confirm Schedule">	
+						</form>
+					</li>
+				</ul>
+			     
+			</div>
+		<div>	
+
+		<div class="row">
+			<div class="col-md-6">
+				<h2>Proposed Schedule:</h2>
+				<table class="table table-bordered">
+				    <thead>
+				        <tr>
+				            <th>Class</th>
+				            <th>Teacher</th>
+				            <th>Quality</th>
+				            <th>Easyness</th>
+				            <th>Hotness</th>
+				        </tr>
+				    </thead>
+				    <tbody>
+				        <tr>
+				            <td>Introduction to Computer Science</td>
+				            <td>Michael Langer</td>
+				            <td>5.0</td>
+				            <td>5.0</td>
+				            <td>5.0</td>
+				        </tr>
+				        <tr>
+				            <td>Introduction to Computer Systems</td>
+				            <td>Greg Dudek</td>
+				            <td>5.0</td>
+				            <td>5.0</td>
+				            <td>5.0</td>
+				        </tr>
+				        <tr>
+				            <td>Introduction to Software Systems</td>
+				            <td>Joseph Vybial</td>
+				            <td>5.0</td>
+				            <td>5.0</td>
+				            <td>5.0</td>
+				        </tr>
+				    </tbody>
+				</table>
+			</div>
+			<div class="col-md-6">
+				<h2>Visualization:</h2>
+				<iframe src="http://www.w3schools.com"></iframe>
+			</div>
+		</div>	 
+
+			
+	</div>
+
+	{% include 'footer.html' %}
+
+</body>
+</html>
