@@ -33,10 +33,8 @@ class Handler(webapp2.RequestHandler):
         user_id_str = self.request.cookies.get('user_id')
         if user_id_str and check_secure_val(user_id_str):
             #return Users.get_by_id(int(user_id_str.split('|')[0]) ).username
-            print True
             return True
         else:
-            print False
             return False
 
     def write(self, *a, **kw ):
@@ -52,25 +50,18 @@ class Handler(webapp2.RequestHandler):
 
 class Index(Handler):
 
-    def render_front(self, p = program_titles, error=''):
+    def render_front(self, ue='',pe='',ve='',ee='',iu=''):
         loggedout = not(self.isloggedIn())
-        self.my_render('index.html', loggedout=loggedout, maj=p, minor=p, error=error )
-    
-    def render_login_error(self, ue, pe):
-        pass
-        
-    def render_signup_error(self, ue, pe, ve, ee):
-        self.my_render('index.html', ue=ue, pe=pe, ve=ve, ee=ee)
-        
+        self.my_render('index.html', loggedout=loggedout,
+                       major=program_titles, minor=program_titles, 
+                       ue=ue, pe=pe, ve=ve, ee=ee,
+                       iu=iu)
+
     def p_schedule(self):
         major = self.request.get('major')
         minor = self.request.get('minor')
         minor2 = self.request.get('minor2')
-
         faculty = self.request.get('faculty')
-
-        #self.render_front(error = "At the very minimum select a Major!")
-        #self.render_front(welcome="Welcome to our wonderful service " + username + "!")
         self.redirect('/interface?major=' + major)
         
     def p_signup(self):
@@ -93,13 +84,38 @@ class Index(Handler):
             
         else:
             ue,pe,ve,ee = "Sorry, that username is taken!" if usrn_taken(d_username,usernames) else "Invalid Username" ,"Invalid Password","Passwords Don't Match","Invalid Email"
-            self.render_signup_error(ue if not(v_u(d_username,usernames)) else "",  pe if not(v_pw(d_password)) else "",  ve if not(v_vpw(verify,d_password)) else "",  ee if not(v_em(d_email)) else "")
+            invalid_user = v_u(d_username,usernames)
+            invalid_password = v_pw(d_password)
+            invalid_verification = v_vpw(verify,d_password)
+            invalid_email = v_em(d_email)
+            self.render_front(  ue if invalid_user else "",
+                                pe if invalid_password else "",
+                                ve if invalid_verification else "",
+                                ee if invalid_email else ""
+                                )
         
     def p_login(self):
         username = self.request.get('username')
         password = self.request.get('password')
         
-        exists = db.GqlQuery("Select %s FROM Users" % username)
+        q = db.GqlQuery("Select * FROM Users WHERE username=:u",u=username)
+        username_exists = False if q.count() == 0 else True
+        
+        if username_exists:
+            u = q.fetch(1)[0]
+            pw_hash = u.password_hash
+            if valid_pw(username, password, pw_hash):
+                self.response.headers['Content-Type'] = 'text/plain'
+                self.response.headers.add_header('Set-Cookie', 'user_id=%s;Path=/' % make_secure_val(str(int(u.key().id() ) ) ) )
+                self.response.headers['Content-Type'] = 'text/html'
+                time.sleep(1)
+                self.render_front()
+            
+            else:
+                self.render_front(iu="Invalid Password")
+                
+        else:
+            self.render_front(iu="Invalid Username")
         
     def p_logout(self):
         self.response.headers['Content-Type'] = 'text/plain'

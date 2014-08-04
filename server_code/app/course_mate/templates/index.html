@@ -13,7 +13,7 @@
 		</select>
 
 		<select name="major">
-		{% for p in maj %}
+		{% for p in major %}
 			<option value="{{p}}">{{p}}</option>
 		
 		{% endfor %}
@@ -25,8 +25,6 @@
 		<option value="fiat">Fiat</option>
 		<option value="audi">Audi</option>
 		</select>
-
-		<span>{{error}}</span>
 
 		<input type="submit" name="get_schedule">
 	</form>
@@ -45,6 +43,7 @@
 		<input type="password" name="password" placeholder="Password"></input>
 		<input type="submit" name="login" value="Login"></input>
 		</form>
+		<span>{{iu}}</span>
 
 	{% else %}
 		<span>Welcome to the wonderful of Oz.</span>
