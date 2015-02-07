@@ -1,0 +1,772 @@
+Anaesthesia
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+13131,ANAE,301,001,Field Course (GDEU),2.000,"Anesthesia - Transition to Clinical Practice.",TBA,TBA,235,0,0,0,TBA,12/29-05/03,TBA,Active
+Elective
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+13680,ELEC,400,001,Field Course (GDEU),4.000,"Elective 1 - Clerkships.",TBA,TBA,0,0,0,0,TBA,11/17-03/08,TBA,Active
+13610,ELEC,403,001,Field Course (GDEU),3.000,"Elective 3 - Senior Clerkships.",TBA,TBA,200,0,0,0,TBA,11/17-04/26,TBA,Active
+13613,ELEC,404,001,Field Course (GDEU),3.000,"Elective 4 - Senior Clerkships.",TBA,TBA,200,0,0,0,TBA,11/17-04/26,TBA,Active
+13614,ELEC,405,001,Field Course (GDEU),3.000,"Elective 5 - Senior Clerkships.",TBA,TBA,200,0,0,0,TBA,11/17-04/26,TBA,Active
+Epidemiology & Biostatistics
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+12499,EPIB,501,001,Lecture,3.000,"Population Health and Epidemiology.",TW,03:35 PM-04:55 PM,25,0,0,0,"Jean-Francois  Boivin",01/05-04/14,TBA,Active
+7312,EPIB,527,001,Lecture,3.000,"Economics for Health Services Research and Policy.",TR,11:35 AM-12:55 PM,15,0,0,0,"Erin C Strumpf",01/05-04/14,PURVIS 25,Active
+14689,EPIB,529,001,Lecture,3.000,"Global Environmental Health and Burden of Disease.",MW,11:35 AM-12:55 PM,25,0,0,0,"Jill  Baumgartner",01/05-04/14,PURVIS 25,Active
+13732,EPIB,591,001,Lecture,3.000,"Special Topics in Epidemiology.",TR,02:35 PM-03:55 PM,25,0,0,0,"Antonio  Ciampi",01/05-04/14,PURVIS 25,Active
+External
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+2339,EXTL,EXMD,015,Exchange Term Away,0.000,"Exchange Term away-Medicine",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2468,EXTL,IUMD,001,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2469,EXTL,IUMD,002,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2470,EXTL,IUMD,003,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2471,EXTL,IUMD,004,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2472,EXTL,IUMD,005,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2473,EXTL,IUMD,006,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2474,EXTL,IUMD,007,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2475,EXTL,IUMD,008,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2476,EXTL,IUMD,009,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2477,EXTL,IUMD,010,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2478,EXTL,IUMD,011,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2479,EXTL,IUMD,012,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2353,EXTL,LAMD,001,Leave of Absence,0.000,"Leave of Absence-Medicine",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2324,EXTL,TAMD,001,Term Away,0.000,"Term Away-Medicine",TBA,TBA,999,0,0,0,TBA,01/05-04/14,TBA,Active
+Family Medicine
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+13129,FMED,301,001,Field Course (GDEU),3.000,"Family Medicine - Transition to Clinical Practice.",,TBA,235,0,0,0,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+1808,FMED,402,001,Field Course (GDEU),4.000,"Family Medicine - Clerkships.",TBA,TBA,200,0,0,0,TBA,01/05-04/14,TBA,Active
+13681,FMED,405,001,Field Course (GDEU),8.000,"Family Medicine - Core Clerkships.",TBA,TBA,235,0,0,0,TBA,11/17-03/08,TBA,Active
+12182,FMED,503,001,Lecture,1.000,"Survey Research Methods in Primary Care.",,TBA,20,0,0,0,"Jean Lois  Haggerty",01/05-04/14,TBA,Temporarily closed
+13643,FMED,504D2,001,Seminar,0.500,"Family Medicine Research Seminars.",R,12:05 PM-01:25 PM,20,0,0,0,"Jonathan  Salsberg, Neil  Andersson, Gillian  Bartlett-Esquilant",01/05-04/14,000254 04,Active
+Internal Medicine
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+13677,IMED,301,001,Field Course (GDEU),6.000,"Internal Medicine - Transition to Clinical Practice.",TBA,TBA,235,0,0,0,TBA,12/29-05/03,TBA,Active
+13682,IMED,401,001,Field Course (GDEU),8.000,"Medicine - Clerkships.",TBA,TBA,235,0,0,0,TBA,11/17-03/08,TBA,Active
+13128,IMED,406,001,Field Course (GDEU),4.000,"Geriatric Medicine - Senior Clerkships.",,TBA,235,0,0,0,TBA,11/17-04/26,TBA,Active
+,,,,,,,F,02:35 PM-04:25 PM,,,,,TBA,12/12-12/12,MCMED 409,Active
+,,,,,,,F,02:35 PM-04:25 PM,,,,,TBA,01/09-01/09,MCMED 409,Active
+,,,,,,,F,02:05 PM-04:25 PM,,,,,TBA,02/06-02/06,MCMED 409,Active
+,,,,,,,F,02:05 PM-04:25 PM,,,,,TBA,03/06-03/06,MCMED 409,Active
+,,,,,,,R,02:35 PM-04:25 PM,,,,,TBA,04/02-04/02,MCMED 409,Active
+Interdisciplinary Studies
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+13675,INDS,114,001,Lecture,8.000,"Digestion and Metabolism.",,TBA,240,0,0,0,TBA,12/16-03/16,TBA,Active
+,,,,,,,M,08:35 AM-09:25 AM,,,,,TBA,01/05-01/05,MCMED 504,Active
+,,,,,,,M,09:35 AM-10:25 AM,,,,,TBA,01/05-01/05,MCMED 504,Active
+,,,,,,,M,10:35 AM-11:25 AM,,,,,TBA,01/05-01/05,MCMED 504,Active
+,,,,,,,T,08:35 AM-09:25 AM,,,,,TBA,01/06-01/06,MCMED 504,Active
+,,,,,,,T,09:35 AM-10:25 AM,,,,,TBA,01/06-01/06,MCMED 504,Active
+,,,,,,,T,10:35 AM-11:25 AM,,,,,TBA,01/06-01/06,MCMED 504,Active
+,,,,,,,W,08:35 AM-09:25 AM,,,,,TBA,01/07-01/07,MCMED 504,Active
+,,,,,,,W,09:35 AM-10:25 AM,,,,,TBA,01/07-01/07,MCMED 504,Active
+,,,,,,,W,10:35 AM-11:25 AM,,,,,TBA,01/07-01/07,MCMED 504,Active
+,,,,,,,R,08:35 AM-09:25 AM,,,,,TBA,01/08-01/08,MCMED 504,Active
+,,,,,,,R,09:35 AM-10:25 AM,,,,,TBA,01/08-01/08,MCMED 504,Active
+,,,,,,,R,10:35 AM-11:25 AM,,,,,TBA,01/08-01/08,MCMED 504,Active
+,,,,,,,F,08:35 AM-09:25 AM,,,,,TBA,01/09-01/09,MCMED 504,Active
+,,,,,,,F,09:35 AM-10:25 AM,,,,,TBA,01/09-01/09,MCMED 504,Active
+,,,,,,,F,10:35 AM-11:25 AM,,,,,TBA,01/09-01/09,MCMED 504,Active
+,,,,,,,M,08:35 AM-09:25 AM,,,,,TBA,01/12-01/12,MCMED 504,Active
+,,,,,,,M,09:35 AM-11:25 AM,,,,,TBA,01/12-01/12,MCMED 504,Active
+,,,,,,,T,08:35 AM-09:25 AM,,,,,TBA,01/13-01/13,MCMED 504,Active
+,,,,,,,T,09:35 AM-10:25 AM,,,,,TBA,01/13-01/13,MCMED 504,Active
+,,,,,,,T,10:35 AM-11:25 AM,,,,,TBA,01/13-01/13,MCMED 504,Active
+,,,,,,,W,08:35 AM-09:25 AM,,,,,TBA,01/14-01/14,MCMED 504,Active
+,,,,,,,W,09:35 AM-10:25 AM,,,,,TBA,01/14-01/14,MCMED 504,Active
+,,,,,,,W,10:35 AM-11:25 AM,,,,,TBA,01/14-01/14,MCMED 504,Active
+,,,,,,,R,08:35 AM-09:25 AM,,,,,TBA,01/15-01/15,MCMED 504,Active
+,,,,,,,R,09:35 AM-10:25 AM,,,,,TBA,01/15-01/15,MCMED 504,Active
+,,,,,,,R,10:35 AM-11:25 AM,,,,,TBA,01/15-01/15,MCMED 504,Active
+,,,,,,,F,10:35 AM-11:25 AM,,,,,TBA,01/16-01/16,MCMED 504,Active
+,,,,,,,M,08:35 AM-09:25 AM,,,,,TBA,01/19-01/19,MCMED 504,Active
+,,,,,,,M,09:35 AM-10:25 AM,,,,,TBA,01/19-01/19,MCMED 504,Active
+,,,,,,,M,10:35 AM-11:25 AM,,,,,TBA,01/19-01/19,MCMED 504,Active
+,,,,,,,T,08:35 AM-09:25 AM,,,,,TBA,01/20-01/20,MCMED 504,Active
+,,,,,,,T,09:35 AM-10:25 AM,,,,,TBA,01/20-01/20,MCMED 504,Active
+,,,,,,,T,10:35 AM-11:25 AM,,,,,TBA,01/20-01/20,MCMED 504,Active
+,,,,,,,W,08:35 AM-10:25 AM,,,,,TBA,01/21-01/21,MCMED 504,Active
+,,,,,,,W,10:35 AM-11:25 AM,,,,,TBA,01/21-01/21,MCMED 504,Active
+,,,,,,,R,08:35 AM-10:25 AM,,,,,TBA,01/22-01/22,MCMED 504,Active
+,,,,,,,R,10:35 AM-11:25 AM,,,,,TBA,01/22-01/22,MCMED 504,Active
+,,,,,,,F,10:35 AM-11:25 AM,,,,,TBA,01/23-01/23,MCMED 504,Active
+,,,,,,,M,10:35 AM-11:25 AM,,,,,TBA,01/26-01/26,MCMED 504,Active
+,,,,,,,M,04:35 PM-05:25 PM,,,,,TBA,01/26-01/26,MCMED 504,Active
+,,,,,,,T,08:35 AM-09:55 AM,,,,,TBA,01/27-01/27,MCMED 504,Active
+,,,,,,,T,10:05 AM-11:25 AM,,,,,TBA,01/27-01/27,MCMED 504,Active
+,,,,,,,W,08:35 AM-09:25 AM,,,,,TBA,01/28-01/28,MCMED 504,Active
+,,,,,,,W,10:35 AM-11:25 AM,,,,,TBA,01/28-01/28,MCMED 504,Active
+,,,,,,,R,08:35 AM-10:25 AM,,,,,TBA,01/29-01/29,MCMED 504,Active
+,,,,,,,R,10:35 AM-11:25 AM,,,,,TBA,01/29-01/29,MCMED 504,Active
+,,,,,,,F,08:35 AM-09:25 AM,,,,,TBA,01/30-01/30,MCMED 504,Active
+,,,,,,,F,09:35 AM-10:25 AM,,,,,TBA,01/30-01/30,MCMED 504,Active
+,,,,,,,F,10:35 AM-11:25 AM,,,,,TBA,01/30-01/30,MCMED 504,Active
+,,,,,,,M,08:35 AM-09:25 AM,,,,,TBA,02/02-02/02,MCMED 504,Active
+,,,,,,,M,09:35 AM-10:25 AM,,,,,TBA,02/02-02/02,MCMED 504,Active
+,,,,,,,M,10:35 AM-11:25 AM,,,,,TBA,02/02-02/02,MCMED 504,Active
+,,,,,,,T,08:35 AM-09:25 AM,,,,,TBA,02/03-02/03,MCMED 504,Active
+,,,,,,,T,09:35 AM-10:25 AM,,,,,TBA,02/03-02/03,MCMED 504,Active
+,,,,,,,T,10:35 AM-11:35 AM,,,,,TBA,02/03-02/03,MCMED 504,Active
+,,,,,,,W,08:35 AM-09:25 AM,,,,,TBA,02/04-02/04,MCMED 504,Active
+,,,,,,,W,09:35 AM-10:25 AM,,,,,TBA,02/04-02/04,MCMED 504,Active
+,,,,,,,W,10:35 AM-11:25 AM,,,,,TBA,02/04-02/04,MCMED 504,Active
+13701,INDS,114,002,Small Group Teaching,0.000,"Digestion and Metabolism.",,TBA,240,0,0,0,TBA,12/16-03/16,TBA,Registration Not Required
+,,,,,,,T,12:35 PM-03:25 PM,,,,,TBA,01/13-01/13,MCMED 220,Registration Not Required
+,,,,,,,T,12:35 PM-03:25 PM,,,,,TBA,01/13-01/13,MCMED 201,Registration Not Required
+,,,,,,,T,12:35 PM-03:25 PM,,,,,TBA,01/13-01/13,MCMED 202,Registration Not Required
+,,,,,,,T,12:35 PM-03:25 PM,,,,,TBA,01/13-01/13,MCMED 203,Registration Not Required
+,,,,,,,T,12:35 PM-03:25 PM,,,,,TBA,01/13-01/13,MCMED 204,Registration Not Required
+,,,,,,,T,12:35 PM-03:25 PM,,,,,TBA,01/13-01/13,MCMED 205,Registration Not Required
+,,,,,,,W,12:35 PM-03:25 PM,,,,,TBA,01/14-01/14,MCMED 210/11,Registration Not Required
+,,,,,,,W,12:35 PM-03:25 PM,,,,,TBA,01/14-01/14,MCMED 205,Registration Not Required
+,,,,,,,W,12:35 PM-03:25 PM,,,,,TBA,01/14-01/14,MCMED 204,Registration Not Required
+,,,,,,,W,12:35 PM-03:25 PM,,,,,TBA,01/14-01/14,MCMED 203,Registration Not Required
+,,,,,,,W,12:35 PM-03:25 PM,,,,,TBA,01/14-01/14,MCMED 202,Registration Not Required
+,,,,,,,W,12:35 PM-03:25 PM,,,,,TBA,01/14-01/14,MCMED 201,Registration Not Required
+,,,,,,,W,12:35 PM-03:25 PM,,,,,TBA,01/14-01/14,MCMED 221,Registration Not Required
+,,,,,,,W,12:35 PM-03:25 PM,,,,,TBA,01/14-01/14,MCMED 220,Registration Not Required
+,,,,,,,F,08:35 AM-10:15 AM,,,,,TBA,01/16-01/16,MCMED 203,Registration Not Required
+,,,,,,,F,08:35 AM-10:15 AM,,,,,TBA,01/16-01/16,MCMED 202,Registration Not Required
+,,,,,,,F,08:35 AM-10:15 AM,,,,,TBA,01/16-01/16,MCMED 201,Registration Not Required
+,,,,,,,F,08:35 AM-10:15 AM,,,,,TBA,01/16-01/16,MCMED 204,Registration Not Required
+,,,,,,,F,08:35 AM-10:15 AM,,,,,TBA,01/16-01/16,MCMED 205,Registration Not Required
+,,,,,,,F,08:35 AM-10:15 AM,,,,,TBA,01/16-01/16,MCMED 220,Registration Not Required
+,,,,,,,F,08:35 AM-10:15 AM,,,,,TBA,01/16-01/16,MCMED 221,Registration Not Required
+,,,,,,,F,08:35 AM-10:15 AM,,,,,TBA,01/16-01/16,MCMED 210/11,Registration Not Required
+,,,,,,,F,08:35 AM-10:15 AM,,,,,TBA,01/16-01/16,MCMED 208/9,Registration Not Required
+,,,,,,,F,12:35 PM-03:25 PM,,,,,TBA,01/16-01/16,MCMED 201,Registration Not Required
+,,,,,,,F,12:35 PM-03:25 PM,,,,,TBA,01/16-01/16,MCMED 220,Registration Not Required
+,,,,,,,F,12:35 PM-03:25 PM,,,,,TBA,01/16-01/16,MCMED 205,Registration Not Required
+,,,,,,,F,12:35 PM-03:25 PM,,,,,TBA,01/16-01/16,MCMED 204,Registration Not Required
+,,,,,,,F,12:35 PM-03:25 PM,,,,,TBA,01/16-01/16,MCMED 203,Registration Not Required
+,,,,,,,F,12:35 PM-03:25 PM,,,,,TBA,01/16-01/16,MCMED 202,Registration Not Required
+,,,,,,,M,12:35 PM-03:25 PM,,,,,TBA,01/19-01/19,MCMED 201,Registration Not Required
+,,,,,,,M,12:35 PM-03:25 PM,,,,,TBA,01/19-01/19,MCMED 202,Registration Not Required
+,,,,,,,M,12:35 PM-03:25 PM,,,,,TBA,01/19-01/19,MCMED 220,Registration Not Required
+,,,,,,,M,12:35 PM-03:25 PM,,,,,TBA,01/19-01/19,MCMED 204,Registration Not Required
+,,,,,,,M,12:35 PM-03:25 PM,,,,,TBA,01/19-01/19,MCMED 205,Registration Not Required
+,,,,,,,M,12:35 PM-03:25 PM,,,,,TBA,01/19-01/19,MCMED 203,Registration Not Required
+,,,,,,,T,12:35 PM-03:25 PM,,,,,TBA,01/20-01/20,MCMED 201,Registration Not Required
+,,,,,,,T,12:35 PM-03:25 PM,,,,,TBA,01/20-01/20,MCMED 203,Registration Not Required
+,,,,,,,T,12:35 PM-03:25 PM,,,,,TBA,01/20-01/20,MCMED 202,Registration Not Required
+,,,,,,,W,12:35 PM-03:25 PM,,,,,TBA,01/21-01/21,MCMED 203,Registration Not Required
+,,,,,,,W,12:35 PM-03:25 PM,,,,,TBA,01/21-01/21,MCMED 202,Registration Not Required
+,,,,,,,W,12:35 PM-03:25 PM,,,,,TBA,01/21-01/21,MCMED 201,Registration Not Required
+,,,,,,,W,12:35 PM-03:25 PM,,,,,TBA,01/21-01/21,MCMED 221,Registration Not Required
+,,,,,,,W,12:35 PM-03:25 PM,,,,,TBA,01/21-01/21,MCMED 205,Registration Not Required
+,,,,,,,W,12:35 PM-03:25 PM,,,,,TBA,01/21-01/21,MCMED 210/11,Registration Not Required
+,,,,,,,W,12:35 PM-03:25 PM,,,,,TBA,01/21-01/21,MCMED 220,Registration Not Required
+,,,,,,,W,12:35 PM-03:25 PM,,,,,TBA,01/21-01/21,MCMED 204,Registration Not Required
+,,,,,,,R,12:35 PM-03:25 PM,,,,,TBA,01/22-01/22,MCMED 201,Registration Not Required
+,,,,,,,R,12:35 PM-03:25 PM,,,,,TBA,01/22-01/22,MCMED 202,Registration Not Required
+,,,,,,,R,12:35 PM-03:25 PM,,,,,TBA,01/22-01/22,MCMED 220,Registration Not Required
+,,,,,,,R,12:35 PM-03:25 PM,,,,,TBA,01/22-01/22,MCMED 204,Registration Not Required
+,,,,,,,R,12:35 PM-03:25 PM,,,,,TBA,01/22-01/22,MCMED 205,Registration Not Required
+,,,,,,,R,12:35 PM-03:25 PM,,,,,TBA,01/22-01/22,MCMED 203,Registration Not Required
+,,,,,,,F,08:35 AM-10:15 AM,,,,,TBA,01/23-01/23,MCMED 201,Registration Not Required
+,,,,,,,F,08:35 AM-10:15 AM,,,,,TBA,01/23-01/23,MCMED 202,Registration Not Required
+,,,,,,,F,08:35 AM-10:15 AM,,,,,TBA,01/23-01/23,MCMED 204,Registration Not Required
+,,,,,,,F,08:35 AM-10:15 AM,,,,,TBA,01/23-01/23,MCMED 205,Registration Not Required
+,,,,,,,F,08:35 AM-10:15 AM,,,,,TBA,01/23-01/23,MCMED 203,Registration Not Required
+,,,,,,,F,08:35 AM-10:15 AM,,,,,TBA,01/23-01/23,MCMED 221,Registration Not Required
+,,,,,,,F,08:35 AM-10:15 AM,,,,,TBA,01/23-01/23,MCMED 210/11,Registration Not Required
+,,,,,,,F,08:35 AM-10:15 AM,,,,,TBA,01/23-01/23,MCMED 208/9,Registration Not Required
+,,,,,,,F,08:35 AM-10:15 AM,,,,,TBA,01/23-01/23,MCMED 220,Registration Not Required
+,,,,,,,M,12:35 PM-03:25 PM,,,,,TBA,01/26-01/26,MCMED 201,Registration Not Required
+,,,,,,,M,12:35 PM-03:25 PM,,,,,TBA,01/26-01/26,MCMED 203,Registration Not Required
+,,,,,,,M,12:35 PM-03:25 PM,,,,,TBA,01/26-01/26,MCMED 202,Registration Not Required
+,,,,,,,T,12:35 PM-03:25 PM,,,,,TBA,01/27-01/27,MCMED 203,Registration Not Required
+,,,,,,,T,12:35 PM-03:25 PM,,,,,TBA,01/27-01/27,MCMED 202,Registration Not Required
+,,,,,,,T,12:35 PM-03:25 PM,,,,,TBA,01/27-01/27,MCMED 220,Registration Not Required
+,,,,,,,T,12:35 PM-03:25 PM,,,,,TBA,01/27-01/27,MCMED 204,Registration Not Required
+,,,,,,,T,12:35 PM-03:25 PM,,,,,TBA,01/27-01/27,MCMED 205,Registration Not Required
+,,,,,,,T,12:35 PM-03:25 PM,,,,,TBA,01/27-01/27,MCMED 201,Registration Not Required
+,,,,,,,W,12:35 PM-03:25 PM,,,,,TBA,01/28-01/28,MCMED 220,Registration Not Required
+,,,,,,,W,12:35 PM-03:25 PM,,,,,TBA,01/28-01/28,MCMED 221,Registration Not Required
+,,,,,,,W,12:35 PM-03:25 PM,,,,,TBA,01/28-01/28,MCMED 210/11,Registration Not Required
+,,,,,,,W,12:35 PM-03:25 PM,,,,,TBA,01/28-01/28,MCMED 201,Registration Not Required
+,,,,,,,W,12:35 PM-03:25 PM,,,,,TBA,01/28-01/28,MCMED 208/9,Registration Not Required
+,,,,,,,W,12:35 PM-03:25 PM,,,,,TBA,01/28-01/28,MCMED 203,Registration Not Required
+,,,,,,,W,12:35 PM-03:25 PM,,,,,TBA,01/28-01/28,MCMED 204,Registration Not Required
+,,,,,,,W,12:35 PM-03:25 PM,,,,,TBA,01/28-01/28,MCMED 205,Registration Not Required
+,,,,,,,W,12:35 PM-03:25 PM,,,,,TBA,01/28-01/28,MCMED 202,Registration Not Required
+,,,,,,,R,12:35 PM-03:25 PM,,,,,TBA,01/29-01/29,MCMED 208/9,Registration Not Required
+,,,,,,,R,12:35 PM-03:25 PM,,,,,TBA,01/29-01/29,MCMED 210/11,Registration Not Required
+,,,,,,,R,12:35 PM-03:25 PM,,,,,TBA,01/29-01/29,MCMED 201,Registration Not Required
+,,,,,,,R,12:35 PM-03:25 PM,,,,,TBA,01/29-01/29,MCMED 202,Registration Not Required
+,,,,,,,R,12:35 PM-03:25 PM,,,,,TBA,01/29-01/29,MCMED 221,Registration Not Required
+,,,,,,,R,12:35 PM-03:25 PM,,,,,TBA,01/29-01/29,MCMED 204,Registration Not Required
+,,,,,,,R,12:35 PM-03:25 PM,,,,,TBA,01/29-01/29,MCMED 205,Registration Not Required
+,,,,,,,R,12:35 PM-03:25 PM,,,,,TBA,01/29-01/29,MCMED 220,Registration Not Required
+,,,,,,,R,12:35 PM-03:25 PM,,,,,TBA,01/29-01/29,MCMED 203,Registration Not Required
+,,,,,,,F,12:35 PM-03:25 PM,,,,,TBA,01/30-01/30,MCMED 221,Registration Not Required
+,,,,,,,F,12:35 PM-03:25 PM,,,,,TBA,01/30-01/30,MCMED 220,Registration Not Required
+,,,,,,,F,12:35 PM-03:25 PM,,,,,TBA,01/30-01/30,MCMED 210/11,Registration Not Required
+,,,,,,,F,12:35 PM-03:25 PM,,,,,TBA,01/30-01/30,MCMED 208/9,Registration Not Required
+,,,,,,,F,12:35 PM-03:25 PM,,,,,TBA,01/30-01/30,MCMED 205,Registration Not Required
+,,,,,,,F,12:35 PM-03:25 PM,,,,,TBA,01/30-01/30,MCMED 202,Registration Not Required
+,,,,,,,F,12:35 PM-03:25 PM,,,,,TBA,01/30-01/30,MCMED 203,Registration Not Required
+,,,,,,,F,12:35 PM-03:25 PM,,,,,TBA,01/30-01/30,MCMED 204,Registration Not Required
+,,,,,,,F,12:35 PM-03:25 PM,,,,,TBA,01/30-01/30,MCMED 201,Registration Not Required
+,,,,,,,M,01:05 PM-03:25 PM,,,,,TBA,02/02-02/02,MCMED 202,Registration Not Required
+,,,,,,,M,01:05 PM-03:25 PM,,,,,TBA,02/02-02/02,MCMED 203,Registration Not Required
+,,,,,,,M,01:05 PM-03:25 PM,,,,,TBA,02/02-02/02,MCMED 204,Registration Not Required
+,,,,,,,M,01:05 PM-03:25 PM,,,,,TBA,02/02-02/02,MCMED 201,Registration Not Required
+,,,,,,,M,01:05 PM-03:25 PM,,,,,TBA,02/02-02/02,MCMED 210/11,Registration Not Required
+,,,,,,,M,01:05 PM-03:25 PM,,,,,TBA,02/02-02/02,MCMED 220,Registration Not Required
+,,,,,,,M,01:05 PM-03:25 PM,,,,,TBA,02/02-02/02,MCMED 221,Registration Not Required
+,,,,,,,T,12:35 PM-03:25 PM,,,,,TBA,02/03-02/03,MCMED 205,Registration Not Required
+,,,,,,,T,12:35 PM-03:25 PM,,,,,TBA,02/03-02/03,MCMED 204,Registration Not Required
+,,,,,,,T,12:35 PM-03:25 PM,,,,,TBA,02/03-02/03,MCMED 203,Registration Not Required
+,,,,,,,T,12:35 PM-03:25 PM,,,,,TBA,02/03-02/03,MCMED 202,Registration Not Required
+,,,,,,,T,12:35 PM-03:25 PM,,,,,TBA,02/03-02/03,MCMED 201,Registration Not Required
+,,,,,,,T,12:35 PM-03:25 PM,,,,,TBA,02/03-02/03,MCMED 210/11,Registration Not Required
+,,,,,,,T,12:35 PM-03:25 PM,,,,,TBA,02/03-02/03,MCMED 221,Registration Not Required
+,,,,,,,T,12:35 PM-03:25 PM,,,,,TBA,02/03-02/03,MCMED 220,Registration Not Required
+,,,,,,,W,12:35 PM-03:25 PM,,,,,TBA,02/04-02/04,MCMED 210/11,Registration Not Required
+,,,,,,,W,12:35 PM-03:25 PM,,,,,TBA,02/04-02/04,MCMED 221,Registration Not Required
+,,,,,,,W,12:35 PM-03:25 PM,,,,,TBA,02/04-02/04,MCMED 208/9,Registration Not Required
+,,,,,,,W,01:05 PM-03:25 PM,,,,,TBA,02/04-02/04,MCMED 204,Registration Not Required
+,,,,,,,W,01:05 PM-03:25 PM,,,,,TBA,02/04-02/04,MCMED 205,Registration Not Required
+,,,,,,,W,01:05 PM-03:25 PM,,,,,TBA,02/04-02/04,MCMED 203,Registration Not Required
+,,,,,,,W,01:05 PM-03:25 PM,,,,,TBA,02/04-02/04,MCMED 201,Registration Not Required
+,,,,,,,W,01:05 PM-03:25 PM,,,,,TBA,02/04-02/04,MCMED 220,Registration Not Required
+,,,,,,,W,01:05 PM-03:25 PM,,,,,TBA,02/04-02/04,MCMED 202,Registration Not Required
+13700,INDS,114,003,Laboratory,0.000,"Digestion and Metabolism.",,12:35 PM-03:25 PM,240,0,0,0,TBA,12/16-03/16,TBA,Registration Not Required
+,,,,,,,M,12:35 PM-03:25 PM,,,,,TBA,01/05-01/05,SADB 2/49,Registration Not Required
+,,,,,,,T,12:35 PM-03:25 PM,,,,,TBA,01/06-01/06,SADB 2/49,Registration Not Required
+,,,,,,,W,12:35 PM-03:25 PM,,,,,TBA,01/07-01/07,SADB 1/56,Registration Not Required
+,,,,,,,R,12:35 PM-03:25 PM,,,,,TBA,01/08-01/08,SADB 1/56,Registration Not Required
+,,,,,,,R,12:35 PM-03:25 PM,,,,,TBA,01/08-01/08,SADB 2/49,Registration Not Required
+,,,,,,,F,12:35 PM-03:25 PM,,,,,TBA,01/09-01/09,SADB 2/49,Registration Not Required
+,,,,,,,T,12:35 PM-03:25 PM,,,,,TBA,01/13-01/13,SADB 2/49,Registration Not Required
+,,,,,,,R,12:35 PM-03:25 PM,,,,,TBA,01/15-01/15,SADB 2/49,Registration Not Required
+,,,,,,,R,12:35 PM-03:25 PM,,,,,TBA,01/22-01/22,SADB 1/56,Registration Not Required
+,,,,,,,F,12:35 PM-03:25 PM,,,,,TBA,01/23-01/23,SADB 1/56,Registration Not Required
+13654,INDS,115,001,Lecture,6.000,"Renal.",,TBA,240,0,0,0,TBA,12/16-03/16,TBA,Active
+,,,,,,,M,08:35 AM-09:25 AM,,,,,TBA,02/09-02/09,SADB M-1,Active
+,,,,,,,M,09:35 AM-10:25 AM,,,,,TBA,02/09-02/09,SADB M-1,Active
+,,,,,,,M,10:35 AM-11:25 AM,,,,,TBA,02/09-02/09,SADB M-1,Active
+,,,,,,,T,08:35 AM-09:25 AM,,,,,TBA,02/10-02/10,MCMED 504,Active
+,,,,,,,T,09:35 AM-10:25 AM,,,,,TBA,02/10-02/10,MCMED 504,Active
+,,,,,,,T,10:35 AM-11:25 AM,,,,,TBA,02/10-02/10,MCMED 504,Active
+,,,,,,,W,10:35 AM-11:25 AM,,,,,TBA,02/11-02/11,MCMED 504,Active
+,,,,,,,R,08:35 AM-10:25 AM,,,,,TBA,02/12-02/12,MCMED 504,Active
+,,,,,,,R,10:35 AM-11:35 AM,,,,,TBA,02/12-02/12,MCMED 504,Active
+,,,,,,,F,10:35 AM-11:35 AM,,,,,TBA,02/13-02/13,MCMED 504,Active
+,,,,,,,M,08:35 AM-09:25 AM,,,,,TBA,02/16-02/16,SADB M-1,Active
+,,,,,,,M,09:35 AM-10:25 AM,,,,,TBA,02/16-02/16,SADB M-1,Active
+,,,,,,,M,10:35 AM-11:25 AM,,,,,TBA,02/16-02/16,SADB M-1,Active
+,,,,,,,T,08:35 AM-09:25 AM,,,,,TBA,02/17-02/17,MCMED 504,Active
+,,,,,,,T,09:35 AM-10:25 AM,,,,,TBA,02/17-02/17,MCMED 504,Active
+,,,,,,,T,10:35 AM-11:25 AM,,,,,TBA,02/17-02/17,MCMED 504,Active
+,,,,,,,W,10:35 AM-11:25 AM,,,,,TBA,02/18-02/18,MCMED 504,Active
+,,,,,,,R,08:35 AM-09:25 AM,,,,,TBA,02/19-02/19,MCMED 504,Active
+,,,,,,,R,09:35 AM-10:25 AM,,,,,TBA,02/19-02/19,MCMED 504,Active
+,,,,,,,R,10:35 AM-11:25 AM,,,,,TBA,02/19-02/19,MCMED 504,Active
+,,,,,,,F,10:35 AM-11:25 AM,,,,,TBA,02/20-02/20,MCMED 504,Active
+,,,,,,,M,08:35 AM-10:25 AM,,,,,TBA,02/23-02/23,SADB M-1,Active
+,,,,,,,M,10:35 AM-11:25 AM,,,,,TBA,02/23-02/23,SADB M-1,Active
+,,,,,,,T,08:35 AM-09:25 AM,,,,,TBA,02/24-02/24,MCMED 504,Active
+,,,,,,,T,09:35 AM-10:25 AM,,,,,TBA,02/24-02/24,MCMED 504,Active
+,,,,,,,T,10:35 AM-11:25 AM,,,,,TBA,02/24-02/24,MCMED 504,Active
+,,,,,,,W,10:35 AM-11:25 AM,,,,,TBA,02/25-02/25,MCMED 504,Active
+,,,,,,,R,08:35 AM-09:25 AM,,,,,TBA,02/26-02/26,MCMED 504,Active
+,,,,,,,R,09:35 AM-10:25 AM,,,,,TBA,02/26-02/26,MCMED 504,Active
+,,,,,,,R,10:35 AM-11:25 AM,,,,,TBA,02/26-02/26,MCMED 504,Active
+,,,,,,,F,10:35 AM-11:25 AM,,,,,TBA,02/27-02/27,MCMED 504,Active
+,,,,,,,M,08:35 AM-09:25 AM,,,,,TBA,03/02-03/02,SADB M-1,Active
+,,,,,,,M,09:35 AM-10:25 AM,,,,,TBA,03/02-03/02,SADB M-1,Active
+,,,,,,,M,10:35 AM-11:25 AM,,,,,TBA,03/02-03/02,SADB M-1,Active
+,,,,,,,T,08:35 AM-09:25 AM,,,,,TBA,03/03-03/03,MCMED 504,Active
+,,,,,,,T,09:35 AM-10:25 AM,,,,,TBA,03/03-03/03,MCMED 504,Active
+,,,,,,,T,10:35 AM-11:25 AM,,,,,TBA,03/03-03/03,MCMED 504,Active
+,,,,,,,W,08:35 AM-10:25 AM,,,,,TBA,03/04-03/04,MCMED 504,Active
+,,,,,,,W,10:35 AM-11:25 AM,,,,,TBA,03/04-03/04,MCMED 504,Active
+,,,,,,,W,12:35 PM-03:25 PM,,,,,TBA,03/04-03/04,MCMED 504,Active
+,,,,,,,R,08:35 AM-09:25 AM,,,,,TBA,03/05-03/05,MCMED 504,Active
+,,,,,,,R,09:35 AM-10:25 AM,,,,,TBA,03/05-03/05,MCMED 504,Active
+,,,,,,,R,10:35 AM-11:25 AM,,,,,TBA,03/05-03/05,MCMED 504,Active
+13655,INDS,115,002,Small Group Teaching,0.000,"Renal.",,TBA,240,0,0,0,TBA,12/16-03/16,TBA,Registration Not Required
+,,,,,,,W,08:35 AM-10:25 AM,,,,,TBA,02/11-02/11,MCMED 201,Registration Not Required
+,,,,,,,W,08:35 AM-10:25 AM,,,,,TBA,02/11-02/11,MCMED 202,Registration Not Required
+,,,,,,,W,08:35 AM-10:25 AM,,,,,TBA,02/11-02/11,MCMED 203,Registration Not Required
+,,,,,,,W,08:35 AM-10:25 AM,,,,,TBA,02/11-02/11,MCMED 204,Registration Not Required
+,,,,,,,W,08:35 AM-10:25 AM,,,,,TBA,02/11-02/11,MCMED 205,Registration Not Required
+,,,,,,,W,08:35 AM-10:25 AM,,,,,TBA,02/11-02/11,MCMED 220,Registration Not Required
+,,,,,,,W,08:35 AM-10:25 AM,,,,,TBA,02/11-02/11,MCMED 221,Registration Not Required
+,,,,,,,W,08:35 AM-10:25 AM,,,,,TBA,02/11-02/11,HOSMER 301,Registration Not Required
+,,,,,,,W,08:35 AM-10:25 AM,,,,,TBA,02/11-02/11,HOSMER 202,Registration Not Required
+,,,,,,,W,08:35 AM-10:25 AM,,,,,TBA,02/11-02/11,MCMED 210/11,Registration Not Required
+,,,,,,,F,08:35 AM-10:25 AM,,,,,TBA,02/13-02/13,MCMED 220,Registration Not Required
+,,,,,,,F,08:35 AM-10:25 AM,,,,,TBA,02/13-02/13,MCMED 221,Registration Not Required
+,,,,,,,F,08:35 AM-10:25 AM,,,,,TBA,02/13-02/13,MCMED 205,Registration Not Required
+,,,,,,,F,08:35 AM-10:25 AM,,,,,TBA,02/13-02/13,MCMED 204,Registration Not Required
+,,,,,,,F,08:35 AM-10:25 AM,,,,,TBA,02/13-02/13,MCMED 210/11,Registration Not Required
+,,,,,,,F,08:35 AM-10:25 AM,,,,,TBA,02/13-02/13,MCMED 202,Registration Not Required
+,,,,,,,F,08:35 AM-10:25 AM,,,,,TBA,02/13-02/13,MCMED 201,Registration Not Required
+,,,,,,,F,08:35 AM-10:25 AM,,,,,TBA,02/13-02/13,MCMED 208/9,Registration Not Required
+,,,,,,,F,08:35 AM-10:25 AM,,,,,TBA,02/13-02/13,MCMED 203,Registration Not Required
+,,,,,,,T,12:35 PM-03:25 PM,,,,,TBA,02/17-02/17,MCMED 204,Registration Not Required
+,,,,,,,T,12:35 PM-03:25 PM,,,,,TBA,02/17-02/17,MCMED 205,Registration Not Required
+,,,,,,,T,12:35 PM-03:25 PM,,,,,TBA,02/17-02/17,MCMED 203,Registration Not Required
+,,,,,,,T,12:35 PM-03:25 PM,,,,,TBA,02/17-02/17,MCMED 202,Registration Not Required
+,,,,,,,T,12:35 PM-03:25 PM,,,,,TBA,02/17-02/17,MCMED 201,Registration Not Required
+,,,,,,,T,12:35 PM-03:25 PM,,,,,TBA,02/17-02/17,MCMED 210/11,Registration Not Required
+,,,,,,,T,12:35 PM-03:25 PM,,,,,TBA,02/17-02/17,MCMED 221,Registration Not Required
+,,,,,,,T,12:35 PM-03:25 PM,,,,,TBA,02/17-02/17,MCMED 220,Registration Not Required
+,,,,,,,T,12:35 PM-03:25 PM,,,,,TBA,02/17-02/17,HOSMER 202,Registration Not Required
+,,,,,,,T,12:35 PM-03:25 PM,,,,,TBA,02/17-02/17,HOSMER 301,Registration Not Required
+,,,,,,,W,08:35 AM-10:25 AM,,,,,TBA,02/18-02/18,MCMED 205,Registration Not Required
+,,,,,,,W,08:35 AM-10:25 AM,,,,,TBA,02/18-02/18,MCMED 204,Registration Not Required
+,,,,,,,W,08:35 AM-10:25 AM,,,,,TBA,02/18-02/18,MCMED 203,Registration Not Required
+,,,,,,,W,08:35 AM-10:25 AM,,,,,TBA,02/18-02/18,MCMED 202,Registration Not Required
+,,,,,,,W,08:35 AM-10:25 AM,,,,,TBA,02/18-02/18,MCMED 221,Registration Not Required
+,,,,,,,W,08:35 AM-10:25 AM,,,,,TBA,02/18-02/18,HOSMER 202,Registration Not Required
+,,,,,,,W,08:35 AM-10:25 AM,,,,,TBA,02/18-02/18,HOSMER 301,Registration Not Required
+,,,,,,,W,08:35 AM-10:25 AM,,,,,TBA,02/18-02/18,MCMED 220,Registration Not Required
+,,,,,,,W,08:35 AM-10:25 AM,,,,,TBA,02/18-02/18,MCMED 210/11,Registration Not Required
+,,,,,,,W,08:35 AM-10:25 AM,,,,,TBA,02/18-02/18,MCMED 201,Registration Not Required
+,,,,,,,W,12:35 PM-03:25 PM,,,,,TBA,02/18-02/18,MCMED 210/11,Registration Not Required
+,,,,,,,W,12:35 PM-03:25 PM,,,,,TBA,02/18-02/18,MCMED 204,Registration Not Required
+,,,,,,,W,12:35 PM-03:25 PM,,,,,TBA,02/18-02/18,MCMED 205,Registration Not Required
+,,,,,,,W,12:35 PM-03:25 PM,,,,,TBA,02/18-02/18,MCMED 221,Registration Not Required
+,,,,,,,W,12:35 PM-03:25 PM,,,,,TBA,02/18-02/18,MCMED 220,Registration Not Required
+,,,,,,,W,12:35 PM-03:25 PM,,,,,TBA,02/18-02/18,MCMED 201,Registration Not Required
+,,,,,,,W,12:35 PM-03:25 PM,,,,,TBA,02/18-02/18,MCMED 202,Registration Not Required
+,,,,,,,W,12:35 PM-03:25 PM,,,,,TBA,02/18-02/18,MCMED 203,Registration Not Required
+,,,,,,,R,12:35 PM-03:25 PM,,,,,TBA,02/19-02/19,MCMED 205,Registration Not Required
+,,,,,,,R,12:35 PM-03:25 PM,,,,,TBA,02/19-02/19,MCMED 221,Registration Not Required
+,,,,,,,R,12:35 PM-03:25 PM,,,,,TBA,02/19-02/19,MCMED 220,Registration Not Required
+,,,,,,,R,12:35 PM-03:25 PM,,,,,TBA,02/19-02/19,MCMED 208/9,Registration Not Required
+,,,,,,,R,12:35 PM-03:25 PM,,,,,TBA,02/19-02/19,MCMED 201,Registration Not Required
+,,,,,,,R,12:35 PM-03:25 PM,,,,,TBA,02/19-02/19,MCMED 202,Registration Not Required
+,,,,,,,R,12:35 PM-03:25 PM,,,,,TBA,02/19-02/19,MCMED 203,Registration Not Required
+,,,,,,,R,12:35 PM-03:25 PM,,,,,TBA,02/19-02/19,MCMED 204,Registration Not Required
+,,,,,,,R,01:05 PM-02:25 PM,,,,,TBA,02/19-02/19,MCMED 210/11,Registration Not Required
+,,,,,,,F,08:35 AM-10:25 AM,,,,,TBA,02/20-02/20,MCMED 220,Registration Not Required
+,,,,,,,F,08:35 AM-10:25 AM,,,,,TBA,02/20-02/20,MCMED 208/9,Registration Not Required
+,,,,,,,F,08:35 AM-10:25 AM,,,,,TBA,02/20-02/20,MCMED 201,Registration Not Required
+,,,,,,,F,08:35 AM-10:25 AM,,,,,TBA,02/20-02/20,MCMED 221,Registration Not Required
+,,,,,,,F,08:35 AM-10:25 AM,,,,,TBA,02/20-02/20,MCMED 203,Registration Not Required
+,,,,,,,F,08:35 AM-10:25 AM,,,,,TBA,02/20-02/20,MCMED 204,Registration Not Required
+,,,,,,,F,08:35 AM-10:25 AM,,,,,TBA,02/20-02/20,MCMED 205,Registration Not Required
+,,,,,,,F,08:35 AM-10:25 AM,,,,,TBA,02/20-02/20,MCMED 210/11,Registration Not Required
+,,,,,,,F,08:35 AM-10:25 AM,,,,,TBA,02/20-02/20,MCMED 202,Registration Not Required
+,,,,,,,M,12:35 PM-03:25 PM,,,,,TBA,02/23-02/23,MCMED 210/11,Registration Not Required
+,,,,,,,T,12:35 PM-03:25 PM,,,,,TBA,02/24-02/24,MCMED 210/11,Registration Not Required
+,,,,,,,W,08:35 AM-10:25 AM,,,,,TBA,02/25-02/25,MCMED 210/11,Registration Not Required
+,,,,,,,W,08:35 AM-10:25 AM,,,,,TBA,02/25-02/25,MCMED 221,Registration Not Required
+,,,,,,,W,08:35 AM-10:25 AM,,,,,TBA,02/25-02/25,MCMED 220,Registration Not Required
+,,,,,,,W,08:35 AM-10:25 AM,,,,,TBA,02/25-02/25,MCMED 205,Registration Not Required
+,,,,,,,W,08:35 AM-10:25 AM,,,,,TBA,02/25-02/25,MCMED 204,Registration Not Required
+,,,,,,,W,08:35 AM-10:25 AM,,,,,TBA,02/25-02/25,HOSMER 202,Registration Not Required
+,,,,,,,W,08:35 AM-10:25 AM,,,,,TBA,02/25-02/25,HOSMER 301,Registration Not Required
+,,,,,,,W,08:35 AM-10:25 AM,,,,,TBA,02/25-02/25,MCMED 201,Registration Not Required
+,,,,,,,W,08:35 AM-10:25 AM,,,,,TBA,02/25-02/25,MCMED 202,Registration Not Required
+,,,,,,,W,08:35 AM-10:25 AM,,,,,TBA,02/25-02/25,MCMED 203,Registration Not Required
+,,,,,,,W,12:35 PM-03:25 PM,,,,,TBA,02/25-02/25,MCMED 210/11,Registration Not Required
+,,,,,,,R,12:35 PM-03:25 PM,,,,,TBA,02/26-02/26,MCMED 203,Registration Not Required
+,,,,,,,R,12:35 PM-03:25 PM,,,,,TBA,02/26-02/26,MCMED 210/11,Registration Not Required
+,,,,,,,R,12:35 PM-03:25 PM,,,,,TBA,02/26-02/26,MCMED 220,Registration Not Required
+,,,,,,,R,12:35 PM-03:25 PM,,,,,TBA,02/26-02/26,MCMED 221,Registration Not Required
+,,,,,,,R,12:35 PM-03:25 PM,,,,,TBA,02/26-02/26,MCMED 201,Registration Not Required
+,,,,,,,R,12:35 PM-03:25 PM,,,,,TBA,02/26-02/26,MCMED 202,Registration Not Required
+,,,,,,,R,12:35 PM-03:25 PM,,,,,TBA,02/26-02/26,MCMED 204,Registration Not Required
+,,,,,,,R,12:35 PM-03:25 PM,,,,,TBA,02/26-02/26,MCMED 205,Registration Not Required
+,,,,,,,F,08:35 AM-10:25 AM,,,,,TBA,02/27-02/27,MCMED 220,Registration Not Required
+,,,,,,,F,08:35 AM-10:25 AM,,,,,TBA,02/27-02/27,MCMED 221,Registration Not Required
+,,,,,,,F,08:35 AM-10:25 AM,,,,,TBA,02/27-02/27,MCMED 202,Registration Not Required
+,,,,,,,F,08:35 AM-10:25 AM,,,,,TBA,02/27-02/27,MCMED 201,Registration Not Required
+,,,,,,,F,08:35 AM-10:25 AM,,,,,TBA,02/27-02/27,MCMED 210/11,Registration Not Required
+,,,,,,,F,08:35 AM-10:25 AM,,,,,TBA,02/27-02/27,MCMED 208/9,Registration Not Required
+,,,,,,,F,08:35 AM-10:25 AM,,,,,TBA,02/27-02/27,MCMED 203,Registration Not Required
+,,,,,,,F,08:35 AM-10:25 AM,,,,,TBA,02/27-02/27,MCMED 205,Registration Not Required
+,,,,,,,F,08:35 AM-10:25 AM,,,,,TBA,02/27-02/27,MCMED 204,Registration Not Required
+,,,,,,,F,12:35 PM-03:25 PM,,,,,TBA,02/27-02/27,MCMED 204,Registration Not Required
+,,,,,,,F,12:35 PM-03:25 PM,,,,,TBA,02/27-02/27,MCMED 220,Registration Not Required
+,,,,,,,F,12:35 PM-03:25 PM,,,,,TBA,02/27-02/27,MCMED 202,Registration Not Required
+,,,,,,,F,12:35 PM-03:25 PM,,,,,TBA,02/27-02/27,MCMED 201,Registration Not Required
+,,,,,,,F,12:35 PM-03:25 PM,,,,,TBA,02/27-02/27,MCMED 203,Registration Not Required
+,,,,,,,F,12:35 PM-03:25 PM,,,,,TBA,02/27-02/27,MCMED 205,Registration Not Required
+,,,,,,,M,12:35 PM-03:25 PM,,,,,TBA,03/02-03/02,MCMED 210/11,Registration Not Required
+,,,,,,,W,12:35 PM-03:25 PM,,,,,TBA,03/04-03/04,MCMED 210/11,Registration Not Required
+,,,,,,,W,12:35 PM-03:25 PM,,,,,TBA,03/04-03/04,MCMED 208/9,Registration Not Required
+,,,,,,,R,12:35 PM-03:25 PM,,,,,TBA,03/05-03/05,MCMED 203,Registration Not Required
+,,,,,,,R,12:35 PM-03:25 PM,,,,,TBA,03/05-03/05,MCMED 204,Registration Not Required
+,,,,,,,R,12:35 PM-03:25 PM,,,,,TBA,03/05-03/05,MCMED 205,Registration Not Required
+,,,,,,,R,12:35 PM-03:25 PM,,,,,TBA,03/05-03/05,MCMED 202,Registration Not Required
+,,,,,,,R,12:35 PM-03:25 PM,,,,,TBA,03/05-03/05,MCMED 220,Registration Not Required
+,,,,,,,R,12:35 PM-03:25 PM,,,,,TBA,03/05-03/05,MCMED 210/11,Registration Not Required
+,,,,,,,R,12:35 PM-03:25 PM,,,,,TBA,03/05-03/05,MCMED 201,Registration Not Required
+13710,INDS,115,003,Laboratory,0.000,"Renal.",,12:35 PM-02:25 PM,240,0,0,0,TBA,12/16-03/16,TBA,Registration Not Required
+,,,,,,,M,12:35 PM-02:25 PM,,,,,TBA,02/09-02/09,SADB 1/56,Registration Not Required
+,,,,,,,T,12:35 PM-02:25 PM,,,,,TBA,02/10-02/10,SADB 1/56,Registration Not Required
+,,,,,,,R,12:35 PM-02:25 PM,,,,,TBA,02/12-02/12,SADB 2/49,Registration Not Required
+,,,,,,,F,12:35 PM-02:25 PM,,,,,TBA,02/13-02/13,SADB 2/49,Registration Not Required
+13714,INDS,119J2,001,Lecture,1.000,"Clinical Method 1.",TBA,TBA,240,0,0,0,TBA,12/15-03/15,TBA,Active
+13656,INDS,122J2,001,Small Group Teaching,0.667,"Physician Apprenticeship 1.",TBA,TBA,240,0,0,0,TBA,12/16-03/16,TBA,Active
+13715,INDS,123J2,001,Lecture,1.000,"Research Fundamentals 1.",TBA,TBA,245,0,0,0,TBA,12/15-03/15,TBA,Active
+13716,INDS,124J2,001,Clinical Teaching,1.000,"Longitudinal Family Medicine 1.",TBA,TBA,240,0,0,0,TBA,12/16-03/16,TBA,Active
+14573,INDS,125J2,001,Examination,0.000,"Reflection And Examination.",M,07:35 AM-12:55 PM,245,0,0,0,TBA,12/15-12/15,MCMED 504,Active
+,,,,,,,M,07:35 AM-12:55 PM,,,,,TBA,12/15-12/15,MCMED 522,Active
+,,,,,,,,TBA,,,,,TBA,12/15-03/15,TBA,Active
+,,,,,,,R,07:35 AM-04:25 PM,,,,,TBA,12/18-12/18,SADB 2/36,Active
+,,,,,,,R,07:35 AM-04:25 PM,,,,,TBA,12/18-12/18,SADB 1/56,Active
+,,,,,,,R,07:35 AM-04:25 PM,,,,,TBA,12/18-12/18,SADB 2/49,Active
+,,,,,,,W,07:35 AM-04:25 PM,,,,,TBA,03/11-03/11,SADB 2/49,Active
+,,,,,,,W,07:35 AM-11:25 AM,,,,,TBA,03/11-03/11,SADB 2/36,Active
+,,,,,,,W,07:35 AM-04:25 PM,,,,,TBA,03/11-03/11,SADB 1/56,Active
+,,,,,,,W,01:35 PM-02:25 PM,,,,,TBA,03/11-03/11,SADB 2/36,Active
+13678,INDS,222J2,001,Small Group Teaching,0.500,"Physician Apprenticeship 2.",TBA,TBA,235,0,0,0,TBA,12/29-05/03,TBA,Active
+14648,INDS,224J2,001,Field Course (GDEU),0.667,"Community Health Alliance Project - C.H.A.P..",TBA,TBA,200,0,0,0,TBA,12/29-05/03,TBA,Active
+13123,INDS,302,001,Lecture,1.500,"Medical Ethics & Health Law-Transition to Clinical Practice.",,TBA,235,0,0,0,TBA,12/29-05/03,TBA,Temporarily closed
+13611,INDS,304,001,Field Course (GDEU),4.000,"Emergency Medicine - Senior Clerkships.",,TBA,200,0,0,0,TBA,11/17-04/26,TBA,Active
+,,,,,,,F,09:35 AM-12:25 PM,,,,,TBA,12/12-12/12,MCMED 409,Active
+,,,,,,,F,09:35 AM-12:25 PM,,,,,TBA,01/09-01/09,MCMED 409,Active
+,,,,,,,R,09:35 AM-12:25 PM,,,,,TBA,04/02-04/02,MCMED 409,Active
+13405,INDS,320,002,Small Group Teaching,0.000,"Physicianship 3.",TBA,TBA,200,0,0,0,TBA,11/17-03/08,TBA,Temporarily closed
+13404,INDS,320J1,001,Small Group Teaching,0.000,"Physicianship 3.",TBA,TBA,200,0,0,0,TBA,11/17-03/08,TBA,Temporarily closed
+13118,INDS,320J2,001,Lecture,0.166,"Physicianship 3.",,TBA,235,0,0,0,TBA,11/17-03/08,TBA,Active
+,,,,,,,W,08:35 AM-10:25 AM,,,,,TBA,12/10-12/10,MCMED 504,Active
+,,,,,,,W,02:35 PM-03:25 PM,,,,,TBA,12/10-12/10,MCMED 504,Active
+,,,,,,,F,09:35 AM-11:25 AM,,,,,TBA,01/30-01/30,MCMED 522,Active
+,,,,,,,F,01:35 PM-03:25 PM,,,,,TBA,01/30-01/30,MCMED 504,Active
+,,,,,,,F,04:35 PM-05:25 PM,,,,,TBA,01/30-01/30,MCMED 504,Active
+13407,INDS,320J2,002,Small Group Teaching,0.000,"Physicianship 3.",,TBA,200,0,0,0,TBA,11/17-03/08,TBA,Active
+,,,,,,,W,10:35 AM-12:25 PM,,,,,TBA,12/10-12/10,MCMED 201,Active
+,,,,,,,W,10:35 AM-12:25 PM,,,,,TBA,12/10-12/10,MCMED 205,Active
+,,,,,,,W,10:35 AM-12:25 PM,,,,,TBA,12/10-12/10,MCMED 204,Active
+,,,,,,,W,10:35 AM-12:25 PM,,,,,TBA,12/10-12/10,MCMED 203,Active
+,,,,,,,W,10:35 AM-12:25 PM,,,,,TBA,12/10-12/10,MCMED 202,Active
+,,,,,,,W,10:35 AM-12:25 PM,,,,,TBA,12/10-12/10,MCMED 220,Active
+,,,,,,,W,03:35 PM-05:25 PM,,,,,TBA,12/10-12/10,MCMED 201,Active
+,,,,,,,W,03:35 PM-05:25 PM,,,,,TBA,12/10-12/10,MCMED 220,Active
+,,,,,,,W,03:35 PM-05:25 PM,,,,,TBA,12/10-12/10,MCMED 205,Active
+,,,,,,,W,03:35 PM-05:25 PM,,,,,TBA,12/10-12/10,MCMED 204,Active
+,,,,,,,W,03:35 PM-05:25 PM,,,,,TBA,12/10-12/10,MCMED 203,Active
+,,,,,,,W,03:35 PM-05:25 PM,,,,,TBA,12/10-12/10,MCMED 202,Active
+,,,,,,,F,11:35 AM-12:25 PM,,,,,TBA,01/30-01/30,MCMED 208/9,Active
+,,,,,,,F,11:35 AM-12:25 PM,,,,,TBA,01/30-01/30,MCMED 202,Active
+,,,,,,,F,11:35 AM-12:25 PM,,,,,TBA,01/30-01/30,MCMED 201,Active
+,,,,,,,F,11:35 AM-12:25 PM,,,,,TBA,01/30-01/30,MCMED 210/11,Active
+,,,,,,,F,11:35 AM-12:25 PM,,,,,TBA,01/30-01/30,MCMED 203,Active
+,,,,,,,F,11:35 AM-12:25 PM,,,,,TBA,01/30-01/30,MCMED 204,Active
+,,,,,,,F,11:35 AM-12:25 PM,,,,,TBA,01/30-01/30,MCMED 205,Active
+,,,,,,,F,11:35 AM-12:25 PM,,,,,TBA,01/30-01/30,MCMED 220,Active
+,,,,,,,F,11:35 AM-12:25 PM,,,,,TBA,01/30-01/30,MCMED 221,Active
+,,,,,,,F,03:35 PM-04:25 PM,,,,,TBA,01/30-01/30,MCMED 208/9,Active
+,,,,,,,F,03:35 PM-04:25 PM,,,,,TBA,01/30-01/30,MCMED 201,Active
+,,,,,,,F,03:35 PM-04:25 PM,,,,,TBA,01/30-01/30,MCMED 202,Active
+,,,,,,,F,03:35 PM-04:25 PM,,,,,TBA,01/30-01/30,MCMED 210/11,Active
+,,,,,,,F,03:35 PM-04:25 PM,,,,,TBA,01/30-01/30,MCMED 203,Active
+,,,,,,,F,03:35 PM-04:25 PM,,,,,TBA,01/30-01/30,MCMED 220,Active
+,,,,,,,F,03:35 PM-04:25 PM,,,,,TBA,01/30-01/30,MCMED 205,Active
+,,,,,,,F,03:35 PM-04:25 PM,,,,,TBA,01/30-01/30,MCMED 204,Active
+,,,,,,,F,03:35 PM-04:25 PM,,,,,TBA,01/30-01/30,MCMED 221,Active
+13119,INDS,322J2,001,Small Group Teaching,0.500,"Physician Apprenticeship 3.",TBA,TBA,235,0,0,0,TBA,11/17-03/08,TBA,Active
+13638,INDS,405,001,Seminar,3.000,"Topics in Medical Science 1.",TBA,TBA,200,0,0,0,TBA,12/16-03/16,TBA,Active
+13121,INDS,420,001,Lecture,4.000,"Physicianship 4.",,TBA,235,0,0,0,TBA,11/17-04/26,TBA,Active
+,,,,,,,M,09:05 AM-10:25 AM,,,,,TBA,02/09-02/09,MCMED 504,Active
+,,,,,,,M,01:35 PM-04:55 PM,,,,,TBA,02/09-02/09,MCMED 504,Active
+,,,,,,,W,09:05 AM-10:25 AM,,,,,TBA,02/11-02/11,MCMED 504,Active
+,,,,,,,W,01:35 PM-04:55 PM,,,,,TBA,02/11-02/11,MCMED 504,Active
+,,,,,,,M,09:05 AM-10:25 AM,,,,,TBA,02/16-02/16,MCMED 504,Active
+,,,,,,,M,01:35 PM-04:55 PM,,,,,TBA,02/16-02/16,MCMED 504,Active
+,,,,,,,W,09:05 AM-10:25 AM,,,,,TBA,02/18-02/18,MCMED 504,Active
+,,,,,,,W,01:35 PM-04:55 PM,,,,,TBA,02/18-02/18,MCMED 504,Active
+,,,,,,,M,09:05 AM-10:25 AM,,,,,TBA,02/23-02/23,MCMED 504,Active
+,,,,,,,M,01:35 PM-04:55 PM,,,,,TBA,02/23-02/23,MCMED 504,Active
+,,,,,,,W,09:05 AM-10:25 AM,,,,,TBA,02/25-02/25,MCMED 504,Active
+,,,,,,,W,01:35 PM-04:55 PM,,,,,TBA,02/25-02/25,MCMED 504,Active
+,,,,,,,M,09:05 AM-10:25 AM,,,,,TBA,03/02-03/02,MCMED 504,Active
+,,,,,,,M,01:35 PM-04:55 PM,,,,,TBA,03/02-03/02,MCMED 504,Active
+,,,,,,,W,01:35 PM-04:55 PM,,,,,TBA,03/04-03/04,MCMED 522,Active
+13406,INDS,420,002,Small Group Teaching,0.000,"Physicianship 4.",,TBA,200,0,0,0,TBA,11/17-03/08,TBA,Active
+,,,,,,,T,09:05 AM-11:55 AM,,,,,TBA,02/10-02/10,MCMED 201,Active
+,,,,,,,T,09:05 AM-11:55 AM,,,,,TBA,02/10-02/10,MCMED 202,Active
+,,,,,,,T,09:05 AM-11:55 AM,,,,,TBA,02/10-02/10,MCMED 203,Active
+,,,,,,,T,09:05 AM-11:55 AM,,,,,TBA,02/10-02/10,MCMED 204,Active
+,,,,,,,T,09:05 AM-11:55 AM,,,,,TBA,02/10-02/10,MCMED 210/11,Active
+,,,,,,,T,09:05 AM-11:55 AM,,,,,TBA,02/10-02/10,MCMED 220,Active
+,,,,,,,T,09:05 AM-11:55 AM,,,,,TBA,02/10-02/10,MCMED 221,Active
+,,,,,,,T,09:05 AM-11:55 AM,,,,,TBA,02/10-02/10,HOSMER 202,Active
+,,,,,,,T,09:05 AM-11:55 AM,,,,,TBA,02/10-02/10,HOSMER 301,Active
+,,,,,,,T,09:05 AM-11:55 AM,,,,,TBA,02/10-02/10,MCMED 205,Active
+,,,,,,,W,10:35 AM-12:25 PM,,,,,TBA,02/11-02/11,MCMED 205,Active
+,,,,,,,W,10:35 AM-12:25 PM,,,,,TBA,02/11-02/11,MCMED 204,Active
+,,,,,,,W,10:35 AM-12:25 PM,,,,,TBA,02/11-02/11,MCMED 203,Active
+,,,,,,,W,10:35 AM-12:25 PM,,,,,TBA,02/11-02/11,MCMED 202,Active
+,,,,,,,W,10:35 AM-12:25 PM,,,,,TBA,02/11-02/11,MCMED 201,Active
+,,,,,,,W,10:35 AM-12:25 PM,,,,,TBA,02/11-02/11,MCMED 210/11,Active
+,,,,,,,W,10:35 AM-12:25 PM,,,,,TBA,02/11-02/11,MCMED 220,Active
+,,,,,,,W,10:35 AM-12:25 PM,,,,,TBA,02/11-02/11,MCMED 221,Active
+,,,,,,,W,10:35 AM-12:25 PM,,,,,TBA,02/11-02/11,HOSMER 301,Active
+,,,,,,,W,10:35 AM-12:25 PM,,,,,TBA,02/11-02/11,HOSMER 202,Active
+,,,,,,,R,09:05 AM-11:55 AM,,,,,TBA,02/12-02/12,MCMED 205,Active
+,,,,,,,R,09:05 AM-11:55 AM,,,,,TBA,02/12-02/12,MCMED 208/9,Active
+,,,,,,,R,09:05 AM-11:55 AM,,,,,TBA,02/12-02/12,MCMED 221,Active
+,,,,,,,R,09:05 AM-11:55 AM,,,,,TBA,02/12-02/12,MCMED 220,Active
+,,,,,,,R,09:05 AM-11:55 AM,,,,,TBA,02/12-02/12,MCMED 204,Active
+,,,,,,,R,09:05 AM-11:55 AM,,,,,TBA,02/12-02/12,MCMED 201,Active
+,,,,,,,R,09:05 AM-11:55 AM,,,,,TBA,02/12-02/12,MCMED 202,Active
+,,,,,,,R,09:05 AM-11:55 AM,,,,,TBA,02/12-02/12,MCMED 203,Active
+,,,,,,,R,09:05 AM-11:55 AM,,,,,TBA,02/12-02/12,MCMED 210/11,Active
+,,,,,,,M,09:05 AM-11:55 AM,,,,,TBA,02/16-02/16,MCMED 210/11,Active
+,,,,,,,M,09:05 AM-11:55 AM,,,,,TBA,02/16-02/16,HOSMER 202,Active
+,,,,,,,M,09:05 AM-11:55 AM,,,,,TBA,02/16-02/16,HOSMER 301,Active
+,,,,,,,T,09:05 AM-11:55 AM,,,,,TBA,02/17-02/17,MCMED 220,Active
+,,,,,,,T,09:05 AM-11:55 AM,,,,,TBA,02/17-02/17,HOSMER 301,Active
+,,,,,,,T,09:05 AM-11:55 AM,,,,,TBA,02/17-02/17,MCMED 204,Active
+,,,,,,,T,09:05 AM-11:55 AM,,,,,TBA,02/17-02/17,MCMED 203,Active
+,,,,,,,T,09:05 AM-11:55 AM,,,,,TBA,02/17-02/17,MCMED 202,Active
+,,,,,,,T,09:05 AM-11:55 AM,,,,,TBA,02/17-02/17,MCMED 201,Active
+,,,,,,,T,09:05 AM-11:55 AM,,,,,TBA,02/17-02/17,HOSMER 202,Active
+,,,,,,,T,09:05 AM-11:55 AM,,,,,TBA,02/17-02/17,MCMED 205,Active
+,,,,,,,T,09:05 AM-11:55 AM,,,,,TBA,02/17-02/17,MCMED 221,Active
+,,,,,,,T,09:05 AM-11:55 AM,,,,,TBA,02/17-02/17,MCMED 210/11,Active
+,,,,,,,W,10:35 AM-12:25 PM,,,,,TBA,02/18-02/18,MCMED 220,Active
+,,,,,,,W,10:35 AM-12:25 PM,,,,,TBA,02/18-02/18,MCMED 210/11,Active
+,,,,,,,W,10:35 AM-12:25 PM,,,,,TBA,02/18-02/18,MCMED 201,Active
+,,,,,,,W,10:35 AM-12:25 PM,,,,,TBA,02/18-02/18,MCMED 202,Active
+,,,,,,,W,10:35 AM-12:25 PM,,,,,TBA,02/18-02/18,MCMED 221,Active
+,,,,,,,W,10:35 AM-12:25 PM,,,,,TBA,02/18-02/18,HOSMER 301,Active
+,,,,,,,W,10:35 AM-12:25 PM,,,,,TBA,02/18-02/18,MCMED 203,Active
+,,,,,,,W,10:35 AM-12:25 PM,,,,,TBA,02/18-02/18,MCMED 205,Active
+,,,,,,,W,10:35 AM-12:25 PM,,,,,TBA,02/18-02/18,MCMED 204,Active
+,,,,,,,W,10:35 AM-12:25 PM,,,,,TBA,02/18-02/18,HOSMER 202,Active
+,,,,,,,R,09:05 AM-11:55 AM,,,,,TBA,02/19-02/19,MCMED 221,Active
+,,,,,,,R,09:05 AM-11:55 AM,,,,,TBA,02/19-02/19,MCMED 220,Active
+,,,,,,,R,09:05 AM-11:55 AM,,,,,TBA,02/19-02/19,MCMED 208/9,Active
+,,,,,,,R,09:05 AM-11:55 AM,,,,,TBA,02/19-02/19,MCMED 210/11,Active
+,,,,,,,R,09:05 AM-11:55 AM,,,,,TBA,02/19-02/19,MCMED 201,Active
+,,,,,,,R,09:05 AM-11:55 AM,,,,,TBA,02/19-02/19,MCMED 202,Active
+,,,,,,,R,09:05 AM-11:55 AM,,,,,TBA,02/19-02/19,MCMED 203,Active
+,,,,,,,R,09:05 AM-11:55 AM,,,,,TBA,02/19-02/19,MCMED 205,Active
+,,,,,,,R,09:05 AM-11:55 AM,,,,,TBA,02/19-02/19,MCMED 204,Active
+,,,,,,,M,10:35 AM-12:25 PM,,,,,TBA,02/23-02/23,MCMED 210/11,Active
+,,,,,,,M,10:35 AM-12:25 PM,,,,,TBA,02/23-02/23,HOSMER 301,Active
+,,,,,,,M,10:35 AM-12:25 PM,,,,,TBA,02/23-02/23,HOSMER 202,Active
+,,,,,,,T,09:05 AM-11:55 AM,,,,,TBA,02/24-02/24,MCMED 203,Active
+,,,,,,,T,09:05 AM-11:55 AM,,,,,TBA,02/24-02/24,MCMED 202,Active
+,,,,,,,T,09:05 AM-11:55 AM,,,,,TBA,02/24-02/24,MCMED 221,Active
+,,,,,,,T,09:05 AM-11:55 AM,,,,,TBA,02/24-02/24,HOSMER 301,Active
+,,,,,,,T,09:05 AM-11:55 AM,,,,,TBA,02/24-02/24,HOSMER 202,Active
+,,,,,,,T,09:05 AM-11:55 AM,,,,,TBA,02/24-02/24,MCMED 204,Active
+,,,,,,,T,09:05 AM-11:55 AM,,,,,TBA,02/24-02/24,MCMED 205,Active
+,,,,,,,T,09:05 AM-11:55 AM,,,,,TBA,02/24-02/24,MCMED 220,Active
+,,,,,,,T,09:05 AM-11:55 AM,,,,,TBA,02/24-02/24,MCMED 201,Active
+,,,,,,,W,10:35 AM-12:25 PM,,,,,TBA,02/25-02/25,MCMED 205,Active
+,,,,,,,W,10:35 AM-12:25 PM,,,,,TBA,02/25-02/25,MCMED 210/11,Active
+,,,,,,,W,10:35 AM-12:25 PM,,,,,TBA,02/25-02/25,MCMED 204,Active
+,,,,,,,W,10:35 AM-12:25 PM,,,,,TBA,02/25-02/25,MCMED 203,Active
+,,,,,,,W,10:35 AM-12:25 PM,,,,,TBA,02/25-02/25,HOSMER 301,Active
+,,,,,,,W,10:35 AM-12:25 PM,,,,,TBA,02/25-02/25,HOSMER 202,Active
+,,,,,,,W,10:35 AM-12:25 PM,,,,,TBA,02/25-02/25,MCMED 202,Active
+,,,,,,,W,10:35 AM-12:25 PM,,,,,TBA,02/25-02/25,MCMED 201,Active
+,,,,,,,W,10:35 AM-12:25 PM,,,,,TBA,02/25-02/25,MCMED 220,Active
+,,,,,,,W,10:35 AM-12:25 PM,,,,,TBA,02/25-02/25,MCMED 221,Active
+,,,,,,,R,09:05 AM-11:55 AM,,,,,TBA,02/26-02/26,MCMED 210/11,Active
+,,,,,,,R,09:05 AM-11:55 AM,,,,,TBA,02/26-02/26,MCMED 208/9,Active
+,,,,,,,R,09:05 AM-11:55 AM,,,,,TBA,02/26-02/26,MCMED 201,Active
+,,,,,,,R,09:05 AM-11:55 AM,,,,,TBA,02/26-02/26,MCMED 202,Active
+,,,,,,,R,09:05 AM-11:55 AM,,,,,TBA,02/26-02/26,MCMED 221,Active
+,,,,,,,R,09:05 AM-11:55 AM,,,,,TBA,02/26-02/26,MCMED 204,Active
+,,,,,,,R,09:05 AM-11:55 AM,,,,,TBA,02/26-02/26,MCMED 205,Active
+,,,,,,,R,09:05 AM-11:55 AM,,,,,TBA,02/26-02/26,MCMED 220,Active
+,,,,,,,R,09:05 AM-11:55 AM,,,,,TBA,02/26-02/26,MCMED 203,Active
+,,,,,,,M,10:35 AM-12:25 PM,,,,,TBA,03/02-03/02,HOSMER 301,Active
+,,,,,,,M,10:35 AM-12:25 PM,,,,,TBA,03/02-03/02,MCMED 208/9,Active
+,,,,,,,M,10:35 AM-12:25 PM,,,,,TBA,03/02-03/02,MCMED 210/11,Active
+,,,,,,,M,10:35 AM-12:25 PM,,,,,TBA,03/02-03/02,HOSMER 202,Active
+,,,,,,,T,09:05 AM-11:55 AM,,,,,TBA,03/03-03/03,MCMED 203,Active
+,,,,,,,T,09:05 AM-11:55 AM,,,,,TBA,03/03-03/03,MCMED 204,Active
+,,,,,,,T,09:05 AM-11:55 AM,,,,,TBA,03/03-03/03,MCMED 220,Active
+,,,,,,,T,09:05 AM-11:55 AM,,,,,TBA,03/03-03/03,MCMED 221,Active
+,,,,,,,T,09:05 AM-11:55 AM,,,,,TBA,03/03-03/03,MCMED 202,Active
+,,,,,,,T,09:05 AM-11:55 AM,,,,,TBA,03/03-03/03,MCMED 201,Active
+,,,,,,,T,09:05 AM-11:55 AM,,,,,TBA,03/03-03/03,HOSMER 301,Active
+,,,,,,,T,09:05 AM-11:55 AM,,,,,TBA,03/03-03/03,HOSMER 202,Active
+,,,,,,,T,09:05 AM-11:55 AM,,,,,TBA,03/03-03/03,MCMED 205,Active
+,,,,,,,W,10:35 AM-12:25 PM,,,,,TBA,03/04-03/04,MCMED 210/11,Active
+,,,,,,,W,10:35 AM-12:25 PM,,,,,TBA,03/04-03/04,MCMED 220,Active
+,,,,,,,W,10:35 AM-12:25 PM,,,,,TBA,03/04-03/04,HOSMER 301,Active
+,,,,,,,W,10:35 AM-12:25 PM,,,,,TBA,03/04-03/04,HOSMER 202,Active
+,,,,,,,W,10:35 AM-12:25 PM,,,,,TBA,03/04-03/04,MCMED 201,Active
+,,,,,,,W,10:35 AM-12:25 PM,,,,,TBA,03/04-03/04,MCMED 202,Active
+,,,,,,,W,10:35 AM-12:25 PM,,,,,TBA,03/04-03/04,MCMED 203,Active
+,,,,,,,W,10:35 AM-12:25 PM,,,,,TBA,03/04-03/04,MCMED 204,Active
+,,,,,,,W,10:35 AM-12:25 PM,,,,,TBA,03/04-03/04,MCMED 221,Active
+,,,,,,,W,10:35 AM-12:25 PM,,,,,TBA,03/04-03/04,MCMED 205,Active
+,,,,,,,R,09:05 AM-11:55 AM,,,,,TBA,03/05-03/05,MCMED 220,Active
+,,,,,,,R,09:05 AM-11:55 AM,,,,,TBA,03/05-03/05,MCMED 221,Active
+,,,,,,,R,09:05 AM-11:55 AM,,,,,TBA,03/05-03/05,MCMED 201,Active
+,,,,,,,R,09:05 AM-11:55 AM,,,,,TBA,03/05-03/05,MCMED 202,Active
+,,,,,,,R,09:05 AM-11:55 AM,,,,,TBA,03/05-03/05,MCMED 210/11,Active
+,,,,,,,R,09:05 AM-11:55 AM,,,,,TBA,03/05-03/05,MCMED 205,Active
+,,,,,,,R,09:05 AM-11:55 AM,,,,,TBA,03/05-03/05,MCMED 204,Active
+,,,,,,,R,09:05 AM-11:55 AM,,,,,TBA,03/05-03/05,MCMED 203,Active
+13612,INDS,422D2,001,Small Group Teaching,0.250,"Physician Apprenticeship 4.",,TBA,200,0,0,0,TBA,11/17-04/26,TBA,Active
+,,,,,,,R,01:05 PM-03:55 PM,,,,,TBA,02/12-02/12,MCMED 504,Active
+,,,,,,,T,02:05 PM-03:25 PM,,,,,TBA,02/17-02/17,MCMED 504,Active
+,,,,,,,T,03:35 PM-05:25 PM,,,,,TBA,02/17-02/17,MCMED 221,Active
+,,,,,,,T,03:35 PM-05:25 PM,,,,,TBA,02/17-02/17,MCMED 210/11,Active
+,,,,,,,T,03:35 PM-05:25 PM,,,,,TBA,02/17-02/17,MCMED 220,Active
+,,,,,,,T,03:35 PM-05:25 PM,,,,,TBA,02/17-02/17,MCMED 205,Active
+,,,,,,,T,03:35 PM-05:25 PM,,,,,TBA,02/17-02/17,MCMED 204,Active
+,,,,,,,T,03:35 PM-05:25 PM,,,,,TBA,02/17-02/17,MCMED 203,Active
+,,,,,,,T,03:35 PM-05:25 PM,,,,,TBA,02/17-02/17,MCMED 202,Active
+,,,,,,,T,03:35 PM-05:25 PM,,,,,TBA,02/17-02/17,MCMED 201,Active
+,,,,,,,R,01:05 PM-03:55 PM,,,,,TBA,02/19-02/19,MCMED 504,Active
+,,,,,,,T,01:05 PM-02:25 PM,,,,,TBA,02/24-02/24,MCMED 504,Active
+,,,,,,,T,02:35 PM-03:55 PM,,,,,TBA,02/24-02/24,MCMED 220,Active
+,,,,,,,T,02:35 PM-03:55 PM,,,,,TBA,02/24-02/24,MCMED 203,Active
+,,,,,,,T,02:35 PM-03:55 PM,,,,,TBA,02/24-02/24,MCMED 204,Active
+,,,,,,,T,02:35 PM-03:55 PM,,,,,TBA,02/24-02/24,MCMED 205,Active
+,,,,,,,T,02:35 PM-03:55 PM,,,,,TBA,02/24-02/24,MCMED 221,Active
+,,,,,,,T,02:35 PM-03:55 PM,,,,,TBA,02/24-02/24,MCMED 201,Active
+,,,,,,,T,02:35 PM-03:55 PM,,,,,TBA,02/24-02/24,MCMED 202,Active
+,,,,,,,R,02:05 PM-03:25 PM,,,,,TBA,02/26-02/26,MCMED 504,Active
+,,,,,,,R,03:35 PM-05:25 PM,,,,,TBA,02/26-02/26,MCMED 204,Active
+,,,,,,,R,03:35 PM-05:25 PM,,,,,TBA,02/26-02/26,MCMED 203,Active
+,,,,,,,R,03:35 PM-05:25 PM,,,,,TBA,02/26-02/26,MCMED 202,Active
+,,,,,,,R,03:35 PM-05:25 PM,,,,,TBA,02/26-02/26,MCMED 201,Active
+,,,,,,,R,03:35 PM-05:25 PM,,,,,TBA,02/26-02/26,MCMED 205,Active
+,,,,,,,R,03:35 PM-05:25 PM,,,,,TBA,02/26-02/26,MCMED 208/9,Active
+,,,,,,,R,03:35 PM-05:25 PM,,,,,TBA,02/26-02/26,MCMED 210/11,Active
+,,,,,,,R,03:35 PM-05:25 PM,,,,,TBA,02/26-02/26,MCMED 220,Active
+,,,,,,,R,03:35 PM-05:25 PM,,,,,TBA,02/26-02/26,MCMED 221,Active
+,,,,,,,R,02:05 PM-03:25 PM,,,,,TBA,03/05-03/05,MCMED 504,Active
+,,,,,,,R,03:35 PM-05:25 PM,,,,,TBA,03/05-03/05,MCMED 210/11,Active
+,,,,,,,R,03:35 PM-05:25 PM,,,,,TBA,03/05-03/05,MCMED 220,Active
+,,,,,,,R,03:35 PM-05:25 PM,,,,,TBA,03/05-03/05,MCMED 205,Active
+,,,,,,,R,03:35 PM-05:25 PM,,,,,TBA,03/05-03/05,MCMED 221,Active
+,,,,,,,R,03:35 PM-05:25 PM,,,,,TBA,03/05-03/05,MCMED 201,Active
+,,,,,,,R,03:35 PM-05:25 PM,,,,,TBA,03/05-03/05,MCMED 202,Active
+,,,,,,,R,03:35 PM-05:25 PM,,,,,TBA,03/05-03/05,MCMED 203,Active
+,,,,,,,R,03:35 PM-05:25 PM,,,,,TBA,03/05-03/05,MCMED 208/9,Active
+,,,,,,,R,03:35 PM-05:25 PM,,,,,TBA,03/05-03/05,MCMED 204,Active
+Interprofessional Ed Activity
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+14665,IPEA,501,001,Workshop,0.000,"Communication in Interprofessional Teams.",TBA,TBA,750,0,0,0,TBA,12/16-03/16,TBA,Active
+Neurology and Neurosurgery
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+13132,NEUR,301,001,Field Course (GDEU),2.000,"Neurology - Transition to Clinical Practice.",,TBA,235,0,0,0,TBA,12/29-05/03,TBA,Active
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Active
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Active
+14523,NEUR,560,001,Lecture,3.000,"History of Neuroscience.",,TBA,25,0,0,0,"Joseph  Rochford, Naguib  Mechawar",01/05-04/14,TBA,Active
+Nursing
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+11667,NUR2,516,001,Seminar,3.000,"Perspectives on Global Health.",M,11:35 AM-02:25 PM,10,0,0,0,"Jodi Louise  Tuck",01/05-04/14,WILSON 104,Active
+Obstetrics and Gynaecology
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+13685,OBGY,401,001,Field Course (GDEU),8.000,"Obstetrics/Gynecology - Clerkships.",TBA,TBA,235,0,0,0,TBA,12/16-03/16,TBA,Active
+Ophthalmology
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+13124,OPTH,300,001,Field Course (GDEU),1.000,"Ophthalmology - TCP.",,TBA,235,0,0,0,TBA,12/29-05/03,TBA,Active
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Active
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Active
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Active
+Paediatrics
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+13135,PAED,301,001,Field Course (GDEU),2.000,"Pediatrics - Transition to Clinical Practice.",,TBA,235,0,0,0,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Temporarily closed
+13684,PAED,401,001,Field Course (GDEU),8.000,"Pediatrics - Clerkships.",TBA,TBA,235,0,0,0,TBA,11/17-03/08,TBA,Active
+Psychiatry
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+13683,PSYT,401,001,Field Course (GDEU),8.000,"Psychiatry - Clerkships.",TBA,TBA,235,0,0,0,TBA,11/17-03/08,TBA,Active
+6298,PSYT,504,001,Lecture,3.000,"Issues In Forensic Mental Health.",R,12:35 PM-02:25 PM,14,0,0,0,"Anne  Crocker",01/05-04/14,PN1033 1,Active
+8353,PSYT,515,001,Seminar,3.000,"Advanced Studies in Addiction.",F,01:35 PM-04:25 PM,12,0,0,0,"Marco  Leyton, Kathryn  Gill",01/05-04/14,TBA,Active
+Radiology (Diagnostic)
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+13173,RADD,301,001,Field Course (GDEU),1.000,"Radiology - Transition to Clinical Practice.",,TBA,220,0,0,0,TBA,12/29-05/03,TBA,Active
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Active
+,,,,,,,,TBA,,,,,TBA,12/29-05/03,TBA,Active
+Registration
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+2677,REGN,RCMD,001,Registration Course,0.000,"I confirm Medical Reg",TBA,TBA,9999,0,0,0,TBA,01/05-04/14,TBA,Active
+Surgery
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+13679,SURG,402,001,Field Course (GDEU),4.000,"General Surgery - Clerkships.",TBA,TBA,235,0,0,0,TBA,11/17-03/08,TBA,Active
+13615,SURG,403,001,Field Course (GDEU),4.000,"Surgery Sub-Specialty - Senior Clerkships.",TBA,TBA,200,0,0,0,TBA,11/17-04/26,TBA,Active

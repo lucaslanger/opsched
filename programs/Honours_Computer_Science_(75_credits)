@@ -1,0 +1,1135 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="modified" content="2014-07-13 08:18:33" />
+<meta name="created" content="2014-07-13 08:18:33" />
+<meta name="status" content="1" />
+<meta name="content-language" content="en" />
+<meta name="type" content="program" />
+<meta name="author" content="anonymous" />
+<link rel="shortcut icon" href="/study/2014-2015/sites/all/themes/study/favicon.ico" type="image/x-icon" />
+<link type="text/css" rel="stylesheet" media="all" href="/study/2014-2015/sites/mcgill.ca.study.2014-2015/files/advagg_css/css_6ed802ef6a91c06cc3e548ac0058790a_0.css" />
+<link type="text/css" rel="stylesheet" media="print" href="/study/2014-2015/sites/mcgill.ca.study.2014-2015/files/advagg_css/css_6f9e641a3d8b13f61d3d584d36f0dccd_0.css" />
+<script type="text/javascript" src="/study/2014-2015/sites/mcgill.ca.study.2014-2015/files/advagg_js/js_1d97b0b2bb0b4c0855f62cf463cfe2f0_5396.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/study\/2014-2015\/","googleanalytics":{"trackOutgoing":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|avi|csv|doc|exe|flv|gif|gz|jpe?g|js|mp(3|4|e?g)|mov|pdf|phps|png|ppt|rar|sit|tar|torrent|txt|wma|wmv|xls|xml|zip"},"spamspan":{"m":"spamspan","u":"u","d":"d","h":"h","t":"t"},"lightbox2":{"rtl":0,"file_path":"\/study\/2014-2015\/(\\w\\w\/)sites\/mcgill.ca.study.2014-2015\/files","default_image":"\/study\/2014-2015\/sites\/all\/modules\/patched\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":1,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":0,"disable_resize":0,"disable_zoom":0,"force_show_nav":0,"show_caption":1,"loop_items":0,"node_link_text":"View Image Details","node_link_target":0,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\/kbd\u003E\u003C\/a\u003E to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":0,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":600,"iframe_height":400,"iframe_border":1,"enable_video":1,"flvPlayer":"\/study\/2014-2015\/sites\/all\/modules\/contrib\/swftools\/shared\/flash_media_player\/player-viral.swf","flvFlashvars":"autostart=true"}});
+//--><!]]>
+</script>
+  <title>Honours Computer Science (75 credits) | Programs, Courses and University Regulations - McGill University</title>
+</head>
+
+<body class="not-front not-logged-in page-node node-type-program one-sidebar sidebar-left i18n-en ">
+  <div id="feedback"><h4><a href="/study/2014-2015/feedback">Feedback</a></h4></div>
+    <div id="strap">
+    <div id="strap-container">
+      <div id="mcgill-logo">
+        <a title="return to McGill University" href="http://www.mcgill.ca"><span id="site-name" class="base-hide">McGill University</span></a>
+      </div>
+      
+       
+
+    </div>
+    <!-- End strap container -->
+  </div>
+  <!-- End Strap -->
+
+  <div id="container">
+          <div id="navigation">
+        <h2 class="base-hide">Main navigation</h2>
+        
+
+	<div id="block-ew_active_menu-2" class="block block-ew_active_menu ">
+
+		<div class="content">
+					
+    	<div class="menu-block-8 menu-name-primary-links parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="leaf first menu-mlid-42913"><a href="/study/2014-2015/" title="eCalendar Home">Home</a></li>
+<li class="expanded menu-mlid-43113 active-trail"><a href="/study/2014-2015/node/631" title="Faculties &amp; Schools" class="active-trail">Faculties &amp; Schools</a><ul class="menu"><li class="expanded first menu-mlid-43189 active-trail"><a href="/study/2014-2015/node/717" title="" class="active-trail">Online Calendars</a><ul class="menu"><li class="leaf first menu-mlid-43190 has-children"><a href="/study/2014-2015/faculties/macdonald" title="Faculty of Agricultural &amp; Environmental Sciences, including School of Dietetics and Human Nutrition">Faculty of Agricultural &amp; Environmental Sciences</a></li>
+<li class="leaf menu-mlid-43191 has-children"><a href="/study/2014-2015/faculties/arts" title="Faculty of Arts, including School of Social Work">Faculty of Arts</a></li>
+<li class="leaf menu-mlid-43192 has-children"><a href="/study/2014-2015/faculties/basc" title="Bachelor of Arts &amp; Science">Bachelor of Arts &amp; Science</a></li>
+<li class="leaf menu-mlid-43193 has-children"><a href="/study/2014-2015/faculties/continuing" title="School of Continuing Studies">School of Continuing Studies</a></li>
+<li class="leaf menu-mlid-43194 has-children"><a href="/study/2014-2015/faculties/dentistry" title="Faculty of Dentistry">Faculty of Dentistry</a></li>
+<li class="leaf menu-mlid-43195 has-children"><a href="/study/2014-2015/faculties/education" title="Faculty of Education, including School of Information Studies">Faculty of Education</a></li>
+<li class="leaf menu-mlid-43196 has-children"><a href="/study/2014-2015/faculties/engineering" title="Faculty of Engineering, including Schools of Architecture &amp; Urban Planning">Faculty of Engineering</a></li>
+<li class="leaf menu-mlid-43197 has-children"><a href="/study/2014-2015/faculties/environment" title="McGill School of Environment">McGill School of Environment</a></li>
+<li class="leaf menu-mlid-43198 has-children"><a href="/study/2014-2015/faculties/fieldstudies" title="Field Studies">Field Studies</a></li>
+<li class="leaf menu-mlid-43199 has-children"><a href="/study/2014-2015/faculties/law" title="Faculty of Law">Faculty of Law</a></li>
+<li class="leaf menu-mlid-43200 has-children"><a href="/study/2014-2015/faculties/desautels" title="Desautels Faculty of Management">Desautels Faculty of Management</a></li>
+<li class="leaf menu-mlid-43201 has-children"><a href="/study/2014-2015/faculties/medicine" title="Faculty of Medicine">Faculty of Medicine</a></li>
+<li class="leaf menu-mlid-43202 has-children"><a href="/study/2014-2015/faculties/music" title="Schulich School of Music">Schulich School of Music</a></li>
+<li class="leaf menu-mlid-43203 has-children"><a href="/study/2014-2015/faculties/nursing" title="Ingram School of Nursing">Ingram School of Nursing</a></li>
+<li class="leaf menu-mlid-43204 has-children"><a href="/study/2014-2015/faculties/spot" title="School of Physical and Occupational Therapy">School of Physical &amp; Occupational Therapy</a></li>
+<li class="leaf menu-mlid-43205 has-children"><a href="/study/2014-2015/faculties/religiousstudies" title="Faculty of Religious Studies">Faculty of Religious Studies</a></li>
+<li class="leaf menu-mlid-43206 has-children active active-trail"><a href="/study/2014-2015/faculties/science" title="Faculty of Science, including School of Computer Science" class="active-trail active">Faculty of Science</a></li>
+<li class="leaf last menu-mlid-45005"><a href="/study/2014-2015/faculties/summer" title="Summer Studies at McGill">Summer Studies</a></li>
+</ul></li>
+<li class="expanded last menu-mlid-45888"><a href="/study/2014-2015/node/49618" title="">External Calendars</a><ul class="menu"><li class="leaf first menu-mlid-45896"><a href="http://coursecalendar.mcgill.ca/hs201415/" title="Health Sciences Undergraduate/Professional (Dentistry; Dietetics &amp; Human Nutrition; Medicine; Nursing; Physical &amp; Occupational Therapy)">Health Sciences Undergraduate/Professional</a></li>
+<li class="leaf menu-mlid-45897"><a href="http://coursecalendar.mcgill.ca/hs201415/wwhelp/wwhimpl/js/html/wwhelp.htm#href=HSDEN20142015.06.01.html" title="Health Sciences – Faculty of Dentistry (Professional)">- Faculty of Dentistry</a></li>
+<li class="leaf menu-mlid-45898"><a href="http://coursecalendar.mcgill.ca/hs201415/wwhelp/wwhimpl/js/html/wwhelp.htm#href=HSDIET20142015.07.01.html" title="Health Sciences – School of Dietetics &amp; Human Nutrition (Undergraduate)">- School of Dietetics &amp; Human Nutrition</a></li>
+<li class="leaf menu-mlid-45899"><a href="http://coursecalendar.mcgill.ca/hs201415/wwhelp/wwhimpl/js/html/wwhelp.htm#href=HSMED20142015.08.01.html" title="Health Sciences – Faculty of Medicine (Professional)">- Faculty of Medicine</a></li>
+<li class="leaf menu-mlid-45900"><a href="http://coursecalendar.mcgill.ca/hs201415/wwhelp/wwhimpl/js/html/wwhelp.htm#href=HSNURS20142015.09.01.html" title="Health Sciences – Ingram School of Nursing (Undergraduate)">- Ingram School of Nursing</a></li>
+<li class="leaf menu-mlid-45901"><a href="http://coursecalendar.mcgill.ca/hs201415/wwhelp/wwhimpl/js/html/wwhelp.htm#href=HSPOT20142015.10.01.html" title="Health Sciences – School of Physical &amp; Occupational Therapy (Undergraduate)">- School of Physical &amp; Occupational Therapy</a></li>
+<li class="leaf last menu-mlid-45911"><a href="http://coursecalendar.mcgill.ca/scholarships201415/" title="Undergraduate Scholarships &amp; Awards">Scholarships &amp; Awards Undergraduate</a></li>
+</ul></li>
+</ul></li>
+<li class="leaf menu-mlid-43186"><a href="/study/2014-2015/courses/search" title="">All Courses</a></li>
+<li class="leaf menu-mlid-43187"><a href="/study/2014-2015/programs/search" title="">All Programs</a></li>
+<li class="expanded menu-mlid-43105"><a href="/study/2014-2015/university_regulations_and_resources" title="University Regulations and Resources">University Regulations and Resources</a><ul class="menu"><li class="leaf first menu-mlid-44687"><a href="/study/2014-2015/university_regulations_and_resources/undergraduate" title="Undergraduate University Regulations and Resources">Undergraduate</a></li>
+<li class="leaf last menu-mlid-45317"><a href="/study/2014-2015/university_regulations_and_resources/continuing">Continuing Studies</a></li>
+</ul></li>
+<li class="leaf menu-mlid-43188"><a href="/study/2014-2015/important-dates" title="">Important Dates</a></li>
+<li class="leaf last menu-mlid-43114"><a href="/study/2014-2015/archives" title="Archives">Archives</a></li>
+</ul></div>
+  	</div>
+	</div>
+
+
+      </div>
+        <div id="header" class="">
+      <div id="header_image">
+         
+          <p id="slogan">Fall 2014 – Summer 2015</p>
+              </div>
+              <div id="header-blocks">
+          <h2 class="base-hide">Header Blocks</h2>
+          
+
+	<div id="block-views-faculty-block_1" class="block block-views ">
+
+		<div class="content">
+					  	<h3>Programs, Courses and University Regulations</h3>
+					
+    	<div class="view view-faculty view-id-faculty view-display-id-block_1 view-dom-id-8d34119115003bbe01b51605cdce8116">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/study/2014-2015/faculties/science">Faculty of Science</a></span>  </span>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  	</div>
+	</div>
+
+
+        </div>
+          </div>
+
+          <div id="sub-navigation">
+        <h2 class="base-hide">Sub navigation</h2>
+        <form action="/study/2014-2015/faculties/science/undergraduate/programs/bachelor-science-bsc-honours-computer-science"  accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="site-search" class="container-inline">
+  <div id="search-dropdown">
+    <div class="search-label">Search</div> 
+    <div class="search-scope">Entire Site</div>
+    <ul class="search-dropdown-list">
+      <li id="search-scope-all">Entire Site</li>
+          <li id="search-scope-macdonald">Agric Environ Sci</li>
+          <li id="search-scope-arts">Arts</li>
+          <li id="search-scope-basc">B.A. & Sc.</li>
+          <li id="search-scope-continuing">Continuing Studies</li>
+          <li id="search-scope-dentistry">Dentistry</li>
+          <li id="search-scope-education">Education</li>
+          <li id="search-scope-engineering">Engineering</li>
+          <li id="search-scope-environment">Environment</li>
+          <li id="search-scope-fieldstudies">Field Studies</li>
+          <li id="search-scope-law">Law</li>
+          <li id="search-scope-desautels">Management</li>
+          <li id="search-scope-medicine">Medicine</li>
+          <li id="search-scope-music">Music</li>
+          <li id="search-scope-nursing">Nursing</li>
+          <li id="search-scope-spot">Phys. & Occ. Ther.</li>
+          <li id="search-scope-religiousstudies">Religious Studies</li>
+          <li id="search-scope-science">Science</li>
+          <li id="search-scope-summer">Summer Studies</li>
+          <!--li id="search-scope-mcgill"></li-->
+    </ul>
+  </div>
+  <div class="form-item" id="edit-search-theme-form-1-wrapper">
+ <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-1" size="15" value="" title="Enter the terms you wish to search for." class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Go"  class="form-submit" />
+<input type="hidden" name="active-scope" id="edit-active-scope" value="science"  />
+<input type="hidden" name="form_build_id" id="form-eMr0pNYvQFs9LJOx75EjKxELCEcqLztR1u14it5m-F4" value="form-eMr0pNYvQFs9LJOx75EjKxELCEcqLztR1u14it5m-F4"  />
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
+</div>
+
+</div></form>
+        
+
+	<div id="block-ew_active_menu-3" class="block block-ew_active_menu ">
+
+		<div class="content">
+					
+    	<div class="menu-block-3 menu-name-primary-links parent-mlid-0 menu-level-4">
+  <ul class="menu"><li class="leaf first menu-mlid-44253"><a href="/study/2014-2015/faculties/science/information">The Faculty</a></li>
+<li class="leaf menu-mlid-44258 has-children"><a href="/study/2014-2015/faculties/science/undergraduate">Undergraduate</a></li>
+<li class="leaf last menu-mlid-45022"><a href="/study/2014-2015/faculties/science/graduate">Graduate</a></li>
+</ul></div>
+  	</div>
+	</div>
+
+
+      </div>
+    
+    <div class="breadcrumb"><a href="http://www.mcgill.ca/">McGill.ca</a> » <a href="/study/2014-2015/">Overview</a> » <a href="/study/2014-2015/faculties/science" title="Faculty of Science, including School of Computer Science">Faculty of Science</a></div>
+
+          <div id="left-sidebar">
+        <h2 class="base-hide">Section navigation</h2>
+        
+
+	<div id="block-ew_active_menu-1" class="block block-ew_active_menu ">
+
+		<div class="content">
+					
+    	<ul class="menu"><li class="collapsed first"><a href="/study/2014-2015/faculties/science/undergraduate/ug_sci_about_the_faculty_undergrad">About the Faculty of Science (Undergraduate)</a></li>
+<li class="leaf"><a href="/study/2014-2015/faculties/science/undergraduate/ug_sci_faculty_admission_reqs">Faculty Admission Requirements</a></li>
+<li class="collapsed"><a href="/study/2014-2015/faculties/science/undergraduate/ug_sci_faculty_degree_reqs">Faculty Degree Requirements</a></li>
+<li class="leaf"><a href="/study/2014-2015/faculties/science/undergraduate/ug_sci_advising">Advising</a></li>
+<li class="leaf"><a href="/study/2014-2015/faculties/science/undergraduate/ug_sci_freshman_interest_groups">Freshman Interest Groups</a></li>
+<li class="leaf"><a href="/study/2014-2015/faculties/science/undergraduate/ug_sci_examinations">Examinations</a></li>
+<li class="collapsed"><a href="/study/2014-2015/faculties/science/undergraduate/ug_sci_overview_of_programs_offered">Overview of Programs Offered</a></li>
+<li class="collapsed"><a href="/study/2014-2015/faculties/science/undergraduate/ug_sci_undergrad_research_opportunities">Undergraduate Research Opportunities</a></li>
+<li class="collapsed"><a href="/study/2014-2015/faculties/science/undergraduate/ug_sci_science_internships_and_field_studies">Science Internships and Field Studies</a></li>
+<li class="expanded last active-trail"><a href="/study/2014-2015/faculties/science/undergraduate/ug_sci_acad_programs_faculty_of_science">Academic Programs</a><ul class="menu"><li class="leaf first"><a href="/study/2014-2015/faculties/science/undergraduate/ug_sci_bsc_freshman_program">B.Sc. Freshman Program</a></li>
+<li class="leaf"><a href="/study/2014-2015/faculties/science/undergraduate/ug_sci_anatomy_and_cell_biology_anat">Anatomy and Cell Biology (ANAT)</a></li>
+<li class="leaf"><a href="/study/2014-2015/faculties/science/undergraduate/ug_sci_atmospheric_and_oceanic_sciences_atoc">Atmospheric and Oceanic Sciences (ATOC)</a></li>
+<li class="leaf"><a href="/study/2014-2015/faculties/science/undergraduate/ug_sci_biochemistry_bioc">Biochemistry (BIOC)</a></li>
+<li class="leaf"><a href="/study/2014-2015/faculties/science/undergraduate/ug_sci_biology_biol">Biology (BIOL)</a></li>
+<li class="leaf"><a href="/study/2014-2015/faculties/science/undergraduate/ug_sci_biotechnology_biot">Biotechnology (BIOT)</a></li>
+<li class="leaf"><a href="/study/2014-2015/faculties/science/undergraduate/ug_sci_chemistry_chem">Chemistry (CHEM)</a></li>
+<li class="leaf"><a href="/study/2014-2015/faculties/science/undergraduate/ug_sci_cognitive_science">Cognitive Science</a></li>
+<li class="leaf active-trail"><a href="/study/2014-2015/faculties/science/undergraduate/ug_sci_computer_science_comp">Computer Science (COMP)</a></li>
+<li class="leaf"><a href="/study/2014-2015/faculties/science/undergraduate/ug_sci_earth_and_planetary_sciences_epsc">Earth and Planetary Sciences (EPSC)</a></li>
+<li class="leaf"><a href="/study/2014-2015/faculties/science/undergraduate/ug_sci_earth_system_science_esys">Earth System Science (ESYS)</a></li>
+<li class="leaf"><a href="/study/2014-2015/faculties/science/undergraduate/ug_sci_environment">Environment</a></li>
+<li class="leaf"><a href="/study/2014-2015/faculties/science/undergraduate/ug_sci_experimental_medicine_exmd">Experimental Medicine (EXMD)</a></li>
+<li class="leaf"><a href="/study/2014-2015/faculties/science/undergraduate/ug_sci_field_study">Field Study</a></li>
+<li class="leaf"><a href="/study/2014-2015/faculties/science/undergraduate/ug_sci_gen_science">General Science</a></li>
+<li class="leaf"><a href="/study/2014-2015/faculties/science/undergraduate/ug_sci_geography">Geography (GEOG)</a></li>
+<li class="leaf"><a href="/study/2014-2015/faculties/science/undergraduate/ug_sci_immunology">Immunology</a></li>
+<li class="leaf"><a href="/study/2014-2015/faculties/science/undergraduate/ug_sci_interdisciplinary_life_sciences">Interdisciplinary Life Sciences</a></li>
+<li class="leaf"><a href="/study/2014-2015/faculties/science/undergraduate/ug_sci_kinesiology_for_science_students">Kinesiology for Science Students</a></li>
+<li class="leaf"><a href="/study/2014-2015/faculties/science/undergraduate/ug_sci_management">Management for Science Students</a></li>
+<li class="leaf"><a href="/study/2014-2015/faculties/science/undergraduate/ug_sci_mathematics_and_statistics_math">Mathematics and Statistics (MATH)</a></li>
+<li class="leaf"><a href="/study/2014-2015/faculties/science/undergraduate/ug_sci_microbiology_and_immunology_mimm">Microbiology and Immunology (MIMM)</a></li>
+<li class="leaf"><a href="/study/2014-2015/faculties/science/undergraduate/ug_sci_music">Music</a></li>
+<li class="leaf"><a href="/study/2014-2015/faculties/science/undergraduate/ug_sci_neurology_and_neurosurgery_neur">Neurology and Neurosurgery (NEUR)</a></li>
+<li class="leaf"><a href="/study/2014-2015/faculties/science/undergraduate/ug_sci_neuroscience">Neuroscience</a></li>
+<li class="leaf"><a href="/study/2014-2015/faculties/science/undergraduate/ug_sci_nutrition_nutr">Nutrition (NUTR)</a></li>
+<li class="leaf"><a href="/study/2014-2015/faculties/science/undergraduate/ug_sci_pathology_path">Pathology (PATH)</a></li>
+<li class="leaf"><a href="/study/2014-2015/faculties/science/undergraduate/ug_sci_pharmacology_and_therapeutics_phar">Pharmacology and Therapeutics (PHAR)</a></li>
+<li class="leaf"><a href="/study/2014-2015/faculties/science/undergraduate/ug_sci_physics_phys">Physics (PHYS)</a></li>
+<li class="leaf"><a href="/study/2014-2015/faculties/science/undergraduate/ug_sci_physiology_phgy">Physiology (PHGY)</a></li>
+<li class="leaf"><a href="/study/2014-2015/faculties/science/undergraduate/ug_sci_psychiatry_psyt">Psychiatry (PSYT)</a></li>
+<li class="leaf"><a href="/study/2014-2015/faculties/science/undergraduate/ug_sci_psychology_psyc">Psychology (PSYC)</a></li>
+<li class="leaf"><a href="/study/2014-2015/faculties/science/undergraduate/ug_sci_redpath_museum_redm">Redpath Museum (REDM)</a></li>
+<li class="leaf"><a href="/study/2014-2015/faculties/science/undergraduate/ug_sci_science_or_mathematics_for_teachers">Science or Mathematics for Teachers</a></li>
+<li class="leaf last"><a href="/study/2014-2015/faculties/science/undergraduate/ug_sci_technological_entrepreneurship_for_science_students">Technological Entrepreneurship for Science Students</a></li>
+</ul></li>
+</ul>  	</div>
+	</div>
+
+
+      </div>
+      <!-- End left block area -->
+    
+    
+    <div id="center-column" class="one-four-col">
+      
+      
+      
+      <div id="content">
+        <div id="content-inner">
+
+	        <div id="top-content">
+                      </div>
+
+                      <h1>Honours Computer Science (75 credits)</h1>
+           
+
+
+            <!-- End top content block area -->
+
+          <div id="content-area">
+            <div id="node-43753" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <strong>Offered by:</strong> Computer Science    &nbsp;&nbsp;&nbsp;
+    <strong>Degree:</strong> Bachelor of Science      </div>
+
+  <div class="content">
+    <h3>Program Requirements</h3>
+
+    
+    <p>Students may complete this program with a minimum of 72 credits or a maximum of 75 credits depending if they are exempt from taking <a href="/study/2014-2015/courses/comp-202">COMP 202</a>.</p>
+<p>Honours students must maintain a CGPA of at least 3.00 during their studies and at graduation.</p>
+
+          <h4>Required Courses (48 credits)</h4>
+
+    
+              <p>* Students who have sufficient knowledge in a programming language do not need to take <a href="/study/2014-2015/courses/comp-202">COMP 202</a>.<br />
+** Students take either <a href="/study/2014-2015/courses/math-340">MATH 340</a> or <a href="/study/2014-2015/courses/math-350">MATH 350</a>.</p>
+    
+              <ul class="program-set">
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/comp-202" class="program-course-title">
+              COMP 202 Foundations of Programming (3 credits)              *            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-21254" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Computer Science (<a href="/study/2014-2015/node/615">Faculty of Science</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Computer Science (Sci)              : Introduction to programming in a modern high-level language, modular software design and debugging. Programming concepts are illustrated using a variety of application areas.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Fall 2014, Winter 2015          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Jorg Andreas Kienzle (Fall)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>3 hours</li>
+              <li>Prerequisite: a CEGEP level mathematics course</li>
+              <li>Restrictions: COMP 202 and COMP 208 cannot both be taken for credit. COMP 202 is intended as a general introductory course, while COMP 208 is intended for students interested in scientific computation. COMP 202 cannot be taken for credit with or after COMP 250</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/comp-206" class="program-course-title">
+              COMP 206 Introduction to Software Systems (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-21256" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Computer Science (<a href="/study/2014-2015/node/615">Faculty of Science</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Computer Science (Sci)              : Comprehensive overview of programming in C, use of system calls and libraries, debugging and testing of code; use of developmental tools like make, version control systems.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Fall 2014, Winter 2015          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Joseph P Vybihal (Fall)                  Joseph P Vybihal (Winter)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>3 hours</li>
+              <li>Prerequisite: COMP 202 or COMP 250</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/comp-250" class="program-course-title">
+              COMP 250 Introduction to Computer Science (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-21262" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Computer Science (<a href="/study/2014-2015/node/615">Faculty of Science</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Computer Science (Sci)              : An introduction to the design of computer algorithms, including basic data structures, analysis of algorithms, and establishing correctness of programs. Overview of topics in computer science.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Fall 2014, Winter 2015          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Mathieu Blanchette, Jérôme Waldispuhl (Fall)                  Martin Robillard (Winter)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>3 hours</li>
+              <li>Prerequisites: Familiarity with a high level programming language and CEGEP level Math.</li>
+              <li>Restrictions: COMP 203 and COMP 250 are considered to be equivalent from a prerequisite point of view, and cannot both be taken for credit.</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/comp-252" class="program-course-title">
+              COMP 252 Honours Algorithms and Data Structures (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-21266" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Computer Science (<a href="/study/2014-2015/node/615">Faculty of Science</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Computer Science (Sci)              : The design and analysis of data structures and algorithms. The description of various computational problems and the algorithms that can be used to solve them, along with their associated data structures. Proving the correctness of algorithms and determining their computational complexity.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Winter 2015          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Hamed Hatami (Winter)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>3 hours</li>
+              <li>Prerequisite: COMP 250 and MATH 240</li>
+              <li>Restrictions: Open only to students registered in following programs: Honours in Computer Science, Joint Honours in Mathematics and Computer Science, Honours in Applied Mathematics, Honours in Mathematics. Not open to students who have taken or are taking COMP 251.</li>
+              <li>Note: COMP 252 can be used instead of COMP 251 to satisfy prerequisites.</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/comp-273" class="program-course-title">
+              COMP 273 Introduction to Computer Systems (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-21268" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Computer Science (<a href="/study/2014-2015/node/615">Faculty of Science</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Computer Science (Sci)              : Number representations, combinational and sequential digital circuits, MIPS instructions and architecture datapath and control, caches, virtual memory, interrupts and exceptions, pipelining.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Fall 2014, Winter 2015          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Joseph P Vybihal (Fall)                  Joseph P Vybihal (Winter)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>3 hours</li>
+              <li>Corequisite: COMP 206.</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/comp-302" class="program-course-title">
+              COMP 302 Programming Languages and Paradigms (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-21272" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Computer Science (<a href="/study/2014-2015/node/615">Faculty of Science</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Computer Science (Sci)              : Programming language design issues and programming paradigms. Binding and scoping, parameter passing, lambda abstraction, data abstraction, type checking. Functional and logic programming.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Fall 2014, Winter 2015          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Brigitte Pientka (Fall)                  Nathan Friedman (Winter)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>  3 hours</li>
+              <li>Prerequisite:  COMP 250</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/comp-303" class="program-course-title">
+              COMP 303 Software Development (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-21274" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Computer Science (<a href="/study/2014-2015/node/615">Faculty of Science</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Computer Science (Sci)              : Principles, mechanisms, techniques, and tools for object-oriented software development: encapsulation, design patterns, unit testing, etc.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Fall 2014          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Martin Robillard (Fall)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>3 hours</li>
+              <li>Prerequisites: COMP 206, COMP 250.</li>
+              <li>The course involves a significant project.</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/comp-310" class="program-course-title">
+              COMP 310 Operating Systems (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-21280" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Computer Science (<a href="/study/2014-2015/node/615">Faculty of Science</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Computer Science (Sci)              : Control and scheduling of large information processing systems. Operating system software - resource allocation, dispatching, processors, access methods, job control languages, main storage management. Batch processing, multiprogramming, multiprocessing, time sharing.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Fall 2014, Winter 2015          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Muthucumaru Maheswaran (Fall)                  Muthucumaru Maheswaran (Winter)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>3 hours</li>
+              <li>Prerequisite: COMP 273 </li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/comp-330" class="program-course-title">
+              COMP 330 Theory of Computation (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-21286" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Computer Science (<a href="/study/2014-2015/node/615">Faculty of Science</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Computer Science (Sci)              : Mathematical models of computers, finite automata, Turing machines, counter machines, push-down machines, computational complexity.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Fall 2014          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Prakash Panangaden (Fall)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>3 hours</li>
+              <li>Prerequisite: COMP 251.</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/comp-350" class="program-course-title">
+              COMP 350 Numerical Computing (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-21288" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Computer Science (<a href="/study/2014-2015/node/615">Faculty of Science</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Computer Science (Sci)              : Computer representation of numbers, IEEE Standard for Floating Point Representation, computer arithmetic and rounding errors. Numerical stability. Matrix computations and software systems. Polynomial interpolation. Least-squares approximation. Iterative methods for solving a nonlinear equation. Discretization methods for integration and differential equations.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Fall 2014          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Xiao-Wen Chang (Fall)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>3 hours</li>
+              <li>Prerequisites: MATH 222 and MATH 223 and one of: COMP 202, COMP 208, COMP 250; or equivalents.</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/comp-362" class="program-course-title">
+              COMP 362 Honours Algorithm Design (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-21296" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Computer Science (<a href="/study/2014-2015/node/615">Faculty of Science</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Computer Science (Sci)              : Basic algorithmic techniques, their applications and limitations. Problem complexity, how to deal with problems for which no efficient solutions are known.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Winter 2015          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Hamed Hatami (Winter)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>3 hours</li>
+              <li>Prerequisite: COMP 252</li>
+              <li>Restriction: Not open to students who have taken or are taking COMP 360.</li>
+              <li>Note: COMP 362 can be used instead of COMP 360 to satisfy prerequisites.</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/comp-400" class="program-course-title">
+              COMP 400 Honours Project in Computer Science (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-21302" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Computer Science (<a href="/study/2014-2015/node/615">Faculty of Science</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Computer Science (Sci)              : A computer related project, typically a programming effort, along with a report will be carried out in cooperation with a staff member in the School of Computer Science.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Fall 2014, Winter 2015          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Nathan Friedman (Fall)                  Nathan Friedman (Winter)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>3 hours</li>
+              <li>Prerequisites: 15 Computer Science credits.</li>
+              <li>Restriction: For Honours students</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/math-222" class="program-course-title">
+              MATH 222 Calculus 3 (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-29432" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Mathematics and Statistics (<a href="/study/2014-2015/node/615">Faculty of Science</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Mathematics &amp; Statistics (Sci)              : Taylor series, Taylor's theorem in one and several variables. Review of vector geometry. Partial differentiation, directional derivative. Extreme of functions of 2 or 3 variables. Parametric curves and arc length. Polar and spherical coordinates. Multiple integrals.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Fall 2014, Winter 2015          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Gantumur Tsogtgerel (Winter)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>Prerequisite: MATH 141. Familiarity with vector geometry or Corequisite: MATH 133</li>
+              <li>Restriction: Not open to students who have taken CEGEP course 201-303 or MATH 150, MATH 151 or MATH 227</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/math-223" class="program-course-title">
+              MATH 223 Linear Algebra (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-29434" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Mathematics and Statistics (<a href="/study/2014-2015/node/615">Faculty of Science</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Mathematics &amp; Statistics (Sci)              : Review of matrix algebra, determinants and systems of linear equations. Vector spaces, linear operators and their matrix representations, orthogonality. Eigenvalues and eigenvectors, diagonalization of Hermitian matrices. Applications.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Fall 2014, Winter 2015          </p>
+
+    <p class="catalog-instructors">
+      Instructors:              There are no professors associated with this course for the 2014-2015 academic year.          </p>
+
+    
+          <ul class="catalog-notes">
+              <li>Fall and Winter</li>
+              <li>Prerequisite: MATH 133 or equivalent </li>
+              <li>Restriction: Not open to students in Mathematics programs nor to students who have taken or are taking MATH 236, MATH 247 or MATH 251. It is open to students in Faculty Programs</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/math-240" class="program-course-title">
+              MATH 240 Discrete Structures 1 (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-29440" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Mathematics and Statistics (<a href="/study/2014-2015/node/615">Faculty of Science</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Mathematics &amp; Statistics (Sci)              : Mathematical foundations of logical thinking and reasoning. Mathematical language and proof techniques. Quantifiers. Induction. Elementary number theory. Modular arithmetic. Recurrence relations and asymptotics. Combinatorial enumeration. Functions and relations. Partially ordered sets and lattices. Introduction to graphs, digraphs and rooted trees.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Fall 2014          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Adrian Roshan Vetta (Fall)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>Fall</li>
+              <li>Corequisite: MATH 133.</li>
+              <li>Restriction: For students in any Computer Science program.  Others only with the instructor's permission.  Not open to students who have taken or are taking MATH 235.</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/math-340" class="program-course-title">
+              MATH 340 Discrete Structures 2 (3 credits)              **            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-29496" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Mathematics and Statistics (<a href="/study/2014-2015/node/615">Faculty of Science</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Mathematics &amp; Statistics (Sci)              : Review of mathematical writing, proof techniques, graph theory and counting. Mathematical logic. Graph connectivity, planar graphs and colouring. Probability and graphs. Introductory group theory, isomorphisms and automorphisms of graphs. Enumeration and listing.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Winter 2015          </p>
+
+    <p class="catalog-instructors">
+      Instructors:              There are no professors associated with this course for the 2014-2015 academic year.          </p>
+
+    
+          <ul class="catalog-notes">
+              <li>Winter</li>
+              <li>Prerequisites: MATH 235 or MATH 240 or MATH 242.</li>
+              <li>Corequisites: MATH 223 or MATH 236.</li>
+              <li>Restriction: Not open to students who have taken or are taking MATH 343 or MATH 350.</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/math-350" class="program-course-title">
+              MATH 350 Graph Theory and Combinatorics (3 credits)              **            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-29502" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Mathematics and Statistics (<a href="/study/2014-2015/node/615">Faculty of Science</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Mathematics &amp; Statistics (Sci)              : Graph models. Graph connectivity, planarity and colouring. Extremal graph theory. Matroids. Enumerative combinatorics and listing.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Fall 2014          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Sergey Norin (Fall)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>Prerequisites: MATH 235 or MATH 240 and MATH 251 or MATH 223.</li>
+              <li>Restrictions: Not open to students who have taken or are taking MATH 343 or MATH 340.</li>
+              <li>Intended for students in mathematics or computer science honours programs.</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                </ul>
+      
+      
+                <h4>Complementary Courses (27 credits)</h4>
+
+    
+      
+      
+      
+                <h4></h4>
+
+    
+              <p>6 credits selected from:</p>
+    
+              <ul class="program-set">
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/math-318" class="program-course-title">
+              MATH 318 Mathematical Logic (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-29474" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Mathematics and Statistics (<a href="/study/2014-2015/node/615">Faculty of Science</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Mathematics &amp; Statistics (Sci)              : Propositional calculus, truth-tables, switching circuits, natural deduction, first order predicate calculus, axiomatic theories, set theory.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Fall 2014          </p>
+
+    <p class="catalog-instructors">
+      Instructors:              There are no professors associated with this course for the 2014-2015 academic year.          </p>
+
+    
+          <ul class="catalog-notes">
+              <li>Fall</li>
+              <li>Restriction: Not open to students who are taking or have taken PHIL 210</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/math-323" class="program-course-title">
+              MATH 323 Probability (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-29480" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Mathematics and Statistics (<a href="/study/2014-2015/node/615">Faculty of Science</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Mathematics &amp; Statistics (Sci)              : Sample space, events, conditional probability, independence of events, Bayes' Theorem. Basic combinatorial probability, random variables, discrete and continuous univariate and multivariate distributions. Independence of random variables. Inequalities, weak law of large numbers, central limit theorem.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Fall 2014, Winter 2015          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Djivede Kelome (Winter)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>Prerequisites: MATH 141 or equivalent.</li>
+              <li>Restriction: Intended for students in Science, Engineering and related disciplines, who have had differential and integral calculus</li>
+              <li>Restriction: Not open to students who have taken or are taking MATH 356</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/math-324" class="program-course-title">
+              MATH 324 Statistics (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-29482" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Mathematics and Statistics (<a href="/study/2014-2015/node/615">Faculty of Science</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Mathematics &amp; Statistics (Sci)              : Sampling distributions, point and interval estimation, hypothesis testing, analysis of variance, contingency tables, nonparametric inference, regression, Bayesian inference.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Fall 2014, Winter 2015          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Russell Steele (Winter)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>Fall and Winter</li>
+              <li>Prerequisite: MATH 323 or equivalent </li>
+              <li>Restriction: Not open to students who have taken or are taking MATH 357</li>
+              <li>You may not be able to receive credit for this course and other statistic courses. Be sure to check the Course Overlap section under Faculty Degree Requirements in the Arts or Science section of the Calendar.</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                </ul>
+      
+      
+                <h4></h4>
+
+    
+              <p>The remaining credits selected from computer science courses at the 300 level or above (except <a href="/study/2014-2015/courses/comp-364">COMP 364</a> and <a href="/study/2014-2015/courses/comp-396">COMP 396</a>). At least 12 credits must be at the 500 level.</p>
+    
+      
+      
+            </div>
+
+    
+  
+  <div class="disclaimer">Faculty of Science&mdash;2014-2015 (last updated Feb. 18, 2014) (<a href="/study/2014-2015/disclaimer">disclaimer</a>)</div>
+  </div> <!-- /.node -->
+          </div>
+        </div>
+      </div>
+          </div>
+    <!-- center column -->
+
+    
+    
+    <div id="footer">
+      <h2 class="base-hide">Department and University Information</h2>
+      
+
+	<div id="block-views-faculty_links-block_1" class="block block-views ">
+
+		<div class="content">
+					  	<h3>Faculty Links</h3>
+					
+    	<div class="view view-faculty-links view-id-faculty_links view-display-id-block_1 view-dom-id-7926205d46eb470405293f56172154c9">
+    
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">  
+  <div class="views-field views-field-field-faculty-links-url">        <span class="field-content"><a href="http://www.mcgill.ca/science/">Faculty of Science Home</a></span>  </div></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  	</div>
+	</div>
+
+
+
+
+	<div id="block-views-faculty_address-block_1" class="block block-views ">
+
+		<div class="content">
+					  	<h3>Faculty of Science</h3>
+					
+    	<div class="view view-faculty-address view-id-faculty_address view-display-id-block_1 view-dom-id-cd320ebf3f67fc70ca3e18bda2c1919b">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-faculty-address-value">        <div class="field-content"><p>Dawson Hall</p>
+<p>853 Sherbrooke Street West <a href="http://www.mcgill.ca/maps/?Building=000123" rel="nofollow">[Map]</a></p>
+<p>Montreal QC &nbsp;H3A 0G5</p></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  	</div>
+	</div>
+
+
+    </div>
+    <!-- End footer -->
+
+    <div id="clear" ></div>
+    <!-- End clear -->
+  </div>
+  <!-- End container -->
+  <script type="text/javascript" src="/study/2014-2015/sites/mcgill.ca.study.2014-2015/files/advagg_js/js_f9636d81181e101e76c9b6db598ffe16_0.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var gaJsHost=(("https:"==document.location.protocol)?"https://ssl.":"http://www.");document.write(unescape("%3Cscript src='"+gaJsHost+"google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"))
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+try{var pageTracker=_gat._getTracker("UA-26739495-1");pageTracker._setLocalGifPath(location.protocol+"//"+location.hostname+"/errors/sites/all/libraries/urchin/__utm.gif");pageTracker._setLocalRemoteServerMode();pageTracker._trackPageview()}catch(err){}
+//--><!]]>
+</script>
+</body>
+</html>

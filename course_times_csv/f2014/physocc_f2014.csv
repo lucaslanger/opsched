@@ -1,0 +1,102 @@
+External
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+2422,EXTL,EXPO,015,Exchange Term Away,0.000,"Exchange Term Away-Phys & Occ",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2596,EXTL,IUPO,001,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2597,EXTL,IUPO,002,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2598,EXTL,IUPO,003,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2599,EXTL,IUPO,004,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2600,EXTL,IUPO,005,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2601,EXTL,IUPO,006,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2602,EXTL,IUPO,007,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2603,EXTL,IUPO,008,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2604,EXTL,IUPO,009,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2605,EXTL,IUPO,010,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2606,EXTL,IUPO,011,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2607,EXTL,IUPO,012,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2437,EXTL,LAPO,001,Leave of Absence,0.000,"Leave of Absence-Phys & Occ Th",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+Occupational Therapy
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+11543,OCC1,245,002,Lecture,3.000,"Occupational Therapy Seminars.",R,08:35 AM-11:25 AM,45,0,0,0,"Crystal  Garnett, Cynthia  Perlman",09/02-12/03,MCMED 1034,Active
+14564,OCC1,245,003,Break-Out Room,0.000,"Occupational Therapy Seminars.",R,08:35 AM-11:25 AM,60,0,0,0,"Cynthia  Perlman",09/02-12/03,MCMED 1027,Registration Not Required
+13516,OCC1,501,001,Practicum,7.000,"Clinical Practicum 1.",,TBA,20,0,0,0,"Caroline  Storr, Susanne  Mak",09/02-12/04,TBA,Active
+13517,OCC1,502,001,Practicum,7.000,"Clinical Practicum 2.",,TBA,10,0,0,0,"Caroline  Storr, Susanne  Mak",09/02-12/04,TBA,Active
+13518,OCC1,503,001,Practicum,7.000,"Clinical Practicum 3.",,TBA,10,0,0,0,"Caroline  Storr, Susanne  Mak",09/02-12/04,TBA,Active
+7980,OCC1,545,001,Lecture,8.000,"Therapeutic Strategies in OT 1.",MWF,08:35 AM-09:55 AM,80,0,0,0,"Marie-Eve  Bolduc, Susanne  Mak, Tokiko  Hamasaki, Barbara  Shankland, Bernadette  Nedelec, Nancy  Forget",09/02-12/04,MCMED 1034,Active
+,,,,,,,R,08:35 AM-09:55 AM,,,,,"Marie-Eve  Bolduc, Susanne  Mak, Tokiko  Hamasaki, Barbara  Shankland, Bernadette  Nedelec, Nancy  Forget",12/04-12/04,MCMED 1034,Active
+7981,OCC1,545,002,Workshop,0.000,"Therapeutic Strategies in OT 1.",MW,10:35 AM-12:25 PM,80,0,0,0,"Marie-Eve  Bolduc, Susanne  Mak, Nancy  Forget, Tokiko  Hamasaki, Aliki  Thomas, Andrew B  Christopher, Franzina  Coutinho, Bernadette  Nedelec",09/02-12/04,MCMED 208/9,Active
+,,,,,,,F,10:35 AM-12:25 PM,,,,,"Marie-Eve  Bolduc, Susanne  Mak, Nancy  Forget, Tokiko  Hamasaki, Aliki  Thomas, Andrew B  Christopher, Franzina  Coutinho, Bernadette  Nedelec",09/02-12/04,MCMED 206/7,Active
+,,,,,,,R,10:35 AM-12:25 PM,,,,,"Marie-Eve  Bolduc, Susanne  Mak, Nancy  Forget, Tokiko  Hamasaki, Aliki  Thomas, Andrew B  Christopher, Franzina  Coutinho, Bernadette  Nedelec",12/04-12/04,TBA,Active
+8258,OCC1,545,003,Seminar,0.000,"Therapeutic Strategies in OT 1.",MWF,10:35 AM-12:55 PM,80,0,0,0,"Marie-Eve  Bolduc, Susanne  Mak, Nancy  Forget, Tokiko  Hamasaki, Aliki  Thomas, Andrew B  Christopher, Franzina  Coutinho, Bernadette  Nedelec",09/02-12/04,HOSMER 105,Active
+,,,,,,,MWF,02:05 PM-04:25 PM,,,,,"Marie-Eve  Bolduc, Susanne  Mak, Nancy  Forget, Tokiko  Hamasaki, Aliki  Thomas, Andrew B  Christopher, Franzina  Coutinho, Bernadette  Nedelec",09/02-12/04,HOSMER 105,Active
+,,,,,,,R,10:35 AM-12:55 PM,,,,,"Marie-Eve  Bolduc, Susanne  Mak, Nancy  Forget, Tokiko  Hamasaki, Aliki  Thomas, Andrew B  Christopher, Franzina  Coutinho, Bernadette  Nedelec",12/04-12/04,HOSMER 105,Active
+,,,,,,,R,02:05 PM-04:25 PM,,,,,"Marie-Eve  Bolduc, Susanne  Mak, Nancy  Forget, Tokiko  Hamasaki, Aliki  Thomas, Andrew B  Christopher, Franzina  Coutinho, Bernadette  Nedelec",12/04-12/04,HOSMER 105,Active
+8463,OCC1,545,004,Laboratory,0.000,"Therapeutic Strategies in OT 1.",R,11:05 AM-12:55 PM,80,0,0,0,"Marie-Eve  Bolduc, Susanne  Mak, Nancy  Forget, Tokiko  Hamasaki, Aliki  Thomas, Andrew B  Christopher, Franzina  Coutinho, Bernadette  Nedelec",09/02-12/03,HOSMER 105,Active
+8464,OCC1,545,005,Break-Out Room,0.000,"Therapeutic Strategies in OT 1.",MWF,02:05 PM-04:25 PM,5,0,0,0,"Marie-Eve  Bolduc, Bernadette  Nedelec, Susanne  Mak",09/02-12/04,HOSMER 104,Registration Not Required
+,,,,,,,M,10:35 AM-12:55 PM,,,,,"Marie-Eve  Bolduc, Bernadette  Nedelec, Susanne  Mak",09/02-12/04,HOSMER 104,Registration Not Required
+,,,,,,,W,10:35 AM-12:55 PM,,,,,"Marie-Eve  Bolduc, Bernadette  Nedelec, Susanne  Mak",09/02-12/04,HOSMER 104,Registration Not Required
+,,,,,,,R,11:05 AM-12:55 PM,,,,,"Marie-Eve  Bolduc, Bernadette  Nedelec, Susanne  Mak",09/02-12/03,HOSMER 16,Registration Not Required
+,,,,,,,F,10:35 AM-12:55 PM,,,,,"Marie-Eve  Bolduc, Bernadette  Nedelec, Susanne  Mak",09/02-12/04,HOSMER 104,Registration Not Required
+,,,,,,,R,10:35 AM-12:55 PM,,,,,"Marie-Eve  Bolduc, Bernadette  Nedelec, Susanne  Mak",12/04-12/04,HOSMER 104,Registration Not Required
+,,,,,,,R,02:05 PM-04:25 PM,,,,,"Marie-Eve  Bolduc, Bernadette  Nedelec, Susanne  Mak",12/04-12/04,HOSMER 104,Registration Not Required
+11609,OCC1,545,006,Break-Out Room,0.000,"Therapeutic Strategies in OT 1.",MWF,10:35 AM-12:55 PM,5,0,0,0,TBA,09/02-12/04,TBA,Cancelled
+,,,,,,,R,10:35 AM-12:55 PM,,,,,TBA,12/04-12/04,TBA,Cancelled
+17663,OCC1,545,007,Break-Out Room,0.000,"Therapeutic Strategies in OT 1.",MWF,10:35 AM-12:55 PM,5,0,0,0,"Marie-Eve  Bolduc, Bernadette  Nedelec, Susanne  Mak",09/02-12/04,HOSMER 16,Registration Not Required
+,,,,,,,MWF,02:05 PM-04:25 PM,,,,,"Marie-Eve  Bolduc, Bernadette  Nedelec, Susanne  Mak",09/02-12/04,HOSMER 16,Registration Not Required
+,,,,,,,R,10:35 AM-12:55 PM,,,,,"Marie-Eve  Bolduc, Bernadette  Nedelec, Susanne  Mak",12/04-12/04,HOSMER 16,Registration Not Required
+,,,,,,,R,02:05 PM-04:25 PM,,,,,"Marie-Eve  Bolduc, Bernadette  Nedelec, Susanne  Mak",12/04-12/04,HOSMER 16,Registration Not Required
+17989,OCC1,545,008,Break-Out Room,0.000,"Therapeutic Strategies in OT 1.",F,12:35 PM-01:25 PM,5,0,0,0,"Bernadette  Nedelec",09/02-12/04,TBA,Cancelled
+17990,OCC1,545,009,Break-Out Room,0.000,"Therapeutic Strategies in OT 1.",MF,02:05 PM-04:25 PM,5,0,0,0,"Marie-Eve  Bolduc, Bernadette  Nedelec, Susanne  Mak",09/02-12/04,TBA,Registration Not Required
+,,,,,,,R,02:05 PM-04:25 PM,,,,,"Marie-Eve  Bolduc, Bernadette  Nedelec, Susanne  Mak",12/04-12/04,TBA,Registration Not Required
+18096,OCC1,545,010,Break-Out Room,0.000,"Therapeutic Strategies in OT 1.",MWF,10:35 AM-12:55 PM,5,0,0,0,TBA,09/02-12/04,TBA,Cancelled
+,,,,,,,R,10:35 AM-12:55 PM,,,,,TBA,12/04-12/04,TBA,Cancelled
+18790,OCC1,545,011,Break-Out Room,0.000,"Therapeutic Strategies in OT 1.",MWF,10:35 AM-12:55 PM,5,0,0,0,"Bernadette  Nedelec, Susanne  Mak",09/02-12/04,HOSMER 17,Registration Not Required
+,,,,,,,MWF,02:05 PM-04:25 PM,,,,,"Bernadette  Nedelec, Susanne  Mak",09/02-12/04,HOSMER 17,Registration Not Required
+,,,,,,,R,10:35 AM-12:55 PM,,,,,"Bernadette  Nedelec, Susanne  Mak",12/04-12/04,HOSMER 17,Registration Not Required
+,,,,,,,R,02:05 PM-04:25 PM,,,,,"Bernadette  Nedelec, Susanne  Mak",12/04-12/04,HOSMER 17,Registration Not Required
+8090,OCC1,550,001,Lecture,3.000,"Enabling Human Occupation.",T,11:35 AM-01:25 PM,80,0,0,0,"Franzina  Coutinho, Cynthia  Perlman",09/02-12/04,MCMED 1034,Active
+8091,OCC1,550,002,Laboratory,0.000,"Enabling Human Occupation.",R,01:05 PM-04:55 PM,80,0,0,0,"Franzina  Coutinho, Cynthia  Perlman",09/02-12/03,MCMED 206/7,Active
+11878,OCC1,550,004,Break-Out Room,0.000,"Enabling Human Occupation.",R,02:05 PM-05:55 PM,5,0,0,0,"Franzina  Coutinho, Cynthia  Perlman",09/02-12/03,DAVIS B-6,Registration Not Required
+18040,OCC1,550,005,Break-Out Room,0.000,"Enabling Human Occupation.",R,02:05 PM-05:55 PM,5,0,0,0,"Franzina  Coutinho, Cynthia  Perlman",09/02-12/03,DAVIS 3,Registration Not Required
+18041,OCC1,550,006,Break-Out Room,0.000,"Enabling Human Occupation.",R,02:05 PM-05:55 PM,5,0,0,0,"Franzina  Coutinho, Cynthia  Perlman",09/02-12/03,TBA,Registration Not Required
+18042,OCC1,550,007,Break-Out Room,0.000,"Enabling Human Occupation.",R,02:05 PM-05:55 PM,5,0,0,0,"Franzina  Coutinho, Cynthia  Perlman",09/02-12/03,HOSMER 16,Registration Not Required
+Physical Therapy
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+8691,PHTH,245,001,Lecture,3.000,"Physical Therapy Seminars.",R,08:35 AM-11:25 AM,55,0,0,0,"Crystal  Garnett, Cynthia  Perlman",09/02-12/03,MCMED 1034,Active
+8095,PHTH,550,001,Lecture,7.000,"Physical Therapy Orthopedic Management.",M,01:35 PM-03:55 PM,80,0,0,0,"Richard Arthur Preuss, Isabelle  Pearson",09/02-11/23,MCMED 521,Active
+,,,,,,,M,01:35 PM-03:55 PM,,,,,"Richard Arthur Preuss, Isabelle  Pearson",11/24-11/24,MCMED 521,Active
+,,,,,,,M,01:35 PM-03:55 PM,,,,,"Richard Arthur Preuss, Isabelle  Pearson",11/25-12/04,MCMED 521,Active
+,,,,,,,R,01:35 PM-03:55 PM,,,,,"Richard Arthur Preuss, Isabelle  Pearson",12/04-12/04,MCMED 521,Active
+8096,PHTH,550,002,Laboratory,0.000,"Physical Therapy Orthopedic Management.",TR,08:35 AM-12:25 PM,80,0,0,0,"Richard Arthur Preuss, Isabelle  Pearson",09/02-12/03,HOSMCH 10,Active
+8097,PHTH,550,003,Workshop,0.000,"Physical Therapy Orthopedic Management.",TR,12:35 PM-02:25 PM,80,0,0,0,"Richard Arthur Preuss, Isabelle  Pearson",09/02-12/03,HOSMCH 10,Active
+8480,PHTH,550,004,Break-Out Room,0.000,"Physical Therapy Orthopedic Management.",TR,08:35 AM-02:25 PM,5,0,0,0,"Richard Arthur Preuss, Isabelle  Pearson",09/02-12/03,HOSMER 101,Registration Not Required
+11890,PHTH,550,005,Break-Out Room,0.000,"Physical Therapy Orthopedic Management.",TR,08:35 AM-02:25 PM,5,0,0,0,"Richard Arthur Preuss, Isabelle  Pearson",09/02-12/03,HOSMER 102,Registration Not Required
+17279,PHTH,550,006,Break-Out Room,0.000,"Physical Therapy Orthopedic Management.",TR,08:35 AM-02:25 PM,5,0,0,0,"Richard Arthur Preuss, Isabelle  Pearson",09/02-12/03,HOSMER 104,Registration Not Required
+8099,PHTH,551,001,Lecture,4.000,"Physical Therapy Neurological Rehabilitation.",W,02:35 PM-05:25 PM,80,0,0,0,"Adriana  Venturini, Joyce  Fung",09/02-12/04,MCMED 208/9,Active
+8662,PHTH,551,003,Workshop,0.000,"Physical Therapy Neurological Rehabilitation.",F,02:35 PM-05:25 PM,80,0,0,0,"Claire Fritzi  Perez, Isabelle Jacynthe Gagnon, Adriana  Venturini, Joyce  Fung",09/02-12/04,MCMED 206/7,Active
+8877,PHTH,551,004,Drop-in Lab,0.000,"Physical Therapy Neurological Rehabilitation.",F,08:35 AM-12:25 PM,80,0,0,0,"Adriana  Venturini, Claire Fritzi  Perez",09/02-12/04,HOSMCH 11,Active
+8902,PHTH,551,005,Break-Out Room,0.000,"Physical Therapy Neurological Rehabilitation.",F,08:35 AM-12:25 PM,5,0,0,0,"Claire Fritzi  Perez, Isabelle Jacynthe Gagnon, Adriana  Venturini, Joyce  Fung",09/02-12/04,HOSMCH 10,Registration Not Required
+,,,,,,,F,02:35 PM-05:25 PM,,,,,"Claire Fritzi  Perez, Isabelle Jacynthe Gagnon, Adriana  Venturini, Joyce  Fung",09/02-12/04,HOSMCH 10,Registration Not Required
+11818,PHTH,551,006,Break-Out Room,0.000,"Physical Therapy Neurological Rehabilitation.",F,02:35 PM-05:25 PM,5,0,0,0,"Claire Fritzi  Perez, Isabelle Jacynthe Gagnon, Adriana  Venturini, Joyce  Fung",09/02-12/04,HOSMER 101,Registration Not Required
+11820,PHTH,551,007,Break-Out Room,0.000,"Physical Therapy Neurological Rehabilitation.",F,02:35 PM-05:25 PM,5,0,0,0,"Claire Fritzi  Perez, Isabelle Jacynthe Gagnon, Adriana  Venturini, Joyce  Fung",09/02-12/04,HOSMER 102,Registration Not Required
+17281,PHTH,551,008,Laboratory,0.000,"Physical Therapy Neurological Rehabilitation.",F,02:35 PM-05:25 PM,80,0,0,0,"Claire Fritzi  Perez, Isabelle Jacynthe Gagnon, Adriana  Venturini, Joyce  Fung",09/02-12/04,MCMED 206/7,Active
+14436,PHTH,551,011,Break-Out Room,0.000,"Physical Therapy Neurological Rehabilitation.",F,02:35 PM-05:25 PM,5,0,0,0,"Claire Fritzi  Perez, Isabelle Jacynthe Gagnon, Adriana  Venturini, Joyce  Fung",09/02-12/04,HOSMCH 11,Registration Not Required
+13863,PHTH,571,001,Practicum,7.000,"PT Clinical Practicum 1.",,TBA,10,0,0,0,"Crystal  Garnett, Adriana  Venturini",09/02-12/04,TBA,Temporarily closed
+13864,PHTH,572,001,Practicum,7.000,"PT Clinical Practicum 2.",,TBA,10,0,0,0,"Crystal  Garnett, Adriana  Venturini",09/02-12/04,TBA,Temporarily closed
+12453,PHTH,573,001,Practicum,7.000,"PT Clinical Practicum 3.",,TBA,80,0,0,0,"Crystal  Garnett, Adriana  Venturini",09/02-12/04,TBA,Active
+Phys & Occ Therapy
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+1492,POTH,455,001,Lecture,3.000,"Neurophysiology.",T,08:35 AM-11:25 AM,100,0,0,0,"Marie-Helene  Boudrias, Philippe  Archambault",09/02-12/04,MCMED 1034,Active
+18014,POTH,563,001,Lecture,3.000,"Foundations of Professional Practice.",T,02:35 PM-05:25 PM,160,0,0,0,"Caroline  Storr, Matthew Robert  Hunt",09/02-12/04,LEA 26,Active
+18361,POTH,563,002,Break-Out Room,0.000,"Foundations of Professional Practice.",T,02:35 PM-05:25 PM,80,0,0,0,"Caroline  Storr, Matthew Robert  Hunt",09/02-12/04,ARTS 145,Registration Not Required
+19152,POTH,563,003,Tutorial,0.000,"Foundations of Professional Practice.",W,08:35 AM-11:25 AM,160,0,0,0,"Caroline  Storr, Matthew Robert  Hunt",09/02-12/04,TBA,Active
+,,,,,,,R,08:35 AM-11:25 AM,,,,,"Caroline  Storr, Matthew Robert  Hunt",09/02-12/03,TBA,Active
+,,,,,,,R,08:35 AM-11:25 AM,,,,,"Caroline  Storr, Matthew Robert  Hunt",10/02-10/02,MCMED 521,Active
+,,,,,,,T,02:35 PM-06:25 PM,,,,,"Caroline  Storr, Matthew Robert  Hunt",11/04-11/18,HOSMER 101,Active
+19615,POTH,563,004,Break-Out Room,0.000,"Foundations of Professional Practice.",T,02:35 PM-06:25 PM,100,0,0,0,"Caroline  Storr, Matthew Robert  Hunt",11/04-11/18,HOSMER 102,Registration Not Required
+19616,POTH,563,005,Break-Out Room,0.000,"Foundations of Professional Practice.",T,02:35 PM-06:25 PM,100,0,0,0,"Caroline  Storr, Matthew Robert  Hunt",11/04-11/18,HOSMCH 10,Registration Not Required
+19617,POTH,563,006,Break-Out Room,0.000,"Foundations of Professional Practice.",T,02:35 PM-06:25 PM,100,0,0,0,"Caroline  Storr, Matthew Robert  Hunt",11/04-11/18,HOSMER 104,Registration Not Required
+19618,POTH,563,007,Break-Out Room,0.000,"Foundations of Professional Practice.",T,02:35 PM-06:25 PM,100,0,0,0,"Caroline  Storr, Matthew Robert  Hunt",11/04-11/18,HOSMCH 11,Registration Not Required
+Registration
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+2332,REGN,RCPO,001,Registration Course,0.000,"I confirm P&OT Reg",TBA,TBA,500,0,0,0,TBA,09/02-12/04,TBA,Temporarily closed
+2908,REGN,WDPO,001,Registration Course,0.000,"Withdrawn from the University",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active

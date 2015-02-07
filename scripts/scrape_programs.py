@@ -3,12 +3,12 @@ import json
 from bs4 import BeautifulSoup
 import re
 
-def get_program_pages(start, read_titles=True): # as with scrape courses, possibly add logging
+def get_program_pages(start, read_titles=False): # as with scrape courses, possibly add logging
     #faculties = ['science']
-    faculties = ['arts']#,'law','engineering','macdonald','basc','continuing','dentistry','education','engineering','environment','desautels','medicine','music']
+    faculties = ['arts','law','engineering','macdonald','basc','continuing','dentistry','education','engineering','environment','desautels','medicine','music']
   
     if read_titles:
-        with open("program_titles.txt","r") as f:
+        with open("../data/program_titles.txt","r") as f:
             titles = json.load(f)
     else:    
         titles = []
@@ -34,11 +34,11 @@ def get_program_pages(start, read_titles=True): # as with scrape courses, possib
             except Exception,e:
                 print "Error on page " + str(n)
                 print str(e)
-                with open("program_titles.txt","w") as f:
+                with open("../data/program_titles.txt","w") as f:
                     json.dump( fast_unique_list(titles), f )
             
         
-        with open("program_titles.txt","w") as f:
+        with open("../data/program_titles.txt","w") as f:
             json.dump( fast_unique_list(titles), f ) 
 
 def get_programs_on_page(soup, titles):
@@ -50,7 +50,7 @@ def get_programs_on_page(soup, titles):
         program_soup = BeautifulSoup(html)
         title = program_soup.find('h1').text.replace(' ', '_').replace('/',"_or_")
         print title
-        with open("programs/" + title, "w") as f:
+        with open("../programs/" + title, "w") as f:
             f.write(html.encode('utf-8'))
             titles.append(title)
         

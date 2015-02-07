@@ -1,0 +1,62 @@
+Dentistry
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+5447,DENT,101J1,001,Small Group Teaching,2.000,"Dentistry Apprenticeship 1.",W,11:55 AM-02:25 PM,38,0,0,0,"Frances Anne  Power, Irwin M  Fried, Ying Wai  Sia, Nathalie Marie Morin, Roy  Raviv",08/25-12/14,TBA,Active
+,,,,,,,R,04:05 PM-04:55 PM,,,,,"Frances Anne  Power, Irwin M  Fried, Ying Wai  Sia, Nathalie Marie Morin, Roy  Raviv",08/25-12/14,TBA,Active
+5448,DENT,201,001,Small Group Teaching,1.000,"Dentistry Apprenticeship 2.",MWF,09:35 AM-10:25 AM,40,0,0,0,"Peter  Chauvin",08/25-12/14,TBA,Active
+19673,DENT,225D1,001,Lecture,1.500,"Oral Health Research.",TBA,TBA,40,0,0,0,TBA,08/25-12/14,TBA,Active
+2010,DENT,310J1,001,Field Course (GDEU),5.000,"Clinical Practice/Junior Clerkship.",M,01:05 PM-04:55 PM,40,0,0,0,"Peter  Chauvin",08/18-12/19,TBA,Active
+2011,DENT,311J1,001,Lecture,1.000,"Endodontics 1.",T,01:05 PM-01:55 PM,40,0,0,0,"Bassel  Kano",08/18-12/19,TBA,Active
+,,,,,,,T,02:05 PM-04:55 PM,,,,,"Bassel  Kano",08/18-12/19,TBA,Active
+2012,DENT,315J1,001,Lecture,0.700,"Orthodontics 1.",F,08:05 AM-08:55 AM,40,0,0,0,"Jean-Marc  Retrouvey",08/18-12/19,TBA,Active
+,,,,,,,F,09:05 AM-11:55 AM,,,,,"Jean-Marc  Retrouvey",08/18-12/19,TBA,Active
+,,,,,,,F,01:05 PM-02:55 PM,,,,,"Jean-Marc  Retrouvey",08/18-12/19,TBA,Active
+2013,DENT,316D1,001,Lecture,2.000,"Pediatric Dentistry 1.",M,08:05 AM-09:55 AM,40,0,0,0,"Irwin M  Fried",08/18-12/19,TBA,Active
+2014,DENT,317D1,001,Lecture,1.500,"Oral Pathology and Medicine.",M,10:05 AM-11:55 AM,40,0,0,0,"Ying Wai  Sia, Peter  Chauvin",08/18-12/19,TBA,Active
+2015,DENT,318J1,001,Lecture,1.000,"Periodontology.",W,08:05 AM-09:55 AM,40,0,0,0,"Omid  Kiarash",08/18-12/19,TBA,Active
+2016,DENT,319D1,001,Lecture,1.500,"Dental Pharmacology.",W,01:05 PM-02:55 PM,40,0,0,0,"Catherine Linda  Wiltshire",08/18-12/19,TBA,Active
+,,,,,,,W,03:05 PM-04:55 PM,,,,,"Catherine Linda  Wiltshire",08/18-12/19,TBA,Active
+3193,DENT,320J1,001,Lecture,2.330,"Restorative Dentistry.",F,01:05 PM-01:55 PM,40,0,0,0,TBA,08/18-12/19,TBA,Active
+18100,DENT,322J1,001,Lecture,1.340,"Image Interpretation.",,TBA,40,0,0,0,"Marie Edith  Dagenais",08/18-12/19,TBA,Active
+2017,DENT,323J1,001,Lecture,1.330,"Oral and Maxillofacial Surgery.",R,08:05 AM-08:55 AM,40,0,0,0,"Deborah  Iera",08/18-12/19,TBA,Active
+17968,DENT,407D1,001,Lecture,1.000,"Practice Management.",,TBA,40,0,0,0,"Anthony  Iannella",09/01-12/19,TBA,Active
+19287,DENT,409,001,Lecture,2.000,"Advanced Restorative Dentistry.",M,03:05 PM-04:55 PM,40,0,0,0,"Samer  Abi-Nader, Meng Francois  Seng",09/01-12/19,TBA,Active
+2020,DENT,410D1,001,Clinical Teaching,5.500,"Clinical Practice/Senior Clerkship.",M,09:05 AM-11:55 AM,40,0,0,0,"Peter  Chauvin",09/01-12/19,TBA,Active
+19288,DENT,411,001,Lecture,1.000,"Endodontics 2.",M,08:05 AM-12:25 PM,40,0,0,0,"Bassel  Kano",09/01-12/19,TBA,Active
+,,,,,,,W,01:05 PM-04:55 PM,,,,,"Bassel  Kano",09/01-12/19,TBA,Active
+19675,DENT,412D1,001,Lecture,1.000,"Introduction to Orofacial Pain.",TBA,TBA,40,0,0,0,TBA,09/01-12/19,TBA,Active
+12591,DENT,413,001,Field Course (GDEU),2.000,"Community Clinics.",M,02:35 PM-04:25 PM,40,0,0,0,"Frances Anne  Power",09/01-12/19,TBA,Active
+,,,,,,,T,01:25 PM-03:25 PM,,,,,"Frances Anne  Power",09/01-12/19,TBA,Active
+2022,DENT,415D1,001,Lecture,1.500,"Orthodontics 2.",R,10:05 AM-11:55 AM,40,0,0,0,"Jean-Marc  Retrouvey",09/01-12/19,TBA,Active
+2023,DENT,416D1,001,Lecture,2.000,"Pediatric Dentistry 2.",W,08:05 AM-08:55 AM,40,0,0,0,"Irwin M  Fried",09/01-12/19,TBA,Active
+19289,DENT,418,001,Lecture,2.000,"Periodontology Seminar.",M,01:05 PM-02:55 PM,40,0,0,0,"Jeremy  Werbitt",09/01-12/19,TBA,Active
+2025,DENT,423D1,001,Lecture,2.500,"Oral Maxillofacial Surgery & Pathology.",T,08:05 AM-08:55 AM,40,0,0,0,"Peter  Chauvin, Deborah  Iera",09/01-12/19,TBA,Active
+19291,DENT,437,001,Lecture,2.000,"Clinical Decision Making.",T,08:05 AM-11:55 AM,40,0,0,0,"John  Blomfield, Shahrokh  Esfandiari",09/01-12/19,TBA,Active
+19356,DENT,563,001,Lecture,1.000,"Introduction to Research.",W,10:05 AM-10:55 AM,30,0,0,0,"Mari Tuulia  Kaartinen",09/10-09/10,SADB M-48,Active
+,,,,,,,W,10:05 AM-10:55 AM,,,,,"Mari Tuulia  Kaartinen",10/08-10/08,SADB M-48,Active
+,,,,,,,R,10:05 AM-10:55 AM,,,,,"Mari Tuulia  Kaartinen",10/16-10/16,SADB M-48,Active
+,,,,,,,W,10:05 AM-11:55 AM,,,,,"Mari Tuulia  Kaartinen",10/22-10/22,SADB M-48,Active
+,,,,,,,W,10:05 AM-11:55 AM,,,,,"Mari Tuulia  Kaartinen",10/29-10/29,SADB M-48,Active
+,,,,,,,W,10:05 AM-11:25 AM,,,,,"Mari Tuulia  Kaartinen",11/05-11/05,SADB M-48,Active
+,,,,,,,W,10:05 AM-10:55 AM,,,,,"Mari Tuulia  Kaartinen",11/19-11/19,SADB M-48,Active
+,,,,,,,W,10:05 AM-11:55 AM,,,,,"Mari Tuulia  Kaartinen",11/26-11/26,SADB M-48,Active
+,,,,,,,W,10:05 AM-11:55 AM,,,,,"Mari Tuulia  Kaartinen",12/03-12/03,SADB M-48,Active
+External
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+2410,EXTL,EXDE,015,Exchange Term Away,0.000,"Exchange Term Away-Dentistry",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2476,EXTL,IUDE,001,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2477,EXTL,IUDE,002,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2478,EXTL,IUDE,003,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2479,EXTL,IUDE,004,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2480,EXTL,IUDE,005,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2481,EXTL,IUDE,006,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2482,EXTL,IUDE,007,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2483,EXTL,IUDE,008,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2484,EXTL,IUDE,009,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2485,EXTL,IUDE,010,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2486,EXTL,IUDE,011,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2487,EXTL,IUDE,012,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2427,EXTL,LADE,001,Leave of Absence,0.000,"Leave of Absence-Dentistry",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2397,EXTL,TADE,001,Term Away,0.000,"Term Away-Dentistry",TBA,TBA,999,0,0,0,TBA,09/02-12/04,TBA,Active
+Registration
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+2330,REGN,RCDE,001,Registration Course,0.000,"I confirm Dental Reg",TBA,TBA,500,0,0,0,TBA,09/02-12/04,TBA,Active

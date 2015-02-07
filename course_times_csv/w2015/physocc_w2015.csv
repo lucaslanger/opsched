@@ -1,0 +1,98 @@
+External
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+2343,EXTL,EXPO,015,Exchange Term Away,0.000,"Exchange Term Away-Phys & Occ",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2516,EXTL,IUPO,001,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2517,EXTL,IUPO,002,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2518,EXTL,IUPO,003,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2519,EXTL,IUPO,004,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2520,EXTL,IUPO,005,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2521,EXTL,IUPO,006,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2522,EXTL,IUPO,007,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2523,EXTL,IUPO,008,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2524,EXTL,IUPO,009,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2525,EXTL,IUPO,010,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2527,EXTL,IUPO,011,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2526,EXTL,IUPO,012,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2358,EXTL,LAPO,001,Leave of Absence,0.000,"Leave of Absence-Phys & Occ Th",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2328,EXTL,TAPO,001,Term Away,0.000,"Term Away-Phys & Occ Therapy",TBA,TBA,999,0,0,0,TBA,01/05-04/14,TBA,Active
+Occupational Therapy
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+11209,OCC1,501,001,Practicum,7.000,"Clinical Practicum 1.",,TBA,10,0,0,0,"Caroline  Storr, Susanne  Mak",01/05-04/14,TBA,Active
+11210,OCC1,502,001,Practicum,7.000,"Clinical Practicum 2.",,TBA,10,0,0,0,"Caroline  Storr, Susanne  Mak",01/05-04/14,TBA,Active
+7905,OCC1,503,001,Practicum,7.000,"Clinical Practicum 3.",,TBA,71,0,0,0,"Caroline  Storr, Susanne  Mak",01/05-04/14,TBA,Active
+7172,OCC1,547,001,Lecture,6.000,"Occupational Solutions 1.",MW,02:35 PM-05:25 PM,80,0,0,0,"Cynthia  Perlman, Franzina  Coutinho, Sara Lizabeth Saunders",01/05-04/14,MCMED 206/7,Active
+7171,OCC1,547,002,Laboratory,0.000,"Occupational Solutions 1.",M,02:35 PM-05:25 PM,80,0,0,0,"Cynthia  Perlman, Franzina  Coutinho, Sara Lizabeth Saunders",01/05-04/14,MCMED 206/7,Active
+10509,OCC1,547,005,Break-Out Room,0.000,"Occupational Solutions 1.",M,02:35 PM-05:25 PM,5,0,0,0,"Franzina  Coutinho, Cynthia  Perlman",01/05-04/14,HOSMER 104,Registration Not Required
+10565,OCC1,547,007,Break-Out Room,0.000,"Occupational Solutions 1.",M,02:35 PM-05:25 PM,80,0,0,0,"Franzina  Coutinho, Cynthia  Perlman",01/05-04/14,HOSMER 105,Registration Not Required
+12884,OCC1,547,008,Break-Out Room,0.000,"Occupational Solutions 1.",M,02:35 PM-05:25 PM,80,0,0,0,"Franzina  Coutinho, Cynthia  Perlman",01/05-04/14,HOSMCH 11,Registration Not Required
+13349,OCC1,547,009,Break-Out Room,0.000,"Occupational Solutions 1.",M,02:35 PM-05:25 PM,5,0,0,0,"Franzina  Coutinho, Cynthia  Perlman",01/05-04/14,HOSMER 16,Registration Not Required
+6745,OCC1,548,001,Lecture,3.000,"Holistic Approaches in OT.",F,11:35 AM-02:25 PM,80,0,0,0,"Sara Lizabeth Saunders",01/05-04/14,MCMED 206/7,Active
+,,,,,,,T,11:35 AM-02:25 PM,,,,,"Sara Lizabeth Saunders",04/14-04/14,MCMED 206/7,Active
+6756,OCC1,549,001,Lecture,4.000,"Therapeutic Strategies in OT 2.",M,08:35 AM-09:55 AM,80,0,0,0,"Marie-Eve  Bolduc, Susanne  Mak, M Sandra  Everitt, Andrew B  Christopher, Cynthia  Perlman",01/05-04/14,MCMED 1034,Active
+6757,OCC1,549,002,Seminar,0.000,"Therapeutic Strategies in OT 2.",M,10:35 AM-01:55 PM,80,0,0,0,"Marie-Eve  Bolduc, Susanne  Mak, M Sandra  Everitt, Andrew B  Christopher, Cynthia  Perlman",01/05-04/14,HOSMER 105,Active
+6758,OCC1,549,003,Workshop,0.000,"Therapeutic Strategies in OT 2.",W,08:35 AM-10:25 AM,80,0,0,0,"Marie-Eve  Bolduc, Susanne  Mak, M Sandra  Everitt, Andrew B  Christopher, Cynthia  Perlman",01/05-04/14,MCMED 208/9,Active
+,,,,,,,W,10:35 AM-12:25 PM,,,,,"Marie-Eve  Bolduc, Susanne  Mak, M Sandra  Everitt, Andrew B  Christopher, Cynthia  Perlman",01/05-04/14,MCMED 208/9,Active
+12879,OCC1,549,004,Break-Out Room,0.000,"Therapeutic Strategies in OT 2.",M,10:35 AM-01:55 PM,80,0,0,0,"Susanne  Mak",01/05-04/14,HOSMER 16,Registration Not Required
+,,,,,,,W,08:35 AM-12:25 PM,,,,,"Susanne  Mak",01/05-04/14,HOSMER 16,Registration Not Required
+8082,OCC1,549,005,Break-Out Room,0.000,"Therapeutic Strategies in OT 2.",M,10:35 AM-01:55 PM,80,0,0,0,"M Sandra  Everitt, Susanne  Mak",01/05-04/14,HOSMER 104,Registration Not Required
+6746,OCC1,551,001,Lecture,3.000,"Psychosocial Practice in OT.",T,08:35 AM-10:55 AM,80,0,0,0,"Hiba  Zafran, Raphael  Lencucha, Melissa  Park, Suzanne  Rouleau",01/05-04/13,MCMED 1034,Active
+6748,OCC1,551,002,Laboratory,0.000,"Psychosocial Practice in OT.",TR,02:35 PM-05:25 PM,80,0,0,0,"Hiba  Zafran, Raphael  Lencucha, Melissa  Park, Suzanne  Rouleau",01/05-04/13,MCMED 206/7,Active
+8078,OCC1,551,003,Break-Out Room,0.000,"Psychosocial Practice in OT.",TR,02:35 PM-05:25 PM,5,0,0,0,"Suzanne  Rouleau",01/05-04/13,HOSMER 16,Registration Not Required
+9094,OCC1,551,004,Break-Out Room,0.000,"Psychosocial Practice in OT.",TR,02:35 PM-05:25 PM,5,0,0,0,"Suzanne  Rouleau",01/05-04/13,HOSMER 105,Registration Not Required
+10579,OCC1,551,005,Break-Out Room,0.000,"Psychosocial Practice in OT.",TR,02:35 PM-05:25 PM,5,0,0,0,"Suzanne  Rouleau",02/24-02/26,DAVIS B-2,Registration Not Required
+,,,,,,,TR,02:35 PM-05:25 PM,,,,,"Suzanne  Rouleau",02/24-02/26,DAVIS B-6,Registration Not Required
+,,,,,,,TR,02:35 PM-05:25 PM,,,,,"Suzanne  Rouleau",02/24-02/26,DAVIS 20,Registration Not Required
+Physical Therapy
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+13554,PHTH,440,001,Lecture,3.000,"Clinical Exercise Physiology.",MW,10:05 AM-11:25 AM,60,0,0,0,"Marc  Roig Pull",01/05-04/14,MCMED 1034,Active
+13555,PHTH,440,002,Laboratory,0.000,"Clinical Exercise Physiology.",,TBA,60,0,0,0,"Marc  Roig Pull",01/05-04/14,TBA,Temporarily closed
+6766,PHTH,552,001,Lecture,5.000,"Cardiorespiratory Rehabilitation.",M,08:00 AM-11:25 AM,80,0,0,0,"Jadranka  Spahija",01/05-04/14,MCMED 206/7,Active
+7203,PHTH,552,002,Laboratory,0.000,"Cardiorespiratory Rehabilitation.",F,08:35 AM-12:25 PM,80,0,0,0,"Jadranka  Spahija",01/05-04/14,HOSMCH 10,Active
+,,,,,,,T,08:35 AM-12:25 PM,,,,,"Jadranka  Spahija",04/14-04/14,HOSMCH 10,Active
+8088,PHTH,552,003,Break-Out Room,0.000,"Cardiorespiratory Rehabilitation.",F,08:35 AM-12:25 PM,5,0,0,0,"Jadranka  Spahija",01/05-04/14,HOSMER 104,Registration Not Required
+,,,,,,,T,08:35 AM-12:25 PM,,,,,"Jadranka  Spahija",04/14-04/14,HOSMER 104,Registration Not Required
+9112,PHTH,552,004,Break-Out Room,0.000,"Cardiorespiratory Rehabilitation.",F,08:35 AM-12:25 PM,5,0,0,0,"Jadranka  Spahija",01/05-04/14,HOSMER 101,Registration Not Required
+,,,,,,,T,08:35 AM-12:25 PM,,,,,"Jadranka  Spahija",04/14-04/14,HOSMER 101,Registration Not Required
+9114,PHTH,552,005,Break-Out Room,0.000,"Cardiorespiratory Rehabilitation.",F,08:35 AM-12:25 PM,5,0,0,0,"Jadranka  Spahija",01/05-04/14,HOSMER 102,Registration Not Required
+,,,,,,,T,08:35 AM-12:25 PM,,,,,"Jadranka  Spahija",04/14-04/14,HOSMER 102,Registration Not Required
+12944,PHTH,552,006,Break-Out Room,0.000,"Cardiorespiratory Rehabilitation.",F,08:35 AM-12:25 PM,5,0,0,0,"Jadranka  Spahija",01/05-04/14,HOSMCH 11,Registration Not Required
+,,,,,,,T,08:35 AM-12:25 PM,,,,,"Jadranka  Spahija",04/14-04/14,HOSMCH 11,Registration Not Required
+6759,PHTH,560,001,Lecture,6.000,"Integrated Orthopedic Management.",M,02:35 PM-05:25 PM,80,0,0,0,"Frangiska  Xenopoulos, Crystal  Garnett, Isabelle Jacynthe Gagnon, Isabel  Audette",01/05-04/14,MCMED 208/9,Active
+6760,PHTH,560,002,Laboratory,0.000,"Integrated Orthopedic Management.",TW,08:00 AM-10:55 AM,80,0,0,0,"Frangiska  Xenopoulos, Crystal  Garnett, Isabelle Jacynthe Gagnon, Isabel  Audette",01/05-04/13,HOSMCH 10,Active
+8085,PHTH,560,004,Workshop,0.000,"Integrated Orthopedic Management.",TW,11:05 AM-12:25 PM,80,0,0,0,"Frangiska  Xenopoulos, Crystal  Garnett, Isabelle Jacynthe Gagnon, Isabel  Audette",01/05-04/13,HOSMCH 10,Active
+8086,PHTH,560,005,Break-Out Room,0.000,"Integrated Orthopedic Management.",TW,08:00 AM-12:25 PM,5,0,0,0,"Frangiska  Xenopoulos, Crystal  Garnett, Isabelle Jacynthe Gagnon, Isabel  Audette",01/05-04/13,HOSMCH 11,Registration Not Required
+9111,PHTH,560,006,Break-Out Room,0.000,"Integrated Orthopedic Management.",T,08:00 AM-12:25 PM,5,0,0,0,"Frangiska  Xenopoulos, Crystal  Garnett, Isabelle Jacynthe Gagnon, Isabel  Audette",01/05-04/13,HOSMER 104,Registration Not Required
+10547,PHTH,560,008,Break-Out Room,0.000,"Integrated Orthopedic Management.",TW,08:00 AM-12:25 PM,5,0,0,0,"Frangiska  Xenopoulos, Crystal  Garnett, Isabelle Jacynthe Gagnon, Isabel  Audette",01/05-04/13,HOSMER 102,Registration Not Required
+12945,PHTH,560,009,Break-Out Room,0.000,"Integrated Orthopedic Management.",TW,08:00 AM-12:25 PM,5,0,0,0,"Isabelle Jacynthe Gagnon, Isabel  Audette",01/05-04/13,HOSMER 101,Registration Not Required
+6763,PHTH,561,001,Lecture,5.000,"Integrated Neurological Rehabilitation.",T,02:35 PM-05:25 PM,80,0,0,0,"Claire Fritzi  Perez, Anouk  Lamontagne, Isabelle Jacynthe Gagnon, Adriana  Venturini",01/05-04/13,MCMED 208/9,Active
+6764,PHTH,561,002,Laboratory,0.000,"Integrated Neurological Rehabilitation.",WR,01:35 PM-05:25 PM,80,0,0,0,"Claire Fritzi  Perez, Anouk  Lamontagne, Isabelle Jacynthe Gagnon, Adriana  Venturini",01/05-04/14,HOSMCH 10,Active
+6765,PHTH,561,003,Workshop,0.000,"Integrated Neurological Rehabilitation.",T,01:35 PM-05:25 PM,80,0,0,0,"Claire Fritzi  Perez, Anouk  Lamontagne, Isabelle Jacynthe Gagnon, Adriana  Venturini",01/05-04/13,HOSMER 101,Active
+8083,PHTH,561,004,Break-Out Room,0.000,"Integrated Neurological Rehabilitation.",TWR,01:35 PM-05:25 PM,5,0,0,0,"Claire Fritzi  Perez, Anouk  Lamontagne, Isabelle Jacynthe Gagnon, Adriana  Venturini",01/05-04/13,HOSMER 102,Registration Not Required
+10550,PHTH,561,006,Break-Out Room,0.000,"Integrated Neurological Rehabilitation.",TWR,01:35 PM-05:25 PM,5,0,0,0,"Claire Fritzi  Perez, Anouk  Lamontagne, Isabelle Jacynthe Gagnon, Adriana  Venturini",01/05-04/13,HOSMER 104,Registration Not Required
+11206,PHTH,571,001,Practicum,7.000,"PT Clinical Practicum 1.",,TBA,10,0,0,0,"Crystal  Garnett, Adriana  Venturini",01/05-04/14,TBA,Active
+11207,PHTH,572,001,Practicum,7.000,"PT Clinical Practicum 2.",,TBA,10,0,0,0,"Crystal  Garnett, Adriana  Venturini",01/05-04/14,TBA,Active
+7908,PHTH,573,001,Practicum,7.000,"PT Clinical Practicum 3.",,TBA,80,0,0,0,"Crystal  Garnett, Adriana  Venturini",01/05-04/14,TBA,Active
+9329,PHTH,573,002,Practicum,7.000,"PT Clinical Practicum 3.",,TBA,5,0,0,0,"Crystal  Garnett, Adriana  Venturini",01/05-04/14,TBA,Temporarily closed
+Phys & Occ Therapy
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+13551,POTH,225,001,Lecture,3.000,"Introduction to Biomechanics in Rehabilitation Sciences.",F,02:35 PM-04:25 PM,100,0,0,0,"Shawn  Robbins, Barbara  Shankland",01/05-04/14,STBIO N2/2,Active
+,,,,,,,T,02:35 PM-04:25 PM,,,,,"Shawn  Robbins, Barbara  Shankland",04/14-04/14,STBIO N2/2,Active
+13552,POTH,225,002,Laboratory,0.000,"Introduction to Biomechanics in Rehabilitation Sciences.",F,09:35 AM-11:25 AM,50,0,0,0,"Shawn  Robbins, Barbara  Shankland",01/05-04/14,MCMED 206/7,Active
+,,,,,,,T,09:35 AM-11:25 AM,,,,,"Shawn  Robbins, Barbara  Shankland",04/14-04/14,MCMED 206/7,Active
+13553,POTH,225,003,Laboratory,0.000,"Introduction to Biomechanics in Rehabilitation Sciences.",W,09:35 AM-11:25 AM,50,0,0,0,"Shawn  Robbins, Barbara  Shankland",01/05-04/14,MCMED 206/7,Active
+1398,POTH,250,001,Lecture,3.000,"Intro to Professional Practice.",M,02:35 PM-05:25 PM,100,0,0,0,"Crystal  Garnett, Marie-Eve  Bolduc",01/05-01/12,STBIO S3/3,Active
+,,,,,,,M,02:35 PM-05:25 PM,,,,,"Crystal  Garnett, Marie-Eve  Bolduc",01/26-01/26,STBIO S3/3,Active
+,,,,,,,M,02:35 PM-05:25 PM,,,,,"Crystal  Garnett, Marie-Eve  Bolduc",03/09-03/09,EDUC 627,Active
+,,,,,,,M,02:35 PM-05:25 PM,,,,,"Crystal  Garnett, Marie-Eve  Bolduc",03/16-03/16,STBIO S3/3,Active
+10277,POTH,250,002,Laboratory,0.000,"Intro to Professional Practice.",M,02:35 PM-05:25 PM,100,0,0,0,"Crystal  Garnett, Marie-Eve  Bolduc",03/23-04/13,HOSMCH 10,Active
+10278,POTH,250,003,Clinical Teaching,0.000,"Intro to Professional Practice.",M,02:35 PM-05:25 PM,100,0,0,0,"Crystal  Garnett, Marie-Eve  Bolduc",01/19-01/19,TBA,Active
+,,,,,,,M,02:35 PM-05:25 PM,,,,,"Crystal  Garnett, Marie-Eve  Bolduc",02/02-03/02,TBA,Active
+11422,POTH,250,004,Break-Out Room,0.000,"Intro to Professional Practice.",M,02:35 PM-05:25 PM,5,0,0,0,"Crystal  Garnett, Marie-Eve  Bolduc",01/05-01/05,STBIO S3/4,Registration Not Required
+7659,POTH,401,001,Lecture,3.000,"Research Methods.",WF,02:35 PM-03:55 PM,100,0,0,0,"Ana María  Rodríguez, Judith Eileen  Soicher, Sara  Ahmed",01/05-04/14,STBIO S3/3,Active
+,,,,,,,T,02:35 PM-03:55 PM,,,,,"Ana María  Rodríguez, Judith Eileen  Soicher, Sara  Ahmed",04/14-04/14,STBIO S3/3,Active
+7107,POTH,434,001,Lecture,3.000,"Musculoskeletal Biomechanics.",TR,10:05 AM-11:25 AM,100,0,0,0,"Richard Arthur Preuss",01/05-04/13,STBIO S3/3,Active
+12033,POTH,434,002,Tutorial,0.000,"Musculoskeletal Biomechanics.",F,08:35 AM-09:55 AM,100,0,0,0,"Richard Arthur Preuss",01/05-04/14,MCMED 1034,Active
+,,,,,,,T,08:35 AM-09:55 AM,,,,,"Richard Arthur Preuss",04/14-04/14,MCMED 1034,Active
+Registration
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+3330,REGN,WDPO,001,Registration Course,0.000,"Withdrawn from the University",TBA,TBA,1000,0,0,0,TBA,01/05-04/14,TBA,Active

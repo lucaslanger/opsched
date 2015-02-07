@@ -1,0 +1,645 @@
+Accountancy
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+2058,CACC,520,781,Lecture,3.000,"Accounting for Management.",R,06:05 PM-08:55 PM,59,0,0,0,TBA,01/05-04/14,ARTS W-120,Temporarily closed
+9707,CACC,521,781,Lecture,3.000,"Concepts of Financial Accounting.",R,06:05 PM-08:55 PM,50,0,0,0,TBA,01/05-04/14,ARTS W-20,Temporarily closed
+13435,CACC,523,771,Lecture,3.000,"Financial Aspects of Health Care.",W,06:05 PM-08:55 PM,30,0,0,0,TBA,01/05-04/14,LEA 210,Temporarily closed
+Business
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+14002,CBUS,100,001,Lecture,4.000,"Condominium Financial Management in Quebec.",TR,06:05 PM-08:55 PM,35,0,0,0,TBA,03/31-04/13,TBA,Active
+,,,,,,,TR,06:05 PM-08:55 PM,,,,,TBA,04/15-04/30,TBA,Active
+14003,CBUS,102,002,Lecture,4.000,"Condominium Law in Quebec.",TR,06:05 PM-08:55 PM,35,0,0,0,TBA,02/17-04/13,TBA,Active
+,,,,,,,TR,06:05 PM-08:55 PM,,,,,TBA,04/15-04/30,TBA,Active
+14004,CBUS,105,003,Lecture,4.000,"Gestion technique du bâtiment de la copropriété.",W,06:05 PM-08:55 PM,35,0,0,0,TBA,03/11-04/15,TBA,Active
+12031,CBUS,204,771,Lecture,6.000,"Effective Public Speaking.",W,06:05 PM-08:55 PM,30,0,0,0,"Monica  Carbonneau",01/14-03/18,TBA,Active
+12716,CBUS,210D1,761,Lecture,8.000,"Comprehensive Business Analysis.",T,06:05 PM-08:55 PM,35,0,0,0,"Georges  Bryson, Robert William  Abbott",02/03-04/13,BURN 511,Active
+,,,,,,,T,06:05 PM-08:55 PM,,,,,"Georges  Bryson, Robert William  Abbott",04/15-04/28,BURN 511,Active
+12712,CBUS,210D2,751,Lecture,8.000,"Comprehensive Business Analysis.",M,06:05 PM-08:55 PM,35,0,0,0,"Georges  Bryson, Robert William  Abbott",01/05-02/16,BURN 511,Active
+Auditing (SCS)
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+14106,CCAU,511,751,Lecture,3.000,"Auditing 1.",M,06:05 PM-08:55 PM,30,0,0,0,TBA,01/05-04/14,LEA 210,Temporarily closed
+Computer Science (SCS)
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+2035,CCCS,300,781,Lecture,3.000,"Programming Techniques 1.",R,06:05 PM-08:55 PM,35,0,0,0,TBA,01/05-04/14,LEA 109,Temporarily closed
+2036,CCCS,301,751,Lecture,3.000,"Programming Techniques 2.",M,06:05 PM-08:55 PM,30,0,0,0,TBA,01/05-04/14,ENGMD 279,Temporarily closed
+5128,CCCS,310,781,Lecture,3.000,"Web Development.",R,06:05 PM-08:55 PM,50,0,0,0,TBA,01/05-04/14,ENGMD 280,Temporarily closed
+4209,CCCS,315,761,Lecture,3.000,"Data Structures and Algorithms.",T,06:05 PM-08:55 PM,30,0,0,0,TBA,01/05-04/13,ENGMC 304,Temporarily closed
+4210,CCCS,431,771,Lecture,3.000,"Networking Fundamentals.",W,06:05 PM-08:55 PM,25,0,0,0,TBA,01/05-04/14,LEA 116,Temporarily closed
+Financial Accounting (SCS)
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+4825,CCFC,511,781,Lecture,3.000,"Financial Accounting 1.",R,06:05 PM-08:55 PM,60,0,0,0,TBA,01/05-04/14,ENGMD 279,Temporarily closed
+4826,CCFC,512,781,Lecture,3.000,"Financial Accounting 2.",R,06:05 PM-08:55 PM,60,0,0,0,TBA,01/05-04/14,RPHYS 114,Temporarily closed
+2018,CCFC,513,771,Lecture,3.000,"Financial Accounting 3.",W,06:05 PM-08:55 PM,95,0,0,0,TBA,01/05-04/14,ARTS W-120,Temporarily closed
+14108,CCFC,514,771,Lecture,3.000,"Accounting Theory and Practice.",W,06:05 PM-08:55 PM,30,0,0,0,TBA,01/05-04/14,ARTS W-20,Temporarily closed
+Law (SCS)
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+13840,CCLW,511,771,Lecture,3.000,"Law 1.",W,06:05 PM-08:55 PM,20,0,0,0,TBA,01/05-04/14,ENGTR 0100,Temporarily closed
+Managerial Accounting (SCS)
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+12306,CCMA,511,761,Lecture,3.000,"Managerial Accounting 1.",T,06:05 PM-08:55 PM,45,0,0,0,TBA,01/05-04/13,RPHYS 114,Temporarily closed
+14110,CCMA,522,761,Lecture,3.000,"Managerial Accounting 2.",T,06:05 PM-08:55 PM,30,0,0,0,TBA,01/05-04/13,ENGTR 0100,Temporarily closed
+14111,CCMA,523,761,Lecture,3.000,"Managerial Accounting 3.",T,06:05 PM-08:55 PM,30,0,0,0,TBA,01/05-04/13,BURN 1B45,Temporarily closed
+Communication (SCS)
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+9402,CCOM,205,751,Lecture,3.000,"Communication in Management 1.",M,06:05 PM-08:55 PM,30,10,0,10,TBA,01/05-04/14,TBA,Active
+9510,CCOM,205,761,Lecture,3.000,"Communication in Management 1.",T,06:05 PM-08:55 PM,30,10,0,10,TBA,01/05-04/13,TBA,Active
+9511,CCOM,205,781,Lecture,3.000,"Communication in Management 1.",R,06:05 PM-08:55 PM,30,10,0,10,TBA,01/05-04/14,TBA,Active
+9403,CCOM,206,701,Lecture,3.000,"Communication in Engineering.",TR,02:35 PM-03:55 PM,25,10,0,10,TBA,01/05-04/13,SH688 491,Active
+9512,CCOM,206,702,Lecture,3.000,"Communication in Engineering.",WF,04:05 PM-05:25 PM,25,10,0,10,TBA,01/05-04/14,SH688 395,Active
+,,,,,,,T,04:05 PM-05:25 PM,,,,,TBA,04/14-04/14,SH688 395,Active
+9513,CCOM,206,703,Lecture,3.000,"Communication in Engineering.",WF,02:35 PM-03:55 PM,25,10,0,10,TBA,01/05-04/14,SH688 395,Active
+,,,,,,,T,02:35 PM-03:55 PM,,,,,TBA,04/14-04/14,SH688 395,Active
+9514,CCOM,206,704,Lecture,3.000,"Communication in Engineering.",WF,02:35 PM-03:55 PM,25,10,0,10,TBA,01/05-04/14,SH688 223,Active
+,,,,,,,T,02:35 PM-03:55 PM,,,,,TBA,04/14-04/14,SH688 223,Active
+9515,CCOM,206,705,Lecture,3.000,"Communication in Engineering.",TR,01:05 PM-02:25 PM,25,10,1,9,TBA,01/05-04/13,SH688 365,Active
+11256,CCOM,206,706,Lecture,3.000,"Communication in Engineering.",TR,02:35 PM-03:55 PM,25,10,0,10,TBA,01/05-04/13,SH688 295,Active
+11262,CCOM,206,707,Lecture,3.000,"Communication in Engineering.",MW,04:05 PM-05:25 PM,25,10,0,10,TBA,01/05-04/14,SH688 295,Active
+11263,CCOM,206,708,Lecture,3.000,"Communication in Engineering.",MW,04:05 PM-05:25 PM,25,10,0,10,TBA,01/05-04/14,SH688 223,Active
+11264,CCOM,206,709,Lecture,3.000,"Communication in Engineering.",TR,01:05 PM-02:25 PM,25,10,0,10,TBA,01/05-04/13,SH688 391,Active
+12167,CCOM,206,710,Lecture,3.000,"Communication in Engineering.",MW,04:05 PM-05:25 PM,25,10,0,10,TBA,01/05-04/14,TBA,Active
+12168,CCOM,206,711,Lecture,3.000,"Communication in Engineering.",MW,06:05 PM-07:25 PM,25,10,0,10,TBA,01/05-04/14,EDUC 434,Active
+Computer Science (SCS)
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+12375,CCS2,508,781,Lecture,3.000,"Web Application Development.",R,06:05 PM-08:55 PM,25,0,0,0,TBA,01/05-04/14,ENGMD 276,Temporarily closed
+14113,CCS2,550,751,Lecture,3.000,"Multimedia Communication Design and Marketing.",M,06:05 PM-08:55 PM,30,0,0,0,TBA,01/05-04/14,BURN 1B45,Temporarily closed
+Translation
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+9952,CCTR,222,761,Lecture,10.000,"English Usage for Translators.",T,06:05 PM-09:25 PM,25,0,0,0,TBA,01/05-04/13,SH688 223,Temporarily closed
+9953,CCTR,223,771,Lecture,10.000,"Le bon usage pour traducteurs.",W,06:05 PM-09:25 PM,25,0,0,0,TBA,01/05-04/14,BURN 920,Temporarily closed
+2620,CCTR,225,751,Lecture,3.000,"French Translation 1.",M,06:05 PM-08:55 PM,25,0,0,0,TBA,01/05-04/13,ENGTR 2100,Temporarily closed
+2622,CCTR,226,771,Lecture,3.000,"English Translation 1.",W,06:05 PM-08:55 PM,25,0,0,0,TBA,01/05-04/14,STBIO S3/4,Temporarily closed
+14697,CCTR,230,761,Lecture,3.000,"Précis-Writing / Contraction: texte.",T,06:05 PM-08:55 PM,25,0,0,0,TBA,01/05-04/13,STBIO S3/4,Temporarily closed
+5125,CCTR,232,792,Lecture,3.000,"Documentation and Terminology/Documentation et terminologie.",F,06:05 PM-08:55 PM,25,0,0,0,TBA,01/05-04/14,ARTS 150,Temporarily closed
+,,,,,,,T,06:05 PM-08:55 PM,,,,,TBA,04/14-04/14,ARTS 150,Temporarily closed
+9954,CCTR,233,751,Lecture,3.000,"Techniques: Rédaction pour traducteurs.",M,06:05 PM-08:55 PM,25,0,0,0,TBA,01/05-04/14,STBIO S3/4,Temporarily closed
+14486,CCTR,234,751,Lecture,3.000,"Writing Techniques for Translators.",M,06:05 PM-08:55 PM,25,0,0,0,TBA,01/05-04/14,STBIO W7/21,Temporarily closed
+7105,CCTR,237,771,Lecture,3.000,"Writing Techniques (Spanish).",W,06:05 PM-08:55 PM,25,0,0,0,TBA,01/05-04/14,BURN 1205,Temporarily closed
+2626,CCTR,310,781,Lecture,3.000,"Comparative Stylistics 2.",R,06:05 PM-08:55 PM,25,0,0,0,TBA,01/05-04/14,SH688 491,Temporarily closed
+4619,CCTR,317,781,Lecture,3.000,"Comparative Stylistics: Spanish/English/French.",R,06:05 PM-08:55 PM,25,0,0,0,TBA,01/05-04/14,SH688 365,Temporarily closed
+2627,CCTR,325,771,Lecture,3.000,"French Translation 2.",W,06:05 PM-08:55 PM,25,0,0,0,TBA,01/05-04/14,BURN 306,Temporarily closed
+2629,CCTR,326,781,Lecture,3.000,"English Translation 2.",R,06:05 PM-08:55 PM,25,0,0,0,TBA,01/05-04/14,BURN 306,Temporarily closed
+7242,CCTR,333,781,Lecture,3.000,"Spanish Translation to French.",R,06:05 PM-08:55 PM,25,0,0,0,TBA,01/05-04/14,STBIO W2/3A,Temporarily closed
+8843,CCTR,334,781,Lecture,3.000,"Spanish Translation to English.",R,06:05 PM-08:55 PM,25,0,0,0,TBA,01/05-04/14,STBIO W2/3A,Temporarily closed
+2983,CCTR,401,761,Lecture,3.000,"Independent Studies: Translation.",,TBA,10,0,0,0,TBA,01/05-04/14,TBA,Temporarily closed
+2632,CCTR,434,781,Lecture,3.000,"English Translation 3.",R,06:05 PM-08:55 PM,25,0,0,0,TBA,01/05-04/14,BURN 708,Temporarily closed
+14487,CCTR,435,781,Lecture,3.000,"French Translation 4.",R,06:05 PM-08:55 PM,25,0,0,0,TBA,01/05-04/14,BURN 1205,Temporarily closed
+2635,CCTR,500,781,Lecture,3.000,"Translation Practicum.",,TBA,10,0,0,0,TBA,01/05-04/14,TBA,Temporarily closed
+13562,CCTR,503,751,Lecture,3.000,"Translation Studies (English/French/Spanish).",M,06:05 PM-08:55 PM,25,0,0,0,TBA,01/05-04/14,TBA,Temporarily closed
+2638,CCTR,523,761,Lecture,3.000,"Text Revision in Spanish/Révision de textes en Espagnol.",T,06:05 PM-08:55 PM,25,0,0,0,TBA,01/05-04/13,TBA,Temporarily closed
+2639,CCTR,527,771,Lecture,3.000,"History of Translation/Histoire de la traduction.",W,06:05 PM-08:55 PM,25,0,0,0,TBA,01/05-04/14,TBA,Temporarily closed
+14485,CCTR,528,791,Lecture,3.000,"Current Cultural Topics.",F,06:05 PM-08:55 PM,25,0,0,0,TBA,01/05-04/14,TBA,Temporarily closed
+,,,,,,,T,06:05 PM-08:55 PM,,,,,TBA,04/14-04/14,TBA,Temporarily closed
+14484,CCTR,533,781,Lecture,3.000,"Specialized Translation (English/French).",R,06:05 PM-08:55 PM,25,0,0,0,TBA,01/05-04/14,TBA,Temporarily closed
+2673,CCTR,551,701,Evaluation,0.000,"Comprehensive Evaluation/Évaluation globale.",M,TBA,10,0,0,0,TBA,01/05-04/14,TBA,Temporarily closed
+Tax (SCS)
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+2022,CCTX,511,751,Lecture,3.000,"Taxation 1.",M,06:05 PM-08:55 PM,50,0,0,0,TBA,01/05-04/14,WONG 1020,Temporarily closed
+2023,CCTX,532,751,Lecture,3.000,"Taxation 2.",M,06:05 PM-08:55 PM,50,0,0,0,TBA,01/05-04/14,ENGMC 12,Temporarily closed
+Comm-Engl for Acad Purp (SCS)
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+10854,CEAP,250,701,Lecture,3.000,"Research Essay & Rhetoric.",TR,08:35 AM-09:55 AM,25,10,0,10,"Susan Patricia  Laver",01/05-04/13,SH688 451,Active
+10855,CEAP,250,702,Lecture,3.000,"Research Essay & Rhetoric.",TR,08:35 AM-09:55 AM,25,10,0,10,"Susan Patricia  Laver",01/05-04/13,TBA,Active
+10856,CEAP,250,703,Lecture,3.000,"Research Essay & Rhetoric.",MW,04:05 PM-05:25 PM,25,10,3,7,"Susan Patricia  Laver",01/05-04/14,SH688 365,Active
+10863,CEAP,250,704,Lecture,3.000,"Research Essay & Rhetoric.",MW,08:35 AM-09:55 AM,25,10,0,10,"Susan Patricia  Laver",01/05-04/14,SH688 223,Active
+10864,CEAP,250,705,Lecture,3.000,"Research Essay & Rhetoric.",TR,01:05 PM-02:25 PM,25,10,0,10,"Susan Patricia  Laver",01/05-04/13,SH688 295,Active
+10865,CEAP,250,706,Lecture,3.000,"Research Essay & Rhetoric.",TR,04:05 PM-05:25 PM,25,10,0,10,"Susan Patricia  Laver",01/05-04/13,SH688 365,Active
+14507,CEAP,642,001,Lecture,1.000,"Cornerstones of Academic Writing",M,10:05 AM-11:25 AM,23,0,0,0,TBA,01/05-03/16,TBA,Active
+14508,CEAP,642,002,Lecture,1.000,"Cornerstones of Academic Writing",T,11:35 AM-12:55 PM,23,0,0,0,TBA,01/06-03/17,TBA,Active
+14509,CEAP,642,003,Lecture,1.000,"Cornerstones of Academic Writing",W,02:35 PM-03:55 PM,23,0,0,0,TBA,01/07-03/18,TBA,Active
+14510,CEAP,642,004,Lecture,1.000,"Cornerstones of Academic Writing",R,08:35 AM-09:55 AM,23,0,0,0,TBA,01/08-03/19,TBA,Active
+14511,CEAP,642,005,Lecture,1.000,"Cornerstones of Academic Writing",F,01:05 PM-02:25 PM,23,0,0,0,TBA,01/09-03/20,TBA,Active
+14512,CEAP,643,001,Lecture,1.000,"Literature Reviews and Scholarly Niches.",M,11:35 AM-12:55 PM,23,0,0,0,TBA,01/05-03/16,TBA,Active
+14513,CEAP,643,002,Lecture,1.000,"Literature Reviews and Scholarly Niches.",T,01:05 PM-02:25 PM,23,0,0,0,TBA,01/06-03/17,TBA,Active
+14514,CEAP,643,003,Lecture,1.000,"Literature Reviews and Scholarly Niches.",W,10:05 AM-11:25 AM,23,0,0,0,TBA,01/07-03/18,TBA,Active
+14515,CEAP,643,004,Lecture,1.000,"Literature Reviews and Scholarly Niches.",R,02:35 PM-03:55 PM,23,0,0,0,TBA,01/08-03/19,TBA,Active
+14520,CEAP,652,001,Lecture,1.000,"Fundamentals of Academic Presentations.",T,02:35 PM-03:55 PM,23,0,0,0,TBA,01/06-03/17,TBA,Active
+14521,CEAP,652,002,Lecture,1.000,"Fundamentals of Academic Presentations.",W,08:35 AM-09:55 AM,23,0,0,0,TBA,01/07-03/18,TBA,Active
+14522,CEAP,652,003,Lecture,1.000,"Fundamentals of Academic Presentations.",F,11:35 AM-12:55 PM,23,0,0,0,TBA,01/09-03/20,TBA,Active
+Economics (SCS)
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+2941,CEC2,532,751,Lecture,3.000,"Business Economics.",M,06:05 PM-08:55 PM,70,0,0,0,TBA,01/05-04/14,ENGMD 276,Temporarily closed
+2039,CEC2,532,761,Lecture,3.000,"Business Economics.",T,06:05 PM-08:55 PM,80,0,0,0,TBA,01/05-04/13,ENGMD 280,Temporarily closed
+English Communication
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+4718,CEEN,211,701,Lecture,3.000,"Functional English Grammar/Writing 1.",S,09:35 AM-12:45 PM,24,4,0,4,TBA,01/10-03/28,SH688 1355,Temporarily closed
+5134,CEEN,211,702,Lecture,3.000,"Functional English Grammar/Writing 1.",S,09:35 AM-12:45 PM,24,4,0,4,TBA,01/10-03/28,SH688 1085,Temporarily closed
+13274,CEEN,211,711,Lecture,3.000,"Functional English Grammar/Writing 1.",S,01:25 PM-04:45 PM,24,4,0,4,TBA,01/10-03/28,SH688 1161,Temporarily closed
+4719,CEEN,211,751,Lecture,3.000,"Functional English Grammar/Writing 1.",M,06:05 PM-08:55 PM,24,4,0,4,TBA,01/05-03/30,SH688 1155,Temporarily closed
+6395,CEEN,211,752,Lecture,3.000,"Functional English Grammar/Writing 1.",M,06:05 PM-08:55 PM,24,4,0,4,TBA,01/05-03/30,SH688 1395,Temporarily closed
+4720,CEEN,211,761,Lecture,3.000,"Functional English Grammar/Writing 1.",T,06:05 PM-08:55 PM,24,4,0,4,TBA,01/06-03/31,SH688 1151,Temporarily closed
+6398,CEEN,211,762,Lecture,3.000,"Functional English Grammar/Writing 1.",T,06:05 PM-08:55 PM,24,4,0,4,TBA,01/06-03/31,SH688 1165,Temporarily closed
+4721,CEEN,211,771,Lecture,3.000,"Functional English Grammar/Writing 1.",W,06:05 PM-08:55 PM,24,4,0,4,TBA,01/07-04/01,SH688 1151,Temporarily closed
+6420,CEEN,211,772,Lecture,3.000,"Functional English Grammar/Writing 1.",W,06:05 PM-08:55 PM,24,4,0,4,TBA,01/07-04/01,SH688 1261,Temporarily closed
+5130,CEEN,211,781,Lecture,3.000,"Functional English Grammar/Writing 1.",R,06:05 PM-08:55 PM,24,4,0,4,TBA,01/08-04/02,SH688 1399,Temporarily closed
+6421,CEEN,211,782,Lecture,3.000,"Functional English Grammar/Writing 1.",R,06:05 PM-08:55 PM,24,4,0,4,TBA,01/08-04/02,SH688 391,Temporarily closed
+14625,CEEN,211,791,Lecture,3.000,"Functional English Grammar/Writing 1.",F,06:05 PM-09:15 PM,24,4,0,4,TBA,01/09-03/27,SH688 1047,Temporarily closed
+4722,CEEN,212,701,Lecture,3.000,"English Communication Practice 1.",S,09:35 AM-12:45 PM,24,4,0,4,TBA,01/10-03/28,SH688 1395,Temporarily closed
+5907,CEEN,212,702,Lecture,3.000,"English Communication Practice 1.",S,09:35 AM-12:45 PM,24,4,0,4,TBA,01/10-03/28,SH688 1255,Temporarily closed
+13275,CEEN,212,711,Lecture,3.000,"English Communication Practice 1.",S,01:35 PM-04:45 PM,24,4,0,4,TBA,01/10-03/28,SH688 1399,Temporarily closed
+5131,CEEN,212,751,Lecture,3.000,"English Communication Practice 1.",M,06:05 PM-08:55 PM,24,4,0,4,TBA,01/05-03/30,SH688 1151,Temporarily closed
+5787,CEEN,212,752,Lecture,3.000,"English Communication Practice 1.",M,06:05 PM-08:55 PM,24,4,0,4,TBA,01/05-03/30,SH688 361,Temporarily closed
+4723,CEEN,212,761,Lecture,3.000,"English Communication Practice 1.",T,06:05 PM-08:55 PM,24,4,0,4,TBA,01/06-03/31,SH688 1093,Temporarily closed
+6422,CEEN,212,762,Lecture,3.000,"English Communication Practice 1.",T,06:05 PM-08:55 PM,24,4,0,4,TBA,01/06-03/31,SH688 1395,Temporarily closed
+4724,CEEN,212,771,Lecture,3.000,"English Communication Practice 1.",W,06:05 PM-08:55 PM,24,4,0,4,TBA,01/07-04/01,SH688 1351,Temporarily closed
+6399,CEEN,212,772,Lecture,3.000,"English Communication Practice 1.",W,06:05 PM-08:55 PM,24,4,0,4,TBA,01/07-04/01,SH688 1093,Temporarily closed
+4725,CEEN,212,781,Lecture,3.000,"English Communication Practice 1.",R,06:05 PM-08:55 PM,24,4,0,4,TBA,01/08-04/02,SH688 1365,Temporarily closed
+6400,CEEN,212,782,Lecture,3.000,"English Communication Practice 1.",R,06:05 PM-08:55 PM,24,4,0,4,TBA,01/08-04/02,SH688 361,Temporarily closed
+14626,CEEN,212,791,Lecture,3.000,"English Communication Practice 1.",F,06:05 PM-09:15 PM,24,4,0,4,TBA,01/09-03/27,SH688 1085,Temporarily closed
+4726,CEEN,221,701,Lecture,3.000,"Functional English Grammar/Writing 2.",S,09:35 AM-12:45 PM,24,4,0,4,TBA,01/10-03/28,SH688 1047,Temporarily closed
+5908,CEEN,221,702,Lecture,3.000,"Functional English Grammar/Writing 2.",S,09:35 AM-12:45 PM,24,4,0,4,TBA,01/10-03/28,SH688 355,Temporarily closed
+13276,CEEN,221,711,Lecture,3.000,"Functional English Grammar/Writing 2.",S,01:35 PM-04:45 PM,24,4,0,4,TBA,01/10-03/28,SH688 1371,Temporarily closed
+13277,CEEN,221,712,Lecture,3.000,"Functional English Grammar/Writing 2.",S,01:35 PM-04:45 PM,24,4,0,4,TBA,01/10-03/28,SH688 1351,Temporarily closed
+5086,CEEN,221,751,Lecture,3.000,"Functional English Grammar/Writing 2.",M,06:05 PM-08:55 PM,24,4,0,4,TBA,01/05-03/30,SH688 1088,Temporarily closed
+6401,CEEN,221,752,Lecture,3.000,"Functional English Grammar/Writing 2.",M,06:05 PM-08:55 PM,24,4,0,4,TBA,01/05-03/30,SH688 355,Temporarily closed
+5087,CEEN,221,761,Lecture,3.000,"Functional English Grammar/Writing 2.",T,06:05 PM-08:55 PM,24,4,0,4,TBA,01/06-03/31,SH688 1088,Temporarily closed
+6402,CEEN,221,762,Lecture,3.000,"Functional English Grammar/Writing 2.",T,06:05 PM-08:55 PM,24,4,0,4,TBA,01/06-03/31,SH688 295,Temporarily closed
+5132,CEEN,221,771,Lecture,3.000,"Functional English Grammar/Writing 2.",W,06:05 PM-08:55 PM,24,4,0,4,TBA,01/07-04/01,SH688 1255,Temporarily closed
+6423,CEEN,221,772,Lecture,3.000,"Functional English Grammar/Writing 2.",W,06:05 PM-08:55 PM,24,4,0,4,TBA,01/07-04/01,SH688 355,Temporarily closed
+5088,CEEN,221,781,Lecture,3.000,"Functional English Grammar/Writing 2.",R,06:05 PM-08:55 PM,24,4,0,4,TBA,01/08-04/02,SH688 1351,Temporarily closed
+6424,CEEN,221,782,Lecture,3.000,"Functional English Grammar/Writing 2.",R,06:05 PM-08:55 PM,24,4,0,4,TBA,01/08-04/02,SH688 1161,Temporarily closed
+14627,CEEN,221,791,Lecture,3.000,"Functional English Grammar/Writing 2.",F,06:05 PM-09:15 PM,24,4,0,4,TBA,01/09-03/27,SH688 1051,Temporarily closed
+5089,CEEN,222,701,Lecture,3.000,"English Communication Practice 2.",S,09:35 AM-12:45 PM,24,4,0,4,TBA,01/10-03/28,SH688 1055,Temporarily closed
+5909,CEEN,222,702,Lecture,3.000,"English Communication Practice 2.",S,09:35 AM-12:45 PM,24,4,0,4,TBA,01/10-03/28,SH688 1261,Temporarily closed
+13278,CEEN,222,711,Lecture,3.000,"English Communication Practice 2.",S,01:35 PM-04:45 PM,24,4,0,4,TBA,01/10-03/28,SH688 1047,Temporarily closed
+13279,CEEN,222,712,Lecture,3.000,"English Communication Practice 2.",S,01:35 PM-04:45 PM,24,4,0,4,TBA,01/10-03/28,SH688 1395,Temporarily closed
+5133,CEEN,222,751,Lecture,3.000,"English Communication Practice 2.",M,06:05 PM-08:55 PM,24,4,0,4,TBA,01/05-03/30,SH688 1371,Temporarily closed
+5146,CEEN,222,752,Lecture,3.000,"English Communication Practice 2.",M,06:05 PM-08:55 PM,24,4,0,4,TBA,01/05-03/30,SH688 1078,Temporarily closed
+5090,CEEN,222,761,Lecture,3.000,"English Communication Practice 2.",T,06:05 PM-08:55 PM,24,4,0,4,TBA,01/06-03/31,SH688 1255,Temporarily closed
+6425,CEEN,222,762,Lecture,3.000,"English Communication Practice 2.",T,06:05 PM-08:55 PM,24,4,0,4,TBA,01/06-03/31,SH688 1399,Temporarily closed
+5091,CEEN,222,771,Lecture,3.000,"English Communication Practice 2.",W,06:05 PM-08:55 PM,214,4,0,4,TBA,01/07-04/01,SH688 1165,Temporarily closed
+6403,CEEN,222,772,Lecture,3.000,"English Communication Practice 2.",W,06:05 PM-08:55 PM,24,4,0,4,TBA,01/07-04/01,SH688 361,Temporarily closed
+5092,CEEN,222,781,Lecture,3.000,"English Communication Practice 2.",R,06:05 PM-08:55 PM,24,4,0,4,TBA,01/08-04/02,SH688 1261,Temporarily closed
+6404,CEEN,222,782,Lecture,3.000,"English Communication Practice 2.",R,06:05 PM-08:55 PM,24,4,0,4,TBA,01/08-04/02,SH688 1065,Temporarily closed
+14628,CEEN,222,791,Lecture,3.000,"English Communication Practice 2.",F,06:05 PM-09:15 PM,24,4,0,4,TBA,01/09-03/27,SH688 1055,Temporarily closed
+13272,CEEN,301,701,Lecture,3.000,"English Grammar in Context.",S,09:35 AM-12:45 PM,24,4,0,4,TBA,01/10-03/28,SH688 1399,Temporarily closed
+13273,CEEN,301,751,Lecture,3.000,"English Grammar in Context.",M,06:05 PM-08:55 PM,24,4,0,4,TBA,01/05-03/30,SH688 1265,Temporarily closed
+5093,CEEN,331,701,Lecture,3.000,"Functional English Grammar/Writing 3.",S,09:35 AM-12:45 PM,24,4,0,4,TBA,01/10-03/28,SH688 1065,Temporarily closed
+5135,CEEN,331,702,Lecture,3.000,"Functional English Grammar/Writing 3.",S,09:35 AM-12:45 PM,24,4,0,4,TBA,01/10-03/28,SH688 1091,Temporarily closed
+13280,CEEN,331,711,Lecture,3.000,"Functional English Grammar/Writing 3.",S,01:35 PM-04:45 PM,24,4,0,4,TBA,01/10-03/28,SH688 1085,Temporarily closed
+5094,CEEN,331,751,Lecture,3.000,"Functional English Grammar/Writing 3.",M,06:05 PM-08:55 PM,24,4,0,4,TBA,01/05-03/30,SH688 1161,Temporarily closed
+6405,CEEN,331,752,Lecture,3.000,"Functional English Grammar/Writing 3.",M,06:05 PM-08:55 PM,24,4,0,4,TBA,01/05-03/30,SH688 1055,Temporarily closed
+5095,CEEN,331,761,Lecture,3.000,"Functional English Grammar/Writing 3.",T,06:05 PM-08:55 PM,24,4,0,4,TBA,01/06-03/31,SH688 1365,Temporarily closed
+6406,CEEN,331,762,Lecture,3.000,"Functional English Grammar/Writing 3.",T,06:05 PM-08:55 PM,24,4,0,4,TBA,01/06-03/31,SH688 1065,Temporarily closed
+5096,CEEN,331,771,Lecture,3.000,"Functional English Grammar/Writing 3.",W,06:05 PM-08:55 PM,24,4,0,4,TBA,01/07-04/01,SH688 1161,Temporarily closed
+6426,CEEN,331,772,Lecture,3.000,"Functional English Grammar/Writing 3.",W,06:05 PM-08:55 PM,24,4,0,4,TBA,01/07-04/01,SH688 1091,Temporarily closed
+5097,CEEN,331,781,Lecture,3.000,"Functional English Grammar/Writing 3.",R,06:05 PM-08:55 PM,24,4,0,4,TBA,01/08-04/02,SH688 1088,Temporarily closed
+6427,CEEN,331,782,Lecture,3.000,"Functional English Grammar/Writing 3.",R,06:05 PM-08:55 PM,24,4,0,4,TBA,01/08-04/02,SH688 1255,Temporarily closed
+14629,CEEN,331,791,Lecture,3.000,"Functional English Grammar/Writing 3.",F,06:05 PM-09:15 PM,24,4,0,4,TBA,01/09-03/27,SH688 1065,Temporarily closed
+5098,CEEN,332,701,Lecture,3.000,"English Communication Practice 3.",S,09:35 AM-12:45 PM,24,4,0,4,TBA,01/10-03/28,SH688 1365,Temporarily closed
+5136,CEEN,332,702,Lecture,3.000,"English Communication Practice 3.",S,09:35 AM-12:45 PM,24,4,0,4,TBA,01/10-03/28,SH688 295,Temporarily closed
+13281,CEEN,332,711,Lecture,3.000,"English Communication Practice 3.",S,01:35 PM-04:45 PM,24,4,0,4,TBA,01/10-03/28,SH688 1365,Temporarily closed
+5099,CEEN,332,751,Lecture,3.000,"English Communication Practice 3.",M,06:05 PM-08:55 PM,24,4,0,4,TBA,01/05-03/30,SH688 1165,Temporarily closed
+6428,CEEN,332,752,Lecture,3.000,"English Communication Practice 3.",M,06:05 PM-08:55 PM,24,4,0,4,TBA,01/05-03/30,SH688 391,Temporarily closed
+5100,CEEN,332,761,Lecture,3.000,"English Communication Practice 3.",T,06:05 PM-08:55 PM,24,4,0,4,TBA,01/06-03/31,SH688 1371,Temporarily closed
+6429,CEEN,332,762,Lecture,3.000,"English Communication Practice 3.",T,06:05 PM-08:55 PM,24,4,0,4,TBA,01/06-03/31,SH688 355,Temporarily closed
+5101,CEEN,332,771,Lecture,3.000,"English Communication Practice 3.",W,06:05 PM-08:55 PM,24,4,0,4,TBA,01/07-04/01,SH688 1399,Temporarily closed
+6407,CEEN,332,772,Lecture,3.000,"English Communication Practice 3.",W,06:05 PM-08:55 PM,24,4,0,4,TBA,01/07-04/01,SH688 1088,Temporarily closed
+5102,CEEN,332,781,Lecture,3.000,"English Communication Practice 3.",R,06:05 PM-08:55 PM,24,4,0,4,TBA,01/08-04/02,SH688 1085,Temporarily closed
+6408,CEEN,332,782,Lecture,3.000,"English Communication Practice 3.",R,06:05 PM-08:55 PM,24,4,0,4,TBA,01/08-04/02,SH688 1395,Temporarily closed
+14630,CEEN,332,791,Lecture,3.000,"English Communication Practice 3.",F,06:05 PM-09:15 PM,24,4,0,4,TBA,01/09-03/27,SH688 1091,Temporarily closed
+13269,CEEN,401,701,Lecture,3.000,"English Vocabulary in Context.",S,09:35 AM-12:45 PM,24,4,0,4,TBA,01/10-03/28,SH688 1265,Temporarily closed
+7054,CEEN,401,781,Lecture,3.000,"English Vocabulary in Context.",R,06:05 PM-08:55 PM,24,4,0,4,TBA,01/08-04/02,SH688 1076,Temporarily closed
+6430,CEEN,402,761,Lecture,3.000,"English Communication and Cultural Patterns.",T,06:05 PM-08:55 PM,24,4,0,4,TBA,01/06-03/31,SH688 1355,Temporarily closed
+13270,CEEN,403,751,Lecture,3.000,"Strategic Communication in English.",M,06:05 PM-08:55 PM,24,4,0,4,TBA,01/05-03/30,SH688 1365,Temporarily closed
+13271,CEEN,403,771,Lecture,3.000,"Strategic Communication in English.",W,06:05 PM-08:55 PM,24,4,0,4,TBA,01/07-04/01,SH688 1155,Temporarily closed
+5103,CEEN,411,701,Lecture,3.000,"English Grammar and Writing Techniques.",S,09:35 AM-12:45 PM,24,4,0,4,TBA,01/10-03/28,SH688 1371,Temporarily closed
+5910,CEEN,411,702,Lecture,3.000,"English Grammar and Writing Techniques.",S,09:35 AM-12:45 PM,24,4,0,4,TBA,01/10-03/28,SH688 ,Temporarily closed
+13282,CEEN,411,711,Lecture,3.000,"English Grammar and Writing Techniques.",S,01:35 PM-04:45 PM,24,4,0,4,TBA,01/10-03/28,SH688 1065,Temporarily closed
+5104,CEEN,411,751,Lecture,3.000,"English Grammar and Writing Techniques.",M,06:05 PM-08:55 PM,24,4,0,4,TBA,01/05-03/30,SH688 1351,Temporarily closed
+6409,CEEN,411,752,Lecture,3.000,"English Grammar and Writing Techniques.",M,06:05 PM-08:55 PM,24,4,0,4,TBA,01/05-03/30,SH688 1076,Temporarily closed
+5105,CEEN,411,761,Lecture,3.000,"English Grammar and Writing Techniques.",T,06:05 PM-08:55 PM,24,4,0,4,TBA,01/06-03/31,SH688 1076,Temporarily closed
+6410,CEEN,411,762,Lecture,3.000,"English Grammar and Writing Techniques.",T,06:05 PM-08:55 PM,24,4,0,4,TBA,01/06-03/31,SH688 361,Temporarily closed
+5106,CEEN,411,771,Lecture,3.000,"English Grammar and Writing Techniques.",W,06:05 PM-08:55 PM,24,4,0,4,TBA,01/07-04/01,SH688 1365,Temporarily closed
+6431,CEEN,411,772,Lecture,3.000,"English Grammar and Writing Techniques.",W,06:05 PM-08:55 PM,24,4,0,4,TBA,01/07-04/01,SH688 491,Temporarily closed
+5107,CEEN,411,781,Lecture,3.000,"English Grammar and Writing Techniques.",R,06:05 PM-08:55 PM,24,4,0,4,TBA,01/08-04/02,SH688 1093,Temporarily closed
+6438,CEEN,411,782,Lecture,3.000,"English Grammar and Writing Techniques.",R,06:05 PM-08:55 PM,24,4,0,4,TBA,01/08-04/02,SH688 495,Temporarily closed
+14631,CEEN,411,791,Lecture,3.000,"English Grammar and Writing Techniques.",F,06:05 PM-09:15 PM,24,4,0,4,TBA,01/09-03/27,SH688 1093,Temporarily closed
+5108,CEEN,412,701,Lecture,3.000,"English Oral Communication Techniques.",S,09:35 AM-12:45 PM,24,4,0,4,TBA,01/10-03/28,SH688 1151,Temporarily closed
+6411,CEEN,412,702,Lecture,3.000,"English Oral Communication Techniques.",S,09:35 AM-12:45 PM,24,4,0,4,TBA,01/10-03/28,SH688 361,Temporarily closed
+13283,CEEN,412,711,Lecture,3.000,"English Oral Communication Techniques.",S,01:35 PM-04:45 PM,24,4,0,4,TBA,01/10-03/28,SH688 1151,Temporarily closed
+5109,CEEN,412,751,Lecture,3.000,"English Oral Communication Techniques.",M,06:05 PM-08:55 PM,24,4,0,4,TBA,01/05-03/30,SH688 1065,Temporarily closed
+6435,CEEN,412,752,Lecture,3.000,"English Oral Communication Techniques.",M,06:05 PM-08:55 PM,24,4,0,4,TBA,01/05-03/30,SH688 491,Temporarily closed
+5110,CEEN,412,761,Lecture,3.000,"English Oral Communication Techniques.",T,06:05 PM-08:55 PM,24,4,0,4,TBA,01/06-03/31,SH688 1091,Temporarily closed
+6434,CEEN,412,762,Lecture,3.000,"English Oral Communication Techniques.",T,06:05 PM-08:55 PM,24,4,0,4,TBA,01/06-03/31,SH688 1155,Temporarily closed
+5111,CEEN,412,771,Lecture,3.000,"English Oral Communication Techniques.",W,06:05 PM-08:55 PM,24,4,0,4,TBA,01/07-04/01,SH688 1065,Temporarily closed
+6412,CEEN,412,772,Lecture,3.000,"English Oral Communication Techniques.",W,06:05 PM-08:55 PM,24,4,0,4,TBA,01/07-04/01,SH688 365,Temporarily closed
+5112,CEEN,412,781,Lecture,3.000,"English Oral Communication Techniques.",R,06:05 PM-08:55 PM,24,4,0,4,TBA,01/08-04/02,SH688 1165,Temporarily closed
+14632,CEEN,412,791,Lecture,3.000,"English Oral Communication Techniques.",F,06:05 PM-09:15 PM,24,4,0,4,TBA,01/09-03/27,SH688 1076,Temporarily closed
+5113,CEEN,421,701,Lecture,3.000,"English Written Communication Contexts.",S,09:35 AM-12:45 PM,24,4,0,4,TBA,01/10-03/28,SH688 1351,Temporarily closed
+6414,CEEN,421,702,Lecture,3.000,"English Written Communication Contexts.",S,09:35 AM-12:45 PM,24,4,0,4,TBA,01/10-03/28,SH688 491,Temporarily closed
+13284,CEEN,421,711,Lecture,3.000,"English Written Communication Contexts.",S,01:35 PM-04:45 PM,24,4,0,4,TBA,01/10-03/28,SH688 1355,Temporarily closed
+5114,CEEN,421,751,Lecture,3.000,"English Written Communication Contexts.",M,06:05 PM-08:55 PM,24,4,0,4,TBA,01/05-03/30,SH688 1085,Temporarily closed
+13381,CEEN,421,752,Lecture,3.000,"English Written Communication Contexts.",M,06:05 PM-08:55 PM,24,4,0,4,TBA,01/05-03/30,SH688 495,Temporarily closed
+5115,CEEN,421,761,Lecture,3.000,"English Written Communication Contexts.",T,06:05 PM-08:55 PM,24,4,0,4,TBA,01/06-03/31,SH688 1078,Temporarily closed
+5116,CEEN,421,771,Lecture,3.000,"English Written Communication Contexts.",W,06:05 PM-08:55 PM,24,4,0,4,TBA,01/07-04/01,SH688 1371,Temporarily closed
+13383,CEEN,421,772,Lecture,3.000,"English Written Communication Contexts.",W,06:05 PM-08:55 PM,24,4,0,4,TBA,01/07-04/01,SH688 ,Temporarily closed
+5117,CEEN,421,781,Lecture,3.000,"English Written Communication Contexts.",R,06:05 PM-08:55 PM,24,4,0,4,TBA,01/08-04/02,SH688 1051,Temporarily closed
+13382,CEEN,421,782,Lecture,3.000,"English Written Communication Contexts.",R,06:05 PM-08:55 PM,24,14,0,14,TBA,01/08-04/02,SH688 1151,Temporarily closed
+14633,CEEN,421,791,Lecture,3.000,"English Written Communication Contexts.",F,06:05 PM-09:15 PM,24,4,0,4,TBA,01/09-03/27,SH688 1078,Temporarily closed
+5118,CEEN,422,701,Lecture,3.000,"English Oral Communication Contexts.",S,09:35 AM-12:45 PM,24,4,0,4,TBA,01/10-03/28,SH688 495,Temporarily closed
+13367,CEEN,422,702,Lecture,3.000,"English Oral Communication Contexts.",S,09:35 AM-12:45 PM,24,4,0,4,TBA,01/10-03/28,SH688 395,Temporarily closed
+13285,CEEN,422,711,Lecture,3.000,"English Oral Communication Contexts.",S,01:35 PM-04:45 PM,24,4,0,4,TBA,01/10-03/28,SH688 1165,Temporarily closed
+5119,CEEN,422,751,Lecture,3.000,"English Oral Communication Contexts.",M,06:05 PM-08:55 PM,24,4,0,4,TBA,01/05-03/30,SH688 1399,Temporarily closed
+13384,CEEN,422,752,Lecture,3.000,"English Oral Communication Contexts.",M,06:05 PM-08:55 PM,24,4,0,4,TBA,01/05-03/30,SH688 395,Temporarily closed
+5120,CEEN,422,761,Lecture,3.000,"English Oral Communication Contexts.",T,06:05 PM-08:55 PM,24,4,0,4,TBA,01/06-03/31,SH688 1261,Temporarily closed
+5121,CEEN,422,771,Lecture,3.000,"English Oral Communication Contexts.",W,06:05 PM-08:55 PM,24,4,0,4,TBA,01/07-04/01,SH688 1076,Temporarily closed
+5122,CEEN,422,781,Lecture,3.000,"English Oral Communication Contexts.",R,06:05 PM-08:55 PM,24,4,0,4,TBA,01/08-04/02,SH688 1091,Temporarily closed
+13385,CEEN,422,782,Lecture,3.000,"English Oral Communication Contexts.",R,06:05 PM-08:55 PM,24,4,0,4,TBA,01/08-04/02,SH688 355,Temporarily closed
+14634,CEEN,422,791,Lecture,3.000,"English Oral Communication Contexts.",F,06:05 PM-09:11 PM,24,4,0,4,TBA,01/09-03/27,SH688 1088,Temporarily closed
+French Communication
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+13564,CEFN,102,701,Lecture,3.000,"Basic French.",S,09:35 AM-12:45 PM,24,4,0,4,TBA,01/10-03/28,SH688 1076,Temporarily closed
+13565,CEFN,102,761,Lecture,3.000,"Basic French.",T,06:05 PM-08:55 PM,24,4,0,4,TBA,01/05-04/13,SH688 365,Temporarily closed
+13566,CEFN,102,771,Lecture,3.000,"Basic French.",W,06:05 PM-08:55 PM,24,4,0,4,TBA,01/05-04/14,SH688 1145,Temporarily closed
+13567,CEFN,104,771,Lecture,3.000,"Elementary French .",W,06:05 PM-08:55 PM,24,4,0,4,TBA,01/07-04/01,SH688 495,Temporarily closed
+13568,CEFN,104,781,Lecture,3.000,"Elementary French .",R,06:05 PM-08:55 PM,24,4,0,4,TBA,01/08-04/02,SH688 1371,Temporarily closed
+13569,CEFN,106,711,Lecture,3.000,"Fundamentals of  French Grammar and Writing.",S,01:35 PM-04:45 PM,24,4,0,4,TBA,01/10-04/04,SH688 1078,Temporarily closed
+13570,CEFN,106,751,Lecture,3.000,"Fundamentals of  French Grammar and Writing.",M,06:05 PM-08:55 PM,24,4,0,4,TBA,01/05-03/30,SH688 1261,Temporarily closed
+13572,CEFN,107,701,Lecture,3.000,"Fundamentals of French Oral Communication.",S,09:35 AM-12:45 PM,24,4,0,4,TBA,01/10-04/04,SH688 1078,Temporarily closed
+13573,CEFN,107,771,Lecture,3.000,"Fundamentals of French Oral Communication.",W,06:05 PM-08:55 PM,24,4,0,4,TBA,01/07-04/01,SH688 1055,Temporarily closed
+13574,CEFN,107,781,Lecture,3.000,"Fundamentals of French Oral Communication.",R,06:05 PM-08:55 PM,24,4,0,4,TBA,01/08-04/02,SH688 1155,Temporarily closed
+4183,CEFN,211,751,Lecture,3.000,"Functional French Grammar/Writing 1.",M,06:05 PM-08:55 PM,24,4,0,4,TBA,01/05-03/30,SH688 1091,Temporarily closed
+4184,CEFN,211,771,Lecture,3.000,"Functional French Grammar/Writing 1.",W,06:05 PM-08:55 PM,24,4,0,4,TBA,01/07-04/01,SH688 1355,Temporarily closed
+4185,CEFN,211,781,Lecture,3.000,"Functional French Grammar/Writing 1.",R,06:05 PM-08:55 PM,24,4,0,4,TBA,01/08-04/02,SH688 223,Temporarily closed
+4186,CEFN,212,701,Lecture,3.000,"French Communication Practice 1.",S,09:35 AM-12:45 PM,24,4,0,4,TBA,01/10-03/28,SH688 1161,Temporarily closed
+4187,CEFN,212,761,Lecture,3.000,"French Communication Practice 1.",T,06:05 PM-08:55 PM,24,4,0,4,TBA,01/06-03/31,SH688 1351,Temporarily closed
+13386,CEFN,212,771,Lecture,3.000,"French Communication Practice 1.",W,06:05 PM-08:55 PM,24,4,0,4,TBA,01/07-04/01,SH688 1342,Temporarily closed
+4188,CEFN,221,751,Lecture,3.000,"Functional French Grammar/Writing 2.",M,06:05 PM-08:55 PM,24,4,0,4,TBA,01/05-03/30,SH688 1355,Temporarily closed
+4189,CEFN,221,761,Lecture,3.000,"Functional French Grammar/Writing 2.",T,06:05 PM-08:55 PM,24,4,0,4,TBA,01/06-03/31,SH688 495,Temporarily closed
+13380,CEFN,221,771,Lecture,3.000,"Functional French Grammar/Writing 2.",W,06:05 PM-08:55 PM,24,4,0,4,TBA,01/07-04/01,SH688 1078,Temporarily closed
+4190,CEFN,221,781,Lecture,3.000,"Functional French Grammar/Writing 2.",R,06:05 PM-08:55 PM,24,4,0,4,TBA,01/08-04/02,SH688 1078,Temporarily closed
+4191,CEFN,222,701,Lecture,3.000,"French Communication Practice 2.",S,09:35 AM-12:45 PM,24,4,0,4,TBA,01/10-03/28,SH688 1051,Temporarily closed
+4192,CEFN,222,761,Lecture,3.000,"French Communication Practice 2.",T,06:05 PM-08:55 PM,24,4,0,4,TBA,01/06-03/31,SH688 1161,Temporarily closed
+4193,CEFN,222,771,Lecture,3.000,"French Communication Practice 2.",W,06:05 PM-08:55 PM,24,4,0,4,TBA,01/07-04/01,SH688 1395,Temporarily closed
+13387,CEFN,222,781,Lecture,3.000,"French Communication Practice 2.",R,06:05 PM-08:55 PM,24,4,0,4,TBA,01/08-04/02,SH688 295,Temporarily closed
+4194,CEFN,331,701,Lecture,3.000,"Functional French Grammar/Writing 3.",S,09:35 AM-12:45 PM,24,4,0,4,TBA,01/10-03/28,SH688 365,Temporarily closed
+6393,CEFN,331,751,Lecture,3.000,"Functional French Grammar/Writing 3.",M,06:05 PM-08:55 PM,24,4,0,4,TBA,01/05-03/30,SH688 365,Temporarily closed
+6394,CEFN,331,761,Lecture,3.000,"Functional French Grammar/Writing 3.",T,06:05 PM-08:55 PM,24,4,0,4,TBA,01/06-03/31,SH688 1051,Temporarily closed
+4195,CEFN,332,771,Lecture,3.000,"French Communication Practice 3.",W,06:05 PM-08:55 PM,24,4,0,4,TBA,01/08-04/02,SH688 395,Temporarily closed
+4196,CEFN,332,781,Lecture,3.000,"French Communication Practice 3.",R,06:05 PM-08:55 PM,24,4,0,4,TBA,01/07-04/01,SH688 1355,Temporarily closed
+5891,CEFN,401,751,Lecture,3.000,"French Vocabulary in Context.",M,06:05 PM-08:55 PM,24,4,0,4,TBA,01/05-03/30,SH688 1255,Temporarily closed
+14436,CEFN,402,751,Lecture,3.000,"Persuasive French in Communication.",M,06:05 PM-08:55 PM,24,4,0,4,TBA,01/05-03/30,SH688 ,Temporarily closed
+6396,CEFN,411,751,Lecture,3.000,"French Grammar/Writing Techniques.",M,06:05 PM-08:55 PM,24,4,0,4,TBA,01/05-03/30,SH688 1093,Temporarily closed
+6397,CEFN,411,761,Lecture,3.000,"French Grammar/Writing Techniques.",T,06:05 PM-08:55 PM,24,4,0,4,TBA,01/06-03/31,SH688 491,Temporarily closed
+4197,CEFN,412,771,Lecture,3.000,"French Oral Communication Techniques.",W,06:05 PM-08:55 PM,24,4,0,4,TBA,01/07-04/01,SH688 391,Temporarily closed
+13368,CEFN,421,761,Lecture,3.000,"French Written Communication Contexts.",T,06:05 PM-08:55 PM,24,4,0,4,TBA,01/06-03/31,TBA,Temporarily closed
+6441,CEFN,421,771,Lecture,3.000,"French Written Communication Contexts.",W,06:05 PM-08:55 PM,24,4,0,4,TBA,01/07-04/01,SH688 ,Temporarily closed
+4198,CEFN,422,751,Lecture,3.000,"French Oral Communication Contexts.",M,06:05 PM-08:55 PM,24,4,0,4,TBA,01/05-03/30,SH688 295,Temporarily closed
+13388,CEFN,422,771,Lecture,3.000,"French Oral Communication Contexts.",W,06:05 PM-08:55 PM,24,4,0,4,TBA,01/07-04/01,SH688 295,Temporarily closed
+English (SCS)
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+4711,CEGL,102,701,Lecture,11.000,"Basic English.",S,09:35 AM-01:25 PM,24,4,0,4,TBA,01/10-03/28,SH688 1093,Temporarily closed
+4712,CEGL,102,751,Lecture,11.000,"Basic English.",MW,06:05 PM-07:55 PM,24,4,0,4,TBA,01/05-03/25,SH688 451,Temporarily closed
+4713,CEGL,104,701,Lecture,11.000,"Elementary English 1.",S,09:35 AM-01:25 PM,24,4,0,4,TBA,01/10-03/28,SH688 1165,Temporarily closed
+4714,CEGL,104,702,Lecture,11.000,"Elementary English 1.",S,09:35 AM-01:25 PM,24,4,0,4,TBA,01/10-03/28,SH688 223,Temporarily closed
+4715,CEGL,104,751,Lecture,11.000,"Elementary English 1.",MW,06:05 PM-07:55 PM,24,4,0,4,TBA,01/05-03/25,SH688 1051,Temporarily closed
+4716,CEGL,104,761,Lecture,11.000,"Elementary English 1.",TR,06:05 PM-07:55 PM,24,4,0,4,TBA,01/06-03/26,SH688 1055,Temporarily closed
+5783,CEGL,106,701,Lecture,11.000,"Elementary English 2.",S,09:35 AM-01:25 PM,24,4,0,4,TBA,01/10-03/28,SH688 1088,Temporarily closed
+5786,CEGL,106,702,Lecture,11.000,"Elementary English 2.",S,09:35 AM-01:25 PM,24,4,0,4,TBA,01/10-03/28,SH688 1155,Temporarily closed
+13286,CEGL,106,703,Lecture,11.000,"Elementary English 2.",S,09:35 AM-01:25 PM,24,4,0,4,TBA,01/10-03/28,SH688 391,Temporarily closed
+5784,CEGL,106,751,Lecture,11.000,"Elementary English 2.",MW,06:05 PM-07:55 PM,24,4,0,4,TBA,01/05-03/25,SH688 1047,Temporarily closed
+6464,CEGL,106,752,Lecture,11.000,"Elementary English 2.",MW,06:05 PM-07:55 PM,24,4,0,4,TBA,01/05-03/25,SH688 223,Temporarily closed
+5785,CEGL,106,761,Lecture,11.000,"Elementary English 2.",TR,06:05 PM-07:55 PM,24,4,0,4,TBA,01/06-03/26,SH688 1047,Temporarily closed
+10075,CEGL,213,701,Lecture,20.000,"Intensive English - Elementary 1.",MTWRF,09:35 AM-03:25 PM,20,0,0,0,TBA,01/12-02/20,SH688 1255,Active
+10076,CEGL,213,702,Lecture,20.000,"Intensive English - Elementary 1.",MTWRF,09:35 AM-03:25 PM,18,0,0,0,TBA,01/12-02/20,TBA,Active
+10077,CEGL,213,703,Laboratory,0.000,"Intensive English - Elementary 1.",MTWRF,TBA,18,0,0,0,TBA,01/12-02/20,TBA,Active
+10078,CEGL,213,704,Laboratory,0.000,"Intensive English - Elementary 1.",MTWRF,TBA,18,0,0,0,TBA,01/12-02/20,TBA,Active
+10081,CEGL,213,711,Lecture,20.000,"Intensive English - Elementary 1.",MTWRF,09:35 AM-03:25 PM,18,0,0,0,TBA,03/02-04/10,TBA,Active
+10082,CEGL,213,712,Lecture,20.000,"Intensive English - Elementary 1.",MTWRF,09:35 AM-03:25 PM,18,0,0,0,TBA,03/02-04/10,TBA,Active
+10083,CEGL,213,713,Laboratory,0.000,"Intensive English - Elementary 1.",MTWRF,TBA,18,0,0,0,TBA,03/02-04/10,TBA,Active
+10084,CEGL,213,714,Laboratory,0.000,"Intensive English - Elementary 1.",MTWRF,TBA,18,0,0,0,TBA,03/02-04/10,TBA,Active
+10085,CEGL,223,701,Lecture,20.000,"Intensive English - Elementary 2.",MTWRF,09:35 AM-03:25 PM,20,0,0,0,TBA,01/12-02/20,SH688 1151,Active
+10086,CEGL,223,702,Lecture,20.000,"Intensive English - Elementary 2.",MTWRF,09:35 AM-03:25 PM,18,0,0,0,TBA,01/12-02/20,TBA,Active
+10087,CEGL,223,703,Laboratory,0.000,"Intensive English - Elementary 2.",MTWRF,TBA,18,0,0,0,TBA,01/12-02/20,TBA,Active
+10088,CEGL,223,704,Laboratory,0.000,"Intensive English - Elementary 2.",MTWRF,TBA,18,0,0,0,TBA,01/12-02/20,TBA,Active
+10089,CEGL,223,711,Lecture,20.000,"Intensive English - Elementary 2.",MTWRF,09:35 AM-03:25 PM,18,0,0,0,TBA,03/02-04/10,TBA,Active
+,,,,,,,MTWR,03:35 PM-05:25 PM,,,,,TBA,03/02-04/10,TBA,Active
+10090,CEGL,223,712,Lecture,20.000,"Intensive English - Elementary 2.",MTWRF,09:35 AM-03:25 PM,18,0,0,0,TBA,03/02-04/10,TBA,Active
+10091,CEGL,223,713,Laboratory,0.000,"Intensive English - Elementary 2.",MTWRF,TBA,18,0,0,0,TBA,03/02-04/10,TBA,Active
+10092,CEGL,223,714,Laboratory,0.000,"Intensive English - Elementary 2.",MTWRF,TBA,18,0,0,0,TBA,03/02-04/10,TBA,Active
+4717,CEGL,228,761,Lecture,6.000,"Pronunciation Clinic 1.",T,06:05 PM-08:25 PM,24,4,0,4,TBA,01/13-03/31,SH688 1085,Temporarily closed
+4964,CEGL,238,771,Lecture,6.000,"Pronunciation Clinic 2.",W,06:05 PM-08:25 PM,24,4,0,4,TBA,01/14-04/01,SH688 1085,Temporarily closed
+6334,CEGL,240,701,Lecture,5.000,"English Communication Level 2D.",T,08:35 AM-10:55 AM,20,0,0,0,TBA,01/05-04/13,TBA,Active
+6335,CEGL,260,701,Lecture,5.000,"English Communication Level 2F.",R,01:05 PM-03:55 PM,20,0,0,0,TBA,01/05-04/14,TBA,Active
+7590,CEGL,260,765,Lecture,5.000,"English Communication Level 2F.",T,08:35 AM-11:25 AM,25,0,0,0,TBA,01/05-04/13,TBA,Active
+10097,CEGL,313,701,Lecture,20.000,"Intensive English - Intermediate 1.",MTWRF,09:35 AM-03:25 PM,20,0,0,0,TBA,01/12-02/20,SH688 1165,Active
+10099,CEGL,313,702,Lecture,20.000,"Intensive English - Intermediate 1.",MTWRF,09:35 AM-03:25 PM,18,0,0,0,TBA,01/12-02/20,TBA,Active
+10101,CEGL,313,703,Lecture,20.000,"Intensive English - Intermediate 1.",MTWRF,09:35 AM-03:25 PM,18,0,0,0,TBA,01/12-02/20,TBA,Active
+10104,CEGL,313,704,Lecture,20.000,"Intensive English - Intermediate 1.",MTWRF,09:35 AM-03:25 PM,18,0,0,0,TBA,01/12-02/20,TBA,Active
+10110,CEGL,313,705,Laboratory,0.000,"Intensive English - Intermediate 1.",MTWRF,TBA,18,0,0,0,TBA,01/12-02/20,TBA,Active
+10117,CEGL,313,706,Laboratory,0.000,"Intensive English - Intermediate 1.",MTWRF,TBA,18,0,0,0,TBA,01/12-02/20,TBA,Active
+10119,CEGL,313,707,Laboratory,0.000,"Intensive English - Intermediate 1.",MTWRF,TBA,18,0,0,0,TBA,01/12-02/20,TBA,Active
+10123,CEGL,313,708,Laboratory,0.000,"Intensive English - Intermediate 1.",MTWRF,TBA,18,0,0,0,TBA,01/12-02/20,TBA,Active
+10125,CEGL,313,711,Lecture,20.000,"Intensive English - Intermediate 1.",MTWRF,09:35 AM-03:25 PM,18,0,0,0,TBA,03/02-04/10,TBA,Active
+,,,,,,,MTWR,03:35 PM-05:25 PM,,,,,TBA,03/02-04/10,TBA,Active
+10127,CEGL,313,712,Lecture,20.000,"Intensive English - Intermediate 1.",MTWRF,09:35 AM-03:25 PM,18,0,0,0,TBA,03/02-04/10,TBA,Active
+,,,,,,,MTWR,03:35 PM-05:25 PM,,,,,TBA,03/02-04/10,TBA,Active
+10129,CEGL,313,713,Lecture,20.000,"Intensive English - Intermediate 1.",MTWRF,09:35 AM-03:25 PM,18,0,0,0,TBA,03/02-04/10,TBA,Active
+10133,CEGL,313,714,Lecture,20.000,"Intensive English - Intermediate 1.",MTWRF,09:35 AM-03:25 PM,18,0,0,0,TBA,03/02-04/10,TBA,Active
+10134,CEGL,313,715,Laboratory,0.000,"Intensive English - Intermediate 1.",MTWRF,TBA,18,0,0,0,TBA,03/02-04/10,TBA,Active
+10137,CEGL,313,716,Laboratory,0.000,"Intensive English - Intermediate 1.",MTWRF,TBA,18,0,0,0,TBA,03/02-04/10,TBA,Active
+10138,CEGL,313,717,Laboratory,0.000,"Intensive English - Intermediate 1.",MTWRF,TBA,18,0,0,0,TBA,03/02-04/10,TBA,Active
+10139,CEGL,313,718,Laboratory,0.000,"Intensive English - Intermediate 1.",MTWRF,TBA,18,0,0,0,TBA,03/02-04/10,TBA,Active
+6336,CEGL,320,701,Lecture,5.000,"English Communication Level 3B.",R,01:05 PM-03:55 PM,20,0,0,0,TBA,01/05-04/14,TBA,Active
+7591,CEGL,320,785,Lecture,5.000,"English Communication Level 3B.",R,01:05 PM-03:55 PM,25,0,0,0,TBA,01/05-04/14,TBA,Active
+7592,CEGL,320,795,Lecture,5.000,"English Communication Level 3B.",F,09:05 AM-11:55 AM,25,0,0,0,TBA,01/09-04/10,TBA,Active
+,,,,,,,T,09:05 AM-11:55 AM,,,,,TBA,04/14-04/14,TBA,Active
+10140,CEGL,323,701,Lecture,20.000,"Intensive English - Intermediate 2.",MTWRF,09:35 AM-03:25 PM,20,0,0,0,TBA,01/12-02/20,SH688 1047,Active
+10141,CEGL,323,702,Lecture,20.000,"Intensive English - Intermediate 2.",MTWRF,09:35 AM-03:25 PM,20,0,0,0,TBA,01/12-02/20,SH688 1051,Active
+10142,CEGL,323,703,Lecture,20.000,"Intensive English - Intermediate 2.",MTWRF,09:35 AM-03:25 PM,18,0,0,0,TBA,01/12-02/20,TBA,Active
+10143,CEGL,323,704,Lecture,20.000,"Intensive English - Intermediate 2.",MTWRF,09:35 AM-03:25 PM,18,0,0,0,TBA,01/12-02/20,TBA,Active
+10144,CEGL,323,705,Laboratory,0.000,"Intensive English - Intermediate 2.",MTWRF,TBA,18,0,0,0,TBA,03/02-04/10,TBA,Active
+10147,CEGL,323,706,Laboratory,0.000,"Intensive English - Intermediate 2.",MTWRF,TBA,18,0,0,0,TBA,03/02-04/10,TBA,Active
+10151,CEGL,323,707,Laboratory,0.000,"Intensive English - Intermediate 2.",MTWRF,TBA,18,0,0,0,TBA,03/02-04/10,TBA,Active
+10154,CEGL,323,708,Laboratory,0.000,"Intensive English - Intermediate 2.",MTWRF,TBA,18,0,0,0,TBA,03/02-04/10,TBA,Active
+10157,CEGL,323,711,Lecture,20.000,"Intensive English - Intermediate 2.",MTWRF,09:35 AM-03:25 PM,18,0,0,0,TBA,03/02-04/10,TBA,Active
+,,,,,,,MTWR,03:35 PM-05:25 PM,,,,,TBA,03/02-04/10,TBA,Active
+10159,CEGL,323,712,Lecture,20.000,"Intensive English - Intermediate 2.",MTWRF,09:35 AM-03:25 PM,18,0,0,0,TBA,03/02-04/10,TBA,Active
+,,,,,,,MTWR,03:35 PM-05:25 PM,,,,,TBA,03/02-04/10,TBA,Active
+10161,CEGL,323,713,Lecture,20.000,"Intensive English - Intermediate 2.",MTWRF,09:35 AM-03:25 PM,18,0,0,0,TBA,03/02-04/10,TBA,Active
+10165,CEGL,323,714,Lecture,20.000,"Intensive English - Intermediate 2.",MTWRF,09:35 AM-03:25 PM,18,0,0,0,TBA,03/02-04/10,TBA,Active
+10174,CEGL,323,715,Laboratory,0.000,"Intensive English - Intermediate 2.",MTWRF,TBA,18,0,0,0,TBA,03/02-04/10,TBA,Active
+10175,CEGL,323,716,Laboratory,0.000,"Intensive English - Intermediate 2.",MTWRF,TBA,18,0,0,0,TBA,03/02-04/10,TBA,Active
+10176,CEGL,323,717,Laboratory,0.000,"Intensive English - Intermediate 2.",MTWRF,TBA,18,0,0,0,TBA,03/02-04/10,TBA,Active
+10177,CEGL,323,718,Laboratory,0.000,"Intensive English - Intermediate 2.",MTWRF,TBA,18,0,0,0,TBA,03/02-04/10,TBA,Active
+10178,CEGL,333,701,Lecture,20.000,"Intensive English - Intermediate 3.",MTWRF,09:35 AM-03:25 PM,20,0,0,0,TBA,01/12-02/20,SH688 1091,Active
+10179,CEGL,333,702,Lecture,20.000,"Intensive English - Intermediate 3.",MTWRF,09:35 AM-03:25 PM,20,0,0,0,TBA,01/12-02/20,SH688 1065,Active
+10180,CEGL,333,703,Laboratory,0.000,"Intensive English - Intermediate 3.",MTWRF,TBA,18,0,0,0,TBA,01/12-02/20,TBA,Active
+10181,CEGL,333,704,Laboratory,0.000,"Intensive English - Intermediate 3.",MTWRF,TBA,18,0,0,0,TBA,01/12-02/20,TBA,Active
+10182,CEGL,333,711,Lecture,20.000,"Intensive English - Intermediate 3.",MTWRF,09:35 AM-03:25 PM,18,0,0,0,TBA,03/02-04/10,TBA,Active
+10183,CEGL,333,712,Lecture,20.000,"Intensive English - Intermediate 3.",MTWRF,09:35 AM-03:25 PM,18,0,0,0,TBA,03/02-04/10,TBA,Active
+10184,CEGL,333,713,Lecture,20.000,"Intensive English - Intermediate 3.",MTWRF,09:35 AM-03:25 PM,18,0,0,0,TBA,03/02-04/10,TBA,Active
+10185,CEGL,333,714,Laboratory,0.000,"Intensive English - Intermediate 3.",MTWRF,TBA,18,0,0,0,TBA,03/02-04/10,TBA,Active
+10186,CEGL,333,715,Laboratory,0.000,"Intensive English - Intermediate 3.",MTWRF,TBA,18,0,0,0,TBA,03/02-04/10,TBA,Active
+10187,CEGL,333,716,Laboratory,0.000,"Intensive English - Intermediate 3.",MTWRF,TBA,18,0,0,0,TBA,03/02-04/10,TBA,Active
+6337,CEGL,340,701,Lecture,5.000,"English Communication Level 3D.",MW,08:35 AM-09:55 AM,20,0,0,0,TBA,01/05-04/14,TBA,Active
+7593,CEGL,340,795,Lecture,5.000,"English Communication Level 3D.",F,09:05 AM-11:55 AM,25,0,0,0,TBA,01/09-04/10,TBA,Active
+,,,,,,,T,09:05 AM-11:55 AM,,,,,TBA,04/14-04/14,TBA,Active
+10188,CEGL,355,701,Lecture,20.000,"Intensive English - Bridge to Proficiency.",MTWRF,09:35 AM-03:25 PM,18,0,0,0,TBA,01/12-02/20,TBA,Active
+10189,CEGL,355,702,Lecture,20.000,"Intensive English - Bridge to Proficiency.",MTWRF,09:35 AM-03:25 PM,18,0,0,0,TBA,01/12-02/20,TBA,Active
+10190,CEGL,355,703,Lecture,20.000,"Intensive English - Bridge to Proficiency.",MTWRF,09:35 AM-03:25 PM,18,0,0,0,TBA,01/12-02/20,TBA,Active
+10191,CEGL,355,704,Laboratory,0.000,"Intensive English - Bridge to Proficiency.",MTWRF,TBA,18,0,0,0,TBA,01/12-02/20,TBA,Active
+10192,CEGL,355,705,Laboratory,0.000,"Intensive English - Bridge to Proficiency.",MTWRF,TBA,18,0,0,0,TBA,01/12-02/20,TBA,Active
+10193,CEGL,355,706,Laboratory,0.000,"Intensive English - Bridge to Proficiency.",MTWRF,TBA,18,0,0,0,TBA,01/12-02/20,TBA,Active
+10194,CEGL,355,711,Lecture,20.000,"Intensive English - Bridge to Proficiency.",MTWRF,09:35 AM-03:25 PM,18,0,0,0,TBA,03/02-04/10,TBA,Active
+,,,,,,,MTWR,03:35 PM-05:25 PM,,,,,TBA,03/02-04/10,TBA,Active
+10195,CEGL,355,712,Lecture,20.000,"Intensive English - Bridge to Proficiency.",MTWRF,09:35 AM-03:25 PM,18,0,0,0,TBA,03/02-04/10,TBA,Active
+10196,CEGL,355,713,Lecture,20.000,"Intensive English - Bridge to Proficiency.",MTWRF,09:35 AM-03:25 PM,18,0,0,0,TBA,03/02-04/10,TBA,Active
+10197,CEGL,355,714,Laboratory,0.000,"Intensive English - Bridge to Proficiency.",MTWRF,TBA,18,0,0,0,TBA,03/02-04/10,TBA,Active
+10198,CEGL,355,715,Laboratory,0.000,"Intensive English - Bridge to Proficiency.",MTWRF,TBA,18,0,0,0,TBA,03/02-04/10,TBA,Active
+10199,CEGL,355,716,Laboratory,0.000,"Intensive English - Bridge to Proficiency.",MTWRF,TBA,18,0,0,0,TBA,03/02-04/10,TBA,Active
+10200,CEGL,413,701,Lecture,20.000,"Intensive English - Advanced A.",MTWRF,09:35 AM-03:25 PM,18,0,0,0,TBA,01/12-02/20,TBA,Active
+10201,CEGL,413,702,Lecture,20.000,"Intensive English - Advanced A.",MTWRF,09:35 AM-03:25 PM,18,0,0,0,TBA,01/12-02/20,TBA,Active
+10202,CEGL,413,703,Laboratory,0.000,"Intensive English - Advanced A.",MTWRF,TBA,18,0,0,0,TBA,01/12-02/20,TBA,Active
+10203,CEGL,413,704,Laboratory,0.000,"Intensive English - Advanced A.",MTWRF,TBA,18,0,0,0,TBA,01/12-02/20,TBA,Active
+10204,CEGL,413,711,Lecture,20.000,"Intensive English - Advanced A.",MTWRF,09:35 AM-03:25 PM,18,0,0,0,TBA,03/02-04/10,TBA,Active
+10205,CEGL,413,712,Lecture,20.000,"Intensive English - Advanced A.",MTWRF,09:35 AM-03:25 PM,18,0,0,0,TBA,03/02-04/10,TBA,Active
+10206,CEGL,413,713,Laboratory,0.000,"Intensive English - Advanced A.",MTWRF,TBA,18,0,0,0,TBA,03/02-04/10,TBA,Active
+10207,CEGL,413,714,Laboratory,0.000,"Intensive English - Advanced A.",MTWRF,TBA,18,0,0,0,TBA,03/02-04/10,TBA,Active
+10208,CEGL,423,701,Lecture,20.000,"Intensive English - Advanced B.",MTWRF,09:35 AM-03:25 PM,18,0,0,0,TBA,01/12-02/20,TBA,Active
+,,,,,,,MTWR,03:35 PM-05:25 PM,,,,,TBA,01/12-02/20,TBA,Active
+10209,CEGL,423,702,Lecture,20.000,"Intensive English - Advanced B.",MTWRF,09:35 AM-03:25 PM,18,0,0,0,TBA,01/12-02/20,TBA,Active
+10210,CEGL,423,703,Laboratory,0.000,"Intensive English - Advanced B.",MTWRF,TBA,18,0,0,0,TBA,01/12-02/20,TBA,Active
+10211,CEGL,423,704,Laboratory,0.000,"Intensive English - Advanced B.",MTWRF,TBA,18,0,0,0,TBA,01/12-02/20,TBA,Active
+10212,CEGL,423,711,Lecture,20.000,"Intensive English - Advanced B.",MTWRF,09:35 AM-03:25 PM,18,0,0,0,TBA,03/02-04/10,TBA,Active
+,,,,,,,MTWR,03:35 PM-05:25 PM,,,,,TBA,03/02-04/10,TBA,Active
+10213,CEGL,423,712,Lecture,20.000,"Intensive English - Advanced B.",MTWRF,09:35 AM-03:25 PM,18,0,0,0,TBA,03/02-04/10,TBA,Active
+10214,CEGL,423,713,Laboratory,0.000,"Intensive English - Advanced B.",MTWRF,TBA,18,0,0,0,TBA,03/02-04/10,TBA,Active
+10215,CEGL,423,714,Laboratory,0.000,"Intensive English - Advanced B.",MTWRF,TBA,18,0,0,0,TBA,03/02-04/10,TBA,Active
+Entrepreneurship
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+6361,CEN2,500,781,Lecture,3.000,"Principles of Entrepreneurship.",R,06:05 PM-08:55 PM,30,0,0,0,TBA,01/05-04/14,ENGTR 1090,Temporarily closed
+14114,CEN2,505,751,Lecture,3.000,"Product Commercialization.",M,06:05 PM-08:55 PM,30,0,0,0,TBA,01/05-04/14,ENGTR 1090,Temporarily closed
+14116,CEN2,510,761,Lecture,3.000,"Practical Entrepreneurship Management.",T,06:05 PM-08:55 PM,30,0,0,0,TBA,01/05-04/13,ENGMD 276,Temporarily closed
+Engineering (SCS)
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+12713,CENG,221D1,751,Lecture,8.000,"Project Management.",M,06:05 PM-08:55 PM,50,0,0,0,"Dulce  Oliveira",01/05-04/27,ENGTR 1080,Active
+12714,CENG,221D1,771,Lecture,8.000,"Project Management.",W,06:05 PM-08:55 PM,50,0,0,0,"Robert William  Abbott",01/07-04/29,RPHYS 114,Active
+12715,CENG,221D1,781,Lecture,8.000,"Project Management.",R,06:05 PM-08:55 PM,50,0,0,0,"Lloyd  Bartlett",01/08-04/30,ENGTR 1080,Active
+12709,CENG,221D2,751,Lecture,8.000,"Project Management.",M,06:05 PM-08:55 PM,50,0,0,0,"Lloyd  Bartlett",01/05-03/02,RPHYS 115,Active
+12710,CENG,221D2,761,Lecture,8.000,"Project Management.",T,06:05 PM-08:55 PM,50,0,0,0,"Lloyd  Bartlett",01/06-03/03,ENGTR 1100,Active
+4270,CENG,221D2,771,Lecture,8.000,"Project Management.",W,06:05 PM-08:55 PM,50,0,0,0,"Christian  Champenois",01/07-03/04,ENGMD 279,Active
+5675,CENG,221D2,772,Lecture,8.000,"Project Management.",W,06:05 PM-08:55 PM,65,0,0,0,TBA,01/05-04/14,TBA,Active
+12711,CENG,221D2,781,Lecture,8.000,"Project Management.",R,06:05 PM-08:55 PM,50,0,0,0,"Robert William  Abbott",01/08-03/05,RPHYS 115,Active
+12032,CENG,223,771,Lecture,4.000,"Project Management: Bridging Theory and Practice.",W,06:05 PM-08:55 PM,35,0,0,0,"Lloyd  Bartlett",01/21-04/15,WONG 1020,Active
+13178,CENG,224,761,Lecture,4.000,"Agile Project Management.",T,06:05 PM-08:55 PM,50,0,0,0,TBA,01/27-04/13,ENGTR 1080,Active
+,,,,,,,T,06:05 PM-08:55 PM,,,,,TBA,04/15-04/21,ENGTR 1080,Active
+Entrepreneurship
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+13718,CENT,308,771,Lecture,3.000,"Financing a New Business.",W,06:05 PM-08:55 PM,30,0,0,0,TBA,01/05-04/14,RPHYS 115,Temporarily closed
+Comm-English as 2nd Lang (SCS)
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+10867,CESL,400,701,Lecture,3.000,"ESL: Essay & Critical Thinking.",TR,01:05 PM-02:25 PM,25,10,0,10,TBA,01/05-04/13,SH688 223,Active
+12169,CESL,500,701,Lecture,3.000,"ESL: Research Essay and Rhetoric.",TR,01:05 PM-02:25 PM,25,10,0,10,TBA,01/05-04/13,SH688 451,Active
+14502,CESL,641,001,Lecture,1.000,"Fundamentals of Academic Writing in English.",M,01:05 PM-02:25 PM,23,0,0,0,TBA,01/05-03/16,SH688 1265,Active
+14503,CESL,641,002,Lecture,1.000,"Fundamentals of Academic Writing in English.",W,01:05 PM-02:25 PM,23,0,0,0,TBA,01/07-03/18,TBA,Active
+14504,CESL,641,003,Lecture,1.000,"Fundamentals of Academic Writing in English.",R,01:05 PM-02:25 PM,23,0,0,0,TBA,01/08-03/19,TBA,Active
+14505,CESL,641,004,Lecture,1.000,"Fundamentals of Academic Writing in English.",T,08:35 AM-09:55 AM,23,0,0,0,TBA,01/06-03/17,TBA,Active
+14506,CESL,641,005,Lecture,1.000,"Fundamentals of Academic Writing in English.",F,10:05 AM-11:25 AM,23,0,0,0,TBA,01/09-03/20,TBA,Active
+14516,CESL,651,001,Lecture,1.000,"Pronunciation for Effective Communication.",T,10:05 AM-11:25 AM,23,0,0,0,TBA,01/06-03/17,TBA,Active
+14517,CESL,651,002,Lecture,1.000,"Pronunciation for Effective Communication.",W,01:05 PM-02:25 PM,23,0,0,0,TBA,01/07-03/18,SH688 1265,Active
+14518,CESL,651,003,Lecture,1.000,"Pronunciation for Effective Communication.",R,01:05 PM-02:25 PM,23,0,0,0,TBA,01/08-03/19,SH688 1265,Active
+14519,CESL,651,004,Lecture,1.000,"Pronunciation for Effective Communication.",M,02:35 PM-03:55 PM,23,0,0,0,TBA,01/05-03/16,TBA,Active
+Finance (SCS)
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+12302,CFIN,300,751,Lecture,3.000,"Fundamentals of Financial Markets and Institutions.",M,06:05 PM-08:55 PM,30,0,0,0,TBA,01/05-04/14,ENGTR 2120,Temporarily closed
+14143,CFIN,305,771,Lecture,3.000,"Investor Behaviour.",W,06:05 PM-08:55 PM,30,0,0,0,TBA,01/05-04/14,ENGMC 12,Temporarily closed
+12320,CFIN,310,751,Lecture,3.000,"Short-Term Financial Management.",M,06:05 PM-08:55 PM,25,0,0,0,TBA,01/05-04/14,LEA 116,Temporarily closed
+13824,CFIN,403,741,Lecture,3.000,"Mergers and Acquisitions.",S,09:05 AM-11:55 AM,20,0,0,0,TBA,01/05-04/14,SH688 451,Temporarily closed
+12354,CFIN,410,771,Lecture,3.000,"Investment and Portfolio Management.",W,06:05 PM-08:55 PM,20,0,0,0,TBA,01/05-04/14,ENGTR 2120,Temporarily closed
+12311,CFIN,500,751,Lecture,3.000,"Financial Markets and Institutions.",M,06:05 PM-08:55 PM,30,0,0,0,TBA,01/05-04/14,BURN 1B36,Temporarily closed
+11782,CFIN,507,761,Lecture,3.000,"Analysis of Financial Statements.",T,06:05 PM-08:55 PM,50,0,0,0,TBA,01/05-04/13,RPHYS 115,Temporarily closed
+12312,CFIN,512,751,Lecture,3.000,"Corporate Finance.",M,06:05 PM-08:55 PM,40,0,0,0,TBA,01/05-04/14,ENGTR 2110,Temporarily closed
+2940,CFIN,512,771,Lecture,3.000,"Corporate Finance.",W,06:05 PM-08:55 PM,62,0,0,0,TBA,01/05-04/14,ENGTR 1100,Temporarily closed
+14112,CFIN,515,771,Lecture,3.000,"Behavioural Finance.",W,06:05 PM-08:55 PM,30,0,0,0,TBA,01/05-04/14,ENGTR 2100,Temporarily closed
+2055,CFIN,522,751,Lecture,3.000,"Applied Topics: Corporate Finance.",M,06:05 PM-08:55 PM,25,0,0,0,TBA,01/05-04/14,LEA 110,Temporarily closed
+12319,CFIN,525,751,Lecture,3.000,"Treasury Management.",M,06:05 PM-08:55 PM,40,0,0,0,TBA,01/05-04/14,ENGTR 0100,Temporarily closed
+12353,CFIN,530,771,Lecture,3.000,"Investment Analysis.",W,06:05 PM-08:55 PM,20,0,0,0,TBA,01/05-04/14,ENGTR 2110,Temporarily closed
+12355,CFIN,540,781,Lecture,3.000,"Introduction to International Finance.",R,06:05 PM-08:55 PM,40,0,0,0,TBA,01/05-04/14,ENGTR 2120,Temporarily closed
+13823,CFIN,553,741,Lecture,3.000,"Corporate Mergers and Acquisitions.",S,09:05 AM-11:55 AM,20,0,0,0,TBA,01/05-04/14,ARTS 260,Temporarily closed
+12362,CFIN,595,781,Lecture,3.000,"Derivatives and Risk Management Tools.",R,06:05 PM-08:55 PM,30,0,0,0,TBA,01/05-04/14,ENGTR 2110,Temporarily closed
+French (SCS)
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+10094,CFRN,203,701,Lecture,20.000,"Intensive French - Beginner.",MTWRF,09:05 AM-02:55 PM,18,0,0,0,TBA,01/12-02/20,TBA,Active
+,,,,,,,MTWR,03:05 PM-04:55 PM,,,,,TBA,01/12-02/20,TBA,Active
+10095,CFRN,203,702,Laboratory,0.000,"Intensive French - Beginner.",MTWRF,TBA,18,0,0,0,TBA,01/12-02/20,SH688 ,Active
+10098,CFRN,203,711,Lecture,20.000,"Intensive French - Beginner.",MTWRF,09:05 AM-02:55 PM,18,0,0,0,TBA,03/02-04/10,TBA,Active
+,,,,,,,MTWR,03:05 PM-04:55 PM,,,,,TBA,03/02-04/10,TBA,Active
+10100,CFRN,203,712,Laboratory,0.000,"Intensive French - Beginner.",TBA,TBA,18,0,0,0,TBA,03/02-04/10,TBA,Active
+10107,CFRN,323,701,Lecture,20.000,"Intensive French - Elementary.",MTWRF,09:05 AM-02:55 PM,18,0,0,0,TBA,01/12-02/20,TBA,Active
+,,,,,,,MTWR,03:05 PM-04:55 PM,,,,,TBA,01/12-02/20,TBA,Active
+10108,CFRN,323,702,Laboratory,0.000,"Intensive French - Elementary.",MTWRF,TBA,18,0,0,0,TBA,01/12-02/20,SH688 ,Active
+10109,CFRN,323,703,Lecture,20.000,"Intensive French - Elementary.",MTWRF,09:05 AM-02:55 PM,18,0,0,0,TBA,01/12-02/20,TBA,Active
+,,,,,,,MTWR,03:05 PM-03:55 PM,,,,,TBA,01/12-02/20,TBA,Active
+10111,CFRN,323,704,Laboratory,0.000,"Intensive French - Elementary.",MTWRF,TBA,18,0,0,0,TBA,01/12-02/20,SH688 ,Active
+10115,CFRN,323,711,Lecture,20.000,"Intensive French - Elementary.",MTWRF,09:05 AM-02:55 PM,18,0,0,0,TBA,03/02-04/10,TBA,Active
+,,,,,,,MTWR,03:05 PM-04:55 PM,,,,,TBA,03/02-04/10,TBA,Active
+10118,CFRN,323,712,Laboratory,0.000,"Intensive French - Elementary.",MTWRF,TBA,18,0,0,0,TBA,03/02-04/10,SH688 ,Active
+10121,CFRN,323,713,Lecture,20.000,"Intensive French - Elementary.",MTWRF,09:05 AM-02:55 PM,18,0,0,0,TBA,03/02-04/10,TBA,Active
+,,,,,,,MTWR,03:05 PM-04:55 PM,,,,,TBA,03/02-04/10,TBA,Active
+10126,CFRN,323,714,Laboratory,0.000,"Intensive French - Elementary.",MTWRF,TBA,18,0,0,0,TBA,03/02-04/10,SH688 ,Active
+10128,CFRN,333,701,Lecture,20.000,"Intensive French - Intermediate 1.",MTWRF,09:05 AM-02:55 PM,18,0,0,0,TBA,01/12-02/20,TBA,Active
+,,,,,,,MTWR,03:05 PM-04:55 PM,,,,,TBA,01/12-02/20,TBA,Active
+10130,CFRN,333,702,Laboratory,0.000,"Intensive French - Intermediate 1.",MTWRF,TBA,18,0,0,0,TBA,01/12-02/20,SH688 ,Active
+10131,CFRN,333,703,Lecture,20.000,"Intensive French - Intermediate 1.",MTWRF,09:05 AM-02:55 PM,18,0,0,0,TBA,01/12-02/20,TBA,Active
+,,,,,,,MTWR,03:05 PM-04:55 PM,,,,,TBA,01/12-02/20,TBA,Active
+10132,CFRN,333,704,Laboratory,0.000,"Intensive French - Intermediate 1.",TBA,TBA,18,0,0,0,TBA,01/12-02/20,TBA,Active
+10135,CFRN,333,711,Lecture,20.000,"Intensive French - Intermediate 1.",MTWRF,09:05 AM-02:55 PM,18,0,0,0,TBA,03/02-04/10,TBA,Active
+,,,,,,,MTWR,03:05 PM-04:55 PM,,,,,TBA,03/02-04/10,TBA,Active
+10136,CFRN,333,712,Laboratory,0.000,"Intensive French - Intermediate 1.",MTWRF,TBA,18,0,0,0,TBA,03/02-04/10,TBA,Active
+10156,CFRN,333,713,Lecture,20.000,"Intensive French - Intermediate 1.",MTWRF,09:05 AM-02:55 PM,18,0,0,0,TBA,03/02-04/10,TBA,Active
+,,,,,,,MTWR,03:05 PM-03:55 PM,,,,,TBA,03/02-04/10,TBA,Active
+10158,CFRN,333,714,Laboratory,0.000,"Intensive French - Intermediate 1.",MTWRF,TBA,18,0,0,0,TBA,03/02-04/10,SH688 ,Active
+10160,CFRN,343,701,Lecture,20.000,"Intensive French - Intermediate 2.",MTWRF,09:05 AM-02:55 PM,18,0,0,0,TBA,01/12-02/20,TBA,Active
+,,,,,,,MTWR,03:05 PM-04:55 PM,,,,,TBA,01/12-02/20,TBA,Active
+10162,CFRN,343,702,Laboratory,0.000,"Intensive French - Intermediate 2.",MTWRF,TBA,18,0,0,0,TBA,01/12-02/20,TBA,Active
+10163,CFRN,343,711,Lecture,20.000,"Intensive French - Intermediate 2.",MTWRF,09:05 AM-02:55 PM,18,0,0,0,TBA,03/02-04/10,TBA,Active
+,,,,,,,MTWR,03:05 PM-04:55 PM,,,,,TBA,03/02-04/10,TBA,Active
+10164,CFRN,343,712,Laboratory,0.000,"Intensive French - Intermediate 2.",MTWRF,TBA,18,0,0,0,TBA,03/02-04/10,SH688 ,Active
+10170,CFRN,423,701,Lecture,20.000,"Intensive French - Advanced.",MTWRF,09:05 AM-02:55 PM,18,0,0,0,TBA,01/12-02/20,TBA,Active
+,,,,,,,MTWR,03:05 PM-03:55 PM,,,,,TBA,01/12-02/20,TBA,Active
+10171,CFRN,423,702,Laboratory,0.000,"Intensive French - Advanced.",MTWRF,TBA,18,0,0,0,TBA,01/12-02/20,TBA,Active
+10172,CFRN,423,711,Lecture,20.000,"Intensive French - Advanced.",MTWRF,09:05 AM-02:55 PM,18,0,0,0,TBA,03/02-04/10,TBA,Active
+,,,,,,,MTWR,03:05 PM-03:55 PM,,,,,TBA,03/02-04/10,TBA,Active
+10173,CFRN,423,712,Laboratory,0.000,"Intensive French - Advanced.",MTWRF,TBA,18,0,0,0,TBA,03/02-04/10,TBA,Active
+Management
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+8362,CGM2,510,771,Lecture,3.000,"Project Management: Tools & Techniques.",W,06:05 PM-08:55 PM,68,0,0,0,TBA,01/05-04/14,ENGTR 1080,Temporarily closed
+General Management
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+11572,CGMG,210,751,Lecture,3.000,"Fundamentals of Project Management.",M,06:05 PM-08:55 PM,50,0,0,0,TBA,01/05-04/14,ENGTR 0070,Temporarily closed
+6370,CGMG,282,761,Lecture,3.000,"Introduction to Business.",T,06:05 PM-08:55 PM,60,0,0,0,TBA,01/05-04/13,ENGTR 1090,Temporarily closed
+Health Care
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+13438,CHLC,351,781,Lecture,3.000,"Foundations of Health and Social Services Systems.",R,06:05 PM-08:55 PM,30,0,0,0,TBA,01/05-04/14,ENGTR 2100,Temporarily closed
+2026,CHLC,401,751,Lecture,3.000,"Evaluation of Health and Social Services.",M,06:05 PM-08:55 PM,40,0,0,0,TBA,01/05-04/14,ENGTR 0060,Temporarily closed
+14686,CHLC,401,792,Lecture,3.000,"Evaluation of Health and Social Services.",F,08:30 AM-05:00 PM,20,0,0,0,TBA,02/27-02/27,TBA,Temporarily closed
+,,,,,,,S,08:30 AM-05:00 PM,,,,,TBA,03/14-03/14,TBA,Temporarily closed
+,,,,,,,F,08:30 AM-05:00 PM,,,,,TBA,03/27-03/27,TBA,Temporarily closed
+,,,,,,,S,08:30 AM-05:00 PM,,,,,TBA,04/11-04/11,TBA,Temporarily closed
+,,,,,,,F,08:30 AM-05:00 PM,,,,,TBA,04/24-04/24,TBA,Temporarily closed
+13440,CHLC,415,761,Lecture,3.000,"Foundations of Legal & Ethical Aspects.",T,06:05 PM-08:55 PM,30,0,0,0,TBA,01/05-04/13,ENGTR 2120,Temporarily closed
+9040,CHLC,500,781,Lecture,3.000,"Health and Social Service Systems.",R,06:05 PM-08:55 PM,70,0,0,0,TBA,01/05-04/14,ENGTR 1100,Temporarily closed
+2027,CHLC,552,761,Lecture,3.000,"Legal & Ethical Aspects: Health and Social Services.",T,06:05 PM-08:55 PM,40,0,0,0,TBA,01/05-04/13,BURN 1B36,Temporarily closed
+Integrated Aviation Mgmt (SCS)
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+14133,CIAM,521,704,Lecture,3.000,"Aviation Safety and Security Management.",FS,08:35 AM-04:55 PM,50,0,0,0,TBA,01/05-04/14,TBA,Temporarily closed
+,,,,,,,T,08:35 AM-04:55 PM,,,,,TBA,04/14-04/14,TBA,Temporarily closed
+14134,CIAM,524,704,Lecture,3.000,"Airline Management.",FS,08:35 AM-04:55 PM,50,0,0,0,TBA,01/05-04/14,TBA,Temporarily closed
+,,,,,,,T,08:35 AM-04:55 PM,,,,,TBA,04/14-04/14,TBA,Temporarily closed
+14135,CIAM,525,704,Lecture,3.000,"Airport Management.",FS,08:35 AM-04:55 PM,50,0,0,0,TBA,01/05-04/14,TBA,Temporarily closed
+,,,,,,,T,08:35 AM-04:55 PM,,,,,TBA,04/14-04/14,TBA,Temporarily closed
+Management Information Systems
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+2040,CMIS,541,761,Lecture,3.000,"Information Systems for Managers.",T,06:05 PM-08:55 PM,50,0,0,0,TBA,01/05-04/13,ENGTR 2110,Temporarily closed
+8523,CMIS,543,771,Lecture,3.000,"Internet Business Analysis and Optimization.",W,06:05 PM-08:55 PM,38,0,0,0,TBA,01/05-04/14,ENGTR 0060,Temporarily closed
+2043,CMIS,544,761,Lecture,3.000,"Social Media Marketing and Technology.",T,06:05 PM-08:55 PM,50,0,0,0,TBA,01/05-04/13,ENGTR 2100,Temporarily closed
+Marketing
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+2044,CMR2,542,751,Lecture,3.000,"Marketing Principles and Applications.",M,06:05 PM-08:55 PM,60,0,0,0,TBA,01/05-04/14,BURN 1B39,Temporarily closed
+14130,CMR2,543,781,Lecture,3.000,"Marketing of Services.",R,06:05 PM-08:55 PM,30,0,0,0,TBA,01/05-04/14,ENGTR 0060,Temporarily closed
+13434,CMR2,548,771,Lecture,3.000,"Processes of Marketing Research.",W,06:05 PM-08:55 PM,30,0,0,0,TBA,01/05-04/14,ENGTR 0070,Temporarily closed
+13428,CMR2,556,771,Lecture,3.000,"Buyer Behaviour.",W,06:05 PM-08:55 PM,30,0,0,0,TBA,01/05-04/14,BURN 1B23,Temporarily closed
+2047,CMR2,564,761,Lecture,3.000,"Marketing Communications: A Strategic Approach.",T,06:05 PM-08:55 PM,38,0,0,0,TBA,01/05-04/13,ENGTR 0060,Temporarily closed
+Marketing
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+13429,CMRK,200,761,Lecture,3.000,"Fundamentals of Marketing.",T,06:05 PM-08:55 PM,30,0,0,0,TBA,01/05-04/13,ENGTR 0070,Temporarily closed
+13433,CMRK,225,771,Lecture,3.000,"Marketing Statistics and Research.",W,06:05 PM-08:55 PM,30,0,0,0,TBA,01/05-04/14,BURN 1B24,Temporarily closed
+13424,CMRK,235,751,Lecture,3.000,"Digital Media Marketing.",M,06:05 PM-08:55 PM,30,0,0,0,TBA,01/05-04/14,BURN 1B23,Temporarily closed
+13425,CMRK,320,761,Lecture,3.000,"Principles of Consumer Behaviour.",T,06:05 PM-08:55 PM,30,0,0,0,TBA,01/05-04/13,LEA 212,Temporarily closed
+13426,CMRK,321,771,Lecture,3.000,"Integrated Marketing Communications.",W,06:05 PM-08:55 PM,30,0,0,0,TBA,01/05-04/14,RPHYS 118,Temporarily closed
+13525,CMRK,322,781,Lecture,3.000,"Basics of Service Marketing.",R,06:05 PM-08:55 PM,30,0,0,0,TBA,01/05-04/14,ENGTR 0070,Temporarily closed
+Management Science (SCS)
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+12206,CMS2,500,761,Lecture,3.000,"Mathematics for Management.",T,06:05 PM-08:55 PM,50,0,0,0,TBA,01/05-04/13,BURN 1B23,Temporarily closed
+6373,CMS2,500,771,Lecture,3.000,"Mathematics for Management.",W,06:05 PM-08:55 PM,100,0,0,0,TBA,01/05-04/14,BURN 1B45,Temporarily closed
+2060,CMS2,521,771,Lecture,3.000,"Applied Management Statistics.",W,06:05 PM-08:55 PM,60,0,0,0,TBA,01/05-04/14,BURN 1B36,Temporarily closed
+2943,CMS2,521,781,Lecture,3.000,"Applied Management Statistics.",R,06:05 PM-08:55 PM,60,0,0,0,TBA,01/05-04/14,BURN 1B36,Temporarily closed
+13422,CMS2,524,771,Lecture,3.000,"Management of Service Operations.",W,06:05 PM-08:55 PM,30,0,0,0,TBA,01/05-04/14,LEA 14,Temporarily closed
+9713,CMS2,525,761,Lecture,3.000,"Supply Chain Management.",T,06:05 PM-08:55 PM,40,0,0,0,TBA,01/05-04/13,BURN 1B24,Temporarily closed
+10651,CMS2,530,781,Lecture,3.000,"Simulation Analysis and Modeling.",R,06:05 PM-08:55 PM,40,0,0,0,TBA,01/05-04/14,BURN 1B23,Temporarily closed
+13439,CMS2,533,751,Lecture,3.000,"Lean Operations and Performance Management in Health Services.",M,06:05 PM-08:55 PM,30,0,0,0,TBA,01/05-04/14,BURN 1B24,Temporarily closed
+14685,CMS2,533,792,Lecture,3.000,"Lean Operations and Performance Management in Health Services.",F,08:30 AM-05:00 PM,20,0,0,0,TBA,02/27-02/27,TBA,Temporarily closed
+,,,,,,,S,08:30 AM-05:00 PM,,,,,TBA,03/14-03/14,TBA,Temporarily closed
+,,,,,,,F,08:30 AM-05:00 PM,,,,,TBA,03/27-03/27,TBA,Temporarily closed
+,,,,,,,S,08:30 AM-05:00 PM,,,,,TBA,04/11-04/11,TBA,Temporarily closed
+,,,,,,,F,08:30 AM-05:00 PM,,,,,TBA,04/24-04/24,TBA,Temporarily closed
+13608,CMS2,540,751,Lecture,3.000,"Six-Sigma Quality Management.",M,06:05 PM-08:55 PM,30,0,0,0,TBA,01/05-04/14,LEA 14,Temporarily closed
+Management Science (SCS)
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+2065,CMSC,000,781,Lecture,12.000,"Foundations of Mathematics.",R,06:05 PM-08:55 PM,100,0,0,0,TBA,01/05-04/14,BURN 1B45,Temporarily closed
+6454,CMSC,101,761,Lecture,3.000,"College Algebra and Functions.",T,06:05 PM-08:55 PM,45,0,0,0,TBA,01/05-04/13,BURN 1B39,Temporarily closed
+2031,CMSC,101,781,Lecture,3.000,"College Algebra and Functions.",R,06:05 PM-08:55 PM,40,0,0,0,TBA,01/05-04/14,BURN 1B39,Temporarily closed
+14147,CMSC,204,751,Lecture,3.000,"Survey of Basic Mathematics 2.",M,06:05 PM-08:55 PM,30,0,0,0,TBA,01/05-04/14,LEA 212,Temporarily closed
+Organizational Behaviour
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+2049,CORG,551,761,Lecture,3.000,"Behaviour in Organizations.",T,06:05 PM-08:55 PM,65,0,0,0,TBA,01/05-04/13,ENGMC 12,Temporarily closed
+2658,CORG,551,771,Lecture,3.000,"Behaviour in Organizations.",W,06:05 PM-08:55 PM,65,0,0,0,TBA,01/05-04/14,EDUC 627,Temporarily closed
+9262,CORG,553,751,Lecture,3.000,"Employee and Labour Relations.",M,06:05 PM-08:55 PM,40,0,0,0,TBA,01/05-04/14,WONG 1050,Temporarily closed
+7598,CORG,554,761,Lecture,3.000,"Managing Occupational Health and Safety.",T,06:05 PM-08:55 PM,50,0,0,0,TBA,01/05-04/13,LEA 14,Temporarily closed
+6378,CORG,555,781,Lecture,3.000,"Strategic Human Resources Management.",R,06:05 PM-08:55 PM,50,0,0,0,TBA,01/05-04/14,BURN 1B24,Temporarily closed
+14683,CORG,556,792,Lecture,3.000,"Managing and Engaging Teamwork.",F,08:30 AM-05:00 PM,20,0,0,0,TBA,01/09-01/09,TBA,Temporarily closed
+,,,,,,,S,08:30 AM-05:00 PM,,,,,TBA,01/17-01/17,TBA,Temporarily closed
+,,,,,,,F,08:30 AM-05:00 PM,,,,,TBA,01/30-01/30,TBA,Temporarily closed
+,,,,,,,S,08:30 AM-05:00 PM,,,,,TBA,02/07-02/07,TBA,Temporarily closed
+,,,,,,,F,08:30 AM-05:00 PM,,,,,TBA,02/13-02/13,TBA,Temporarily closed
+6379,CORG,560,771,Lecture,3.000,"Staffing Organizations.",W,06:05 PM-08:55 PM,40,0,0,0,TBA,01/05-04/14,LEA 110,Temporarily closed
+6731,CORG,561,761,Lecture,3.000,"Developing Human Resources.",T,06:05 PM-08:55 PM,40,0,0,0,TBA,01/05-04/13,RPHYS 118,Temporarily closed
+6380,CORG,562,751,Lecture,3.000,"Total Compensation and Rewards.",M,06:05 PM-08:55 PM,40,0,0,0,TBA,01/05-04/14,LEA 109,Temporarily closed
+7599,CORG,565,781,Lecture,3.000,"Managing Human Resources Management Information.",R,06:05 PM-08:55 PM,40,0,0,0,TBA,01/05-04/14,ENGMC 12,Temporarily closed
+Professional Devel
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+12321,CPD2,505,781,Lecture,3.000,"Risk Management and Insurance.",R,06:05 PM-08:55 PM,30,0,0,0,TBA,01/05-04/14,LEA 14,Temporarily closed
+Professional Devel
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+11763,CPDV,302,781,Lecture,3.000,"Risk Control.",R,06:05 PM-08:55 PM,40,0,0,0,TBA,01/05-04/14,WONG 1030,Temporarily closed
+11765,CPDV,303,761,Lecture,3.000,"Risk Financing.",T,06:05 PM-08:55 PM,40,0,0,0,TBA,01/05-04/13,LEA 109,Temporarily closed
+Policy
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+11554,CPL2,510,741,Lecture,3.000,"Communication and Networking Skills.",S,09:05 AM-11:55 AM,60,0,0,0,TBA,01/05-04/14,ARTS 150,Temporarily closed
+12400,CPL2,524,781,Lecture,3.000,"Introduction: International Business.",R,06:05 PM-08:25 PM,20,0,0,0,TBA,01/05-04/14,LEA 116,Temporarily closed
+12606,CPL2,532,761,Lecture,3.000,"Leading Change.",T,06:05 PM-08:55 PM,30,0,0,0,TBA,01/05-04/13,LEA 210,Temporarily closed
+12608,CPL2,533,781,Lecture,3.000,"Developing Leadership Skills.",R,06:05 PM-08:55 PM,30,0,0,0,TBA,01/05-04/14,MDHAR G-10,Temporarily closed
+14132,CPL2,552,781,Lecture,3.000,"Strategic Management.",R,06:05 PM-08:55 PM,30,0,0,0,TBA,01/05-04/14,LEA 212,Temporarily closed
+2052,CPL2,553,771,Lecture,3.000,"Small Business Management.",W,06:05 PM-08:55 PM,40,0,0,0,TBA,01/05-04/14,ENGMD 280,Temporarily closed
+12381,CPL2,561,771,Lecture,3.000,"North America and Global Economy.",W,06:05 PM-08:55 PM,28,0,0,0,TBA,01/05-04/14,LEA 109,Temporarily closed
+Public Relations
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+12379,CPRL,214,761,Lecture,3.000,"Applied Public Relations Methods 1.",T,06:05 PM-08:55 PM,30,0,0,0,TBA,01/05-04/13,MDHAR G-01,Temporarily closed
+13423,CPRL,221,741,Lecture,3.000,"Professional Communication and Networking.",S,09:00 AM-12:00 PM,30,0,0,0,TBA,01/05-04/14,TBA,Temporarily closed
+4212,CPRL,223,751,Lecture,3.000,"Basics of Public Relations.",M,06:05 PM-08:55 PM,50,0,0,0,TBA,01/05-04/14,WONG 1030,Temporarily closed
+2029,CPRL,224,761,Lecture,3.000,"Applied Public Relations Methods 2.",T,06:05 PM-08:55 PM,40,0,0,0,TBA,01/05-04/13,LEA 15,Temporarily closed
+10619,CPRL,225,781,Lecture,3.000,"Social and Traditional Media Relations.",R,06:05 PM-08:55 PM,40,0,0,0,TBA,01/05-04/14,LEA 15,Temporarily closed
+10622,CPRL,226,771,Lecture,3.000,"Corporate Communications.",W,06:05 PM-08:55 PM,35,0,0,0,TBA,01/05-04/14,LEA 15,Temporarily closed
+9717,CPRL,321,751,Lecture,3.000,"PR Issues Management.",M,06:05 PM-08:55 PM,30,0,0,0,TBA,01/05-04/14,LEA 15,Temporarily closed
+6381,CPRL,510,751,Lecture,3.000,"Fundamentals of Public Relations.",M,06:05 PM-08:55 PM,40,0,0,0,TBA,01/05-04/14,ARTS W-120,Temporarily closed
+6382,CPRL,520,761,Lecture,3.000,"Applied Public Relations Communication.",T,06:05 PM-08:55 PM,50,0,0,0,TBA,01/05-04/13,LEA 110,Temporarily closed
+10660,CPRL,531,781,Lecture,3.000,"Media Context and Applications.",R,06:05 PM-08:55 PM,50,0,0,0,TBA,01/05-04/14,LEA 110,Temporarily closed
+14127,CPRL,533,771,Lecture,3.000,"Communications in the Corporate Sector.",W,06:05 PM-08:55 PM,30,0,0,0,TBA,01/05-04/14,MDHAR G-01,Temporarily closed
+12378,CPRL,534,761,Lecture,3.000,"Communications in the Not-For-Profit Sector.",T,06:05 PM-08:55 PM,25,0,0,0,TBA,01/05-04/13,LEA 116,Temporarily closed
+14128,CPRL,535,751,Lecture,3.000,"Public Opinion and Public Policy.",M,06:05 PM-08:55 PM,30,0,0,0,TBA,01/05-04/14,MDHAR G-01,Temporarily closed
+Spanish (SCS)
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+8825,CSPN,211,761,Lecture,10.000,"Spanish 1.",T,06:05 PM-08:55 PM,30,0,0,0,TBA,01/05-04/13,SH688 391,Active
+,,,,,,,T,06:05 PM-08:55 PM,,,,,TBA,04/15-04/21,SH688 391,Active
+2664,CSPN,221,761,Lecture,10.000,"Spanish 2.",T,06:05 PM-08:55 PM,30,0,0,0,TBA,01/05-04/13,SH688 395,Active
+,,,,,,,T,06:05 PM-08:55 PM,,,,,TBA,04/15-04/21,SH688 395,Active
+8826,CSPN,231,781,Lecture,10.000,"Spanish 3.",R,06:05 PM-08:55 PM,25,0,0,0,TBA,01/05-04/21,SH688 395,Active
+8827,CSPN,241,781,Lecture,10.000,"Spanish 4.",R,06:05 PM-08:55 PM,25,0,0,0,TBA,01/05-04/21,SH688 451,Active
+7303,CSPN,353,771,Lecture,10.000,"Advanced Spanish Conversation/Espagnol,Conversation Avancée.",W,06:05 PM-08:55 PM,15,0,0,0,TBA,01/05-04/14,TBA,Temporarily closed
+Transportation
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+10981,CTPT,200,761,Lecture,3.000,"Introduction to Supply Chain Management.",T,06:05 PM-08:55 PM,40,0,0,0,TBA,01/05-04/13,ARTS 145,Temporarily closed
+9694,CTPT,201,751,Lecture,3.000,"Sourcing.",M,06:05 PM-08:55 PM,30,0,0,0,TBA,01/05-04/14,ARTS 150,Temporarily closed
+12383,CTPT,207,771,Lecture,3.000,"Transportation Law and Policy.",W,06:05 PM-08:55 PM,35,0,0,0,TBA,01/05-04/14,LEA 212,Temporarily closed
+12382,CTPT,310,781,Lecture,3.000,"Production and Inventory Planning and Control 2.",R,06:05 PM-08:55 PM,30,0,0,0,TBA,01/05-04/14,LEA 210,Temporarily closed
+External
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+5423,EXTL,IUCE,003,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,1000,0,0,0,TBA,01/05-04/14,TBA,Active
+5424,EXTL,IUCE,006,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,1000,0,0,0,TBA,01/05-04/14,TBA,Active
+Management Core
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+2000,MGCR,273,771,Lecture,3.000,"Introductory Management Statistics.",W,06:05 PM-08:55 PM,60,0,0,0,TBA,01/05-04/14,ARTS 260,Temporarily closed
+Organizational Behaviour
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+1984,ORGB,424,771,Lecture,3.000,"Employment.",W,06:05 PM-08:55 PM,60,0,0,0,TBA,01/05-04/14,ARTS 150,Temporarily closed
+1985,ORGB,426,761,Lecture,3.000,"Human Resource Training and Development.",T,06:05 PM-08:55 PM,50,0,0,0,TBA,01/05-04/13,WONG 1030,Temporarily closed

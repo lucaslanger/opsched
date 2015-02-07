@@ -1,0 +1,356 @@
+Accounting
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+925,ACCT,351,001,Lecture,3.000,"Intermediate Financial Accounting 1.",TR,01:05 PM-02:25 PM,45,0,0,0,"Desmond  Tsang",09/02-11/27,BRONF 179,Active
+3437,ACCT,351,002,Lecture,3.000,"Intermediate Financial Accounting 1.",TR,10:05 AM-11:25 AM,45,0,0,0,"Desmond  Tsang",09/02-12/03,BRONF 046,Active
+3438,ACCT,351,003,Lecture,3.000,"Intermediate Financial Accounting 1.",TR,02:35 PM-03:55 PM,45,0,0,0,"Desmond  Tsang",09/02-12/03,BRONF 046,Active
+5542,ACCT,351,004,Lecture,3.000,"Intermediate Financial Accounting 1.",MW,04:05 PM-05:25 PM,45,0,0,0,TBA,09/02-12/03,BRONF 011,Temporarily closed
+,,,,,,,R,04:05 PM-05:25 PM,,,,,TBA,12/04-12/04,BRONF 011,Temporarily closed
+5335,ACCT,351,781,Lecture,3.000,"Intermediate Financial Accounting 1.",R,06:05 PM-08:55 PM,65,0,0,0,"Trishia Andrea Belafi",09/04-11/27,ARTS 145,Active
+5127,ACCT,352,001,Lecture,3.000,"Intermediate Financial Accounting 2.",TR,04:05 PM-05:25 PM,45,0,0,0,"Ralph  Cecere",09/02-12/03,BRONF 001,Active
+5362,ACCT,352,781,Lecture,3.000,"Intermediate Financial Accounting 2.",R,06:05 PM-08:55 PM,48,0,0,0,"Kimberly  Ryan",09/04-11/27,ENGMD 280,Active
+5385,ACCT,354,001,Lecture,3.000,"Financial Statement Analysis.",TR,10:05 AM-11:25 AM,40,0,0,0,"Julia  Scott",09/02-12/03,BRONF 178,Active
+9778,ACCT,354,002,Lecture,3.000,"Financial Statement Analysis.",TR,02:35 PM-03:55 PM,40,0,0,0,"Julia  Scott",09/02-12/03,BRONF 178,Active
+15548,ACCT,354,761,Lecture,3.000,"Financial Statement Analysis.",T,06:05 PM-08:55 PM,28,0,0,0,"Roman James Susel",09/02-12/04,BURN 1B39,Active
+3439,ACCT,361,001,Lecture,3.000,"Management Accounting.",MW,10:05 AM-11:25 AM,55,0,0,0,"Kevin Paul  Parent",09/02-12/04,BRONF 001,Active
+,,,,,,,R,10:05 AM-11:25 AM,,,,,"Kevin Paul  Parent",12/04-12/04,BRONF 001,Active
+17115,ACCT,361,002,Lecture,3.000,"Management Accounting.",MW,04:05 PM-05:25 PM,55,0,0,0,"Kevin Paul  Parent",09/02-12/04,BRONF 179,Active
+,,,,,,,R,04:05 PM-05:25 PM,,,,,"Kevin Paul  Parent",12/04-12/04,BRONF 179,Active
+4027,ACCT,361,081,Lecture,3.000,"Management Accounting.",R,06:05 PM-08:55 PM,50,0,0,0,"Kevin Paul  Parent",09/02-12/03,BRONF 002,Active
+16118,ACCT,361,761,Lecture,3.000,"Management Accounting.",T,06:05 PM-08:55 PM,50,0,0,0,TBA,09/02-11/25,WONG 1030,Active
+11755,ACCT,362,001,Lecture,3.000,"Cost Accounting.",MW,01:05 PM-02:25 PM,45,0,0,0,"Philippe  Levy",09/02-12/04,BRONF 046,Active
+,,,,,,,R,01:05 PM-02:25 PM,,,,,"Philippe  Levy",12/04-12/04,BRONF 046,Active
+18899,ACCT,362,761,Lecture,3.000,"Cost Accounting.",T,06:05 PM-08:55 PM,33,0,0,0,"Deirdre  Lapointe",09/02-11/25,ARTS W-20,Active
+3465,ACCT,385,001,Lecture,3.000,"Principles of Taxation.",MW,11:35 AM-12:55 PM,50,0,0,0,"Larry  Goldsman",09/02-12/04,BRONF 002,Active
+,,,,,,,R,11:35 AM-12:55 PM,,,,,"Larry  Goldsman",12/04-12/04,BRONF 002,Active
+5546,ACCT,385,002,Lecture,3.000,"Principles of Taxation.",TR,08:35 AM-09:55 AM,50,0,0,0,"Larry  Goldsman",09/02-12/03,BRONF 045,Active
+4065,ACCT,385,751,Lecture,3.000,"Principles of Taxation.",M,06:05 PM-08:55 PM,60,0,0,0,"Maria Caterina Raco",09/02-12/01,RPHYS 114,Active
+,,,,,,,R,06:05 PM-08:55 PM,,,,,"Maria Caterina Raco",12/04-12/04,RPHYS 114,Active
+18894,ACCT,401,051,Lecture,3.000,"Sustainability and Environmental Accounting.",M,06:05 PM-08:55 PM,35,0,0,0,"Kevin  McMahon, Pavlo  Kalyta",09/02-12/04,BRONF 178,Active
+,,,,,,,R,06:05 PM-08:55 PM,,,,,"Kevin  McMahon, Pavlo  Kalyta",12/04-12/04,BRONF 178,Active
+4003,ACCT,453,001,Lecture,3.000,"Advanced Financial Accounting.",TR,08:35 AM-09:55 AM,50,0,0,0,"Julia  Scott",09/02-12/03,BRONF 001,Active
+4066,ACCT,453,771,Lecture,3.000,"Advanced Financial Accounting.",W,06:05 PM-08:55 PM,40,0,0,0,"Lynn  Degrace",09/03-11/26,ENGTR 2120,Active
+6516,ACCT,455,001,Lecture,3.000,"Development of Accounting Thought.",MW,02:35 PM-03:55 PM,40,0,0,0,"Ralph  Cecere",09/02-12/04,BRONF 011,Active
+,,,,,,,R,02:35 PM-03:55 PM,,,,,"Ralph  Cecere",12/04-12/04,BRONF 011,Active
+5278,ACCT,463,001,Lecture,3.000,"Management Control.",M,08:35 AM-11:25 AM,40,0,0,0,"Philippe  Levy",09/02-12/04,BRONF 178,Active
+,,,,,,,R,08:35 AM-11:25 AM,,,,,"Philippe  Levy",12/04-12/04,BRONF 178,Active
+18895,ACCT,463,002,Lecture,3.000,"Management Control.",W,08:35 AM-11:25 AM,40,0,0,0,"Philippe  Levy",09/02-12/04,BRONF 178,Active
+18901,ACCT,463,761,Lecture,3.000,"Management Control.",T,06:05 PM-08:55 PM,30,0,0,0,"Lynn  Degrace",09/02-11/25,ENGTR 2110,Active
+928,ACCT,475,001,Lecture,3.000,"Principles of Auditing.",TR,10:05 AM-11:25 AM,55,0,0,0,"Ralph  Cecere",09/02-12/03,BRONF 179,Active
+4004,ACCT,475,002,Lecture,3.000,"Principles of Auditing.",TBA,TBA,35,0,0,0,TBA,09/02-12/04,TBA,Cancelled
+18900,ACCT,475,751,Lecture,3.000,"Principles of Auditing.",M,06:05 PM-08:55 PM,30,0,0,0,TBA,09/08-12/01,ENGTR 1090,Active
+,,,,,,,R,06:05 PM-08:55 PM,,,,,TBA,12/04-12/04,ENGTR 1090,Active
+2360,ACCT,486,001,Lecture,3.000,"Business Taxation 2.",MW,01:05 PM-02:25 PM,45,0,0,0,"Larry  Goldsman",09/02-12/04,BRONF 045,Active
+,,,,,,,R,01:05 PM-02:25 PM,,,,,"Larry  Goldsman",12/04-12/04,BRONF 045,Active
+4005,ACCT,486,002,Lecture,3.000,"Business Taxation 2.",TR,11:35 AM-12:55 PM,45,0,0,0,"Larry  Goldsman",09/02-12/03,BRONF 046,Active
+4068,ACCT,486,751,Lecture,3.000,"Business Taxation 2.",M,06:05 PM-08:55 PM,45,0,0,0,"Jack  Triassi",09/02-12/01,ENGTR 2120,Active
+,,,,,,,R,06:05 PM-08:55 PM,,,,,"Jack  Triassi",12/04-12/04,ENGTR 2120,Active
+11483,ACCT,486,754,Make up Class,0.000,"Business Taxation 2.",,TBA,0,0,0,0,TBA,09/02-12/04,TBA,Registration Not Required
+Business Admin
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+13885,BUSA,100,051,Lecture,3.000,"Introduction to Management.",M,06:05 PM-08:55 PM,100,0,0,0,"Morty  Yalovsky",09/02-12/04,BRONF 151,Active
+,,,,,,,R,06:05 PM-08:55 PM,,,,,"Morty  Yalovsky",12/04-12/04,BRONF 151,Active
+13881,BUSA,250,001,Lecture,3.000,"Expressive Analysis for Management.",TR,02:35 PM-03:55 PM,25,0,0,0,"Lindsay  Holmgren",09/02-12/03,BRONF 011,Active
+13882,BUSA,250,002,Lecture,3.000,"Expressive Analysis for Management.",TR,11:35 AM-12:55 PM,25,0,0,0,"Lindsay  Holmgren",09/02-12/03,BRONF 011,Active
+13883,BUSA,250,003,Lecture,3.000,"Expressive Analysis for Management.",TR,08:35 AM-09:55 AM,25,0,0,0,"Lindsay  Holmgren",09/02-12/03,BRONF 011,Active
+13884,BUSA,250,004,Lecture,3.000,"Expressive Analysis for Management.",MW,11:35 AM-12:55 PM,25,0,0,0,"Danielle  Barkley",09/02-12/04,BRONF 011,Active
+,,,,,,,R,11:35 AM-12:55 PM,,,,,"Danielle  Barkley",12/04-12/04,BRONF 011,Active
+9863,BUSA,356,001,Lecture,3.000,"Management in Global Context.",MW,02:35 PM-03:55 PM,40,0,0,0,"Myung-Soo  Jo, Frederick  Stapenhurst",09/02-12/04,BRONF 001,Active
+,,,,,,,R,02:35 PM-03:55 PM,,,,,"Myung-Soo  Jo, Frederick  Stapenhurst",12/04-12/04,BRONF 001,Active
+9864,BUSA,356,002,Lecture,3.000,"Management in Global Context.",TR,11:35 AM-12:55 PM,40,0,0,0,"Myung-Soo  Jo, Frederick  Stapenhurst",09/02-12/03,BRONF 045,Active
+9865,BUSA,356,003,Lecture,3.000,"Management in Global Context.",MW,10:05 AM-11:25 AM,40,0,0,0,"Myung-Soo  Jo, Frederick  Stapenhurst",09/02-12/04,BRONF 046,Active
+,,,,,,,R,10:05 AM-11:25 AM,,,,,"Myung-Soo  Jo, Frederick  Stapenhurst",12/04-12/04,BRONF 046,Active
+9866,BUSA,356,071,Lecture,3.000,"Management in Global Context.",W,06:05 PM-08:55 PM,40,0,0,0,"Myung-Soo  Jo, Frederick  Stapenhurst",09/02-12/04,BRONF 410,Active
+915,BUSA,364,051,Lecture,3.000,"Business Law 1.",M,06:05 PM-08:55 PM,70,0,0,0,"Jocelyn  Perreault",09/02-12/04,BRONF 422,Active
+,,,,,,,R,06:05 PM-08:55 PM,,,,,"Jocelyn  Perreault",12/04-12/04,BRONF 422,Active
+2033,BUSA,364,771,Lecture,3.000,"Business Law 1.",W,06:05 PM-08:55 PM,42,0,0,0,"Robert  Cox",09/02-12/04,ARTS 145,Active
+19035,BUSA,391,071,Lecture,3.000,"International Business Law.",W,06:05 PM-08:55 PM,40,0,0,0,"Leslie A  Beck",09/02-12/04,BRONF 046,Active
+916,BUSA,399,001,Field Course (GDEU),1.000,"Internship Project.",,TBA,30,0,0,0,TBA,09/02-12/04,TBA,Active
+2766,BUSA,400,001,Independent Study,3.000,"Independent Studies in Management.",,TBA,30,0,0,0,TBA,09/02-12/04,TBA,Active
+10487,BUSA,400,002,Independent Study,3.000,"Independent Studies in Management.",,TBA,10,0,0,0,TBA,09/02-12/04,TBA,Active
+12832,BUSA,401,001,Independent Study,3.000,"Independent Studies in International Business.",,TBA,30,0,0,0,TBA,09/02-12/04,TBA,Active
+19038,BUSA,433,001,Lecture,3.000,"Topics in International Business 1.",MW,11:35 AM-12:55 PM,40,0,0,0,"Frederick  Stapenhurst",09/02-12/04,BRONF 178,Active
+,,,,,,,R,11:35 AM-12:55 PM,,,,,"Frederick  Stapenhurst",12/04-12/04,BRONF 178,Active
+19130,BUSA,434,001,Lecture,3.000,"Topics in General Management.",,TBA,40,0,0,0,TBA,09/02-12/04,TBA,Cancelled
+19131,BUSA,434,002,Lecture,3.000,"Topics in General Management.",,TBA,40,0,0,0,TBA,09/02-12/04,TBA,Cancelled
+17612,BUSA,434,051,Lecture,3.000,"Topics in General Management.",,TBA,45,0,0,0,TBA,09/02-12/04,TBA,Cancelled
+3517,BUSA,464,771,Lecture,3.000,"Management of Small Enterprises.",W,06:05 PM-08:55 PM,25,0,0,0,"Gary  Whittaker",09/02-12/04,ENGMC 12,Active
+10097,BUSA,465,001,Lecture,3.000,"Technological Entrepreneurship.",MW,10:05 AM-11:25 AM,45,0,0,0,"Peter  Younkin",09/02-12/04,BRONF 002,Active
+,,,,,,,R,10:05 AM-11:25 AM,,,,,"Peter  Younkin",12/04-12/04,BRONF 002,Active
+19033,BUSA,481,051,Lecture,3.000,"Managing in North America.",M,06:05 PM-08:55 PM,40,0,0,0,"William C  Polushin",09/02-12/04,BRONF 410,Active
+,,,,,,,R,06:05 PM-08:55 PM,,,,,"William C  Polushin",12/04-12/04,BRONF 410,Active
+19036,BUSA,493,001,Lecture,3.000,"Global Economic Competitiveness.",MW,02:35 PM-03:55 PM,40,0,0,0,"Alain  Dudoit",09/02-12/04,BRONF 178,Active
+,,,,,,,R,02:35 PM-03:55 PM,,,,,"Alain  Dudoit",12/04-12/04,BRONF 178,Active
+10488,BUSA,497,001,Internship,3.000,"Internship in International Business.",,TBA,50,0,0,0,TBA,09/02-12/04,TBA,Active
+919,BUSA,499,001,Lecture,3.000,"Case Analysis and Presentation.",MW,04:05 PM-05:25 PM,55,0,0,0,"Richard George  Donovan",09/02-12/04,BRONF 210,Active
+,,,,,,,R,04:05 PM-05:25 PM,,,,,"Richard George  Donovan",12/04-12/04,BRONF 210,Active
+External
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+2419,EXTL,EXMG,015,Exchange Term Away,0.000,"Exchange Term Away-Management",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2560,EXTL,IUMG,001,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2561,EXTL,IUMG,002,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2562,EXTL,IUMG,003,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2563,EXTL,IUMG,004,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2564,EXTL,IUMG,005,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2565,EXTL,IUMG,006,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2566,EXTL,IUMG,007,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2567,EXTL,IUMG,008,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2568,EXTL,IUMG,009,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2569,EXTL,IUMG,010,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2570,EXTL,IUMG,011,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2571,EXTL,IUMG,012,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+9267,EXTL,IUMG,903,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2434,EXTL,LAMG,001,Leave of Absence,0.000,"Leave of Absence-Management",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2404,EXTL,TAMG,001,Term Away,0.000,"Term Away-Management",TBA,TBA,999,0,0,0,TBA,09/02-12/04,TBA,Active
+Finance
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+938,FINE,342,001,Lecture,3.000,"Finance 2.",TR,04:05 PM-05:25 PM,145,0,0,0,"Vadim  di Pietro",09/02-12/03,BRONF 151,Active
+939,FINE,342,002,Lecture,3.000,"Finance 2.",TR,02:35 PM-03:55 PM,145,0,0,0,"Vadim  di Pietro",09/02-12/03,BRONF 151,Active
+17808,FINE,342,751,Lecture,3.000,"Finance 2.",M,06:05 PM-08:55 PM,30,0,0,0,TBA,09/02-12/04,BRONF 179,Active
+,,,,,,,R,06:05 PM-08:55 PM,,,,,TBA,12/04-12/04,BRONF 179,Active
+15662,FINE,434,001,Lecture,3.000,"Topics in Finance 1.",TR,01:05 PM-02:25 PM,45,0,0,0,"Kenneth  Lester",09/02-12/03,BRONF 205,Active
+15589,FINE,434,051,Lecture,3.000,"Topics in Finance 1.",,TBA,20,0,0,0,TBA,09/02-12/04,TBA,Cancelled
+17096,FINE,434,071,Lecture,3.000,"Topics in Finance 1.",W,06:05 PM-08:55 PM,25,0,0,0,"Matey Iliev Gerov",09/02-12/04,BRONF 178,Active
+10240,FINE,434,081,Lecture,3.000,"Topics in Finance 1.",R,06:05 PM-08:55 PM,20,0,0,0,"Patrick John  Bartlett",09/02-12/03,BRONF 001,Active
+942,FINE,441,001,Lecture,3.000,"Investment Management.",TR,02:35 PM-03:55 PM,55,0,0,0,"Larbi  Hammami",09/02-12/03,BRONF 001,Active
+943,FINE,441,002,Lecture,3.000,"Investment Management.",MW,08:35 AM-09:55 AM,55,0,0,0,"Larbi  Hammami",09/02-12/04,BRONF 002,Active
+,,,,,,,R,08:35 AM-09:55 AM,,,,,"Larbi  Hammami",12/04-12/04,BRONF 002,Active
+8875,FINE,441,003,Lecture,3.000,"Investment Management.",MW,10:05 AM-11:25 AM,55,0,0,0,"Larbi  Hammami",09/02-12/04,BRONF 205,Active
+,,,,,,,R,10:05 AM-11:25 AM,,,,,"Larbi  Hammami",12/04-12/04,BRONF 205,Active
+3448,FINE,442,001,Lecture,3.000,"Capital Markets and Institutions.",TR,11:35 AM-12:55 PM,45,0,0,0,"Laurent  Barras",09/02-12/03,BRONF 002,Active
+11870,FINE,442,002,Lecture,3.000,"Capital Markets and Institutions.",TR,04:05 PM-05:25 PM,45,0,0,0,"Laurent  Barras",09/02-12/03,BRONF 046,Active
+945,FINE,443,001,Lecture,3.000,"Applied Corporate Finance.",TR,04:05 PM-05:25 PM,45,0,0,0,"Larbi  Hammami",09/02-12/03,BRONF 045,Active
+10623,FINE,443,002,Lecture,3.000,"Applied Corporate Finance.",MW,04:05 PM-05:25 PM,45,0,0,0,"Larbi  Hammami",09/02-12/04,BRONF 045,Active
+,,,,,,,R,04:05 PM-05:25 PM,,,,,"Larbi  Hammami",12/04-12/04,BRONF 045,Active
+3651,FINE,445,001,Lecture,3.000,"Real Estate Finance.",MW,11:35 AM-12:55 PM,60,0,0,0,"Mohammed M  Chaudhury",09/02-12/04,BRONF 423,Active
+,,,,,,,R,11:35 AM-12:55 PM,,,,,"Mohammed M  Chaudhury",12/04-12/04,BRONF 423,Active
+946,FINE,445,002,Lecture,3.000,"Real Estate Finance.",MW,08:35 AM-09:55 AM,60,0,0,0,"Mohammed M  Chaudhury",09/02-12/04,BRONF 210,Active
+,,,,,,,R,08:35 AM-09:55 AM,,,,,"Mohammed M  Chaudhury",12/04-12/04,BRONF 210,Active
+15661,FINE,445,003,Lecture,3.000,"Real Estate Finance.",MW,04:05 PM-05:25 PM,60,0,0,0,"Mohammed M  Chaudhury",09/02-12/04,BRONF 423,Active
+,,,,,,,R,04:05 PM-05:25 PM,,,,,"Mohammed M  Chaudhury",12/04-12/04,BRONF 423,Active
+947,FINE,448,001,Lecture,3.000,"Financial Derivatives.",TR,08:35 AM-09:55 AM,50,0,0,0,"Larbi  Hammami",09/02-12/03,BRONF 002,Active
+948,FINE,448,002,Lecture,3.000,"Financial Derivatives.",MW,TBA,50,0,0,0,TBA,09/02-12/03,BRONF ,Cancelled
+,,,,,,,R,TBA,,,,,TBA,12/04-12/04,BRONF ,Cancelled
+8270,FINE,449,081,Lecture,3.000,"Market Risk Models.",R,06:05 PM-08:55 PM,40,0,0,0,"Vadim  di Pietro",09/02-12/03,BRONF 210,Active
+15577,FINE,451,001,Lecture,3.000,"Fixed Income Analysis.",MW,10:05 AM-11:25 AM,58,0,0,0,"Vadim  di Pietro",09/02-12/04,BRONF 423,Active
+,,,,,,,R,10:05 AM-11:25 AM,,,,,"Vadim  di Pietro",12/04-12/04,BRONF 423,Active
+19129,FINE,451,003,Lecture,3.000,"Fixed Income Analysis.",,TBA,45,0,0,0,"Aytek  Malkhozov",09/02-12/03,BRONF ,Cancelled
+19022,FINE,451,051,Lecture,3.000,"Fixed Income Analysis.",M,06:05 PM-08:55 PM,80,0,0,0,"Vadim  di Pietro",09/02-12/03,BRONF 423,Active
+,,,,,,,R,06:05 PM-08:55 PM,,,,,"Vadim  di Pietro",12/04-12/04,BRONF 423,Active
+9846,FINE,455,001,Lecture,3.000,"Alternative Investments.",MW,08:35 AM-09:55 AM,10,0,0,0,"Jan Edvard Ludvig Ericsson",09/02-12/04,BRONF 205,Active
+,,,,,,,R,08:35 AM-09:55 AM,,,,,"Jan Edvard Ludvig Ericsson",12/04-12/04,BRONF 205,Active
+17094,FINE,480,071,Lecture,3.000,"Global Investments.",W,06:05 PM-08:55 PM,45,0,0,0,"Sergei  Sarkissian",09/02-12/04,BRONF 179,Active
+3450,FINE,482,061,Lecture,3.000,"International Finance 1.",T,06:05 PM-08:55 PM,145,0,0,0,"Sujata  Madan",09/02-12/04,BRONF 151,Active
+16110,FINE,482,781,Lecture,3.000,"International Finance 1.",R,06:05 PM-08:55 PM,25,0,0,0,"Anas  Aboulamer",09/02-12/03,ARTS 150,Active
+9860,FINE,541N2,001,Lecture,1.500,"Applied Investments.",R,11:35 AM-12:55 PM,45,0,0,0,"Kenneth  Lester",09/02-12/03,BRONF 205,Active
+9867,FINE,541N2,002,Lecture,1.500,"Applied Investments.",R,11:35 AM-12:55 PM,15,0,0,0,"Kenneth  Lester",09/02-12/03,BRONF 205,Active
+17758,FINE,547,001,Seminar,3.000,"Advanced Finance Seminar.",F,10:05 AM-11:25 AM,15,0,0,0,"Vihang R  Errunza",09/02-12/04,BRONF 002,Active
+17759,FINE,547,002,Seminar,3.000,"Advanced Finance Seminar.",F,10:05 AM-11:25 AM,5,0,0,0,"Vihang R  Errunza",09/02-12/04,BRONF 002,Active
+Industrial Relations
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+983,INDR,294,001,Lecture,3.000,"Introduction to Labour-Management Relations.",MW,02:35 PM-03:55 PM,45,0,0,0,"Chantal  Westgate",09/02-12/04,BRONF 046,Active
+,,,,,,,R,02:35 PM-03:55 PM,,,,,"Chantal  Westgate",12/04-12/04,BRONF 046,Active
+2044,INDR,294,751,Lecture,3.000,"Introduction to Labour-Management Relations.",M,06:05 PM-08:55 PM,60,0,0,0,"Richard  Guerin",09/08-12/01,ARTS 260,Active
+,,,,,,,R,06:05 PM-08:55 PM,,,,,"Richard  Guerin",12/04-12/04,ARTS 260,Active
+985,INDR,496,001,Lecture,3.000,"Collective Bargaining.",W,06:05 PM-08:55 PM,55,0,0,0,"Chantal  Westgate",09/02-12/04,BRONF 422,Active
+18839,INDR,497,001,Lecture,3.000,"Contract Administration.",TR,08:35 AM-09:55 AM,40,0,0,0,"Nicola  Di Iorio",09/02-12/03,BRONF 178,Active
+Information Systems
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+3535,INSY,331,001,Lecture,3.000,"Managing Information Technology.",TR,02:35 PM-03:55 PM,40,0,0,0,"Emmanuelle  Vaast",09/02-12/03,BRONF 410,Active
+936,INSY,333,001,Lecture,3.000,"Systems Analysis and Modeling.",MW,11:35 AM-12:55 PM,45,0,0,0,"Kunsoo  Han",09/02-12/04,BRONF 046,Active
+,,,,,,,R,11:35 AM-12:55 PM,,,,,"Kunsoo  Han",12/04-12/04,BRONF 046,Active
+937,INSY,341,001,Lecture,3.000,"Developing Business Applications.",TR,04:05 PM-05:25 PM,35,0,0,0,"Giorgio  Benetti",09/02-12/03,BRONF 011,Active
+13592,INSY,431,001,Lecture,3.000,"IT Implementation Management.",,TBA,0,0,0,0,TBA,09/04-12/04,TBA,Cancelled
+13593,INSY,432,001,Lecture,3.000,"IT in Business.",TR,10:05 AM-11:25 AM,32,0,0,0,"Yeona  Jang",09/02-12/03,BRONF 011,Active
+17105,INSY,434,001,Lecture,3.000,"Topics in Information Systems 1.",MW,01:05 PM-02:25 PM,35,0,0,0,TBA,09/02-12/03,BRONF ,Cancelled
+,,,,,,,R,01:05 PM-02:25 PM,,,,,TBA,12/04-12/04,BRONF ,Cancelled
+18909,INSY,440,051,Lecture,3.000,"E-Business.",M,06:05 PM-08:55 PM,40,0,0,0,"Pano Mark  Xinos",09/02-12/04,BRONF 210,Active
+,,,,,,,R,06:05 PM-08:55 PM,,,,,"Pano Mark  Xinos",12/04-12/04,BRONF 210,Active
+19345,INSY,444,001,Lecture,3.000,"Online Communities and Open Innovation.",MW,10:05 AM-11:25 AM,40,0,0,0,"Samer A. Faraj",09/04-12/02,BRONF 011,Active
+,,,,,,,R,10:05 AM-11:25 AM,,,,,"Samer A. Faraj",12/04-12/04,BRONF 011,Active
+18935,INSY,450,061,Lecture,3.000,"Information Systems Project Management.",T,06:05 PM-08:55 PM,30,0,0,0,"Larry  Tansey",09/02-12/04,BRONF 178,Active
+Management Core
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+974,MGCR,211,001,Lecture,3.000,"Introduction to Financial Accounting.",TR,10:05 AM-11:25 AM,75,0,0,0,"Dongyoung  Lee",09/02-12/03,BRONF 423,Active
+975,MGCR,211,002,Lecture,3.000,"Introduction to Financial Accounting.",TR,01:05 PM-02:25 PM,75,0,0,0,"Dongyoung  Lee",09/02-12/03,BRONF 423,Active
+976,MGCR,211,003,Lecture,3.000,"Introduction to Financial Accounting.",TR,04:05 PM-05:25 PM,75,0,0,0,"Dongyoung  Lee",09/02-12/03,BRONF 423,Active
+977,MGCR,211,004,Lecture,3.000,"Introduction to Financial Accounting.",TR,01:05 PM-02:25 PM,75,0,0,0,"Ralph  Cecere",09/02-12/03,BRONF 422,Active
+978,MGCR,211,005,Lecture,3.000,"Introduction to Financial Accounting.",TR,04:05 PM-05:25 PM,75,0,0,0,"Seda  Oz",09/02-12/03,BRONF 422,Active
+3086,MGCR,211,006,Lecture,3.000,"Introduction to Financial Accounting.",TBA,TBA,75,0,0,0,TBA,09/02-12/04,TBA,Cancelled
+979,MGCR,211,007,Lecture,3.000,"Introduction to Financial Accounting.",TR,02:35 PM-03:55 PM,75,0,0,0,"Seda  Oz",09/02-12/03,BRONF 422,Active
+980,MGCR,211,008,Lecture,3.000,"Introduction to Financial Accounting.",MW,10:05 AM-11:25 AM,180,0,0,0,"Ralph  Cecere",09/02-12/04,BRONF 151,Active
+,,,,,,,R,10:05 AM-11:25 AM,,,,,"Ralph  Cecere",12/04-12/04,BRONF 151,Active
+3196,MGCR,211,009,Lecture,3.000,"Introduction to Financial Accounting.",TR,11:35 AM-12:55 PM,75,0,0,0,"Seda  Oz",09/02-12/03,BRONF 422,Active
+15359,MGCR,211,761,Lecture,3.000,"Introduction to Financial Accounting.",T,06:05 PM-08:55 PM,90,0,0,0,"Jason  Moschella",09/02-11/25,BURN 1B45,Active
+2048,MGCR,211,771,Lecture,3.000,"Introduction to Financial Accounting.",W,06:05 PM-08:55 PM,60,0,0,0,"Edward  Bierbrier",09/03-11/26,BURN 1B39,Active
+984,MGCR,222,001,Lecture,3.000,"Introduction to Organizational Behaviour.",MW,10:05 AM-11:25 AM,60,0,0,0,"Alfred M  Jaeger",09/02-12/04,BRONF 210,Active
+,,,,,,,R,10:05 AM-11:25 AM,,,,,"Alfred M  Jaeger",12/04-12/04,BRONF 210,Active
+987,MGCR,222,002,Lecture,3.000,"Introduction to Organizational Behaviour.",MW,01:05 PM-02:25 PM,60,0,0,0,"Alfred M  Jaeger",09/02-12/04,BRONF 210,Active
+,,,,,,,R,01:05 PM-02:25 PM,,,,,"Alfred M  Jaeger",12/04-12/04,BRONF 210,Active
+4220,MGCR,222,003,Lecture,3.000,"Introduction to Organizational Behaviour.",TR,11:35 AM-12:55 PM,60,0,0,0,"Brian  Rubineau",09/02-12/03,BRONF 210,Active
+4221,MGCR,222,004,Lecture,3.000,"Introduction to Organizational Behaviour.",MW,11:35 AM-12:55 PM,65,0,0,0,"Chantal  Westgate",09/02-12/04,BRONF 210,Active
+,,,,,,,R,11:35 AM-12:55 PM,,,,,"Chantal  Westgate",12/04-12/04,BRONF 210,Active
+4222,MGCR,222,005,Lecture,3.000,"Introduction to Organizational Behaviour.",TR,10:05 AM-11:25 AM,60,0,0,0,"Brian  Rubineau",09/02-12/03,BRONF 210,Active
+17665,MGCR,222,006,Lecture,3.000,"Introduction to Organizational Behaviour.",TR,08:35 AM-09:55 AM,60,0,0,0,TBA,09/02-12/03,BRONF 210,Active
+2050,MGCR,222,741,Lecture,3.000,"Introduction to Organizational Behaviour.",S,09:05 AM-11:55 AM,70,0,0,0,TBA,09/06-11/29,TBA,Active
+2051,MGCR,222,761,Lecture,3.000,"Introduction to Organizational Behaviour.",T,06:05 PM-08:55 PM,70,0,0,0,TBA,09/02-11/25,ENGMD 279,Active
+2052,MGCR,222,771,Lecture,3.000,"Introduction to Organizational Behaviour.",W,06:05 PM-08:55 PM,70,0,0,0,"Irving  Rosenstein",09/03-11/26,ENGMD 279,Active
+989,MGCR,271,001,Lecture,3.000,"Business Statistics.",TR,10:05 AM-11:25 AM,60,0,0,0,"Kenneth  MacKenzie",09/02-12/03,BRONF 002,Active
+991,MGCR,271,002,Lecture,3.000,"Business Statistics.",TR,02:35 PM-03:55 PM,70,0,0,0,"Derek  Hart",09/02-12/03,BRONF 423,Active
+5140,MGCR,271,003,Lecture,3.000,"Business Statistics.",MW,11:35 AM-12:55 PM,70,0,0,0,"Glenn  Zabowski",09/02-12/04,BRONF 422,Active
+,,,,,,,R,11:35 AM-12:55 PM,,,,,"Glenn  Zabowski",12/04-12/04,BRONF 422,Active
+5139,MGCR,271,004,Lecture,3.000,"Business Statistics.",TR,11:35 AM-12:55 PM,70,0,0,0,"Derek  Hart",09/02-12/03,BRONF 423,Active
+8262,MGCR,271,005,Lecture,3.000,"Business Statistics.",TR,08:35 AM-09:55 AM,80,0,0,0,"Kenneth  MacKenzie",09/02-12/03,BRONF 422,Active
+11765,MGCR,271,006,Lecture,3.000,"Business Statistics.",MW,02:35 PM-03:55 PM,160,0,0,0,"Glenn  Zabowski",09/02-12/04,BRONF 151,Active
+,,,,,,,R,02:35 PM-03:55 PM,,,,,"Glenn  Zabowski",12/04-12/04,BRONF 151,Active
+993,MGCR,293,001,Lecture,3.000,"Managerial Economics.",MW,01:05 PM-02:25 PM,70,0,0,0,TBA,09/02-12/04,BRONF 151,Active
+,,,,,,,R,01:05 PM-02:25 PM,,,,,TBA,12/04-12/04,BRONF 151,Active
+2338,MGCR,293,002,Lecture,3.000,"Managerial Economics.",MW,04:05 PM-05:25 PM,70,0,0,0,TBA,09/02-12/04,BRONF 151,Active
+,,,,,,,R,04:05 PM-05:25 PM,,,,,TBA,12/04-12/04,BRONF 151,Active
+994,MGCR,293,003,Lecture,3.000,"Managerial Economics.",MW,08:35 AM-09:55 AM,70,0,0,0,TBA,09/02-12/04,BRONF 423,Active
+,,,,,,,R,08:35 AM-09:55 AM,,,,,TBA,12/04-12/04,BRONF 423,Active
+2216,MGCR,293,004,Lecture,3.000,"Managerial Economics.",MW,08:35 AM-09:55 AM,70,0,0,0,TBA,09/02-12/04,BRONF 422,Active
+,,,,,,,R,08:35 AM-09:55 AM,,,,,TBA,12/04-12/04,BRONF 422,Active
+6998,MGCR,293,005,Lecture,3.000,"Managerial Economics.",TR,11:35 AM-12:55 PM,145,0,0,0,"Taweewan  Sidthidet",09/02-12/03,BRONF 151,Active
+3203,MGCR,293,006,Lecture,3.000,"Managerial Economics.",MW,01:05 PM-02:25 PM,70,0,0,0,"Taweewan  Sidthidet",09/02-12/04,BRONF 423,Active
+,,,,,,,R,01:05 PM-02:25 PM,,,,,"Taweewan  Sidthidet",12/04-12/04,BRONF 423,Active
+3147,MGCR,293,007,Tutorial,0.000,"Managerial Economics.",F,08:35 AM-09:55 AM,195,0,0,0,TBA,09/02-12/04,BRONF 151,Active
+996,MGCR,293,008,Lecture,3.000,"Managerial Economics.",TBA,TBA,70,0,0,0,TBA,09/02-12/04,TBA,Cancelled
+2054,MGCR,293,751,Lecture,3.000,"Managerial Economics.",M,06:05 PM-08:55 PM,66,0,0,0,"K  Sheikholeslami Salmasi",09/02-12/04,ARTS 145,Active
+,,,,,,,R,06:05 PM-08:55 PM,,,,,"K  Sheikholeslami Salmasi",12/04-12/04,ARTS 145,Active
+997,MGCR,331,001,Lecture,3.000,"Information Systems.",MW,08:35 AM-09:55 AM,75,0,0,0,"Richard George  Donovan",09/02-12/04,BRONF 151,Active
+,,,,,,,R,08:35 AM-09:55 AM,,,,,"Richard George  Donovan",12/04-12/04,BRONF 151,Active
+998,MGCR,331,002,Lecture,3.000,"Information Systems.",TR,10:05 AM-11:25 AM,75,0,0,0,"Sean  Sutherland",09/02-12/03,BRONF 422,Active
+3440,MGCR,331,003,Lecture,3.000,"Information Systems.",MW,01:05 PM-02:25 PM,75,0,0,0,"Animesh  Animesh",09/02-12/04,BRONF 422,Active
+,,,,,,,R,01:05 PM-02:25 PM,,,,,"Animesh  Animesh",12/04-12/04,BRONF 422,Active
+6517,MGCR,331,004,Lecture,3.000,"Information Systems.",MW,02:35 PM-03:55 PM,75,0,0,0,"Animesh  Animesh",09/02-12/04,BRONF 422,Active
+,,,,,,,R,02:35 PM-03:55 PM,,,,,"Animesh  Animesh",12/04-12/04,BRONF 422,Active
+6819,MGCR,331,005,Lecture,3.000,"Information Systems.",MW,10:05 AM-11:25 AM,75,0,0,0,"Richard George  Donovan",09/02-12/04,BRONF 422,Active
+,,,,,,,R,10:05 AM-11:25 AM,,,,,"Richard George  Donovan",12/04-12/04,BRONF 422,Active
+8254,MGCR,331,006,Lecture,3.000,"Information Systems.",TR,08:35 AM-09:55 AM,75,0,0,0,"Sean  Sutherland",09/02-12/03,BRONF 423,Active
+2055,MGCR,331,751,Lecture,3.000,"Information Systems.",M,06:05 PM-08:55 PM,65,0,0,0,"Charles  Quesnel",09/08-12/01,BURN 1B45,Active
+,,,,,,,R,06:05 PM-08:55 PM,,,,,"Charles  Quesnel",12/04-12/04,BURN 1B45,Active
+2056,MGCR,331,761,Lecture,3.000,"Information Systems.",T,06:05 PM-08:55 PM,65,0,0,0,"Moataz Aly Soliman",09/02-11/25,ENGTR 1100,Active
+999,MGCR,341,001,Lecture,3.000,"Finance 1.",TR,08:35 AM-09:55 AM,185,0,0,0,"Adolfo  De Motta",09/02-12/03,BRONF 151,Active
+3221,MGCR,341,002,Lecture,3.000,"Finance 1.",TR,11:35 AM-12:55 PM,65,0,0,0,"Adolfo  De Motta",09/02-12/03,BRONF 179,Active
+2057,MGCR,341,771,Lecture,3.000,"Finance 1.",W,06:05 PM-08:55 PM,50,0,0,0,"Greg  Gregoriou",09/03-11/26,ENGTR 2100,Active
+1001,MGCR,352,001,Lecture,3.000,"Marketing Management 1.",TR,10:05 AM-11:25 AM,55,0,0,0,"DaHee  Han",09/02-12/03,BRONF 151,Active
+1002,MGCR,352,002,Lecture,3.000,"Marketing Management 1.",TR,04:05 PM-05:25 PM,58,0,0,0,"DaHee  Han",09/02-12/03,BRONF 210,Active
+1003,MGCR,352,003,Lecture,3.000,"Marketing Management 1.",MW,02:35 PM-03:55 PM,55,0,0,0,"Emine  Sarigollu",09/02-12/04,BRONF 210,Active
+,,,,,,,R,02:35 PM-03:55 PM,,,,,"Emine  Sarigollu",12/04-12/04,BRONF 210,Active
+1004,MGCR,352,004,Lecture,3.000,"Marketing Management 1.",MW,04:05 PM-05:25 PM,55,0,0,0,"Emine  Sarigollu",09/02-12/04,BRONF 002,Active
+,,,,,,,R,04:05 PM-05:25 PM,,,,,"Emine  Sarigollu",12/04-12/04,BRONF 002,Active
+1005,MGCR,352,005,Lecture,3.000,"Marketing Management 1.",MW,11:35 AM-12:55 PM,55,0,0,0,"Hamid  Etemad",09/02-12/04,BRONF 179,Active
+,,,,,,,R,11:35 AM-12:55 PM,,,,,"Hamid  Etemad",12/04-12/04,BRONF 179,Active
+3200,MGCR,352,006,Lecture,3.000,"Marketing Management 1.",TR,02:35 PM-03:55 PM,55,0,0,0,"Robert H S  Soroka",09/02-12/03,BRONF 210,Active
+1006,MGCR,352,007,Lecture,3.000,"Marketing Management 1.",TR,01:05 PM-02:25 PM,55,0,0,0,"DaHee  Han",09/02-12/03,BRONF 210,Active
+18906,MGCR,352,761,Lecture,3.000,"Marketing Management 1.",T,06:05 PM-08:55 PM,30,0,0,0,"Charles  Royce",09/02-12/04,TBA,Active
+1007,MGCR,360,001,Lecture,3.000,"Social Context of Business.",TR,01:05 PM-02:25 PM,50,0,0,0,"Louis Romeo  Chauvin",09/02-12/03,BRONF 001,Active
+1008,MGCR,360,002,Lecture,3.000,"Social Context of Business.",TR,10:05 AM-11:25 AM,50,0,0,0,"Louis Romeo  Chauvin",09/02-12/03,BRONF 410,Active
+1009,MGCR,360,003,Lecture,3.000,"Social Context of Business.",MW,04:05 PM-05:25 PM,50,0,0,0,"Nii Antiaye  Addy",09/02-12/04,BRONF 410,Active
+,,,,,,,R,04:05 PM-05:25 PM,,,,,"Nii Antiaye  Addy",12/04-12/04,BRONF 410,Active
+6907,MGCR,360,004,Lecture,3.000,"Social Context of Business.",MW,08:35 AM-09:55 AM,50,0,0,0,"Jan J  Jorgensen",09/02-12/04,BRONF 179,Active
+,,,,,,,R,08:35 AM-09:55 AM,,,,,"Jan J  Jorgensen",12/04-12/04,BRONF 179,Active
+8257,MGCR,360,005,Lecture,3.000,"Social Context of Business.",MW,02:35 PM-03:55 PM,50,0,0,0,"Nii Antiaye  Addy",09/02-12/04,BRONF 045,Active
+,,,,,,,R,02:35 PM-03:55 PM,,,,,"Nii Antiaye  Addy",12/04-12/04,BRONF 045,Active
+3205,MGCR,360,006,Lecture,3.000,"Social Context of Business.",MW,01:05 PM-02:25 PM,50,0,0,0,"Jan J  Jorgensen",09/02-12/04,BRONF 001,Active
+,,,,,,,R,01:05 PM-02:25 PM,,,,,"Jan J  Jorgensen",12/04-12/04,BRONF 001,Active
+1010,MGCR,382,001,Lecture,3.000,"International Business.",MW,11:35 AM-12:55 PM,195,0,0,0,"Elena  Obukhova, David Simon Schumacher",09/02-12/03,BRONF 151,Active
+,,,,,,,R,11:35 AM-12:55 PM,,,,,"Elena  Obukhova, David Simon Schumacher",12/04-12/04,BRONF 151,Active
+1011,MGCR,382,071,Lecture,3.000,"International Business.",W,06:05 PM-08:55 PM,195,0,0,0,"Elena  Obukhova, David Simon Schumacher",09/02-12/04,BRONF 151,Active
+10580,MGCR,382,781,Lecture,3.000,"International Business.",R,06:05 PM-08:55 PM,75,0,0,0,"John  Saba",09/04-11/27,ENGTR 1100,Active
+1012,MGCR,423,001,Lecture,3.000,"Strategic Management.",MW,11:35 AM-12:55 PM,50,0,0,0,"Gregory Bryan  Vit",09/02-12/04,BRONF 410,Active
+,,,,,,,R,11:35 AM-12:55 PM,,,,,"Gregory Bryan  Vit",12/04-12/04,BRONF 410,Active
+1013,MGCR,423,002,Lecture,3.000,"Strategic Management.",MW,02:35 PM-03:55 PM,50,0,0,0,"Gregory Bryan  Vit",09/02-12/04,BRONF 410,Active
+,,,,,,,R,02:35 PM-03:55 PM,,,,,"Gregory Bryan  Vit",12/04-12/04,BRONF 410,Active
+1014,MGCR,423,003,Lecture,3.000,"Strategic Management.",TR,01:05 PM-02:25 PM,50,0,0,0,"Yuan  Li",09/02-12/03,BRONF 002,Active
+13617,MGCR,423,004,Lecture,3.000,"Strategic Management.",MW,01:05 PM-02:25 PM,50,0,0,0,"Yuan  Li",09/02-12/04,BRONF 002,Active
+,,,,,,,R,01:05 PM-02:25 PM,,,,,"Yuan  Li",12/04-12/04,BRONF 002,Active
+15582,MGCR,423,005,Lecture,3.000,"Strategic Management.",TR,10:05 AM-11:25 AM,50,0,0,0,"Yuan  Li",09/02-12/03,BRONF 001,Active
+2060,MGCR,423,781,Lecture,3.000,"Strategic Management.",R,06:05 PM-08:55 PM,40,0,0,0,TBA,09/04-11/27,RPHYS 112,Active
+1016,MGCR,472,001,Lecture,3.000,"Operations Management.",MW,04:05 PM-05:25 PM,70,0,0,0,"Dadi  Wang",09/02-12/04,BRONF 422,Active
+,,,,,,,R,04:05 PM-05:25 PM,,,,,"Dadi  Wang",12/04-12/04,BRONF 422,Active
+1017,MGCR,472,002,Lecture,3.000,"Operations Management.",MW,02:35 PM-03:55 PM,70,0,0,0,"Dadi  Wang",09/02-12/04,BRONF 423,Active
+,,,,,,,R,02:35 PM-03:55 PM,,,,,"Dadi  Wang",12/04-12/04,BRONF 423,Active
+Management Policy
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+17618,MGPO,362,001,Lecture,3.000,"Fundamentals of Entrepreneurship.",MW,01:05 PM-02:25 PM,45,0,0,0,"Peter  Younkin",09/02-12/04,BRONF 410,Active
+,,,,,,,R,01:05 PM-02:25 PM,,,,,"Peter  Younkin",12/04-12/04,BRONF 410,Active
+17620,MGPO,362,002,Lecture,3.000,"Fundamentals of Entrepreneurship.",MW,08:35 AM-09:55 AM,45,0,0,0,"Gregory Bryan  Vit",09/02-12/04,BRONF 045,Active
+,,,,,,,R,08:35 AM-09:55 AM,,,,,"Gregory Bryan  Vit",12/04-12/04,BRONF 045,Active
+17616,MGPO,438,071,Lecture,3.000,"Social Entrepreneurship and Innovation.",W,06:05 PM-08:55 PM,45,0,0,0,"Anita  Nowak",09/02-12/04,BRONF 210,Active
+17109,MGPO,440,051,Lecture,3.000,"Strategies for Sustainability.",R,06:05 PM-08:55 PM,45,0,0,0,"Margaret  Graham",09/02-12/03,BRONF 422,Active
+18927,MGPO,450,061,Lecture,3.000,"Ethics in Management.",T,06:05 PM-08:55 PM,45,0,0,0,"Diane  Girard",09/02-12/04,BRONF 046,Active
+18907,MGPO,450,771,Lecture,3.000,"Ethics in Management.",W,06:05 PM-08:55 PM,30,0,0,0,TBA,09/02-12/04,ARTS 260,Temporarily closed
+18928,MGPO,469,001,Lecture,3.000,"Managing Globalization.",MW,04:05 PM-05:25 PM,45,0,0,0,"Nicholas  Matziorinis",09/02-12/04,BRONF 178,Active
+,,,,,,,R,04:05 PM-05:25 PM,,,,,"Nicholas  Matziorinis",12/04-12/04,BRONF 178,Active
+17110,MGPO,470,001,Lecture,3.000,"Strategy and Organization.",MW,11:35 AM-12:55 PM,45,0,0,0,"Karl James  Moore",09/02-12/04,BRONF 001,Active
+,,,,,,,R,11:35 AM-12:55 PM,,,,,"Karl James  Moore",12/04-12/04,BRONF 001,Active
+13521,MGPO,475,001,Lecture,3.000,"Strategies for Developing Countries.",MW,08:35 AM-09:55 AM,45,0,0,0,"Biswanath  Bhattacharyay",09/02-12/04,BRONF 410,Active
+,,,,,,,R,08:35 AM-09:55 AM,,,,,"Biswanath  Bhattacharyay",12/04-12/04,BRONF 410,Active
+9852,MGPO,567,001,Lecture,3.000,"Business in Society.",TR,04:05 PM-05:25 PM,45,0,0,0,"Louis Romeo  Chauvin",09/02-12/03,BRONF 002,Active
+Management Science
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+13581,MGSC,372,001,Lecture,3.000,"Advanced Business Statistics.",TR,02:35 PM-03:55 PM,50,0,0,0,"Brian E  Smith",09/02-12/03,BRONF 179,Active
+13582,MGSC,372,002,Lecture,3.000,"Advanced Business Statistics.",MW,08:35 AM-09:55 AM,40,0,0,0,"Brian E  Smith",09/02-12/04,BRONF 046,Active
+,,,,,,,R,08:35 AM-09:55 AM,,,,,"Brian E  Smith",12/04-12/04,BRONF 046,Active
+13583,MGSC,372,003,Lecture,3.000,"Advanced Business Statistics.",MW,10:05 AM-11:25 AM,60,0,0,0,"Brian E  Smith",09/02-12/04,BRONF 179,Active
+,,,,,,,R,10:05 AM-11:25 AM,,,,,"Brian E  Smith",12/04-12/04,BRONF 179,Active
+10231,MGSC,373,001,Lecture,3.000,"Operations Research 1.",TR,01:05 PM-02:25 PM,35,0,0,0,"Brian E  Smith",09/02-12/03,BRONF 011,Active
+12490,MGSC,402,081,Lecture,3.000,"Operations Strategy.",R,06:05 PM-08:55 PM,22,0,0,0,"Saibal  Ray",09/02-12/03,BRONF 178,Active
+19048,MGSC,415,001,Lecture,3.000,"Supplier Management.",MW,TBA,25,0,0,0,"Shanling  Li",09/02-12/03,TBA,Cancelled
+,,,,,,,R,TBA,,,,,"Shanling  Li",12/04-12/04,TBA,Cancelled
+19276,MGSC,431,061,Lecture,3.000,"Operations and Supply Chain Analysis.",T,06:05 PM-08:55 PM,20,0,0,0,"Dadi  Wang",09/02-12/04,BRONF 045,Active
+19273,MGSC,488,001,Lecture,3.000,"Sustainability and Operations.",MW,01:05 PM-02:25 PM,35,0,0,0,"Tamer  Boyaci",09/02-12/04,BRONF 178,Active
+,,,,,,,R,01:05 PM-02:25 PM,,,,,"Tamer  Boyaci",12/04-12/04,BRONF 178,Active
+Marketing
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+8383,MRKT,354,061,Lecture,3.000,"Marketing Management 2.",T,06:05 PM-08:55 PM,45,0,0,0,"George  Dracopoulos",09/02-12/04,BRONF 422,Active
+958,MRKT,354,071,Lecture,3.000,"Marketing Management 2.",W,06:05 PM-08:55 PM,50,0,0,0,"George  Dracopoulos",09/02-12/04,BRONF 002,Active
+957,MRKT,354,081,Lecture,3.000,"Marketing Management 2.",R,06:05 PM-08:55 PM,45,0,0,0,"Billy  Mandelos",09/02-12/03,BRONF 410,Active
+6735,MRKT,355,001,Lecture,3.000,"Services Marketing.",TR,11:35 AM-12:55 PM,45,0,0,0,"Mary Sharon Dellar",09/02-12/03,BRONF 001,Active
+6734,MRKT,357,001,Lecture,3.000,"Marketing Planning 1.",TR,08:35 AM-09:55 AM,45,0,0,0,"Ronald  Duerksen",09/02-12/03,BRONF 046,Active
+6655,MRKT,438,001,Lecture,3.000,"Brand Management.",TR,08:35 AM-09:55 AM,50,0,0,0,"Robert  Mackalski",09/02-12/03,BRONF 410,Active
+8643,MRKT,438,002,Lecture,3.000,"Brand Management.",TR,04:05 PM-05:25 PM,45,0,0,0,"Robert  Mackalski",09/02-12/03,BRONF 179,Active
+961,MRKT,451,001,Lecture,3.000,"Marketing Research.",TR,01:05 PM-02:25 PM,45,0,0,0,"Myung-Soo  Jo",09/02-12/03,BRONF 410,Active
+964,MRKT,451,002,Lecture,3.000,"Marketing Research.",TR,04:05 PM-05:25 PM,45,0,0,0,"Myung-Soo  Jo",09/02-12/03,BRONF 410,Active
+965,MRKT,452,001,Lecture,3.000,"Consumer Behaviour.",TR,02:35 PM-03:55 PM,45,0,0,0,"Ashesh  Mukherjee",09/02-12/03,BRONF 002,Active
+967,MRKT,452,002,Lecture,3.000,"Consumer Behaviour.",TR,11:35 AM-12:55 PM,45,0,0,0,"Ashesh  Mukherjee",09/02-12/03,BRONF 410,Active
+968,MRKT,453,001,Lecture,3.000,"Advertising Management.",TR,01:05 PM-02:25 PM,45,0,0,0,"Robert  Mackalski",09/02-12/03,BRONF 046,Active
+969,MRKT,455,001,Lecture,3.000,"Sales Management.",MW,04:05 PM-05:25 PM,45,0,0,0,"David Lewis  Moscovitz",09/02-12/04,BRONF 001,Active
+,,,,,,,R,04:05 PM-05:25 PM,,,,,"David Lewis  Moscovitz",12/04-12/04,BRONF 001,Active
+15657,MRKT,483,001,Lecture,3.000,"International Marketing Management.",MW,02:35 PM-03:55 PM,45,0,0,0,"Hamid  Etemad",09/02-12/04,BRONF 002,Active
+,,,,,,,R,02:35 PM-03:55 PM,,,,,"Hamid  Etemad",12/04-12/04,BRONF 002,Active
+15658,MRKT,483,002,Lecture,3.000,"International Marketing Management.",MW,10:05 AM-11:25 AM,45,0,0,0,"Hamid  Etemad",09/02-12/04,BRONF 410,Active
+,,,,,,,R,10:05 AM-11:25 AM,,,,,"Hamid  Etemad",12/04-12/04,BRONF 410,Active
+Managing for Sustainability
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+19259,MSUS,400,001,Independent Study,3.000,"Independent Studies in Sustainability.",,TBA,5,0,0,0,TBA,09/02-12/04,TBA,Active
+19260,MSUS,497,001,Internship,3.000,"Internship in Sustainability.",,TBA,50,0,0,0,TBA,09/02-12/04,TBA,Active
+Organizational Behaviour
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+18842,ORGB,325,001,Lecture,3.000,"Negotiations and Conflict Resolution.",,TBA,35,0,0,0,TBA,09/02-12/03,TBA,Cancelled
+18843,ORGB,325,002,Lecture,3.000,"Negotiations and Conflict Resolution.",,TBA,35,0,0,0,TBA,09/02-12/04,TBA,Cancelled
+934,ORGB,380,001,Lecture,3.000,"Cross Cultural Management.",MW,10:05 AM-11:25 AM,40,0,0,0,"Chantal  Westgate",09/02-12/03,BRONF 045,Active
+,,,,,,,R,10:05 AM-11:25 AM,,,,,"Chantal  Westgate",12/04-12/04,BRONF 045,Active
+19403,ORGB,420,002,Lecture,3.000,"Managing Organizational Teams.",TBA,TBA,50,0,0,0,TBA,09/02-12/04,TBA,Cancelled
+18847,ORGB,420,051,Lecture,3.000,"Managing Organizational Teams.",M,06:05 PM-08:55 PM,35,0,0,0,"Sharyn  Sepinwall",09/02-12/04,BRONF 045,Active
+,,,,,,,R,06:05 PM-08:55 PM,,,,,"Sharyn  Sepinwall",12/04-12/04,BRONF 045,Active
+17803,ORGB,420,781,Lecture,3.000,"Managing Organizational Teams.",R,06:05 PM-08:55 PM,30,0,0,0,"Garrfield  Du Couturier-Nichol",09/04-11/27,ARTS W-20,Active
+19687,ORGB,421,792,Lecture,3.000,"Managing Organizational Change.",F,08:30 AM-05:00 PM,20,0,0,0,TBA,09/05-09/05,TBA,Temporarily closed
+,,,,,,,S,08:30 AM-05:00 PM,,,,,TBA,09/13-09/13,TBA,Temporarily closed
+,,,,,,,F,08:30 AM-05:00 PM,,,,,TBA,09/26-09/26,TBA,Temporarily closed
+,,,,,,,S,08:30 AM-05:00 PM,,,,,TBA,10/04-10/04,TBA,Temporarily closed
+,,,,,,,F,08:30 AM-05:00 PM,,,,,TBA,10/17-10/17,TBA,Temporarily closed
+6518,ORGB,423,001,Lecture,3.000,"Human Resources Management.",MW,02:35 PM-03:55 PM,50,0,0,0,"Lisa Ellen Cohen",09/02-12/04,BRONF 179,Active
+,,,,,,,R,02:35 PM-03:55 PM,,,,,"Lisa Ellen Cohen",12/04-12/04,BRONF 179,Active
+6520,ORGB,423,002,Lecture,3.000,"Human Resources Management.",MW,01:05 PM-02:25 PM,50,0,0,0,"Lisa Ellen Cohen",09/02-12/04,BRONF 179,Active
+,,,,,,,R,01:05 PM-02:25 PM,,,,,"Lisa Ellen Cohen",12/04-12/04,BRONF 179,Active
+18908,ORGB,423,771,Lecture,3.000,"Human Resources Management.",W,06:05 PM-08:55 PM,35,0,0,0,"Maha  Daoud",09/03-11/26,ENGTR 1090,Active
+18848,ORGB,525,001,Lecture,3.000,"Compensation Management.",TR,01:05 PM-02:25 PM,40,0,0,0,"Melissa  Sonberg",09/02-12/03,BRONF 045,Active
+2038,ORGB,525,751,Lecture,3.000,"Compensation Management.",M,06:05 PM-08:55 PM,40,0,0,0,TBA,09/08-12/01,ARTS W-20,Active
+,,,,,,,R,06:05 PM-08:55 PM,,,,,TBA,12/04-12/04,ARTS W-20,Active
+11490,ORGB,525,752,Make up Class,0.000,"Compensation Management.",,TBA,0,0,0,0,TBA,09/02-12/04,TBA,Registration Not Required
+11491,ORGB,525,753,Make up Class,0.000,"Compensation Management.",,TBA,0,0,0,0,TBA,09/02-12/04,TBA,Registration Not Required
+Registration
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+2902,REGN,WDMG,001,Registration Course,0.000,"Withdrawn from the University",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active

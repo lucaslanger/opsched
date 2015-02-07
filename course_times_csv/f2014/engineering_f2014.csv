@@ -1,0 +1,807 @@
+Architecture
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+596,ARCH,201,001,Lecture,6.000,"Communication, Behaviour and Architecture.",T,08:35 AM-10:25 AM,50,0,0,0,"Pierina  Saia, David  Covo",09/02-12/04,MDHAR 212,Active
+597,ARCH,201,002,Studio,0.000,"Communication, Behaviour and Architecture.",TR,10:35 AM-12:25 PM,50,0,0,0,"Pierina  Saia, David  Covo",09/02-12/03,MDHAR 214,Active
+,,,,,,,TR,01:35 PM-05:25 PM,,,,,"Pierina  Saia, David  Covo",09/02-12/03,MDHAR 214,Active
+14681,ARCH,221,001,Field Course (DEPT),2.000,"Architectural Drawing.",R,08:35 AM-10:25 AM,50,0,0,0,"David  Covo, Robert  Mellin",09/02-12/03,MDHAR 212,Active
+4244,ARCH,241,001,Lecture,3.000,"Architectural Structures.",M,10:35 AM-12:25 PM,54,0,0,0,"Pieter Hindrik Sijpkes",09/02-12/04,MDHAR 212,Active
+,,,,,,,R,10:35 AM-12:25 PM,,,,,"Pieter Hindrik Sijpkes",12/04-12/04,MDHAR 212,Active
+4263,ARCH,241,002,Seminar,0.000,"Architectural Structures.",W,09:35 AM-10:25 AM,54,0,0,0,"Pieter Hindrik Sijpkes",09/02-12/04,MDHAR 212,Active
+604,ARCH,250,001,Lecture,3.000,"Architectural History 1.",M,08:35 AM-10:25 AM,58,0,0,0,"Ricardo L  Castro",09/02-12/04,MDHAR 212,Active
+,,,,,,,W,08:35 AM-09:25 AM,,,,,"Ricardo L  Castro",09/02-12/04,MDHAR 212,Active
+,,,,,,,R,08:35 AM-10:25 AM,,,,,"Ricardo L  Castro",12/04-12/04,MDHAR 212,Active
+3073,ARCH,250,002,Lecture,3.000,"Architectural History 1.",M,08:35 AM-10:25 AM,5,0,0,0,"Ricardo L  Castro",09/02-12/04,MDHAR 212,Active
+,,,,,,,W,08:35 AM-09:25 AM,,,,,"Ricardo L  Castro",09/02-12/04,MDHAR 212,Active
+,,,,,,,R,08:35 AM-10:25 AM,,,,,"Ricardo L  Castro",12/04-12/04,MDHAR 212,Active
+606,ARCH,303,001,Lecture,6.000,"Design and Construction 1.",TR,10:35 AM-11:25 AM,15,0,0,0,"Howard  Davies",09/02-12/03,MDHAR 212,Active
+609,ARCH,303,002,Lecture,6.000,"Design and Construction 1.",TR,11:35 AM-12:25 PM,15,0,0,0,"Ricardo L  Castro",09/02-12/03,MDHAR 212,Active
+4261,ARCH,303,003,Lecture,6.000,"Design and Construction 1.",TR,11:05 AM-11:55 AM,15,0,0,0,"Robert  Mellin",09/02-12/03,MDHAR G-01,Active
+607,ARCH,303,004,Studio,0.000,"Design and Construction 1.",TR,09:35 AM-10:25 AM,15,0,0,0,"Howard  Davies",09/02-12/03,MDHAR 115,Active
+,,,,,,,TR,11:35 AM-12:25 PM,,,,,"Howard  Davies",09/02-12/03,MDHAR 115,Active
+,,,,,,,TR,02:05 PM-04:55 PM,,,,,"Howard  Davies",09/02-12/03,MDHAR 115,Active
+610,ARCH,303,005,Studio,0.000,"Design and Construction 1.",TR,09:35 AM-11:25 AM,15,0,0,0,"Ricardo L  Castro",09/02-12/03,MDHAR 115,Active
+,,,,,,,TR,02:05 PM-04:55 PM,,,,,"Ricardo L  Castro",09/02-12/03,MDHAR 115,Active
+4262,ARCH,303,006,Studio,0.000,"Design and Construction 1.",TR,11:05 AM-12:25 PM,15,0,0,0,"Robert  Mellin",09/02-12/03,MDHAR 115,Active
+,,,,,,,TR,01:35 PM-04:55 PM,,,,,"Robert  Mellin",09/02-12/03,MDHAR 115,Active
+8831,ARCH,303,007,Lecture,6.000,"Design and Construction 1.",TR,10:05 AM-10:55 AM,15,0,0,0,TBA,09/02-12/03,MDHAR G-01,Active
+8834,ARCH,303,008,Studio,0.000,"Design and Construction 1.",TR,11:05 AM-12:25 PM,15,0,0,0,TBA,09/02-12/03,MDHAR 115,Active
+,,,,,,,TR,01:35 PM-04:55 PM,,,,,TBA,09/02-12/03,MDHAR 115,Active
+15520,ARCH,325,001,Field Course (DEPT),2.000,"Architectural Sketching.",M,03:35 PM-05:25 PM,55,0,0,0,"David  Covo, Robert  Mellin",09/02-12/04,MDHAR 101,Active
+,,,,,,,R,03:35 PM-05:25 PM,,,,,"David  Covo, Robert  Mellin",12/04-12/04,MDHAR 101,Active
+14686,ARCH,342,001,Lecture,3.000,"Digital Representation.",M,01:35 PM-03:25 PM,60,0,0,0,"Aaron  Sprecher",09/02-12/04,BURN 1B39,Active
+,,,,,,,M,04:35 PM-05:25 PM,,,,,"Aaron  Sprecher",09/02-12/04,BURN 1B39,Active
+,,,,,,,R,01:35 PM-03:25 PM,,,,,"Aaron  Sprecher",12/04-12/04,BURN 1B39,Active
+,,,,,,,R,04:35 PM-05:25 PM,,,,,"Aaron  Sprecher",12/04-12/04,BURN 1B39,Active
+3071,ARCH,354,001,Lecture,3.000,"Architectural History 3.",W,02:35 PM-04:25 PM,55,0,0,0,"Martin  Bressani",09/02-12/04,ENGMC 12,Active
+3159,ARCH,354,002,Seminar,0.000,"Architectural History 3.",F,12:35 PM-01:25 PM,28,0,0,0,"Martin  Bressani",09/02-12/04,MDHAR 212,Active
+5269,ARCH,354,003,Lecture,3.000,"Architectural History 3.",W,02:35 PM-04:25 PM,5,0,0,0,"Martin  Bressani",09/02-12/04,ENGMC 12,Active
+5270,ARCH,354,004,Seminar,0.000,"Architectural History 3.",F,12:35 PM-01:25 PM,5,0,0,0,"Martin  Bressani",09/02-12/04,MDHAR 212,Active
+10058,ARCH,354,005,Seminar,0.000,"Architectural History 3.",F,11:35 AM-12:25 PM,28,0,0,0,"Martin  Bressani",09/02-12/04,MDHAR 212,Active
+10059,ARCH,354,006,Seminar,0.000,"Architectural History 3.",F,11:35 AM-12:25 PM,5,0,0,0,"Martin  Bressani",09/02-12/04,MDHAR 212,Active
+10065,ARCH,375,001,Lecture,2.000,"Landscape.",F,01:35 PM-03:25 PM,64,0,0,0,"Marc  Hallé",09/02-12/04,MDHAR 212,Active
+634,ARCH,405,001,Lecture,6.000,"Design and Construction 3.",TR,03:35 PM-04:25 PM,15,0,0,0,"Martin  Bressani",09/02-12/03,MDHAR 212,Active
+635,ARCH,405,002,Lecture,6.000,"Design and Construction 3.",TR,04:35 PM-05:25 PM,15,0,0,0,"Aaron  Sprecher",09/02-12/03,MDHAR 212,Active
+636,ARCH,405,003,Lecture,6.000,"Design and Construction 3.",TR,03:35 PM-04:25 PM,15,0,0,0,"Talia  Dorsey",09/02-12/03,MDHAR 420,Active
+637,ARCH,405,004,Studio,0.000,"Design and Construction 3.",TR,10:05 AM-12:25 PM,15,0,0,0,"Martin  Bressani",09/02-12/03,MDHAR 312,Active
+,,,,,,,TR,01:35 PM-03:25 PM,,,,,"Martin  Bressani",09/02-12/03,MDHAR 312,Active
+,,,,,,,TR,04:35 PM-04:55 PM,,,,,"Martin  Bressani",09/02-12/03,MDHAR 312,Active
+638,ARCH,405,005,Studio,0.000,"Design and Construction 3.",TR,10:05 AM-12:25 PM,15,0,0,0,"Aaron  Sprecher",09/02-12/03,MDHAR 312,Active
+,,,,,,,TR,02:05 PM-02:25 PM,,,,,"Aaron  Sprecher",09/02-12/03,MDHAR 312,Active
+639,ARCH,405,006,Studio,0.000,"Design and Construction 3.",TR,10:05 AM-12:25 PM,15,0,0,0,"Talia  Dorsey",09/02-12/03,MDHAR 314,Active
+,,,,,,,TR,01:35 PM-03:25 PM,,,,,"Talia  Dorsey",09/02-12/03,MDHAR 314,Active
+,,,,,,,TR,04:35 PM-04:55 PM,,,,,"Talia  Dorsey",09/02-12/03,MDHAR 314,Active
+2802,ARCH,405,007,Lecture,6.000,"Design and Construction 3.",TR,04:35 PM-05:25 PM,15,0,0,0,TBA,09/02-12/03,MDHAR 420,Active
+2803,ARCH,405,008,Studio,0.000,"Design and Construction 3.",TR,10:05 AM-12:25 PM,15,0,0,0,TBA,09/02-12/03,MDHAR 314,Active
+,,,,,,,TR,02:05 PM-04:25 PM,,,,,TBA,09/02-12/03,MDHAR 314,Active
+2756,ARCH,447,001,Lecture,2.000,"Lighting.",F,03:35 PM-05:25 PM,58,0,0,0,"Conor  Sampson",09/02-12/04,MDHAR 212,Active
+2813,ARCH,447,002,Lecture,2.000,"Lighting.",F,03:35 PM-05:25 PM,5,0,0,0,"Conor  Sampson",09/02-12/04,MDHAR 212,Active
+15394,ARCH,512,001,Lecture,3.000,"Architectural Modelling.",F,08:35 AM-11:25 AM,56,0,0,0,"Michael  Jemtrud",09/02-12/04,MDHAR 212,Active
+18308,ARCH,512,002,Lecture,3.000,"Architectural Modelling.",F,08:35 AM-11:25 AM,4,0,0,0,"Michael  Jemtrud",09/02-12/04,MDHAR 212,Active
+12200,ARCH,517,001,Lecture,3.000,"Sustainable Residential Development.",W,02:35 PM-05:25 PM,8,0,0,0,"Abraham  Friedman",09/02-12/04,MDHAR 212,Active
+12201,ARCH,517,002,Lecture,3.000,"Sustainable Residential Development.",W,02:35 PM-05:25 PM,17,0,0,0,"Abraham  Friedman",09/02-12/04,MDHAR 212,Active
+12202,ARCH,517,003,Lecture,3.000,"Sustainable Residential Development.",W,02:35 PM-05:25 PM,9,0,0,0,"Abraham  Friedman",09/02-12/04,MDHAR 212,Active
+12203,ARCH,517,004,Lecture,3.000,"Sustainable Residential Development.",W,02:35 PM-05:25 PM,15,0,0,0,"Abraham  Friedman",09/02-12/04,MDHAR 212,Active
+19802,ARCH,521,001,Lecture,3.000,"Structure of Cities.",W,10:35 AM-12:25 PM,2,0,0,0,TBA,09/02-12/04,MDHAR 207,Active
+19803,ARCH,521,002,Lecture,3.000,"Structure of Cities.",W,10:35 AM-12:25 PM,13,0,0,0,TBA,09/02-12/04,MDHAR 207,Active
+12884,ARCH,529,001,Lecture,3.000,"Housing Theory.",M,03:35 PM-05:25 PM,14,0,0,0,"Vikram Chandulal Bhatt",09/02-12/04,MDHAR 212,Active
+,,,,,,,R,03:35 PM-05:25 PM,,,,,"Vikram Chandulal Bhatt",12/04-12/04,MDHAR 212,Active
+12885,ARCH,529,002,Lecture,3.000,"Housing Theory.",M,03:35 PM-05:25 PM,25,0,0,0,"Vikram Chandulal Bhatt",09/02-12/04,MDHAR 212,Active
+,,,,,,,R,03:35 PM-05:25 PM,,,,,"Vikram Chandulal Bhatt",12/04-12/04,MDHAR 212,Active
+12886,ARCH,529,003,Lecture,3.000,"Housing Theory.",M,03:35 PM-05:25 PM,10,0,0,0,"Vikram Chandulal Bhatt",09/02-12/04,MDHAR 212,Active
+,,,,,,,R,03:35 PM-05:25 PM,,,,,"Vikram Chandulal Bhatt",12/04-12/04,MDHAR 212,Active
+12887,ARCH,529,004,Lecture,3.000,"Housing Theory.",M,03:35 PM-05:25 PM,12,0,0,0,"Vikram Chandulal Bhatt",09/02-12/04,MDHAR 212,Active
+,,,,,,,R,03:35 PM-05:25 PM,,,,,"Vikram Chandulal Bhatt",12/04-12/04,MDHAR 212,Active
+641,ARCH,531,001,Lecture,3.000,"Architectural Intentions Vitruvius - Renaissance.",W,10:35 AM-12:25 PM,15,0,0,0,"Alberto  Perez-Gomez",09/02-12/04,MDHAR 212,Temporarily closed
+642,ARCH,531,002,Lecture,3.000,"Architectural Intentions Vitruvius - Renaissance.",W,10:35 AM-12:25 PM,35,0,0,0,"Alberto  Perez-Gomez",09/02-12/04,MDHAR 212,Temporarily closed
+19020,ARCH,533,001,Lecture,3.000,"New Approaches to Architectural History.",W,03:35 PM-05:25 PM,3,0,0,0,"Annmarie  Adams",09/02-12/04,MDHAR 207,Active
+19021,ARCH,533,002,Lecture,3.000,"New Approaches to Architectural History.",W,03:35 PM-05:25 PM,12,0,0,0,"Annmarie  Adams",09/02-12/04,MDHAR 207,Active
+19014,ARCH,535,001,Lecture,3.000,"History of Architecture in Canada.",W,12:35 PM-02:25 PM,5,0,0,0,"Julia  Gersovitz",09/02-12/04,MDHAR 420,Active
+19016,ARCH,535,002,Lecture,3.000,"History of Architecture in Canada.",W,12:35 PM-02:25 PM,10,0,0,0,"Julia  Gersovitz",09/02-12/04,MDHAR 420,Active
+19017,ARCH,535,003,Lecture,3.000,"History of Architecture in Canada.",W,12:35 PM-02:25 PM,4,0,0,0,"Julia  Gersovitz",09/02-12/04,MDHAR 420,Active
+643,ARCH,540,001,Topics Course,3.000,"Selected Topics in Architecture 1.",,TBA,12,0,0,0,TBA,09/02-12/04,TBA,Active
+8842,ARCH,540,002,Topics Course,3.000,"Selected Topics in Architecture 1.",M,03:35 PM-05:25 PM,12,0,0,0,"Ricardo L  Castro, Adrian  Sheppard",09/02-12/04,MDHAR 207,Active
+,,,,,,,R,03:35 PM-05:25 PM,,,,,"Ricardo L  Castro, Adrian  Sheppard",12/04-12/04,MDHAR 207,Active
+19827,ARCH,540,003,Topics Course,3.000,"Selected Topics in Architecture 1.",F,03:35 PM-05:25 PM,15,0,0,0,"Aysenur Ipek Türeli",09/02-12/04,MDHAR 207,Active
+644,ARCH,541,001,Topics Course,3.000,"Selected Topics in Architecture 2.",,TBA,12,0,0,0,TBA,09/02-12/04,TBA,Active
+10704,ARCH,541,002,Topics Course,3.000,"Selected Topics in Architecture 2.",F,01:35 PM-03:25 PM,25,0,0,0,"Nancy Hawley  Dunton",09/02-12/04,MDHAR G-01,Active
+12204,ARCH,561,001,Seminar,3.000,"Affordable Housing Seminar 1.",TBA,TBA,2,0,0,0,TBA,09/02-12/04,TBA,Cancelled
+12205,ARCH,561,002,Seminar,3.000,"Affordable Housing Seminar 1.",TBA,TBA,6,0,0,0,TBA,09/02-12/04,TBA,Cancelled
+12206,ARCH,561,003,Seminar,3.000,"Affordable Housing Seminar 1.",TBA,TBA,7,0,0,0,TBA,09/02-12/04,TBA,Cancelled
+19023,ARCH,564,001,Lecture,3.000,"Design for Development.",TBA,TBA,8,0,0,0,TBA,09/02-12/04,TBA,Cancelled
+19025,ARCH,564,002,Lecture,3.000,"Design for Development.",TBA,TBA,18,0,0,0,TBA,09/02-12/04,TBA,Cancelled
+19026,ARCH,564,003,Lecture,3.000,"Design for Development.",TBA,TBA,6,0,0,0,TBA,09/02-12/04,TBA,Cancelled
+19029,ARCH,564,004,Lecture,3.000,"Design for Development.",TBA,TBA,13,0,0,0,TBA,09/02-12/04,TBA,Cancelled
+Bioengineering
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+19557,BIEN,310,001,Lecture,3.000,"Introduction to Biomolecular Engineering.",TR,04:05 PM-05:25 PM,30,0,0,0,"Yu  Xia",09/02-12/03,ENGMD 276,Active
+17869,BIEN,320,001,Lecture,3.000,"Molecular, Cellular and Tissue Biomechanics.",MW,08:35 AM-09:55 AM,30,0,0,0,"Allen Joseph Ehrlicher, Joseph Matthew Kinsella",09/02-12/04,WILSON 227,Cancelled
+,,,,,,,R,08:35 AM-09:55 AM,,,,,"Allen Joseph Ehrlicher, Joseph Matthew Kinsella",12/04-12/04,WILSON 227,Cancelled
+19562,BIEN,530,001,Lecture,3.000,"Imaging and Bioanalytical Instrumentation.",MW,04:05 PM-05:25 PM,30,0,0,0,"Adam Gerald Hendricks",09/02-12/04,ARTS W-20,Active
+,,,,,,,R,04:05 PM-05:25 PM,,,,,"Adam Gerald Hendricks",12/04-12/04,ARTS W-20,Active
+Biomedical Engineering
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+240,BMDE,501,001,Lecture,3.000,"Selected Topics in Biomedical Engineering.",TR,02:35 PM-03:55 PM,30,0,0,0,"W Robert J  Funnell",09/02-12/03,DUFF 321,Active
+3063,BMDE,503,001,Lecture,3.000,"Biomedical Instrumentation.",TR,01:05 PM-02:25 PM,16,0,0,0,"Ross  Wagner",09/02-12/03,DUFF 321,Active
+12554,BMDE,509,001,Lecture,3.000,"Quantitative Analysis and Modelling of Cellular Processes.",MW,02:35 PM-03:55 PM,18,0,0,0,"Jay Louise Nadeau",09/02-12/04,DUFF 321,Active
+,,,,,,,R,02:35 PM-03:55 PM,,,,,"Jay Louise Nadeau",12/04-12/04,DUFF 321,Active
+15606,BMDE,512,001,Lecture,3.000,"Finite-Element Modelling in Biomedical Engineering.",MW,10:35 AM-11:55 AM,20,0,0,0,"W Robert J  Funnell",09/02-12/04,DUFF 321,Active
+,,,,,,,R,10:35 AM-11:55 AM,,,,,"W Robert J  Funnell",12/04-12/04,DUFF 321,Active
+241,BMDE,519,001,Lecture,3.000,"Biomedical  Signals and Systems.",W,04:05 PM-05:55 PM,30,0,0,0,"Robert E  Kearney",09/02-12/04,DUFF 321,Active
+Chemical Engineering
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+132,CHEE,200,001,Lecture,3.000,"Chemical Engineering Principles 1.",MTR,10:35 AM-11:25 AM,125,0,0,0,"Milan  Maric, Sylvain  Coulombe",09/02-12/04,RPHYS 112,Active
+8663,CHEE,200,002,Tutorial,0.000,"Chemical Engineering Principles 1.",M,08:35 AM-09:25 AM,62,0,0,0,"Milan  Maric",09/02-12/04,ENGTR 1080,Active
+,,,,,,,R,08:35 AM-09:25 AM,,,,,"Milan  Maric",12/04-12/04,ENGTR 1080,Active
+2253,CHEE,200,003,Tutorial,0.000,"Chemical Engineering Principles 1.",M,08:35 AM-09:25 AM,63,0,0,0,"Milan  Maric",09/02-12/04,ENGTR 1100,Active
+,,,,,,,R,08:35 AM-09:25 AM,,,,,"Milan  Maric",12/04-12/04,ENGTR 1100,Active
+16447,CHEE,231,001,Lecture,3.000,"Data Analysis and Design of Experiments.",TR,02:35 PM-03:55 PM,105,0,0,0,"Pierre-Luc  Girard-Lauriault",09/02-12/03,WONG 1020,Active
+133,CHEE,291,001,Lecture,4.000,"Instrumentation and Measurement 1.",TR,04:05 PM-05:25 PM,108,0,0,0,"Jeff  Gostick",09/02-12/03,ENGMC 13,Active
+134,CHEE,291,002,Drop-in Lab,0.000,"Instrumentation and Measurement 1.",,TBA,108,0,0,0,"Jeff  Gostick",09/02-12/04,NOROOM ,Active
+135,CHEE,314,001,Lecture,3.000,"Fluid Mechanics.",MWF,09:35 AM-10:25 AM,95,0,0,0,TBA,09/02-12/04,WONG 1020,Active
+,,,,,,,R,09:35 AM-10:25 AM,,,,,TBA,12/04-12/04,WONG 1020,Active
+136,CHEE,314,002,Tutorial,0.000,"Fluid Mechanics.",F,10:35 AM-11:25 AM,95,0,0,0,TBA,09/02-12/04,WONG 1020,Active
+137,CHEE,360,001,Paper,1.000,"Technical Paper.",,TBA,120,0,0,0,"Pierre  Bisaillon, Bassam Elias  Sarkis",09/02-12/04,TBA,Active
+139,CHEE,370,001,Lecture,3.000,"Elements of Biotechnology.",MWF,01:35 PM-02:25 PM,87,0,0,0,TBA,09/02-12/04,ENGMC 11,Active
+,,,,,,,R,01:35 PM-02:25 PM,,,,,TBA,12/04-12/04,ENGMC 11,Active
+140,CHEE,380,001,Lecture,3.000,"Materials Science.",MWF,08:35 AM-09:25 AM,98,0,0,0,"Jean-Luc  Meunier",09/02-12/04,WONG 1020,Active
+,,,,,,,R,08:35 AM-09:25 AM,,,,,"Jean-Luc  Meunier",12/04-12/04,WONG 1020,Active
+17777,CHEE,380,002,Tutorial,0.000,"Materials Science.",M,03:35 PM-04:25 PM,98,0,0,0,"Jean-Luc  Meunier",09/02-12/04,WONG 1020,Active
+,,,,,,,R,03:35 PM-04:25 PM,,,,,"Jean-Luc  Meunier",12/04-12/04,WONG 1020,Active
+16916,CHEE,390,001,Lecture,3.000,"Computational Methods in Chemical Engineering.",TR,08:35 AM-09:55 AM,90,0,0,0,"Phillip  Servio",09/02-12/03,WONG 1020,Active
+19043,CHEE,400,001,Lecture,3.000,"Principles of Energy Conversion.",TR,10:05 AM-11:25 AM,98,0,0,0,"Alejandro D  Rey",09/02-12/03,WONG 1020,Active
+19044,CHEE,400,002,Tutorial,0.000,"Principles of Energy Conversion.",M,09:35 AM-10:25 AM,100,0,0,0,"Alejandro D  Rey",09/02-12/03,SADB 2/36,Active
+,,,,,,,R,09:35 AM-10:25 AM,,,,,"Alejandro D  Rey",12/04-12/04,SADB 2/36,Active
+143,CHEE,423,001,Lecture,3.000,"Chemical Reaction Engineering.",TRF,11:35 AM-12:25 PM,100,0,0,0,"Anne-Marie  Kietzig",09/02-12/03,WONG 1020,Active
+144,CHEE,423,002,Tutorial,0.000,"Chemical Reaction Engineering.",F,02:35 PM-03:25 PM,100,0,0,0,"Anne-Marie  Kietzig",09/02-12/04,ENGMC 11,Active
+145,CHEE,453,001,Lecture,4.000,"Process Design.",MW,10:35 AM-12:25 PM,95,0,0,0,"Nathalie  Tufenkji",09/02-12/04,WONG 1020,Active
+,,,,,,,R,10:35 AM-12:25 PM,,,,,"Nathalie  Tufenkji",12/04-12/04,WONG 1020,Active
+2751,CHEE,453,002,Laboratory,0.000,"Process Design.",M,11:35 AM-12:55 PM,25,0,0,0,"Philippe  Salama",09/02-12/04,ENGMC 10,Active
+,,,,,,,R,11:35 AM-12:55 PM,,,,,"Philippe  Salama",12/04-12/04,ENGMC 10,Active
+2752,CHEE,453,003,Laboratory,0.000,"Process Design.",W,11:35 AM-12:55 PM,25,0,0,0,"Philippe  Salama",09/02-12/04,ADAMS 1,Active
+13648,CHEE,453,005,Laboratory,0.000,"Process Design.",M,10:05 AM-11:25 AM,21,0,0,0,"Philippe  Salama",09/02-12/04,ENGMC 10,Active
+,,,,,,,R,10:05 AM-11:25 AM,,,,,"Philippe  Salama",12/04-12/04,ENGMC 10,Active
+13649,CHEE,453,006,Laboratory,0.000,"Process Design.",W,10:05 AM-11:25 AM,21,0,0,0,"Philippe  Salama",09/02-12/04,ADAMS 1,Active
+146,CHEE,456,001,Project,2.000,"Design Project 1.",T,04:05 PM-06:25 PM,65,0,0,0,"Sylvain  Coulombe",09/02-12/04,WONG 1020,Active
+,,,,,,,W,04:05 PM-06:25 PM,,,,,"Sylvain  Coulombe",09/02-12/04,WONG 1020,Active
+,,,,,,,R,04:05 PM-06:25 PM,,,,,"Sylvain  Coulombe",09/02-12/03,WONG 1020,Active
+147,CHEE,457,001,Project,5.000,"Design Project 2.",T,04:05 PM-06:25 PM,45,0,0,0,"Viviane  Yargeau",09/02-12/04,RPHYS 118,Active
+,,,,,,,W,04:05 PM-06:25 PM,,,,,"Viviane  Yargeau",09/02-12/04,WONG 1030,Active
+,,,,,,,R,04:05 PM-06:25 PM,,,,,"Viviane  Yargeau",09/02-12/03,WONG 1030,Active
+151,CHEE,474,001,Lecture,3.000,"Biochemical Engineering.",MW,01:35 PM-02:55 PM,80,0,0,0,"Nathalie  Tufenkji",09/02-12/04,WONG 1020,Active
+,,,,,,,R,01:35 PM-02:55 PM,,,,,"Nathalie  Tufenkji",12/04-12/04,WONG 1020,Active
+152,CHEE,494,001,Project,3.000,"Research Project and Seminar 1.",,TBA,80,0,0,0,"Dimitrios  Berk",09/02-12/04,TBA,Active
+153,CHEE,494D1,001,Project,1.500,"Research Project and Seminar 1.",,TBA,10,0,0,0,"Dimitrios  Berk",09/02-12/04,TBA,Active
+154,CHEE,495,001,Project,4.000,"Research Project and Seminar 2.",,TBA,80,0,0,0,"Dimitrios  Berk",09/02-12/04,TBA,Active
+155,CHEE,495D1,001,Project,2.000,"Research Project and Seminar 2.",,TBA,10,0,0,0,"Dimitrios  Berk",09/02-12/04,TBA,Active
+156,CHEE,496,001,Project,3.000,"Environmental Research Project.",,TBA,20,0,0,0,"Dimitrios  Berk",09/02-12/04,TBA,Active
+157,CHEE,496D1,001,Project,1.500,"Environmental Research Project.",,TBA,10,0,0,0,"Dimitrios  Berk",09/02-12/04,TBA,Active
+14101,CHEE,510,001,Lecture,3.000,"Advanced Separation Processes.",TR,02:35 PM-03:55 PM,50,0,0,0,"Jeff  Gostick",09/02-12/03,RPHYS 115,Active
+19197,CHEE,541,001,Lecture,3.000,"Electrochemical Engineering.",TR,01:05 PM-02:25 PM,30,0,0,0,"Sasha  Omanovic",09/02-12/03,ENGTR 2120,Active
+7949,CHEE,543,001,Lecture,3.000,"Plasma Engineering.",TW,04:05 PM-05:25 PM,40,0,0,0,"Pierre-Luc  Girard-Lauriault, Jean-Luc  Meunier",09/02-12/04,ENGTR 1090,Active
+6990,CHEE,585,001,Lecture,3.000,"Foundations of Soft Matter.",TBA,TBA,30,0,0,0,TBA,09/02-12/04,TBA,Cancelled
+18027,CHEE,587,001,Lecture,3.000,"Chemical Processing: Electronics Industry.",TR,08:35 AM-09:55 AM,30,0,0,0,"Dimitrios  Berk",09/02-12/03,ENGTR 0070,Active
+Chemistry
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+87,CHEM,234,001,Lecture,3.000,"Topics in Organic Chemistry.",TR,10:05 AM-11:25 AM,35,0,0,0,"Dmytro  Perepichka, David Noble  Harpp",09/02-12/03,MAASS 112,Active
+Civil Engineering
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+221,CIVE,203,001,Laboratory,1.000,"Solid Mechanics Laboratory.",T,02:35 PM-04:25 PM,10,0,0,0,"Yixin  Shao",09/02-12/04,ENGMD 057,Active
+223,CIVE,205,001,Lecture,3.000,"Statics.",MWF,10:35 AM-11:25 AM,135,0,0,0,"Luc E  Chouinard",09/02-12/04,BURN 1B45,Active
+,,,,,,,R,10:35 AM-11:25 AM,,,,,"Luc E  Chouinard",12/04-12/04,BURN 1B45,Active
+225,CIVE,205,002,Tutorial,0.000,"Statics.",F,02:35 PM-03:25 PM,135,0,0,0,TBA,09/02-12/04,ENGTR 0100,Active
+229,CIVE,207,001,Lecture,4.000,"Solid Mechanics.",TR,08:35 AM-10:25 AM,180,0,0,0,"Yixin  Shao",09/02-12/03,ENGMC 304,Active
+231,CIVE,207,002,Laboratory,0.000,"Solid Mechanics.",T,12:35 PM-02:25 PM,42,0,0,0,"Charles Kyriakos Manatakos",09/02-12/04,TBA,Active
+234,CIVE,207,003,Tutorial,0.000,"Solid Mechanics.",F,04:35 PM-05:25 PM,180,0,0,0,"Yixin  Shao",09/02-12/04,ENGMC 304,Active
+12274,CIVE,207,004,Laboratory,0.000,"Solid Mechanics.",T,02:35 PM-04:25 PM,42,0,0,0,TBA,09/02-12/04,TBA,Active
+12275,CIVE,207,005,Laboratory,0.000,"Solid Mechanics.",TBA,TBA,24,0,0,0,TBA,09/02-12/04,TBA,Cancelled
+12276,CIVE,207,006,Laboratory,0.000,"Solid Mechanics.",W,12:35 PM-02:25 PM,42,0,0,0,TBA,09/02-12/04,ENGMD 51,Active
+12277,CIVE,207,007,Laboratory,0.000,"Solid Mechanics.",W,02:35 PM-04:25 PM,42,0,0,0,TBA,09/02-12/04,ENGMD 51,Active
+12285,CIVE,207,009,Laboratory,0.000,"Solid Mechanics.",TBA,TBA,20,0,0,0,TBA,09/02-12/04,TBA,Cancelled
+13917,CIVE,207,011,Laboratory,0.000,"Solid Mechanics.",TBA,TBA,24,0,0,0,TBA,09/02-12/04,TBA,Cancelled
+16434,CIVE,207,012,Laboratory,0.000,"Solid Mechanics.",R,02:35 PM-04:25 PM,42,0,0,0,TBA,09/02-12/03,TBA,Active
+16435,CIVE,207,013,Laboratory,0.000,"Solid Mechanics.",TBA,TBA,24,0,0,0,TBA,09/02-12/04,TBA,Cancelled
+18479,CIVE,207,014,Laboratory,0.000,"Solid Mechanics.",S,09:05 AM-10:55 AM,10,0,0,0,TBA,09/02-12/04,TBA,Active
+18481,CIVE,207,015,Laboratory,0.000,"Solid Mechanics.",TBA,TBA,0,0,0,0,TBA,09/02-12/04,TBA,Cancelled
+18487,CIVE,207,016,Laboratory,0.000,"Solid Mechanics.",TBA,TBA,0,0,0,0,TBA,09/02-12/04,TBA,Cancelled
+236,CIVE,208,001,Lecture,3.000,"Civil Engineering System Analysis.",MW,08:35 AM-09:55 AM,120,0,0,0,"Naveen  Eluru",09/02-12/04,ENGMC 13,Active
+,,,,,,,R,08:35 AM-09:55 AM,,,,,"Naveen  Eluru",12/04-12/04,ENGMC 13,Active
+238,CIVE,208,002,Tutorial,0.000,"Civil Engineering System Analysis.",F,08:35 AM-09:25 AM,120,0,0,0,TBA,09/02-12/04,RPHYS 112,Active
+242,CIVE,281,001,Lecture,3.000,"Analytical Mechanics.",MWF,08:35 AM-09:25 AM,205,0,0,0,"Sofia  Babarutsi, Vincent H  Chu",09/02-12/04,MAASS 112,Active
+,,,,,,,R,08:35 AM-09:25 AM,,,,,"Sofia  Babarutsi, Vincent H  Chu",12/04-12/04,MAASS 112,Active
+243,CIVE,281,002,Tutorial,0.000,"Analytical Mechanics.",M,04:35 PM-05:25 PM,73,0,0,0,TBA,09/02-12/04,ENGMD 279,Active
+,,,,,,,R,04:35 PM-05:25 PM,,,,,TBA,12/04-12/04,ENGMD 279,Active
+244,CIVE,281,003,Tutorial,0.000,"Analytical Mechanics.",M,01:35 PM-02:25 PM,70,0,0,0,TBA,09/02-12/04,ENGMD 276,Active
+,,,,,,,R,01:35 PM-02:25 PM,,,,,TBA,12/04-12/04,ENGMD 276,Active
+245,CIVE,281,004,Tutorial,0.000,"Analytical Mechanics.",F,04:35 PM-05:25 PM,67,0,0,0,TBA,09/02-12/04,ENGMD 276,Active
+246,CIVE,290,001,Lecture,3.000,"Thermodynamics and Heat Transfer.",M,08:35 AM-10:25 AM,120,0,0,0,"Jinxia  Liu",09/02-12/04,BURN 1B45,Active
+,,,,,,,T,02:35 PM-03:55 PM,,,,,"Jinxia  Liu",09/02-12/03,ENGMC 13,Active
+,,,,,,,R,08:35 AM-10:25 AM,,,,,"Jinxia  Liu",12/04-12/04,BURN 1B45,Active
+247,CIVE,290,002,Tutorial,0.000,"Thermodynamics and Heat Transfer.",R,02:35 PM-04:25 PM,81,0,0,0,"Jinxia  Liu",09/02-12/03,WILSON 103,Active
+3679,CIVE,290,004,Tutorial,0.000,"Thermodynamics and Heat Transfer.",R,08:35 AM-10:25 AM,60,0,0,0,"Jinxia  Liu",09/02-12/03,MDHAR G-10,Active
+248,CIVE,311,001,Lecture,4.000,"Geotechnical Mechanics.",TR,11:35 AM-12:55 PM,145,0,0,0,"Patrick A P S  Selvadurai",09/02-12/03,ENGMC 304,Active
+,,,,,,,F,01:35 PM-02:25 PM,,,,,"Patrick A P S  Selvadurai",09/02-12/04,SADB M-1,Active
+249,CIVE,311,002,Laboratory,0.000,"Geotechnical Mechanics.",M,01:35 PM-04:25 PM,142,0,0,0,"Patrick A P S  Selvadurai",09/02-12/04,TBA,Active
+,,,,,,,R,01:35 PM-04:25 PM,,,,,"Patrick A P S  Selvadurai",12/04-12/04,TBA,Active
+250,CIVE,311,003,Tutorial,0.000,"Geotechnical Mechanics.",F,03:35 PM-04:25 PM,142,0,0,0,TBA,09/02-12/04,ENGTR 0100,Active
+251,CIVE,317,001,Lecture,3.000,"Structural Engineering 1.",TR,08:35 AM-09:55 AM,120,0,0,0,TBA,09/02-12/03,ENGMC 13,Active
+252,CIVE,317,002,Tutorial,0.000,"Structural Engineering 1.",F,11:35 AM-12:55 PM,120,0,0,0,TBA,09/02-12/04,RPHYS 112,Active
+253,CIVE,320,001,Lecture,4.000,"Numerical Methods.",TR,02:35 PM-04:25 PM,125,0,0,0,"Dimitrios  Lignos",09/02-12/03,BURN 1B45,Active
+254,CIVE,320,002,Laboratory,0.000,"Numerical Methods.",F,11:35 AM-12:25 PM,125,0,0,0,"Dimitrios  Lignos",09/02-12/04,SADB 2/36,Active
+255,CIVE,320,003,Tutorial,0.000,"Numerical Methods.",W,11:35 AM-12:25 PM,125,0,0,0,"Dimitrios  Lignos",09/02-12/04,ENGMC 11,Active
+2123,CIVE,323,001,Lecture,3.000,"Hydrology and Water Resources.",MW,10:05 AM-11:25 AM,120,0,0,0,"Thomas Philip Gleeson",09/02-12/04,ENGMC 13,Active
+,,,,,,,R,10:05 AM-11:25 AM,,,,,"Thomas Philip Gleeson",12/04-12/04,ENGMC 13,Active
+2124,CIVE,323,003,Tutorial,0.000,"Hydrology and Water Resources.",F,08:35 AM-10:25 AM,120,0,0,0,"Thomas Philip Gleeson",09/02-12/04,ENGMC 13,Active
+257,CIVE,385,001,Lecture,3.000,"Structural Steel and Timber Design.",M,11:35 AM-01:25 PM,65,0,0,0,"Jan  Vrana",09/02-12/04,ENGMC 12,Active
+,,,,,,,W,11:35 AM-12:25 PM,,,,,"Jan  Vrana",09/02-12/04,ENGMC 12,Active
+,,,,,,,R,11:35 AM-01:25 PM,,,,,"Jan  Vrana",12/04-12/04,ENGMC 12,Active
+258,CIVE,385,002,Tutorial,0.000,"Structural Steel and Timber Design.",W,12:35 PM-01:25 PM,65,0,0,0,"Jan  Vrana",09/02-12/04,ENGMC 12,Active
+259,CIVE,418,001,Lecture,4.000,"Design Project.",F,02:35 PM-04:25 PM,50,0,0,0,"Jinxia  Liu, Dimitrios  Lignos",09/02-12/04,TBA,Active
+260,CIVE,428,001,Lecture,3.000,"Water Resources and Hydraulic Engineering.",MTR,08:35 AM-09:25 AM,35,0,0,0,TBA,09/02-12/04,WONG 1030,Active
+263,CIVE,428,002,Laboratory,0.000,"Water Resources and Hydraulic Engineering.",T,01:05 PM-02:25 PM,30,0,0,0,TBA,09/02-12/04,ENGMD 51,Active
+264,CIVE,428,003,Tutorial,0.000,"Water Resources and Hydraulic Engineering.",W,01:05 PM-02:25 PM,30,0,0,0,TBA,09/02-12/04,ENGMD 276,Active
+267,CIVE,430,001,Lecture,3.000,"Water Treatment and Pollution Control.",W,02:35 PM-05:25 PM,30,0,0,0,"Ronald  Gehr",09/02-12/04,MDHAR G-01,Active
+268,CIVE,430,002,Laboratory,0.000,"Water Treatment and Pollution Control.",M,11:35 AM-01:25 PM,30,0,0,0,"Ronald  Gehr",09/02-12/04,TBA,Active
+,,,,,,,R,11:35 AM-01:25 PM,,,,,"Ronald  Gehr",12/04-12/04,TBA,Active
+269,CIVE,430,003,Tutorial,0.000,"Water Treatment and Pollution Control.",M,11:35 AM-01:25 PM,30,0,0,0,"Ronald  Gehr",09/02-12/04,MDHAR G-01,Active
+,,,,,,,R,11:35 AM-01:25 PM,,,,,"Ronald  Gehr",12/04-12/04,MDHAR G-01,Active
+270,CIVE,432,001,Paper,1.000,"Technical Paper.",,TBA,70,0,0,0,"Ronald  Gehr",09/02-12/04,TBA,Active
+13872,CIVE,440,001,Lecture,3.000,"Traffic Engineering and Simulation.",TR,11:35 AM-12:55 PM,33,0,0,0,"Naveen  Eluru",09/02-12/03,WONG 1030,Active
+272,CIVE,446,001,Lecture,3.000,"Construction Engineering.",F,08:35 AM-11:25 AM,70,0,0,0,"William E  Taylor",09/02-12/04,ENGTR 1100,Active
+17991,CIVE,451,003,Lecture,3.000,"Geoenvironmental Engineering.",TBA,TBA,25,0,0,0,TBA,09/02-12/04,TBA,Cancelled
+17992,CIVE,451,004,Tutorial,0.000,"Geoenvironmental Engineering.",TBA,TBA,25,0,0,0,TBA,09/02-12/04,TBA,Cancelled
+3107,CIVE,452,001,Field Course (DEPT),3.000,"Water Resources in Barbados.",,TBA,35,0,0,0,"Ronald  Gehr",09/02-12/04,TBA,Active
+277,CIVE,460,001,Lecture,3.000,"Matrix Structural Analysis.",MW,08:35 AM-09:55 AM,35,0,0,0,"Suresh C  Shrivastava",09/02-12/04,WONG 1050,Active
+,,,,,,,R,08:35 AM-09:55 AM,,,,,"Suresh C  Shrivastava",12/04-12/04,WONG 1050,Active
+278,CIVE,460,002,Tutorial,0.000,"Matrix Structural Analysis.",W,10:35 AM-11:25 AM,35,0,0,0,TBA,09/02-12/04,ENGMC 12,Active
+2210,CIVE,462,001,Lecture,3.000,"Design of Steel Structures.",TR,10:05 AM-11:25 AM,100,0,0,0,"Colin Andrew  Rogers",09/02-09/19,ENGMC 11,Active
+,,,,,,,TR,10:05 AM-11:25 AM,,,,,"Colin Andrew  Rogers",09/22-12/03,ENGMC 13,Active
+2259,CIVE,462,002,Tutorial,0.000,"Design of Steel Structures.",T,01:05 PM-02:25 PM,85,0,0,0,TBA,09/02-12/04,RPHYS 118,Active
+8869,CIVE,462,003,Optional Tutorial,0.000,"Design of Steel Structures.",,TBA,58,0,0,0,TBA,09/02-12/04,TBA,Registration Not Required
+279,CIVE,470,001,Project,3.000,"Undergraduate Research Project.",,TBA,10,0,0,0,TBA,09/02-12/04,TBA,Active
+280,CIVE,492,001,Lecture,2.000,"Structures.",M,08:35 AM-10:25 AM,60,0,0,0,"Thomas  Egli",09/02-12/04,ENGMC 12,Active
+,,,,,,,R,08:35 AM-10:25 AM,,,,,"Thomas  Egli",12/04-12/04,ENGMC 12,Active
+3121,CIVE,492,002,Tutorial,0.000,"Structures.",W,08:35 AM-10:25 AM,60,0,0,0,"Thomas  Egli",09/02-12/04,ENGMC 12,Active
+17772,CIVE,514,001,Lecture,3.000,"Structural Mechanics.",TBA,TBA,25,0,0,0,TBA,09/02-12/04,TBA,Cancelled
+3109,CIVE,519,001,Field Course (DEPT),6.000,"Sustainable Development Plans.",,TBA,35,0,0,0,"Inteaz  Alli",09/02-12/04,TBA,Active
+17773,CIVE,520,001,Lecture,3.000,"Groundwater Hydrology.",T,02:35 PM-05:25 PM,20,0,0,0,"Thomas Philip Gleeson",09/02-12/04,ENGMC 12,Cancelled
+19204,CIVE,521,001,Lecture,3.000,"Nanomaterials and the Aquatic Environment.",TR,02:35 PM-03:55 PM,20,0,0,0,"Subhasis  Ghoshal",09/02-12/03,MDHAR G-01,Active
+2260,CIVE,527,001,Lecture,3.000,"Renovation and Preservation: Infrastructure.",TBA,TBA,70,0,0,0,TBA,09/02-12/04,TBA,Cancelled
+2261,CIVE,527,002,Tutorial,0.000,"Renovation and Preservation: Infrastructure.",TBA,TBA,59,0,0,0,TBA,09/02-12/04,TBA,Cancelled
+17841,CIVE,540,004,Lecture,3.000,"Urban Transportation Planning.",TBA,TBA,0,0,0,0,TBA,09/02-12/04,TBA,Cancelled
+8251,CIVE,546,001,Lecture,3.000,"Selected Topics in Civil Engineering 1.",TBA,TBA,25,0,0,0,TBA,09/02-12/04,TBA,Cancelled
+17780,CIVE,551,001,Lecture,3.000,"Environmental Transport Processes.",TBA,TBA,0,0,0,0,TBA,09/02-12/04,TBA,Cancelled
+19303,CIVE,557,001,Lecture,3.000,"Microbiology for Environmental Engineering.",TR,01:05 PM-02:25 PM,20,0,0,0,"Dominic  Frigon",09/02-12/03,ENGMC 12,Active
+14597,CIVE,560,001,Lecture,3.000,"Transportation Safety and Design.",,TBA,25,0,0,0,"Luis F. Miranda-Moreno",09/02-12/04,TBA,Cancelled
+14598,CIVE,560,002,Tutorial,0.000,"Transportation Safety and Design.",,TBA,25,0,0,0,TBA,09/02-12/04,TBA,Cancelled
+15842,CIVE,561,001,Lecture,3.000,"Urban Activity, Air Pollution, and Health.",TR,10:05 AM-11:25 AM,40,0,0,0,TBA,09/02-12/03,ENGMD 276,Active
+5072,CIVE,572,001,Lecture,3.000,"Computational Hydraulics.",R,05:35 PM-08:25 PM,40,0,0,0,"Vincent H  Chu",09/02-12/03,ENGMC 12,Active
+282,CIVE,573,001,Lecture,3.000,"Hydraulic Structures.",T,05:35 PM-08:25 PM,25,0,0,0,"Marc  Villeneuve",09/02-12/04,ENGMC 12,Active
+6420,CIVE,577,001,Lecture,3.000,"River Engineering.",TBA,TBA,0,0,0,0,TBA,09/02-12/04,TBA,Cancelled
+Computer Science (Sci)
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+2335,COMP,208,001,Lecture,3.000,"Computers in Engineering.",MW,01:05 PM-02:25 PM,98,0,0,0,"Nathan  Friedman",09/02-12/04,ENGMC 304,Active
+,,,,,,,R,01:05 PM-02:25 PM,,,,,"Nathan  Friedman",12/04-12/04,ENGMC 304,Active
+3241,COMP,208,002,Lecture,3.000,"Computers in Engineering.",MW,04:05 PM-05:25 PM,120,0,0,0,"Nathan  Friedman",09/02-12/04,MAASS 10,Active
+,,,,,,,R,04:05 PM-05:25 PM,,,,,"Nathan  Friedman",12/04-12/04,MAASS 10,Active
+6439,COMP,208,003,Lecture,3.000,"Computers in Engineering.",TR,10:05 AM-11:25 AM,145,0,0,0,TBA,09/02-12/03,ENGTR 0100,Active
+Electrical Engineering
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+481,ECSE,200,001,Lecture,3.000,"Electric Circuits 1.",MWF,11:35 AM-12:25 PM,255,0,0,0,"Thomas  Szkopek",09/02-12/04,SADB M-1,Active
+,,,,,,,F,02:35 PM-03:25 PM,,,,,"Thomas  Szkopek",09/02-12/04,SADB M-1,Active
+,,,,,,,R,11:35 AM-12:25 PM,,,,,"Thomas  Szkopek",12/04-12/04,SADB M-1,Active
+483,ECSE,200,003,Tutorial,0.000,"Electric Circuits 1.",R,10:35 AM-11:25 AM,127,0,0,0,TBA,09/02-12/03,ENGMC 304,Active
+2263,ECSE,200,004,Tutorial,0.000,"Electric Circuits 1.",M,03:35 PM-04:25 PM,128,0,0,0,TBA,09/02-12/04,MDHAR G-10,Active
+,,,,,,,R,03:35 PM-04:25 PM,,,,,TBA,12/04-12/04,MDHAR G-10,Active
+484,ECSE,210,001,Lecture,3.000,"Electric Circuits 2.",MWF,10:35 AM-11:25 AM,60,0,0,0,"Martin D  Levine",09/02-12/04,ENGMC 11,Active
+,,,,,,,W,12:35 PM-01:25 PM,,,,,"Martin D  Levine",09/02-12/04,ENGMC 11,Active
+,,,,,,,R,10:35 AM-11:25 AM,,,,,"Martin D  Levine",12/04-12/04,ENGMC 11,Active
+2994,ECSE,210,002,Lecture,3.000,"Electric Circuits 2.",MWF,10:35 AM-11:25 AM,29,0,0,0,"Martin D  Levine",09/02-12/04,ENGMC 11,Active
+,,,,,,,W,12:35 PM-01:25 PM,,,,,"Martin D  Levine",09/02-12/04,ENGMC 11,Active
+,,,,,,,R,10:35 AM-11:25 AM,,,,,"Martin D  Levine",12/04-12/04,ENGMC 11,Active
+485,ECSE,210,003,Tutorial,0.000,"Electric Circuits 2.",T,01:35 PM-03:25 PM,45,0,0,0,TBA,09/02-12/04,ENGTR 2100,Active
+4948,ECSE,210,004,Tutorial,0.000,"Electric Circuits 2.",W,03:35 PM-05:25 PM,44,0,0,0,TBA,09/02-12/04,ENGTR 2120,Active
+6462,ECSE,211,001,Lecture,3.000,"Design Principles and Methods.",MWF,08:35 AM-09:25 AM,125,0,0,0,"Dennis Dionysios Giannacopoulos, David Alister  Lowther",09/02-12/04,ENGTR 0100,Active
+,,,,,,,R,08:35 AM-09:25 AM,,,,,"Dennis Dionysios Giannacopoulos, David Alister  Lowther",12/04-12/04,ENGTR 0100,Active
+6463,ECSE,211,002,Laboratory,0.000,"Design Principles and Methods.",,TBA,125,0,0,0,"Dennis Dionysios Giannacopoulos, David Alister  Lowther",09/02-12/04,ENGTR 0110,Active
+486,ECSE,221,001,Lecture,3.000,"Introduction to Computer Engineering.",MTR,01:35 PM-02:25 PM,94,0,0,0,"Haibo  Zeng",09/02-12/04,ENGMD 280,Active
+487,ECSE,221,002,Tutorial,0.000,"Introduction to Computer Engineering.",R,02:35 PM-04:25 PM,47,0,0,0,TBA,09/02-12/03,ENGTR 2110,Active
+2963,ECSE,221,003,Tutorial,0.000,"Introduction to Computer Engineering.",M,11:35 AM-01:25 PM,47,0,0,0,TBA,09/02-12/04,ENGTR 2110,Active
+,,,,,,,R,11:35 AM-01:25 PM,,,,,TBA,12/04-12/04,ENGTR 2110,Active
+488,ECSE,291,001,Lecture,2.000,"Electrical Measurements Laboratory.",M,01:35 PM-03:25 PM,106,0,0,0,"Zetian  Mi",09/02-12/04,ENGMC 13,Active
+,,,,,,,R,01:35 PM-03:25 PM,,,,,"Zetian  Mi",12/04-12/04,ENGMC 13,Active
+489,ECSE,291,002,Laboratory,0.000,"Electrical Measurements Laboratory.",T,01:35 PM-05:25 PM,26,0,0,0,TBA,09/02-12/04,ENGTR 5120,Active
+3981,ECSE,291,003,Laboratory,0.000,"Electrical Measurements Laboratory.",F,01:35 PM-05:25 PM,28,0,0,0,TBA,09/02-12/04,ENGTR 5120,Active
+3982,ECSE,291,004,Laboratory,0.000,"Electrical Measurements Laboratory.",R,01:35 PM-05:25 PM,28,0,0,0,TBA,09/02-12/03,ENGTR 5120,Active
+18134,ECSE,291,005,Laboratory,0.000,"Electrical Measurements Laboratory.",W,01:35 PM-05:25 PM,32,0,0,0,TBA,09/02-12/04,ENGTR 5120,Active
+2964,ECSE,303,001,Lecture,3.000,"Signals and Systems 1.",MTR,12:35 PM-01:25 PM,106,0,0,0,"Aditya  Mahajan",09/02-12/04,ENGMD 280,Active
+490,ECSE,303,002,Tutorial,0.000,"Signals and Systems 1.",R,01:35 PM-03:25 PM,53,0,0,0,TBA,09/02-12/03,ENGTR 2100,Active
+492,ECSE,303,004,Tutorial,0.000,"Signals and Systems 1.",W,11:35 AM-01:25 PM,53,0,0,0,TBA,09/02-12/04,ENGTR 2110,Active
+493,ECSE,304,001,Lecture,3.000,"Signals and Systems 2.",WF,08:35 AM-09:55 AM,68,0,0,0,"Ioannis  Psaromiligkos",09/02-12/04,ENGTR 1090,Active
+495,ECSE,304,003,Tutorial,0.000,"Signals and Systems 2.",M,10:35 AM-12:25 PM,34,0,0,0,TBA,09/02-12/04,ENGTR 0060,Active
+,,,,,,,R,10:35 AM-12:25 PM,,,,,TBA,12/04-12/04,ENGTR 0060,Active
+5073,ECSE,304,004,Tutorial,0.000,"Signals and Systems 2.",M,03:35 PM-05:25 PM,34,0,0,0,TBA,09/02-12/04,ENGTR 2120,Active
+,,,,,,,R,03:35 PM-05:25 PM,,,,,TBA,12/04-12/04,ENGTR 2120,Active
+496,ECSE,305,001,Lecture,3.000,"Probability and Random Signals 1.",MWF,12:35 PM-01:25 PM,105,0,0,0,"Wissam  Musallam",09/02-12/04,ENGMC 13,Active
+,,,,,,,R,12:35 PM-01:25 PM,,,,,"Wissam  Musallam",12/04-12/04,ENGMC 13,Active
+497,ECSE,305,003,Tutorial,0.000,"Probability and Random Signals 1.",W,10:35 AM-12:25 PM,53,0,0,0,TBA,09/02-12/04,ENGTR 0060,Active
+498,ECSE,305,004,Tutorial,0.000,"Probability and Random Signals 1.",F,03:35 PM-05:25 PM,53,0,0,0,TBA,09/02-12/04,ENGTR 0070,Active
+6468,ECSE,306,001,Lecture,3.000,"Fundamentals of Signals and Systems.",TR,11:35 AM-12:55 PM,57,0,0,0,"Tho  Le-Ngoc",09/02-12/03,ENGTR 0060,Active
+6470,ECSE,306,003,Tutorial,0.000,"Fundamentals of Signals and Systems.",F,03:35 PM-05:25 PM,57,0,0,0,TBA,09/02-12/04,ENGTR 2120,Active
+499,ECSE,321,001,Lecture,3.000,"Introduction to Software Engineering.",TR,10:05 AM-11:25 AM,70,0,0,0,"Aditya  Mahajan",09/02-12/03,ENGTR 1100,Active
+500,ECSE,321,002,Tutorial,0.000,"Introduction to Software Engineering.",M,02:35 PM-04:25 PM,35,0,0,0,TBA,09/02-12/04,ENGTR 2110,Active
+,,,,,,,R,02:35 PM-04:25 PM,,,,,TBA,12/04-12/04,ENGTR 2110,Active
+501,ECSE,321,003,Tutorial,0.000,"Introduction to Software Engineering.",R,11:35 AM-01:25 PM,35,0,0,0,TBA,09/02-12/03,ENGTR 0070,Active
+2246,ECSE,322,001,Lecture,3.000,"Computer Engineering.",MWF,09:35 AM-10:25 AM,156,0,0,0,"David Alister  Lowther",09/02-12/04,ENGMC 304,Active
+,,,,,,,R,09:35 AM-10:25 AM,,,,,"David Alister  Lowther",12/04-12/04,ENGMC 304,Active
+2247,ECSE,322,002,Tutorial,0.000,"Computer Engineering.",T,01:35 PM-03:25 PM,78,0,0,0,TBA,09/02-12/04,ENGTR 1100,Active
+2248,ECSE,322,003,Tutorial,0.000,"Computer Engineering.",M,03:35 PM-05:25 PM,78,0,0,0,TBA,09/02-12/04,ENGTR 1100,Active
+,,,,,,,R,03:35 PM-05:25 PM,,,,,TBA,12/04-12/04,ENGTR 1100,Active
+502,ECSE,323,001,Lecture,5.000,"Digital System Design.",TR,01:05 PM-02:25 PM,115,0,0,0,"Warren Jeffrey Gross, James J  Clark",09/02-09/29,SADB 2/36,Active
+,,,,,,,T,01:05 PM-02:25 PM,,,,,"Warren Jeffrey Gross, James J  Clark",09/30-09/30,MCMED 521,Active
+,,,,,,,TR,01:05 PM-02:25 PM,,,,,"Warren Jeffrey Gross, James J  Clark",10/01-12/03,SADB 2/36,Active
+,,,,,,,T,01:05 PM-02:25 PM,,,,,"Warren Jeffrey Gross, James J  Clark",12/02-12/02,MCMED 521,Active
+503,ECSE,323,002,Laboratory,0.000,"Digital System Design.",M,01:35 PM-03:25 PM,32,0,0,0,TBA,09/02-12/04,ENGTR 4060,Active
+,,,,,,,R,01:35 PM-03:25 PM,,,,,TBA,12/04-12/04,ENGTR 4060,Active
+504,ECSE,323,003,Tutorial,0.000,"Digital System Design.",T,03:35 PM-05:25 PM,58,0,0,0,TBA,09/02-12/04,ENGTR 2110,Active
+11961,ECSE,323,004,Laboratory,0.000,"Digital System Design.",W,01:35 PM-03:25 PM,32,0,0,0,TBA,09/02-12/04,ENGTR 4060,Active
+5075,ECSE,323,005,Tutorial,0.000,"Digital System Design.",F,01:35 PM-03:25 PM,57,0,0,0,TBA,09/02-12/04,ENGTR 1080,Active
+11962,ECSE,323,006,Laboratory,0.000,"Digital System Design.",R,03:35 PM-05:25 PM,32,0,0,0,TBA,09/02-12/03,ENGTR 4060,Active
+5218,ECSE,323,007,Laboratory,0.000,"Digital System Design.",T,03:35 PM-05:25 PM,32,0,0,0,TBA,09/02-12/04,ENGTR 4060,Active
+11963,ECSE,323,008,Laboratory,0.000,"Digital System Design.",F,01:35 PM-03:25 PM,32,0,0,0,TBA,09/02-12/04,ENGTR 4060,Active
+11964,ECSE,323,009,Laboratory,0.000,"Digital System Design.",M,03:35 PM-05:25 PM,32,0,0,0,TBA,09/02-12/04,ENGTR 4060,Active
+,,,,,,,R,03:35 PM-05:25 PM,,,,,TBA,12/04-12/04,ENGTR 4060,Active
+11965,ECSE,323,010,Laboratory,0.000,"Digital System Design.",W,03:35 PM-05:25 PM,32,0,0,0,TBA,09/02-12/04,ENGTR 4060,Active
+11966,ECSE,323,011,Laboratory,0.000,"Digital System Design.",F,03:35 PM-05:25 PM,32,0,0,0,TBA,09/02-12/04,ENGTR 4060,Active
+506,ECSE,330,001,Lecture,3.000,"Introduction to Electronics.",TR,10:05 AM-11:25 AM,118,0,0,0,"Roni  Khazaka",09/02-12/03,SADB 2/36,Active
+,,,,,,,T,10:05 AM-11:25 AM,,,,,"Roni  Khazaka",09/30-09/30,SADB M-1,Active
+,,,,,,,T,10:05 AM-11:25 AM,,,,,"Roni  Khazaka",12/02-12/02,MCMED 504,Active
+507,ECSE,330,002,Tutorial,0.000,"Introduction to Electronics.",F,01:35 PM-03:25 PM,40,0,0,0,TBA,09/02-12/04,ENGTR 0060,Active
+509,ECSE,330,004,Tutorial,0.000,"Introduction to Electronics.",F,11:35 AM-01:25 PM,39,0,0,0,TBA,09/02-12/04,ENGTR 0060,Active
+10686,ECSE,330,005,Tutorial,0.000,"Introduction to Electronics.",T,02:35 PM-04:25 PM,39,0,0,0,TBA,09/02-12/04,ENGTR 0060,Active
+510,ECSE,334,001,Lecture,3.000,"Introduction to Microelectronics.",TR,08:35 AM-09:55 AM,74,0,0,0,"Mourad N  El-Gamal",09/02-12/03,ENGTR 1100,Active
+511,ECSE,334,003,Tutorial,0.000,"Introduction to Microelectronics.",M,10:35 AM-12:25 PM,25,0,0,0,TBA,09/02-12/04,WONG 1050,Active
+,,,,,,,R,10:35 AM-12:25 PM,,,,,TBA,12/04-12/04,WONG 1050,Active
+512,ECSE,334,004,Tutorial,0.000,"Introduction to Microelectronics.",R,03:35 PM-05:25 PM,25,0,0,0,TBA,09/02-12/03,ENGTR 0060,Active
+2975,ECSE,334,005,Tutorial,0.000,"Introduction to Microelectronics.",T,10:35 AM-12:25 PM,24,0,0,0,TBA,09/02-12/04,ENGTR 0070,Active
+513,ECSE,351,001,Lecture,3.000,"Electromagnetic Fields.",TRF,12:35 PM-01:25 PM,88,0,0,0,"Martin  Rochette",09/02-12/03,ENGMC 11,Active
+514,ECSE,351,002,Tutorial,0.000,"Electromagnetic Fields.",T,10:05 AM-11:25 AM,30,0,0,0,TBA,09/02-12/04,ENGTR 0060,Active
+2810,ECSE,351,003,Tutorial,0.000,"Electromagnetic Fields.",R,02:35 PM-03:25 PM,30,0,0,0,TBA,09/02-12/03,ENGTR 0070,Active
+2811,ECSE,351,004,Tutorial,0.000,"Electromagnetic Fields.",R,10:05 AM-11:25 AM,28,0,0,0,TBA,09/02-12/03,ENGTR 0060,Active
+515,ECSE,352,001,Lecture,3.000,"Electromagnetic Waves.",TRF,11:35 AM-12:25 PM,170,0,0,0,"Milica  Popovich",09/02-12/03,MDHAR G-10,Active
+516,ECSE,352,002,Tutorial,0.000,"Electromagnetic Waves.",W,02:35 PM-04:25 PM,57,0,0,0,TBA,09/02-12/04,ENGTR 2110,Active
+517,ECSE,352,003,Tutorial,0.000,"Electromagnetic Waves.",M,02:35 PM-04:25 PM,57,0,0,0,TBA,09/02-12/04,ENGTR 0070,Active
+,,,,,,,R,02:35 PM-04:25 PM,,,,,TBA,12/04-12/04,ENGTR 0070,Active
+5077,ECSE,352,004,Tutorial,0.000,"Electromagnetic Waves.",T,03:35 PM-05:25 PM,56,0,0,0,TBA,09/02-12/04,ENGTR 2120,Active
+518,ECSE,353,001,Lecture,3.000,"Electromagnetic Fields and Waves.",TRF,01:35 PM-02:25 PM,59,0,0,0,"Jonathan P  Webb",09/02-12/03,ENGTR 0070,Active
+519,ECSE,353,002,Tutorial,0.000,"Electromagnetic Fields and Waves.",R,03:35 PM-05:25 PM,59,0,0,0,TBA,09/02-12/03,ENGTR 0070,Active
+521,ECSE,361,001,Lecture,3.000,"Power Engineering.",TRF,12:35 PM-01:25 PM,58,0,0,0,"François  Bouffard",09/02-12/03,ENGTR 2110,Active
+5078,ECSE,361,002,Tutorial,0.000,"Power Engineering.",M,11:35 AM-01:25 PM,29,0,0,0,TBA,09/02-12/04,ENGTR 2100,Active
+,,,,,,,R,11:35 AM-01:25 PM,,,,,TBA,12/04-12/04,ENGTR 2100,Active
+522,ECSE,361,003,Tutorial,0.000,"Power Engineering.",T,02:35 PM-04:25 PM,29,0,0,0,TBA,09/02-12/04,ENGTR 0070,Active
+523,ECSE,404,001,Lecture,3.000,"Control Systems.",TR,08:35 AM-09:55 AM,105,0,0,0,"Hannah  Michalska",09/02-12/03,SADB 2/36,Active
+,,,,,,,T,08:35 AM-09:55 AM,,,,,"Hannah  Michalska",09/30-09/30,SADB M-1,Active
+,,,,,,,T,08:35 AM-09:55 AM,,,,,"Hannah  Michalska",12/02-12/02,MCMED 504,Active
+14599,ECSE,404,002,Tutorial,0.000,"Control Systems.",F,01:35 PM-02:25 PM,105,0,0,0,TBA,09/02-12/04,ENGMC 13,Active
+524,ECSE,411,001,Lecture,3.000,"Communications Systems 1.",WF,01:05 PM-02:25 PM,25,0,0,0,"Jan  Bajcsy",09/02-12/04,ENGTR 2100,Active
+525,ECSE,411,002,Tutorial,0.000,"Communications Systems 1.",W,10:35 AM-11:25 AM,13,0,0,0,TBA,09/02-12/04,ENGTR 0070,Active
+526,ECSE,411,003,Tutorial,0.000,"Communications Systems 1.",F,10:05 AM-11:25 AM,12,0,0,0,TBA,09/02-12/04,ENGTR 2100,Active
+18689,ECSE,412,001,Lecture,3.000,"Discrete Time Signal Processing.",MW,11:35 AM-12:55 PM,25,0,0,0,"Benoit  Champagne",09/02-12/04,ENGTR 2120,Active
+,,,,,,,R,11:35 AM-12:55 PM,,,,,"Benoit  Champagne",12/04-12/04,ENGTR 2120,Active
+18690,ECSE,412,002,Tutorial,3.000,"Discrete Time Signal Processing.",F,02:35 PM-04:25 PM,25,0,0,0,TBA,09/02-12/04,ENGTR 2100,Active
+527,ECSE,414,001,Lecture,3.000,"Introduction to Telecommunication Networks.",MW,02:35 PM-03:55 PM,133,0,0,0,"Michael G Rabbat",09/02-12/04,BURN 1B45,Active
+,,,,,,,R,02:35 PM-03:55 PM,,,,,"Michael G Rabbat",12/04-12/04,BURN 1B45,Active
+14600,ECSE,414,002,Tutorial,0.000,"Introduction to Telecommunication Networks.",T,11:35 AM-12:25 PM,133,0,0,0,TBA,09/02-12/04,ENGMC 204,Active
+4296,ECSE,420,001,Lecture,3.000,"Parallel Computing.",MW,01:05 PM-02:25 PM,54,0,0,0,"Zeljko  Zilic",09/02-12/04,ENGTR 0060,Active
+,,,,,,,R,01:05 PM-02:25 PM,,,,,"Zeljko  Zilic",12/04-12/04,ENGTR 0060,Active
+5633,ECSE,420,002,Laboratory,0.000,"Parallel Computing.",M,03:35 PM-05:25 PM,27,0,0,0,TBA,09/02-12/04,ENGTR 5130,Active
+,,,,,,,R,03:35 PM-05:25 PM,,,,,TBA,12/04-12/04,ENGTR 5130,Active
+5634,ECSE,420,003,Laboratory,0.000,"Parallel Computing.",W,03:35 PM-05:25 PM,27,0,0,0,TBA,09/02-12/04,ENGTR 5130,Active
+19257,ECSE,423,001,Lecture,3.000,"Fundamentals of Photonics.",TRF,10:35 AM-11:25 AM,25,0,0,0,"Martin  Rochette",09/02-12/03,ENGTR 2120,Temporarily closed
+19258,ECSE,423,002,Tutorial,0.000,"Fundamentals of Photonics.",M,09:35 AM-11:25 AM,25,0,0,0,TBA,09/02-12/04,ENGTR 0070,Temporarily closed
+,,,,,,,R,09:35 AM-11:25 AM,,,,,TBA,12/04-12/04,ENGTR 0070,Temporarily closed
+18868,ECSE,424,001,Lecture,3.000,"Human-Computer Interaction.",TR,11:35 AM-12:55 PM,42,0,0,0,"Jeremy  Cooperstock",09/02-12/03,ENGTR 2100,Active
+530,ECSE,426,001,Lecture,3.000,"Microprocessor Systems.",F,10:05 AM-11:25 AM,45,0,0,0,"Mark John Coates",09/02-12/04,ENGTR 0060,Active
+531,ECSE,426,002,Laboratory,0.000,"Microprocessor Systems.",T,01:35 PM-05:25 PM,28,0,0,0,TBA,09/02-12/04,ENGTR 4160,Active
+5219,ECSE,426,003,Laboratory,0.000,"Microprocessor Systems.",F,01:35 PM-05:25 PM,28,0,0,0,TBA,09/02-12/04,ENGTR 4160,Active
+11940,ECSE,426,004,Laboratory,0.000,"Microprocessor Systems.",R,01:35 PM-05:25 PM,28,0,0,0,TBA,09/02-12/03,ENGTR 4160,Active
+11941,ECSE,426,005,Laboratory,0.000,"Microprocessor Systems.",M,01:35 PM-05:25 PM,28,0,0,0,TBA,09/02-12/04,ENGTR 4160,Active
+,,,,,,,R,01:35 PM-05:25 PM,,,,,TBA,12/04-12/04,ENGTR 4160,Active
+11942,ECSE,426,006,Tutorial,0.000,"Microprocessor Systems.",M,10:05 AM-11:25 AM,45,0,0,0,TBA,09/02-12/04,ENGTR 2110,Active
+,,,,,,,R,10:05 AM-11:25 AM,,,,,TBA,12/04-12/04,ENGTR 2110,Active
+3065,ECSE,427,001,Lecture,3.000,"Operating Systems.",TR,08:35 AM-09:55 AM,70,0,0,0,TBA,09/02-12/03,ENGTR 0100,Active
+3717,ECSE,427,002,Tutorial,0.000,"Operating Systems.",T,12:35 PM-01:25 PM,70,0,0,0,TBA,09/02-12/04,ENGTR 1100,Active
+3398,ECSE,429,001,Lecture,3.000,"Software Validation.",WF,08:35 AM-09:55 AM,69,0,0,0,"Gunter  Mussbacher",09/02-12/04,ENGTR 1080,Active
+12187,ECSE,429,003,Tutorial,0.000,"Software Validation.",W,04:05 PM-05:55 PM,69,0,0,0,TBA,09/02-12/04,ENGTR 1100,Active
+5381,ECSE,434,001,Lecture,2.000,"Microelectronics Laboratory.",R,01:35 PM-03:25 PM,77,0,0,0,"Mourad N  El-Gamal",09/02-12/03,ENGTR 1100,Active
+5386,ECSE,434,002,Laboratory,0.000,"Microelectronics Laboratory.",F,01:35 PM-05:25 PM,31,0,0,0,TBA,09/02-12/04,ENGTR 5070,Active
+5397,ECSE,434,003,Laboratory,0.000,"Microelectronics Laboratory.",W,01:35 PM-05:25 PM,31,0,0,0,TBA,09/02-12/04,ENGTR 5070,Active
+5399,ECSE,434,005,Laboratory,0.000,"Microelectronics Laboratory.",T,01:35 PM-05:25 PM,31,0,0,0,TBA,09/02-12/04,ENGTR 5070,Active
+18696,ECSE,436,001,Lecture,3.000,"Signal Processing Hardware.",WF,10:05 AM-11:25 AM,25,0,0,0,"Jan  Bajcsy",09/02-12/04,ENGTR 2110,Active
+18697,ECSE,436,002,Laboratory,0.000,"Signal Processing Hardware.",R,01:35 PM-04:55 PM,10,0,0,0,TBA,09/02-12/03,ENGTR 5130,Active
+18698,ECSE,436,003,Laboratory,0.000,"Signal Processing Hardware.",T,01:35 PM-04:55 PM,10,0,0,0,TBA,09/02-12/04,ENGTR 5130,Active
+18699,ECSE,436,004,Laboratory,0.000,"Signal Processing Hardware.",M,11:35 AM-12:25 PM,10,0,0,0,TBA,09/02-12/04,ENGTR 5130,Active
+,,,,,,,R,11:35 AM-12:25 PM,,,,,TBA,12/04-12/04,ENGTR 5130,Active
+18700,ECSE,436,005,Laboratory,0.000,"Signal Processing Hardware.",M,01:05 PM-02:25 PM,10,0,0,0,TBA,09/02-12/04,ENGTR 5130,Active
+,,,,,,,R,01:05 PM-02:25 PM,,,,,TBA,12/04-12/04,ENGTR 5130,Active
+18870,ECSE,450,001,Lecture,3.000,"Electromagnetic Compatibility.",M,08:35 AM-09:55 AM,25,0,0,0,"Steve J  McFee",09/02-12/04,ENGTR 0060,Active
+,,,,,,,R,08:35 AM-09:55 AM,,,,,"Steve J  McFee",12/04-12/04,ENGTR 0060,Active
+18871,ECSE,450,002,Tutorial,0.000,"Electromagnetic Compatibility.",F,02:35 PM-03:55 PM,25,0,0,0,TBA,09/02-12/04,ENGTR 2110,Active
+15340,ECSE,456,001,Project,3.000,"ECSE Design Project 1.",,TBA,120,0,0,0,"Michael G Rabbat, Fabrice  Labeau",09/02-12/04,TBA,Active
+15341,ECSE,457,001,Project,3.000,"ECSE Design Project 2.",,TBA,40,0,0,0,"Michael G Rabbat, Fabrice  Labeau",09/02-12/04,TBA,Active
+533,ECSE,461,001,Lecture,3.000,"Electric Machinery.",WF,08:35 AM-09:55 AM,125,0,0,0,TBA,09/02-12/04,BURN 1B45,Active
+534,ECSE,461,002,Tutorial,0.000,"Electric Machinery.",M,02:35 PM-03:25 PM,63,0,0,0,TBA,09/02-12/04,ENGTR 1090,Active
+,,,,,,,R,02:35 PM-03:25 PM,,,,,TBA,12/04-12/04,ENGTR 1090,Active
+5079,ECSE,461,003,Tutorial,0.000,"Electric Machinery.",M,03:35 PM-04:25 PM,62,0,0,0,TBA,09/02-12/04,ENGTR 1090,Active
+,,,,,,,R,03:35 PM-04:25 PM,,,,,TBA,12/04-12/04,ENGTR 1090,Active
+2724,ECSE,462,001,Lecture,3.000,"Electromechanical Energy Conversion.",MW,10:05 AM-11:25 AM,25,0,0,0,"Geza  Joos",09/02-12/04,ENGTR 2120,Active
+,,,,,,,R,10:05 AM-11:25 AM,,,,,"Geza  Joos",12/04-12/04,ENGTR 2120,Active
+3168,ECSE,464,001,Lecture,3.000,"Power Systems Analysis.",W,09:30 AM-12:20 PM,15,0,0,0,"Geza  Joos, François  Bouffard",09/02-12/04,POLY ,Active
+3069,ECSE,465,001,Lecture,3.000,"Power Electronic Systems.",M,09:30 AM-12:20 PM,10,0,0,0,"Geza  Joos",09/02-12/04,POLY ,Active
+,,,,,,,R,09:30 AM-12:20 PM,,,,,"Geza  Joos",12/04-12/04,POLY ,Active
+5457,ECSE,465,002,Lecture,3.000,"Power Electronic Systems.",M,09:30 AM-12:20 PM,5,0,0,0,"Geza  Joos",09/02-12/04,POLY ,Active
+,,,,,,,R,09:30 AM-12:20 PM,,,,,"Geza  Joos",12/04-12/04,POLY ,Active
+5456,ECSE,465,003,Laboratory,0.000,"Power Electronic Systems.",M,01:35 PM-04:25 PM,15,0,0,0,TBA,09/02-12/04,TBA,Active
+,,,,,,,R,01:35 PM-04:25 PM,,,,,TBA,12/04-12/04,TBA,Active
+6621,ECSE,474,001,Project,1.000,"Design Project 1.",,TBA,25,0,0,0,"Michael G Rabbat, Fabrice  Labeau",09/02-12/04,TBA,Active
+8027,ECSE,475,001,Project,2.000,"Design Project 2.",,TBA,25,0,0,0,"Michael G Rabbat, Fabrice  Labeau",09/02-12/04,TBA,Active
+8241,ECSE,476,001,Project,1.000,"Software Engineering Design Project 1.",,TBA,25,0,0,0,"Michael G Rabbat, Fabrice  Labeau",09/02-12/04,TBA,Active
+8243,ECSE,477,001,Project,2.000,"Software Engineering Design Project 2.",,TBA,25,0,0,0,"Michael G Rabbat, Fabrice  Labeau",09/02-12/04,TBA,Active
+18701,ECSE,491,001,Laboratory,2.000,"Communication Systems Laboratory.",,TBA,10,0,0,0,"Harry  Leib",09/02-12/04,TBA,Cancelled
+542,ECSE,498,001,Thesis Course,3.000,"Honours Thesis 1.",,TBA,25,0,0,0,"Michael G Rabbat, Fabrice  Labeau",09/02-12/04,TBA,Active
+543,ECSE,499,001,Thesis Course,3.000,"Honours Thesis 2.",,TBA,25,0,0,0,"Michael G Rabbat, Fabrice  Labeau",09/02-12/04,TBA,Active
+5410,ECSE,500,001,Lecture,3.000,"Mathematical Foundations of Systems.",MW,02:35 PM-03:55 PM,30,0,0,0,"Hannah  Michalska",09/02-12/04,ENGTR 0060,Active
+,,,,,,,R,02:35 PM-03:55 PM,,,,,"Hannah  Michalska",12/04-12/04,ENGTR 0060,Active
+4273,ECSE,500,002,Lecture,3.000,"Mathematical Foundations of Systems.",MW,02:35 PM-03:55 PM,10,0,0,0,"Hannah  Michalska",09/02-12/04,ENGTR 0060,Active
+,,,,,,,R,02:35 PM-03:55 PM,,,,,"Hannah  Michalska",12/04-12/04,ENGTR 0060,Active
+2767,ECSE,501,001,Lecture,3.000,"Linear Systems.",TR,01:05 PM-02:25 PM,40,0,0,0,"Benoit  Boulet",09/02-12/03,ENGTR 0060,Active
+5412,ECSE,501,002,Lecture,3.000,"Linear Systems.",TR,01:05 PM-02:25 PM,10,0,0,0,"Benoit  Boulet",09/02-12/03,ENGTR 0060,Active
+545,ECSE,509,001,Lecture,3.000,"Probability and Random Sig. 2.",MWF,01:35 PM-02:25 PM,50,0,0,0,"Ioannis  Psaromiligkos",09/02-12/04,ENGTR 1090,Active
+,,,,,,,R,01:35 PM-02:25 PM,,,,,"Ioannis  Psaromiligkos",12/04-12/04,ENGTR 1090,Active
+5415,ECSE,509,002,Lecture,3.000,"Probability and Random Sig. 2.",MWF,01:35 PM-02:25 PM,10,0,0,0,"Ioannis  Psaromiligkos",09/02-12/04,ENGTR 1090,Active
+,,,,,,,R,01:35 PM-02:25 PM,,,,,"Ioannis  Psaromiligkos",12/04-12/04,ENGTR 1090,Active
+548,ECSE,512,001,Lecture,3.000,"Digital Signal Processing 1.",MW,08:35 AM-09:55 AM,20,0,0,0,"Fabrice  Labeau",09/02-12/04,ENGTR 2110,Temporarily closed
+,,,,,,,R,08:35 AM-09:55 AM,,,,,"Fabrice  Labeau",12/04-12/04,ENGTR 2110,Temporarily closed
+5429,ECSE,512,002,Lecture,3.000,"Digital Signal Processing 1.",MW,08:35 AM-09:55 AM,10,0,0,0,"Fabrice  Labeau",09/02-12/04,ENGTR 2110,Temporarily closed
+,,,,,,,R,08:35 AM-09:55 AM,,,,,"Fabrice  Labeau",12/04-12/04,ENGTR 2110,Temporarily closed
+18702,ECSE,512,003,Tutorial,0.000,"Digital Signal Processing 1.",T,04:35 PM-05:25 PM,30,0,0,0,TBA,09/02-12/04,ENGTR 0060,Temporarily closed
+18703,ECSE,519,001,Lecture,3.000,"Semiconductor Nanostructures and Nanophotonic Devices.",MW,08:35 AM-09:55 AM,15,0,0,0,"Zetian  Mi",09/02-12/04,ENGTR 2120,Active
+,,,,,,,R,08:35 AM-09:55 AM,,,,,"Zetian  Mi",12/04-12/04,ENGTR 2120,Active
+18704,ECSE,519,002,Lecture,3.000,"Semiconductor Nanostructures and Nanophotonic Devices.",MW,08:35 AM-09:55 AM,10,0,0,0,"Zetian  Mi",09/02-12/04,ENGTR 2120,Active
+,,,,,,,R,08:35 AM-09:55 AM,,,,,"Zetian  Mi",12/04-12/04,ENGTR 2120,Active
+18705,ECSE,521,001,Lecture,3.000,"Digital Communications 1.",MW,04:05 PM-05:25 PM,15,0,0,0,"Tho  Le-Ngoc",09/02-12/04,ENGTR 2100,Active
+,,,,,,,R,04:05 PM-05:25 PM,,,,,"Tho  Le-Ngoc",12/04-12/04,ENGTR 2100,Active
+18706,ECSE,521,002,Lecture,3.000,"Digital Communications 1.",MW,04:05 PM-05:25 PM,10,0,0,0,"Tho  Le-Ngoc",09/02-12/04,ENGTR 2100,Active
+,,,,,,,R,04:05 PM-05:25 PM,,,,,"Tho  Le-Ngoc",12/04-12/04,ENGTR 2100,Active
+550,ECSE,529,001,Lecture,3.000,"Computer and Biological Vision.",MWF,08:35 AM-09:25 AM,15,0,0,0,"Martin D  Levine",09/02-12/04,ENGTR 0070,Active
+,,,,,,,R,08:35 AM-09:25 AM,,,,,"Martin D  Levine",12/04-12/04,ENGTR 0070,Active
+5419,ECSE,529,002,Lecture,3.000,"Computer and Biological Vision.",MWF,08:35 AM-09:25 AM,10,0,0,0,"Martin D  Levine",09/02-12/04,ENGTR 0070,Active
+,,,,,,,R,08:35 AM-09:25 AM,,,,,"Martin D  Levine",12/04-12/04,ENGTR 0070,Active
+13572,ECSE,534,001,Lecture,3.000,"Analog Microelectronics.",MW,10:05 AM-11:25 AM,15,0,0,0,"Gordon W  Roberts",09/02-12/04,ENGTR 2100,Active
+,,,,,,,R,10:05 AM-11:25 AM,,,,,"Gordon W  Roberts",12/04-12/04,ENGTR 2100,Active
+13573,ECSE,534,002,Lecture,3.000,"Analog Microelectronics.",MW,10:05 AM-11:25 AM,10,0,0,0,"Gordon W  Roberts",09/02-12/04,ENGTR 2100,Active
+,,,,,,,R,10:05 AM-11:25 AM,,,,,"Gordon W  Roberts",12/04-12/04,ENGTR 2100,Active
+10301,ECSE,543,001,Lecture,3.000,"Numerical Methods in Electrical Engineering.",MW,11:35 AM-12:55 PM,30,0,0,0,"Dennis Dionysios Giannacopoulos",09/02-12/04,ENGTR 0070,Active
+,,,,,,,R,11:35 AM-12:55 PM,,,,,"Dennis Dionysios Giannacopoulos",12/04-12/04,ENGTR 0070,Active
+10302,ECSE,543,002,Lecture,3.000,"Numerical Methods in Electrical Engineering.",MW,11:35 AM-12:55 PM,20,0,0,0,"Dennis Dionysios Giannacopoulos",09/02-12/04,ENGTR 0070,Active
+,,,,,,,R,11:35 AM-12:55 PM,,,,,"Dennis Dionysios Giannacopoulos",12/04-12/04,ENGTR 0070,Active
+12188,ECSE,543,003,Tutorial,0.000,"Numerical Methods in Electrical Engineering.",F,11:35 AM-01:25 PM,50,0,0,0,TBA,09/02-12/04,ENGTR 0070,Active
+15345,ECSE,548,001,Lecture,3.000,"Introduction to VLSI Systems.",MW,02:35 PM-03:55 PM,15,0,0,0,"Brett  Meyer",09/02-12/04,ENGTR 2100,Active
+,,,,,,,R,02:35 PM-03:55 PM,,,,,"Brett  Meyer",12/04-12/04,ENGTR 2100,Active
+15346,ECSE,548,002,Lecture,3.000,"Introduction to VLSI Systems.",MW,02:35 PM-03:55 PM,10,0,0,0,"Brett  Meyer",09/02-12/04,ENGTR 2100,Active
+,,,,,,,R,02:35 PM-03:55 PM,,,,,"Brett  Meyer",12/04-12/04,ENGTR 2100,Active
+13574,ECSE,549,001,Lecture,3.000,"Expert Systems in Electrical Design.",TR,08:35 AM-09:55 AM,15,0,0,0,"David Alister  Lowther",09/02-12/03,ENGTR 1090,Active
+13575,ECSE,549,002,Lecture,3.000,"Expert Systems in Electrical Design.",TR,08:35 AM-09:55 AM,10,0,0,0,"David Alister  Lowther",09/02-12/03,ENGTR 1090,Active
+18707,ECSE,571,001,Lecture,3.000,"Optoelectronic Devices.",TR,10:05 AM-11:25 AM,15,0,0,0,"Andrew G  Kirk",09/02-12/03,ENGTR 2110,Active
+18708,ECSE,571,002,Lecture,3.000,"Optoelectronic Devices.",TR,10:05 AM-11:25 AM,10,0,0,0,"Andrew G  Kirk",09/02-12/03,ENGTR 2110,Active
+18709,ECSE,574,001,Lecture,3.000,"CMOS Sensor Microsystems.",MWF,04:35 PM-05:25 PM,15,0,0,0,"Vamsy P. Chodavarapu",09/02-12/04,ENGTR 2110,Active
+,,,,,,,R,04:35 PM-05:25 PM,,,,,"Vamsy P. Chodavarapu",12/04-12/04,ENGTR 2110,Active
+18710,ECSE,574,002,Lecture,3.000,"CMOS Sensor Microsystems.",MWF,04:35 PM-05:25 PM,10,0,0,0,"Vamsy P. Chodavarapu",09/02-12/04,ENGTR 2110,Active
+,,,,,,,R,04:35 PM-05:25 PM,,,,,"Vamsy P. Chodavarapu",12/04-12/04,ENGTR 2110,Active
+18712,ECSE,597,001,Lecture,3.000,"Circuit Simulators.",WF,08:35 AM-09:55 AM,15,0,0,0,"Roni  Khazaka",09/02-12/04,ENGTR 0060,Active
+18713,ECSE,597,002,Lecture,3.000,"Circuit Simulators.",WF,08:35 AM-09:55 AM,10,0,0,0,"Roni  Khazaka",09/02-12/04,ENGTR 0060,Active
+Earth & Planetary Sciences
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+88,EPSC,221,001,Lecture,3.000,"General Geology.",TR,04:35 PM-05:25 PM,138,0,0,0,"Rebecca  Harrington",09/02-12/03,BURN 1B45,Active
+89,EPSC,221,002,Laboratory,0.000,"General Geology.",M,02:35 PM-05:25 PM,36,0,0,0,"Rebecca  Harrington",09/02-12/04,ADAMS 211,Active
+,,,,,,,R,02:35 PM-05:25 PM,,,,,"Rebecca  Harrington",12/04-12/04,ADAMS 211,Active
+2154,EPSC,221,003,Laboratory,0.000,"General Geology.",M,02:35 PM-05:25 PM,36,0,0,0,"Rebecca  Harrington",09/02-12/04,ADAMS 348,Active
+,,,,,,,R,02:35 PM-05:25 PM,,,,,"Rebecca  Harrington",12/04-12/04,ADAMS 348,Active
+2155,EPSC,221,004,Laboratory,0.000,"General Geology.",M,02:35 PM-05:25 PM,36,0,0,0,"Rebecca  Harrington",09/02-12/04,ADAMS 315,Active
+,,,,,,,R,02:35 PM-05:25 PM,,,,,"Rebecca  Harrington",12/04-12/04,ADAMS 315,Active
+10634,EPSC,221,005,Laboratory,0.000,"General Geology.",W,11:35 AM-02:25 PM,36,0,0,0,"Rebecca  Harrington",09/02-12/04,ADAMS 211,Active
+External
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+2409,EXTL,EXEN,015,Exchange Term Away,0.000,"Exchange Term Away-Engineering",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2377,EXTL,IPEN,001,Internship,0.000,"Internship Term - Engineering",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2394,EXTL,IUEN,001,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2465,EXTL,IUEN,002,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2466,EXTL,IUEN,003,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2467,EXTL,IUEN,004,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2468,EXTL,IUEN,005,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2469,EXTL,IUEN,006,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2470,EXTL,IUEN,007,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2471,EXTL,IUEN,008,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2472,EXTL,IUEN,009,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2473,EXTL,IUEN,010,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2474,EXTL,IUEN,011,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2475,EXTL,IUEN,012,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2426,EXTL,LAEN,001,Leave of Absence,0.000,"Leave of Absence-Engineering",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2393,EXTL,TAEN,001,Term Away,0.000,"Term Away Engineering",TBA,TBA,999,0,0,0,TBA,09/02-12/04,TBA,Active
+Faculty Course
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+10278,FACC,100,001,Lecture,1.000,"Introduction to the Engineering Profession.",R,01:05 PM-02:25 PM,260,0,0,0,"Marianne  Hatzopoulou",09/02-12/03,ADAMS AUD,Active
+10527,FACC,100,002,Lecture,1.000,"Introduction to the Engineering Profession.",T,01:05 PM-02:25 PM,260,0,0,0,"Marianne  Hatzopoulou",09/02-12/04,ADAMS AUD,Active
+8453,FACC,200,001,Practicum,0.000,"Industrial Practicum 1.",TBA,TBA,50,0,0,0,TBA,09/02-12/04,TBA,Active
+12045,FACC,201,001,Practicum,0.000,"Industrial Practicum 2.",TBA,TBA,50,0,0,0,TBA,09/02-12/04,TBA,Active
+12046,FACC,202,001,Practicum,0.000,"Industrial Practicum 3.",TBA,TBA,50,0,0,0,TBA,09/02-12/04,TBA,Active
+12047,FACC,203,001,Practicum,0.000,"Industrial Practicum 4.",TBA,TBA,50,0,0,0,TBA,09/02-12/04,TBA,Active
+12048,FACC,204,001,Practicum,0.000,"Industrial Practicum 5.",TBA,TBA,50,0,0,0,TBA,09/02-12/04,TBA,Active
+12049,FACC,205,001,Practicum,0.000,"Industrial Practicum 6.",TBA,TBA,50,0,0,0,TBA,09/02-12/04,TBA,Active
+14273,FACC,210,001,Practicum,0.000,"MIAE Industrial Practicum 1.",TBA,TBA,50,0,0,0,TBA,09/02-12/04,TBA,Active
+14275,FACC,211,001,Practicum,0.000,"MIAE Industrial Practicum 2.",TBA,TBA,50,0,0,0,TBA,09/02-12/04,TBA,Active
+91,FACC,220,001,Lecture,3.000,"Law for Architects and Engineers.",TR,05:35 PM-06:55 PM,170,0,0,0,"Patrick  Ouellet",09/02-12/03,ENGMC 304,Active
+16443,FACC,300,001,Lecture,3.000,"Engineering Economy.",TR,01:05 PM-02:25 PM,170,0,0,0,"Raad  Jassim",09/02-12/03,ENGMC 304,Active
+16444,FACC,300,002,Lecture,3.000,"Engineering Economy.",TR,04:05 PM-05:25 PM,170,0,0,0,"Raad  Jassim",09/02-12/03,ENGMC 304,Active
+16445,FACC,300,003,Tutorial,0.000,"Engineering Economy.",F,03:35 PM-04:25 PM,170,0,0,0,"Raad  Jassim",09/02-12/04,ENGMC 304,Active
+16446,FACC,300,004,Tutorial,0.000,"Engineering Economy.",F,02:35 PM-03:25 PM,170,0,0,0,"Raad  Jassim",09/02-12/04,ENGMC 304,Active
+15600,FACC,400,001,Lecture,1.000,"Engineering Professional Practice.",F,01:05 PM-02:25 PM,175,0,0,0,"Benoit  Boulet",09/02-12/04,ENGMC 304,Active
+15601,FACC,400,002,Lecture,1.000,"Engineering Professional Practice.",T,08:35 AM-09:55 AM,175,0,0,0,"Benoit  Boulet",09/02-12/04,MDHAR G-10,Active
+15602,FACC,400,003,Tutorial,0.000,"Engineering Professional Practice.",T,10:35 AM-11:25 AM,175,0,0,0,"Benoit  Boulet",09/02-12/04,ENGMC 304,Active
+17332,FACC,400,004,Tutorial,0.000,"Engineering Professional Practice.",R,11:35 AM-12:25 PM,175,0,0,0,"Benoit  Boulet",09/02-12/03,ENGMC 204,Active
+3565,FACC,500,001,Lecture,3.000,"Technology Business Plan Design.",M,05:35 PM-08:25 PM,25,0,0,0,"Michael M  Avedesian",09/02-12/04,ENGTR 2100,Active
+,,,,,,,R,05:35 PM-08:25 PM,,,,,"Michael M  Avedesian",12/04-12/04,ENGTR 2100,Active
+Mathematics & Statistics (Sci)
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+3354,MATH,262,001,Lecture,3.000,"Intermediate Calculus.",MWF,01:35 PM-02:25 PM,185,0,0,0,"Dmitry  Jakobson, Neville G F  Sancho",09/02-12/04,MDHAR G-10,Active
+,,,,,,,R,01:35 PM-02:25 PM,,,,,"Dmitry  Jakobson, Neville G F  Sancho",12/04-12/04,MDHAR G-10,Active
+3355,MATH,262,002,Lecture,3.000,"Intermediate Calculus.",MWF,11:35 AM-12:25 PM,185,0,0,0,TBA,09/02-12/04,ENGMC 204,Active
+,,,,,,,R,11:35 AM-12:25 PM,,,,,TBA,12/04-12/04,ENGMC 204,Active
+3356,MATH,262,003,Lecture,3.000,"Intermediate Calculus.",MWF,10:35 AM-11:25 AM,185,0,0,0,"Dmitry  Jakobson",09/02-12/04,ENGMC 304,Active
+,,,,,,,R,10:35 AM-11:25 AM,,,,,"Dmitry  Jakobson",12/04-12/04,ENGMC 304,Active
+3357,MATH,262,004,Tutorial,0.000,"Intermediate Calculus.",W,08:35 AM-09:25 AM,92,0,0,0,TBA,09/02-12/04,SADB 1/12,Active
+3358,MATH,262,005,Tutorial,0.000,"Intermediate Calculus.",M,04:35 PM-05:25 PM,92,0,0,0,TBA,09/02-12/04,WONG 1020,Active
+,,,,,,,R,04:35 PM-05:25 PM,,,,,TBA,12/04-12/04,WONG 1020,Active
+3359,MATH,262,006,Tutorial,0.000,"Intermediate Calculus.",F,12:35 PM-01:25 PM,92,0,0,0,TBA,09/02-12/04,SADB 1/12,Active
+3360,MATH,262,007,Tutorial,0.000,"Intermediate Calculus.",M,12:35 PM-01:25 PM,93,0,0,0,TBA,09/02-12/04,ENGMD 279,Active
+,,,,,,,R,12:35 PM-01:25 PM,,,,,TBA,12/04-12/04,ENGMD 279,Active
+3361,MATH,262,008,Tutorial,0.000,"Intermediate Calculus.",F,12:35 PM-01:25 PM,93,0,0,0,TBA,09/02-12/04,SADB 2/36,Active
+16104,MATH,262,009,Tutorial,0.000,"Intermediate Calculus.",F,02:35 PM-03:25 PM,93,0,0,0,TBA,09/02-12/04,ENGMD 280,Active
+3362,MATH,263,001,Lecture,3.000,"Ordinary Differential Equations for Engineers.",TR,04:05 PM-05:25 PM,185,0,0,0,TBA,09/02-12/03,ENGMC 204,Active
+3363,MATH,263,002,Lecture,3.000,"Ordinary Differential Equations for Engineers.",TR,02:35 PM-03:55 PM,185,0,0,0,"Jacques Claude  Hurtubise",09/02-12/03,ENGMC 204,Active
+3364,MATH,263,003,Tutorial,0.000,"Ordinary Differential Equations for Engineers.",W,02:35 PM-03:25 PM,93,0,0,0,TBA,09/02-12/04,ENGMD 280,Active
+3365,MATH,263,004,Tutorial,0.000,"Ordinary Differential Equations for Engineers.",W,04:35 PM-05:25 PM,92,0,0,0,TBA,09/02-12/04,ENGMD 279,Active
+3366,MATH,263,005,Tutorial,0.000,"Ordinary Differential Equations for Engineers.",M,02:35 PM-03:25 PM,92,0,0,0,TBA,09/02-12/04,ENGMD 279,Active
+,,,,,,,R,02:35 PM-03:25 PM,,,,,TBA,12/04-12/04,ENGMD 279,Active
+3367,MATH,263,006,Tutorial,0.000,"Ordinary Differential Equations for Engineers.",W,12:35 PM-01:25 PM,93,0,0,0,TBA,09/02-12/04,ENGMD 279,Active
+3809,MATH,264,001,Lecture,3.000,"Advanced Calculus for Engineers.",TR,01:05 PM-02:25 PM,130,0,0,0,"Ivo  Klemes",09/02-12/03,MDHAR G-10,Active
+3811,MATH,264,002,Lecture,3.000,"Advanced Calculus for Engineers.",MW,11:35 AM-12:55 PM,130,0,0,0,"Ivo  Klemes, Neville G F  Sancho",09/02-12/04,BURN 1B45,Active
+,,,,,,,R,11:35 AM-12:55 PM,,,,,"Ivo  Klemes, Neville G F  Sancho",12/04-12/04,BURN 1B45,Active
+3820,MATH,264,003,Tutorial,0.000,"Advanced Calculus for Engineers.",M,03:35 PM-04:25 PM,65,0,0,0,TBA,09/02-12/04,ENGMD 279,Active
+,,,,,,,R,03:35 PM-04:25 PM,,,,,TBA,12/04-12/04,ENGMD 279,Active
+3821,MATH,264,004,Tutorial,0.000,"Advanced Calculus for Engineers.",W,04:35 PM-05:25 PM,65,0,0,0,TBA,09/02-12/04,ENGMD 276,Active
+3822,MATH,264,005,Tutorial,0.000,"Advanced Calculus for Engineers.",R,02:35 PM-03:25 PM,65,0,0,0,TBA,09/02-12/03,BURN 1B36,Active
+3823,MATH,264,006,Tutorial,0.000,"Advanced Calculus for Engineers.",M,04:35 PM-05:25 PM,65,0,0,0,TBA,09/02-12/04,ENGMD 276,Active
+,,,,,,,R,04:35 PM-05:25 PM,,,,,TBA,12/04-12/04,ENGMD 276,Active
+11667,MATH,270,001,Lecture,3.000,"Applied Linear Algebra.",TR,02:35 PM-03:55 PM,130,0,0,0,"Jian-Jun  Xu",09/02-12/03,ENGMC 304,Active
+11679,MATH,270,002,Tutorial,0.000,"Applied Linear Algebra.",F,08:35 AM-09:25 AM,65,0,0,0,TBA,09/02-12/04,BURN 1B36,Active
+11680,MATH,270,003,Tutorial,0.000,"Applied Linear Algebra.",T,11:35 AM-12:25 PM,65,0,0,0,TBA,09/02-12/04,ARTS 145,Active
+3802,MATH,271,001,Lecture,3.000,"Linear Algebra and Partial Differential Equations.",MWF,08:35 AM-09:25 AM,175,0,0,0,"Charles  Roth",09/02-12/04,ENGMC 304,Active
+,,,,,,,R,08:35 AM-09:25 AM,,,,,"Charles  Roth",12/04-12/04,ENGMC 304,Active
+3803,MATH,271,002,Tutorial,0.000,"Linear Algebra and Partial Differential Equations.",R,02:35 PM-03:25 PM,58,0,0,0,TBA,09/02-12/03,BURN 1B24,Active
+3804,MATH,271,003,Tutorial,0.000,"Linear Algebra and Partial Differential Equations.",M,03:35 PM-04:25 PM,58,0,0,0,TBA,09/02-12/04,BURN 1B39,Active
+,,,,,,,R,03:35 PM-04:25 PM,,,,,TBA,12/04-12/04,BURN 1B39,Active
+14856,MATH,271,004,Tutorial,0.000,"Linear Algebra and Partial Differential Equations.",F,03:35 PM-04:25 PM,59,0,0,0,TBA,09/02-12/04,BURN 1B36,Active
+90,MATH,381,001,Lecture,3.000,"Complex Variables and Transforms.",TR,08:35 AM-09:55 AM,135,0,0,0,"Niky  Kamran",09/02-12/03,BURN 1B45,Active
+7040,MATH,381,002,Tutorial,0.000,"Complex Variables and Transforms.",M,10:35 AM-11:25 AM,65,0,0,0,TBA,09/02-12/04,BURN 1B39,Active
+,,,,,,,R,10:35 AM-11:25 AM,,,,,TBA,12/04-12/04,BURN 1B39,Active
+7041,MATH,381,003,Tutorial,0.000,"Complex Variables and Transforms.",R,04:35 PM-05:25 PM,70,0,0,0,TBA,09/02-12/03,BURN 1B36,Active
+Mechanical Engineering
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+92,MECH,201,001,Lecture,2.000,"Introduction to Mechanical Engineering.",TR,02:35 PM-03:55 PM,180,0,0,0,"Andrew J  Higgins",09/02-12/03,MDHAR G-10,Active
+93,MECH,210,001,Lecture,2.000,"Mechanics 1.",WF,02:35 PM-03:25 PM,107,0,0,0,"Michael  Kokkolaras",09/02-12/04,ENGMC 13,Active
+94,MECH,210,002,Tutorial,0.000,"Mechanics 1.",F,04:35 PM-05:25 PM,107,0,0,0,TBA,09/02-12/04,ENGMC 13,Active
+2919,MECH,220,001,Lecture,4.000,"Mechanics 2.",TR,12:35 PM-02:25 PM,110,0,0,0,"Meyer  Nahon",09/02-12/03,ENGMC 13,Active
+95,MECH,220,002,Tutorial,0.000,"Mechanics 2.",M,04:35 PM-05:25 PM,110,0,0,0,TBA,09/02-12/04,BURN 1B45,Active
+,,,,,,,R,04:35 PM-05:25 PM,,,,,TBA,12/04-12/04,BURN 1B45,Active
+96,MECH,240,001,Lecture,3.000,"Thermodynamics 1.",MWF,01:35 PM-02:25 PM,100,0,0,0,"John H S  Lee",09/02-12/04,MAASS 10,Active
+,,,,,,,R,01:35 PM-02:25 PM,,,,,"John H S  Lee",12/04-12/04,MAASS 10,Active
+97,MECH,240,002,Tutorial,0.000,"Thermodynamics 1.",F,02:35 PM-03:25 PM,100,0,0,0,"John H S  Lee",09/02-12/04,MAASS 10,Active
+7634,MECH,240,004,Optional Tutorial,0.000,"Thermodynamics 1.",,TBA,40,0,0,0,TBA,09/02-12/04,TBA,Registration Not Required
+6315,MECH,261,001,Lecture,2.000,"Measurement Laboratory.",MWF,04:35 PM-05:25 PM,55,0,0,0,"Xinyu  Liu",09/02-12/04,ENGMC 204,Active
+,,,,,,,R,04:35 PM-05:25 PM,,,,,"Xinyu  Liu",12/04-12/04,ENGMC 204,Active
+6316,MECH,261,002,Drop-in Lab,0.000,"Measurement Laboratory.",,TBA,55,0,0,0,TBA,09/02-12/04,TBA,Active
+6317,MECH,262,001,Lecture,3.000,"Statistics and Measurement Laboratory.",MWF,04:35 PM-05:25 PM,100,0,0,0,"Xinyu  Liu",09/02-12/04,ENGMC 204,Active
+,,,,,,,R,04:35 PM-05:25 PM,,,,,"Xinyu  Liu",12/04-12/04,ENGMC 204,Active
+6318,MECH,262,002,Drop-in Lab,0.000,"Statistics and Measurement Laboratory.",,TBA,100,0,0,0,TBA,09/02-12/04,ENGMD 51,Active
+3831,MECH,289,006,Lecture,3.000,"Design Graphics.",TR,11:35 AM-12:55 PM,145,0,0,0,"Damiano  Pasini, Youki Elizabeth Kate Cropas, Richard  Edwards",09/02-12/03,ENGTR 0100,Active
+,,,,,,,TR,01:05 PM-02:25 PM,,,,,"Damiano  Pasini, Youki Elizabeth Kate Cropas, Richard  Edwards",09/02-09/18,ENGTR 0100,Active
+3978,MECH,289,007,Tutorial,0.000,"Design Graphics.",TR,01:05 PM-02:25 PM,48,0,0,0,TBA,09/02-12/03,ENGMD 50,Active
+3979,MECH,289,008,Tutorial,0.000,"Design Graphics.",TR,01:05 PM-02:25 PM,21,0,0,0,TBA,09/02-12/03,ENGMC 10,Active
+6504,MECH,289,009,Tutorial,0.000,"Design Graphics.",MWF,08:35 AM-09:25 AM,24,0,0,0,TBA,09/02-12/04,ADAMS 1,Active
+,,,,,,,R,08:35 AM-09:25 AM,,,,,TBA,12/04-12/04,ADAMS 1,Active
+6505,MECH,289,010,Tutorial,0.000,"Design Graphics.",MWF,08:35 AM-09:25 AM,21,0,0,0,TBA,09/02-12/04,ENGMC 10,Active
+,,,,,,,R,08:35 AM-09:25 AM,,,,,TBA,12/04-12/04,ENGMC 10,Active
+3829,MECH,289,011,Tutorial,0.000,"Design Graphics.",TR,01:05 PM-02:25 PM,24,0,0,0,TBA,09/02-12/03,ADAMS 1,Active
+15640,MECH,290,001,Lecture,3.000,"Design Graphics for Mechanical Engineering.",W,11:35 AM-12:25 PM,112,0,0,0,"Alexei V  Morozov",09/02-12/04,ENGMC 13,Active
+,,,,,,,F,11:35 AM-12:25 PM,,,,,"Alexei V  Morozov",09/02-12/04,MAASS 10,Active
+15641,MECH,290,002,Tutorial,0.000,"Design Graphics for Mechanical Engineering.",TR,10:05 AM-11:25 AM,24,0,0,0,TBA,09/02-12/03,ADAMS 1,Active
+15642,MECH,290,003,Tutorial,0.000,"Design Graphics for Mechanical Engineering.",TR,10:05 AM-11:25 AM,21,0,0,0,TBA,09/02-12/03,ENGMC 10,Active
+15643,MECH,290,004,Tutorial,0.000,"Design Graphics for Mechanical Engineering.",TR,10:05 AM-11:25 AM,47,0,0,0,TBA,09/02-12/03,ENGMD 50,Active
+19630,MECH,290,005,Tutorial,0.000,"Design Graphics for Mechanical Engineering.",TR,08:35 AM-09:55 AM,19,0,0,0,TBA,09/02-12/03,ENGMD 50,Active
+103,MECH,292,001,Lecture,3.000,"Design 1: Conceptual Design.",MTR,11:35 AM-12:25 PM,78,0,0,0,"Rosaire  Mongrain",09/02-12/04,ENGTR 1100,Active
+104,MECH,292,002,Tutorial,0.000,"Design 1: Conceptual Design.",F,09:35 AM-10:25 AM,90,0,0,0,TBA,09/02-12/04,ENGMD 279,Active
+105,MECH,314,001,Lecture,3.000,"Dynamics of Mechanisms.",MW,04:05 PM-05:25 PM,85,0,0,0,"Jozsef  Kovecses",09/02-12/04,ENGMC 11,Active
+,,,,,,,R,04:05 PM-05:25 PM,,,,,"Jozsef  Kovecses",12/04-12/04,ENGMC 11,Active
+106,MECH,314,002,Tutorial,0.000,"Dynamics of Mechanisms.",M,09:35 AM-10:25 AM,85,0,0,0,TBA,09/02-12/04,ENGMC 11,Active
+,,,,,,,R,09:35 AM-10:25 AM,,,,,TBA,12/04-12/04,ENGMC 11,Active
+2948,MECH,315,001,Lecture,4.000,"Mechanics 3.",MW,08:35 AM-10:25 AM,90,0,0,0,"Srikar Thattai Vengallatore",09/02-12/04,ENGMD 279,Active
+,,,,,,,R,08:35 AM-10:25 AM,,,,,"Srikar Thattai Vengallatore",12/04-12/04,ENGMD 279,Active
+107,MECH,315,002,Tutorial,0.000,"Mechanics 3.",T,01:35 PM-02:25 PM,90,0,0,0,TBA,09/02-12/04,ENGMC 11,Active
+108,MECH,321,001,Lecture,3.000,"Mechanics of Deformable Solids.",WF,01:05 PM-02:25 PM,90,0,0,0,"Mathias Julien Legrand",09/02-12/04,ENGMD 280,Active
+109,MECH,321,002,Tutorial,0.000,"Mechanics of Deformable Solids.",W,09:35 AM-10:25 AM,90,0,0,0,TBA,09/02-12/04,ENGMC 11,Active
+110,MECH,331,001,Lecture,3.000,"Fluid Mechanics 1.",MTR,11:35 AM-12:25 PM,90,0,0,0,"Timothy  Lee",09/02-12/04,ENGMD 280,Active
+111,MECH,331,002,Tutorial,0.000,"Fluid Mechanics 1.",R,01:35 PM-02:25 PM,90,0,0,0,TBA,09/02-12/03,ENGMC 11,Active
+112,MECH,341,001,Lecture,3.000,"Thermodynamics 2.",MTR,11:35 AM-12:25 PM,90,0,0,0,"Evgeny Vladimirovich Timofeev",09/02-12/04,ENGMC 11,Active
+10089,MECH,341,002,Tutorial,0.000,"Thermodynamics 2.",M,12:35 PM-01:25 PM,90,0,0,0,TBA,09/02-12/04,ENGMC 11,Active
+,,,,,,,R,12:35 PM-01:25 PM,,,,,TBA,12/04-12/04,ENGMC 11,Active
+113,MECH,346,001,Lecture,3.000,"Heat Transfer.",TRF,08:35 AM-09:25 AM,90,0,0,0,"Bantwal Rabindranath Baliga",09/02-12/03,ENGMC 11,Active
+114,MECH,346,002,Tutorial,0.000,"Heat Transfer.",F,09:35 AM-10:25 AM,90,0,0,0,"Bantwal Rabindranath Baliga",09/02-12/04,ENGMC 11,Active
+2814,MECH,346,003,Optional Tutorial,0.000,"Heat Transfer.",F,04:35 PM-05:25 PM,60,0,0,0,TBA,09/02-12/04,ENGTR 1090,Active
+16944,MECH,360,001,Lecture,3.000,"Principles of Manufacturing.",M,10:35 AM-11:25 AM,96,0,0,0,"Yaoyao Fiona Zhao",09/02-12/04,ENGMD 280,Active
+,,,,,,,W,10:35 AM-12:25 PM,,,,,"Yaoyao Fiona Zhao",09/02-12/04,ENGMD 280,Active
+,,,,,,,R,10:35 AM-11:25 AM,,,,,"Yaoyao Fiona Zhao",12/04-12/04,ENGMD 280,Active
+16949,MECH,360,002,Laboratory,0.000,"Principles of Manufacturing.",W,02:35 PM-05:25 PM,24,0,0,0,TBA,09/02-12/04,ENGMD 056,Active
+16950,MECH,360,003,Laboratory,0.000,"Principles of Manufacturing.",R,01:05 PM-03:55 PM,24,0,0,0,TBA,09/02-12/03,ENGMD 056,Active
+16951,MECH,360,004,Laboratory,0.000,"Principles of Manufacturing.",F,10:05 AM-12:55 PM,24,0,0,0,TBA,09/02-12/04,ENGMD 056,Active
+16952,MECH,360,005,Laboratory,0.000,"Principles of Manufacturing.",T,02:35 PM-05:25 PM,24,0,0,0,TBA,09/02-12/04,ENGMD 056,Active
+115,MECH,362,001,Drop-in Lab,2.000,"Mechanical Laboratory 1.",,TBA,75,0,0,0,"Amar  Sabih",09/02-12/04,ENGMD 51,Active
+116,MECH,383,001,Lecture,3.000,"Applied Electronics and Instrumentation.",TR,08:35 AM-09:55 AM,90,0,0,0,TBA,09/02-12/03,ENGMD 279,Active
+117,MECH,383,002,Tutorial,0.000,"Applied Electronics and Instrumentation.",F,08:35 AM-09:25 AM,90,0,0,0,TBA,09/02-12/04,ENGMD 279,Active
+9705,MECH,383,004,Drop-in Lab,0.000,"Applied Electronics and Instrumentation.",,TBA,0,0,0,0,TBA,09/02-12/04,ENGMD 51,Active
+13316,MECH,383,006,Optional Tutorial,0.000,"Applied Electronics and Instrumentation.",F,08:35 AM-09:25 AM,20,0,0,0,TBA,09/02-12/04,ENGMD 276,Active
+2316,MECH,393,001,Lecture,3.000,"Design 2: Machine Element Design.",MW,02:35 PM-03:55 PM,90,0,0,0,"Pascal  Hubert",09/02-12/04,ENGMC 11,Active
+,,,,,,,R,02:35 PM-03:55 PM,,,,,"Pascal  Hubert",12/04-12/04,ENGMC 11,Active
+3715,MECH,393,002,Tutorial,0.000,"Design 2: Machine Element Design.",R,04:35 PM-05:25 PM,90,0,0,0,TBA,09/02-12/03,ENGMC 11,Active
+118,MECH,403D1,001,Thesis Course,3.000,"Thesis (Honours).",,TBA,15,0,0,0,"Evgeny Vladimirovich Timofeev",09/02-12/04,TBA,Active
+3060,MECH,403N2,001,Thesis Course,3.000,"Thesis (Honours).",,TBA,20,0,0,0,"Evgeny Vladimirovich Timofeev",09/02-12/04,TBA,Active
+119,MECH,404,001,Thesis Course,3.000,"Honours Thesis 2.",,TBA,20,0,0,0,"Evgeny Vladimirovich Timofeev",09/02-12/04,TBA,Active
+120,MECH,412,001,Lecture,3.000,"System Dynamics and Control.",WF,02:35 PM-03:55 PM,90,0,0,0,"Aditya A. Paranjape",09/02-12/04,ENGMD 279,Active
+121,MECH,412,002,Tutorial,0.000,"System Dynamics and Control.",W,11:35 AM-12:25 PM,90,0,0,0,TBA,09/02-12/04,ENGMD 279,Active
+122,MECH,430,001,Lecture,3.000,"Fluid Mechanics 2.",MTR,11:35 AM-12:25 PM,99,0,0,0,"Andrew J  Higgins",09/02-12/04,ENGMC 13,Active
+123,MECH,430,002,Tutorial,0.000,"Fluid Mechanics 2.",F,02:35 PM-03:25 PM,99,0,0,0,TBA,09/02-12/04,BURN 1B45,Active
+19047,MECH,447,001,Lecture,3.000,"Combustion.",TR,02:35 PM-03:55 PM,30,0,0,0,"Jeffrey Myles Bergthorson",09/02-12/03,BURN 1B39,Active
+125,MECH,463D1,001,Lecture,3.000,"Design 3: Mechanical Engineering Project.",MW,12:35 PM-01:55 PM,140,0,0,0,"Michael  Kokkolaras, Damiano  Pasini",09/02-12/04,ENGTR 0100,Active
+,,,,,,,R,12:35 PM-01:55 PM,,,,,"Michael  Kokkolaras, Damiano  Pasini",12/04-12/04,ENGTR 0100,Active
+4980,MECH,463D1,002,Drop-in Lab,0.000,"Design 3: Mechanical Engineering Project.",,TBA,140,0,0,0,TBA,09/02-12/04,ENGMD 056,Active
+126,MECH,494,001,Project,3.000,"Honours Design Project.",,TBA,10,0,0,0,"Timothy  Lee",09/02-12/04,TBA,Active
+127,MECH,497,001,Laboratory,3.000,"Value Engineering.",M,01:35 PM-09:30 PM,30,0,0,0,"Paul Joseph  Zsombor-Murray",09/02-12/04,ENGMD 267,Active
+,,,,,,,R,01:35 PM-09:30 PM,,,,,"Paul Joseph  Zsombor-Murray",12/04-12/04,ENGMD 267,Active
+4017,MECH,498,001,Project,3.000,"Interdisciplinary Design Project 1.",,TBA,12,0,0,0,"Rosaire  Mongrain",09/02-12/04,TBA,Active
+18974,MECH,500,001,Lecture,3.000,"Selected Topics in Mechanical Engineering.",F,11:35 AM-02:25 PM,15,0,0,0,"Yaoyao Fiona Zhao",09/02-12/04,ENGTR 2120,Active
+18979,MECH,500,002,Lecture,3.000,"Selected Topics in Mechanical Engineering.",F,11:35 AM-02:25 PM,20,0,0,0,"Yaoyao Fiona Zhao",09/02-12/04,ENGTR 2120,Active
+15646,MECH,502,001,Lecture,3.000,"Topics in Mechanical Engineering.",MW,01:05 PM-02:25 PM,20,0,0,0,"Xinyu  Liu",09/02-12/04,BIRKS 111,Active
+,,,,,,,R,01:05 PM-02:25 PM,,,,,"Xinyu  Liu",12/04-12/04,BIRKS 111,Active
+15647,MECH,502,002,Lecture,3.000,"Topics in Mechanical Engineering.",MW,01:05 PM-02:25 PM,15,0,0,0,"Xinyu  Liu",09/02-12/04,BIRKS 111,Active
+,,,,,,,R,01:05 PM-02:25 PM,,,,,"Xinyu  Liu",12/04-12/04,BIRKS 111,Active
+18982,MECH,510,001,Lecture,3.000,"Engineering Acoustics.",TR,08:35 AM-09:55 AM,15,0,0,0,"Luc Guy Mongeau",09/02-12/03,WONG 1050,Active
+18983,MECH,510,002,Lecture,3.000,"Engineering Acoustics.",TR,08:35 AM-09:55 AM,15,0,0,0,"Luc Guy Mongeau",09/02-12/03,WONG 1050,Active
+15787,MECH,513,001,Lecture,3.000,"Control Systems.",MW,01:05 PM-02:25 PM,15,0,0,0,"Inna  Sharf",09/02-12/04,ENGTR 2120,Active
+,,,,,,,R,01:05 PM-02:25 PM,,,,,"Inna  Sharf",12/04-12/04,ENGTR 2120,Active
+15788,MECH,513,002,Lecture,3.000,"Control Systems.",MW,01:05 PM-02:25 PM,20,0,0,0,"Inna  Sharf",09/02-12/04,ENGTR 2120,Active
+,,,,,,,R,01:05 PM-02:25 PM,,,,,"Inna  Sharf",12/04-12/04,ENGTR 2120,Active
+19032,MECH,524,001,Lecture,3.000,"Computer Integrated Manufacturing.",,TBA,30,0,0,0,"Vincent  Thomson",09/02-12/04,TBA,Active
+19037,MECH,524,002,Lecture,3.000,"Computer Integrated Manufacturing.",,TBA,20,0,0,0,"Vincent  Thomson",09/02-12/04,TBA,Active
+5346,MECH,530,001,Lecture,3.000,"Mechanics of Composite Materials.",TR,02:35 PM-03:55 PM,15,5,0,5,TBA,09/02-12/03,WONG 1030,Active
+129,MECH,530,002,Lecture,3.000,"Mechanics of Composite Materials.",TR,02:35 PM-03:55 PM,20,5,5,0,TBA,09/02-12/03,WONG 1030,Active
+5347,MECH,533,001,Lecture,3.000,"Subsonic Aerodynamics.",R,05:35 PM-08:25 PM,23,0,0,0,"Dan  Mateescu",09/02-12/03,ENGMC 204,Active
+130,MECH,533,002,Lecture,3.000,"Subsonic Aerodynamics.",R,05:35 PM-08:25 PM,24,0,0,0,"Dan  Mateescu",09/02-12/03,ENGMC 204,Active
+19057,MECH,534,001,Lecture,3.000,"Air Pollution Engineering.",TR,08:35 AM-09:55 AM,15,0,0,0,"David  Frost",09/02-12/03,ENGMC 12,Active
+19058,MECH,534,002,Lecture,3.000,"Air Pollution Engineering.",TR,08:35 AM-09:55 AM,25,0,0,0,"David  Frost",09/02-12/03,ENGMC 12,Active
+10239,MECH,535,001,Lecture,3.000,"Turbomachinery and Propulsion.",M,02:35 PM-05:25 PM,15,0,0,0,"Wagdi George  Habashi",09/02-12/04,ENGMC 12,Active
+,,,,,,,R,02:35 PM-05:25 PM,,,,,"Wagdi George  Habashi",12/04-12/04,ENGMC 12,Active
+10242,MECH,535,002,Lecture,3.000,"Turbomachinery and Propulsion.",M,02:35 PM-05:25 PM,35,0,0,0,"Wagdi George  Habashi",09/02-12/04,ENGMC 12,Active
+,,,,,,,R,02:35 PM-05:25 PM,,,,,"Wagdi George  Habashi",12/04-12/04,ENGMC 12,Active
+19070,MECH,538,001,Lecture,3.000,"Unsteady Aerodynamics.",T,05:35 PM-08:25 PM,25,0,0,0,"Dan  Mateescu",09/02-12/04,MDHAR G-10,Active
+19072,MECH,538,002,Lecture,3.000,"Unsteady Aerodynamics.",T,05:35 PM-08:25 PM,20,0,0,0,"Dan  Mateescu",09/02-12/04,MDHAR G-10,Active
+11637,MECH,542,001,Lecture,3.000,"Spacecraft Dynamics.",R,02:35 PM-05:25 PM,15,0,0,0,"Mohammad  Jalali Mashayekhi",09/02-12/03,ENGTR 1080,Active
+11638,MECH,542,002,Lecture,3.000,"Spacecraft Dynamics.",R,02:35 PM-05:25 PM,20,0,0,0,TBA,09/02-12/03,ENGTR 1080,Active
+17181,MECH,550,001,Lecture,3.000,"Vibrations of Continuous Systems.",TBA,TBA,0,0,0,0,TBA,09/02-12/04,TBA,Cancelled
+17182,MECH,550,002,Lecture,3.000,"Vibrations of Continuous Systems.",TBA,TBA,13,0,0,0,TBA,09/02-12/04,TBA,Cancelled
+4040,MECH,562,001,Lecture,3.000,"Advanced Fluid Mechanics.",WF,04:05 PM-05:25 PM,15,0,0,0,"Luca  Cortelezzi",09/02-12/04,ENGTR 1080,Active
+5351,MECH,562,002,Lecture,3.000,"Advanced Fluid Mechanics.",WF,04:05 PM-05:25 PM,20,0,0,0,"Luca  Cortelezzi",09/02-12/04,ENGTR 1080,Active
+131,MECH,572,001,Lecture,3.000,"Introduction to Robotics.",MW,04:05 PM-05:25 PM,15,0,0,0,TBA,09/02-12/04,WONG 1050,Active
+,,,,,,,R,04:05 PM-05:25 PM,,,,,TBA,12/04-12/04,WONG 1050,Active
+5352,MECH,572,002,Lecture,3.000,"Introduction to Robotics.",MW,04:05 PM-05:25 PM,20,0,0,0,TBA,09/02-12/04,WONG 1050,Temporarily closed
+,,,,,,,R,04:05 PM-05:25 PM,,,,,TBA,12/04-12/04,WONG 1050,Temporarily closed
+17183,MECH,579,001,Lecture,3.000,"Multidisciplinary Design Optimization.",W,11:35 AM-02:25 PM,15,0,0,0,TBA,09/02-12/04,WONG 1050,Active
+17184,MECH,579,002,Lecture,3.000,"Multidisciplinary Design Optimization.",W,11:35 AM-02:25 PM,10,0,0,0,TBA,09/02-12/04,WONG 1050,Active
+Mining & Materials Engineering
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+167,MIME,200,001,Lecture,3.000,"Introduction to the Minerals Industry.",TR,10:05 AM-11:25 AM,39,0,0,0,"Hani  Mitri, James A  Finch",09/02-09/19,ENGMC 13,Active
+,,,,,,,T,10:05 AM-11:25 AM,,,,,"Hani  Mitri, James A  Finch",09/02-09/02,ENGMC 12,Active
+,,,,,,,TR,10:05 AM-11:25 AM,,,,,"Hani  Mitri, James A  Finch",09/22-12/03,ENGMC 12,Active
+168,MIME,200,002,Laboratory,0.000,"Introduction to the Minerals Industry.",F,01:35 PM-03:25 PM,39,0,0,0,"Florence  Paray, Hani  Mitri",09/02-12/04,ADAMS 126,Active
+169,MIME,200,003,Tutorial,0.000,"Introduction to the Minerals Industry.",W,09:35 AM-11:25 AM,39,0,0,0,"Hani  Mitri",09/02-12/04,RPHYS 115,Active
+4977,MIME,250,001,Lecture,3.000,"Introduction to Extractive Metallurgy.",TR,10:05 AM-11:25 AM,65,0,0,0,"George  Demopoulos, Kristian Edmund Waters, Mainul  Hasan",09/02-09/19,ENGMC 13,Active
+,,,,,,,TR,10:05 AM-11:25 AM,,,,,"George  Demopoulos, Kristian Edmund Waters, Mainul  Hasan",09/22-12/03,ENGMC 11,Active
+5500,MIME,250,002,Laboratory,0.000,"Introduction to Extractive Metallurgy.",W,02:35 PM-04:25 PM,65,0,0,0,"Florence  Paray",09/02-12/04,TBA,Active
+172,MIME,260,001,Lecture,3.000,"Materials Science and Engineering.",MW,10:35 AM-11:25 AM,90,0,0,0,"Jun  Song",09/02-12/04,MDHAR G-10,Active
+,,,,,,,R,10:35 AM-11:25 AM,,,,,"Jun  Song",12/04-12/04,MDHAR G-10,Active
+3482,MIME,260,002,Lecture,3.000,"Materials Science and Engineering.",MW,10:35 AM-11:25 AM,45,0,0,0,"Jun  Song",09/02-12/04,MDHAR G-10,Active
+,,,,,,,R,10:35 AM-11:25 AM,,,,,"Jun  Song",12/04-12/04,MDHAR G-10,Active
+173,MIME,260,003,Laboratory,0.000,"Materials Science and Engineering.",R,02:35 PM-05:25 PM,135,0,0,0,"Florence  Paray",09/02-12/03,WONG 0250,Active
+174,MIME,260,004,Tutorial,0.000,"Materials Science and Engineering.",F,12:35 PM-02:25 PM,135,0,0,0,"Jun  Song",09/02-12/04,ENGTR 0100,Active
+4978,MIME,261,001,Lecture,3.000,"Structure of Materials.",TR,02:35 PM-03:55 PM,65,0,0,0,"Stephen  Yue",09/02-12/03,ENGTR 1090,Active
+5501,MIME,261,002,Laboratory,0.000,"Structure of Materials.",M,01:35 PM-05:25 PM,65,0,0,0,"Florence  Paray",09/02-12/04,WONG 0250,Active
+,,,,,,,R,01:35 PM-05:25 PM,,,,,"Florence  Paray",12/04-12/04,WONG 0250,Active
+6728,MIME,262,001,Lecture,3.000,"Properties of Materials in Electrical Engineering.",WF,10:05 AM-11:25 AM,50,0,0,0,"Nathaniel Joseph Quitoriano",09/02-12/04,WONG 1030,Active
+9385,MIME,262,002,Tutorial,0.000,"Properties of Materials in Electrical Engineering.",M,09:35 AM-10:25 AM,50,0,0,0,TBA,09/02-12/04,WONG 1030,Active
+,,,,,,,R,09:35 AM-10:25 AM,,,,,TBA,12/04-12/04,WONG 1030,Active
+3484,MIME,280,001,Field Course (GDEU),2.000,"Industrial Training 1.",,TBA,5,0,0,0,"Frank A  Mucciardi",09/02-12/04,TBA,Active
+175,MIME,290,001,Field Course (GDEU),2.000,"Industrial Work Period 1.",,TBA,5,0,0,0,"Hani  Mitri",09/02-12/04,TBA,Active
+2793,MIME,291,001,Field Course (GDEU),2.000,"Industrial Work Period 2.",,TBA,5,0,0,0,"Hani  Mitri",09/02-12/04,TBA,Active
+18755,MIME,317,001,Lecture,3.000,"Analytical and Characterization Techniques.",WF,10:05 AM-11:25 AM,50,0,0,0,"Raynald  Gauvin, Marta  Cerruti, Florence  Paray",09/02-12/04,ENGTR 1090,Active
+18756,MIME,317,002,Laboratory,0.000,"Analytical and Characterization Techniques.",M,12:35 PM-03:25 PM,50,0,0,0,TBA,09/02-12/04,TBA,Active
+,,,,,,,R,12:35 PM-03:25 PM,,,,,TBA,12/04-12/04,TBA,Active
+180,MIME,320,001,Lecture,3.000,"Extraction of Energy Resources.",M,02:35 PM-05:25 PM,65,0,0,0,"Faramarz P  Hassani",09/02-12/04,TBA,Cancelled
+,,,,,,,R,02:35 PM-05:25 PM,,,,,"Faramarz P  Hassani",12/04-12/04,TBA,Cancelled
+18127,MIME,329,001,Lecture,2.000,"Mining Geology.",F,09:35 AM-11:25 AM,25,0,0,0,"Yves Antoine Buro",09/02-12/04,ADAMS 126,Active
+18128,MIME,329,002,Tutorial,0.000,"Mining Geology.",F,11:35 AM-12:25 PM,25,0,0,0,"Yves Antoine Buro",09/02-12/04,ADAMS 126,Active
+181,MIME,340,001,Lecture,3.000,"Applied Fluid Dynamics.",TRF,11:35 AM-12:25 PM,45,0,0,0,"Frank A  Mucciardi",09/02-12/03,ENGMD 279,Active
+182,MIME,340,002,Tutorial,0.000,"Applied Fluid Dynamics.",M,08:35 AM-10:25 AM,45,0,0,0,TBA,09/02-12/04,ENGTR 1090,Active
+,,,,,,,R,08:35 AM-10:25 AM,,,,,TBA,12/04-12/04,ENGTR 1090,Active
+8063,MIME,352,001,Lecture,3.000,"Hydrochemical Processing.",R,02:35 PM-05:25 PM,50,0,0,0,"George  Demopoulos",09/02-12/03,ENGTR 2120,Active
+8064,MIME,352,002,Laboratory,0.000,"Hydrochemical Processing.",M,08:35 AM-11:25 AM,50,0,0,0,TBA,09/02-12/04,WONG 2590,Active
+,,,,,,,R,08:35 AM-11:25 AM,,,,,TBA,12/04-12/04,WONG 2590,Active
+2122,MIME,356,001,Lecture,4.000,"Heat, Mass and Fluid Flow.",TRF,11:35 AM-12:25 PM,51,0,0,0,"Frank A  Mucciardi",09/02-12/03,ENGMD 279,Active
+,,,,,,,F,12:35 PM-01:25 PM,,,,,"Frank A  Mucciardi",09/02-12/04,ENGMD 279,Active
+2727,MIME,356,002,Tutorial,0.000,"Heat, Mass and Fluid Flow.",M,08:35 AM-10:25 AM,51,0,0,0,TBA,09/02-12/04,ENGTR 1090,Active
+,,,,,,,R,08:35 AM-10:25 AM,,,,,TBA,12/04-12/04,ENGTR 1090,Active
+183,MIME,360,001,Lecture,3.000,"Phase Transformations: Solids.",TR,01:05 PM-02:25 PM,50,0,0,0,"Richard Raymond Chromik",09/02-12/03,WONG 1030,Active
+184,MIME,360,002,Laboratory,0.000,"Phase Transformations: Solids.",W,12:35 PM-03:25 PM,50,0,0,0,"Florence  Paray",09/02-12/04,WONG 0250,Active
+185,MIME,362,001,Lecture,3.000,"Mechanical Properties.",MW,01:35 PM-02:25 PM,45,0,0,0,"Mihriban Ozden  Pekguleryuz",09/02-12/04,ENGMC 12,Active
+,,,,,,,R,01:35 PM-02:25 PM,,,,,"Mihriban Ozden  Pekguleryuz",12/04-12/04,ENGMC 12,Active
+186,MIME,362,002,Laboratory,0.000,"Mechanical Properties.",F,11:35 AM-02:25 PM,45,0,0,0,"Florence  Paray",09/02-12/04,WONG 0250,Active
+187,MIME,362,003,Tutorial,0.000,"Mechanical Properties.",T,02:35 PM-05:25 PM,45,0,0,0,"Mihriban Ozden  Pekguleryuz",09/02-12/04,ENGMC 11,Active
+3028,MIME,380,001,Field Course (GDEU),2.000,"Industrial Training 2.",,TBA,10,0,0,0,"Frank A  Mucciardi",09/02-12/04,TBA,Active
+188,MIME,392,001,Field Course (GDEU),2.000,"Industrial Work Period 3.",,TBA,8,0,0,0,"Hani  Mitri",09/02-12/04,TBA,Active
+189,MIME,410,001,Project,3.000,"Research Project.",,TBA,10,0,0,0,"Kirk H.  Bevan",09/02-12/04,TBA,Active
+18832,MIME,413,001,Lecture,3.000,"Strategic Mine Planning With Uncertainty.",M,10:05 AM-12:55 PM,20,0,0,0,"Roussos G  Dimitrakopoulos",09/02-12/04,ADAMS 126,Active
+,,,,,,,R,10:05 AM-12:55 PM,,,,,"Roussos G  Dimitrakopoulos",12/04-12/04,ADAMS 126,Active
+18833,MIME,413,002,Laboratory,0.000,"Strategic Mine Planning With Uncertainty.",W,10:05 AM-12:55 PM,20,0,0,0,"Roussos G  Dimitrakopoulos",09/02-12/04,ADAMS 126,Active
+18122,MIME,421,001,Lecture,3.000,"Rock Mechanics.",TR,02:35 PM-03:55 PM,25,0,0,0,"Hani  Mitri",09/02-12/03,ADAMS 126,Active
+18123,MIME,421,002,Tutorial,0.000,"Rock Mechanics.",W,02:35 PM-05:25 PM,25,0,0,0,"Hani  Mitri",09/02-12/04,ADAMS 126,Active
+13661,MIME,465,001,Lecture,3.000,"Metallic and Ceramic Powders Processing.",W,02:35 PM-05:25 PM,45,0,0,0,"Mathieu  Brochu",09/02-12/04,ENGTR 0070,Active
+13662,MIME,465,002,Tutorial,0.000,"Metallic and Ceramic Powders Processing.",M,04:05 PM-04:55 PM,45,0,0,0,TBA,09/02-12/04,WONG 1030,Active
+,,,,,,,R,04:05 PM-04:55 PM,,,,,TBA,12/04-12/04,WONG 1030,Active
+3485,MIME,480,001,Field Course (GDEU),2.000,"Industrial Training 3.",,TBA,30,0,0,0,"Frank A  Mucciardi",09/02-12/04,TBA,Active
+8501,MIME,481,001,Field Course (GDEU),2.000,"Industrial Training 4.",,TBA,3,0,0,0,"Frank A  Mucciardi",09/02-12/04,TBA,Active
+10067,MIME,484,001,Project,3.000,"Mining Project.",M,08:35 AM-11:25 AM,10,0,0,0,"Hani  Mitri",09/02-12/04,ADAMS 126,Active
+,,,,,,,R,08:35 AM-11:25 AM,,,,,"Hani  Mitri",12/04-12/04,ADAMS 126,Active
+2341,MIME,494,001,Field Course (GDEU),2.000,"Industrial Work Period 4.",,TBA,20,0,0,0,"Hani  Mitri",09/02-12/04,TBA,Active
+12678,MIME,513,001,Lecture,3.000,"Mine Planning Optimization Under Uncertainty.",M,10:05 AM-12:55 PM,20,0,0,0,"Roussos G  Dimitrakopoulos",09/02-12/04,ADAMS 126,Active
+,,,,,,,R,10:05 AM-12:55 PM,,,,,"Roussos G  Dimitrakopoulos",12/04-12/04,ADAMS 126,Active
+12912,MIME,513,002,Laboratory,0.000,"Mine Planning Optimization Under Uncertainty.",W,10:05 AM-12:55 PM,20,0,0,0,"Roussos G  Dimitrakopoulos",09/02-12/04,ADAMS 126,Active
+18753,MIME,515,001,Lecture,3.000,"Material Surfaces: A Biomimetic Approach.",TR,01:05 PM-02:25 PM,30,0,0,0,"Anne-Marie  Kietzig, Marta  Cerruti",09/02-12/03,WONG 1050,Active
+18976,MIME,515,002,Lecture,3.000,"Material Surfaces: A Biomimetic Approach.",TR,01:05 PM-02:25 PM,10,0,0,0,"Marta  Cerruti",09/02-12/03,WONG 1050,Active
+3588,MIME,521,001,Lecture,3.000,"Stability of Underground Openings.",TR,02:35 PM-03:55 PM,20,0,0,0,"Hani  Mitri",09/02-12/03,ADAMS 126,Active
+3589,MIME,521,002,Tutorial,0.000,"Stability of Underground Openings.",W,02:35 PM-05:25 PM,20,0,0,0,"Hani  Mitri",09/02-12/04,ADAMS 126,Active
+9028,MIME,522,001,Lecture,3.000,"Mineral Reserve Assessment Techniques.",,TBA,0,0,0,0,TBA,09/02-12/04,TBA,Cancelled
+12911,MIME,522,002,Laboratory,0.000,"Mineral Reserve Assessment Techniques.",,TBA,0,0,0,0,TBA,09/02-12/04,TBA,Cancelled
+16956,MIME,559,001,Lecture,3.000,"Aluminum Physical Metallurgy.",TR,11:35 AM-12:55 PM,15,0,0,0,TBA,09/02-12/03,TBA,Cancelled
+17009,MIME,559,002,Lecture,3.000,"Aluminum Physical Metallurgy.",TR,11:35 AM-12:55 PM,5,0,0,0,TBA,09/02-12/03,TBA,Cancelled
+16957,MIME,559,003,Laboratory,0.000,"Aluminum Physical Metallurgy.",T,02:35 PM-03:55 PM,15,0,0,0,TBA,09/02-12/04,TBA,Cancelled
+17010,MIME,559,004,Laboratory,0.000,"Aluminum Physical Metallurgy.",T,02:35 PM-03:55 PM,5,0,0,0,TBA,09/02-12/04,TBA,Cancelled
+8401,MIME,569,001,Lecture,3.000,"Electron Beam Analysis of Materials.",F,12:35 PM-02:25 PM,15,0,0,0,"Raynald  Gauvin",09/02-12/04,ENGMC 12,Active
+13760,MIME,569,002,Lecture,3.000,"Electron Beam Analysis of Materials.",F,12:35 PM-02:25 PM,10,0,0,0,"Raynald  Gauvin",09/02-12/04,ENGMC 12,Active
+8405,MIME,569,003,Laboratory,0.000,"Electron Beam Analysis of Materials.",R,02:35 PM-05:25 PM,15,0,0,0,TBA,09/02-12/03,WONG 1050,Active
+13807,MIME,569,004,Laboratory,0.000,"Electron Beam Analysis of Materials.",R,02:35 PM-05:25 PM,10,0,0,0,TBA,09/02-12/03,WONG 1050,Active
+16405,MIME,570,001,Lecture,3.000,"Micro- and Nano-Fabrication Fundamentals.",TR,10:05 AM-11:25 AM,10,0,0,0,"Nathaniel Joseph Quitoriano",09/02-12/03,ENGTR 1080,Active
+17011,MIME,570,002,Lecture,3.000,"Micro- and Nano-Fabrication Fundamentals.",TR,10:05 AM-11:25 AM,10,0,0,0,"Nathaniel Joseph Quitoriano",09/02-12/03,ENGTR 1080,Active
+18732,MIME,571,001,Lecture,3.000,"Surface Engineering.",MW,10:05 AM-11:25 AM,20,0,0,0,"Richard Raymond Chromik",09/02-12/04,MAASS 328,Active
+,,,,,,,R,10:05 AM-11:25 AM,,,,,"Richard Raymond Chromik",12/04-12/04,MAASS 328,Active
+18750,MIME,571,002,Lecture,3.000,"Surface Engineering.",MW,10:05 AM-11:25 AM,5,0,0,0,"Richard Raymond Chromik",09/02-12/04,MAASS 328,Active
+,,,,,,,R,10:05 AM-11:25 AM,,,,,"Richard Raymond Chromik",12/04-12/04,MAASS 328,Active
+18126,MIME,588,001,Lecture,3.000,"Reliability Analysis of Mining Systems.",TR,01:05 PM-02:25 PM,20,0,0,0,"Mustafa  Kumral",09/02-12/03,ADAMS 126,Active
+McGill/Poly Mining Coop
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+219,MPMC,320,001,Lecture,3.000,"CAO et informatique pour les mines.",T,12:45 PM-02:35 PM,17,0,0,0,"Hani  Mitri",09/02-12/04,POLY ,Active
+220,MPMC,320,002,Laboratory,0.000,"CAO et informatique pour les mines.",W,12:45 PM-02:35 PM,17,0,0,0,"Hani  Mitri",09/02-12/04,POLY ,Active
+222,MPMC,321,001,Lecture,3.000,"Mécanique des roches et contrôle des terrains.",W,09:30 AM-12:20 PM,17,0,0,0,"Hani  Mitri",09/02-12/04,POLY ,Active
+224,MPMC,321,002,Laboratory,0.000,"Mécanique des roches et contrôle des terrains.",F,08:30 AM-11:20 AM,17,0,0,0,"Hani  Mitri",09/02-12/04,POLY ,Active
+228,MPMC,326,001,Lecture,3.000,"Recherche opérationnelle I.",T,08:30 AM-11:20 AM,17,0,0,0,"Hani  Mitri",09/02-12/04,POLY ,Active
+230,MPMC,326,002,Laboratory,0.000,"Recherche opérationnelle I.",M,08:30 AM-11:20 AM,17,0,0,0,"Hani  Mitri",09/02-12/04,POLY ,Active
+,,,,,,,R,08:30 AM-11:20 AM,,,,,"Hani  Mitri",12/04-12/04,POLY ,Active
+232,MPMC,329,001,Lecture,2.000,"Géologie minière.",W,03:45 PM-05:35 PM,17,0,0,0,"Hani  Mitri",09/02-12/04,POLY ,Active
+,,,,,,,R,04:45 PM-05:35 PM,,,,,"Hani  Mitri",09/02-12/03,POLY ,Active
+233,MPMC,329,002,Laboratory,0.000,"Géologie minière.",F,12:45 PM-03:35 PM,17,0,0,0,"Hani  Mitri",09/02-12/04,POLY ,Active
+235,MPMC,330,001,Lecture,3.000,"Géotechnique minière.",T,02:45 PM-05:35 PM,17,0,0,0,"Hani  Mitri",09/02-12/04,POLY ,Active
+237,MPMC,330,002,Laboratory,0.000,"Géotechnique minière.",R,01:45 PM-04:35 PM,17,0,0,0,"Hani  Mitri",09/02-12/03,POLY ,Active
+Registration
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+2903,REGN,WDEN,001,Registration Course,0.000,"Withdrawn from the University",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+Urban Planning
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+3138,URBP,507,001,Field Course (DEPT),3.000,"Planning and Infrastructure.",,TBA,35,0,0,0,"Heather L Braiden, Lisa Margaret Bornstein",09/02-12/04,NOROOM NEEDED,Active
+3139,URBP,519,001,Field Course (DEPT),6.000,"Sustainable Development Plans.",,TBA,35,0,0,0,"Inteaz  Alli",09/02-12/04,NOROOM NEEDED,Active
+5404,URBP,520,001,Field Course (DEPT),3.000,"Globalization: Planning and Change.",,TBA,45,0,0,0,"Leroy E  Phillip, Inteaz  Alli",09/02-12/04,NOROOM NEEDED,Active

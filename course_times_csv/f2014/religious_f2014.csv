@@ -1,0 +1,43 @@
+External
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+2414,EXTL,EXRS,015,Exchange Term Away,0.000,"Exchnge Term Away-Religious St",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2512,EXTL,IURS,001,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2513,EXTL,IURS,002,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2514,EXTL,IURS,003,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2515,EXTL,IURS,004,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2516,EXTL,IURS,005,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2517,EXTL,IURS,006,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2518,EXTL,IURS,007,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2519,EXTL,IURS,008,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2520,EXTL,IURS,009,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2521,EXTL,IURS,010,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2522,EXTL,IURS,011,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2523,EXTL,IURS,012,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2430,EXTL,LARS,001,Leave of Absence,0.000,"Leave of Absence-Religious St",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2400,EXTL,TARS,001,Term Away,0.000,"Term Away-Religious Studies",TBA,TBA,999,0,0,0,TBA,09/02-12/04,TBA,Active
+Registration
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+2907,REGN,WDRS,001,Registration Course,0.000,"Withdrawn from the University",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+Religious Studies
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+3076,RELG,264,001,Lecture,3.000,"Introductory Tibetan 1.",TRF,10:35 AM-11:25 AM,15,0,0,0,"Thomas Whitney Troughton",09/02-12/03,BIRKS 017,Active
+2176,RELG,280D1,001,Lecture,3.000,"Elementary New Testament Greek.",M,10:35 AM-11:25 AM,15,0,0,0,"Sean Alan Ross",09/02-12/04,BIRKS 017,Active
+,,,,,,,TR,10:35 AM-11:25 AM,,,,,"Sean Alan Ross",09/02-12/03,BIRKS 104,Active
+,,,,,,,R,10:35 AM-11:25 AM,,,,,"Sean Alan Ross",12/04-12/04,BIRKS 017,Active
+17300,RELG,303,001,Lecture,3.000,"Literature of Ancient Israel 2.",MW,10:05 AM-11:25 AM,55,0,0,0,"Gerbern Sibern Oegema",09/02-12/04,BIRKS 205,Active
+,,,,,,,R,10:05 AM-11:25 AM,,,,,"Gerbern Sibern Oegema",12/04-12/04,BIRKS 205,Active
+2178,RELG,311,001,Lecture,3.000,"New Testament Studies 1.",MW,08:35 AM-09:55 AM,60,0,0,0,"Frederick  Tappenden",09/02-12/04,BIRKS 203,Active
+,,,,,,,R,08:35 AM-09:55 AM,,,,,"Frederick  Tappenden",12/04-12/04,BIRKS 203,Active
+2179,RELG,322,001,Lecture,3.000,"The Church in History 1.",TR,08:35 AM-09:55 AM,25,0,0,0,"W J Torrance  Kirby",09/02-12/03,BIRKS 105,Active
+2181,RELG,341,001,Lecture,3.000,"Introduction: Philosophy of Religion.",TR,10:05 AM-11:25 AM,58,0,0,0,"Garth Warwick Green",09/02-12/03,BIRKS 205,Active
+22,RELG,381,001,Seminar,3.000,"Advanced New Testament Greek.",MW,08:35 AM-09:55 AM,15,0,0,0,"Ian H  Henderson",09/02-12/04,BIRKS 105,Active
+,,,,,,,R,08:35 AM-09:55 AM,,,,,"Ian H  Henderson",12/04-12/04,BIRKS 105,Active
+11987,RELG,390D1,001,Lecture,3.000,"Elementary Biblical Hebrew.",TR,04:05 PM-05:25 PM,10,0,0,0,"Youngho  Jang, Patricia  Kirkpatrick",09/02-12/03,BIRKS 105,Active
+19115,RELG,407,001,Lecture,3.000,"The Writings.",TR,11:35 AM-12:55 PM,20,0,0,0,"Patricia  Kirkpatrick",09/02-12/03,BIRKS 104,Active
+24,RELG,434,001,Lecture,3.000,"Principles of Christian Theology 2.",TR,08:35 AM-09:55 AM,20,0,0,0,"John  Simons",09/02-12/03,BIRKS 104,Active
+3392,RELG,470,001,Lecture,3.000,"Theological Ethics.",TR,01:05 PM-02:25 PM,20,0,0,0,"Douglas B  Farrow",09/02-12/03,BIRKS 104,Active
+19119,RELG,471,001,Lecture,3.000,"Christian Social Ethics.",TR,02:35 PM-03:55 PM,50,0,0,0,TBA,09/02-12/03,BIRKS 111,Cancelled
+14033,RELG,491,001,Lecture,3.000,"Hebrew Texts.",W,01:35 PM-03:25 PM,10,0,0,0,"Patricia  Kirkpatrick",09/02-12/04,BIRKS 104,Active
+19386,RELG,498,001,Lecture,3.000,"Special Studies.",MWF,11:35 AM-12:25 PM,1,0,0,0,TBA,09/02-12/04,BIRKS 105,Active
+,,,,,,,R,11:35 AM-12:25 PM,,,,,TBA,12/04-12/04,BIRKS 105,Active
+14382,RELG,541,001,Tutorial,3.000,"Theological Ethics.",TR,01:05 PM-02:25 PM,10,0,0,0,"Douglas B  Farrow",09/02-12/03,BIRKS 104,Active

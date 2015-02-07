@@ -1,0 +1,392 @@
+Arts Education
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+2132,EDEA,204,001,Studio,3.000,"Drawing.",M,08:35 AM-11:25 AM,18,0,0,0,"Celina  Segal",09/02-12/04,EDUC 632,Active
+,,,,,,,R,08:35 AM-11:25 AM,,,,,"Celina  Segal",12/04-12/04,EDUC 632,Active
+2133,EDEA,205,001,Studio,3.000,"Painting 2.",M,12:35 PM-03:25 PM,18,0,0,0,"Anne Elizabeth Ashton",09/02-12/04,EDUC 632,Active
+,,,,,,,R,12:35 PM-03:25 PM,,,,,"Anne Elizabeth Ashton",12/04-12/04,EDUC 632,Active
+2134,EDEA,241,001,Studio,3.000,"Basic Art Media for Classroom.",T,02:35 PM-05:25 PM,35,0,0,0,"Nancy Veronika  Horlik",09/02-12/04,EDUC 437,Active
+15012,EDEA,241,002,Break-Out Room,0.000,"Basic Art Media for Classroom.",T,02:35 PM-05:25 PM,16,0,0,0,"Janette Lynn Haggar",09/02-12/04,EDUC 604,Registration Not Required
+3832,EDEA,304,001,Studio,3.000,"Painting 3.",M,12:35 PM-03:25 PM,6,0,0,0,"Anne Elizabeth Ashton",09/02-12/04,EDUC 632,Active
+,,,,,,,R,12:35 PM-03:25 PM,,,,,"Anne Elizabeth Ashton",12/04-12/04,EDUC 632,Active
+4994,EDEA,307,001,Studio,3.000,"Drawing 2.",M,08:35 AM-11:25 AM,6,0,0,0,"Celina  Segal",09/02-12/04,EDUC 632,Active
+,,,,,,,R,08:35 AM-11:25 AM,,,,,"Celina  Segal",12/04-12/04,EDUC 632,Active
+2135,EDEA,332,001,Lecture,3.000,"Art Curriculum and Instruction - Elementary.",M,08:35 AM-11:25 AM,40,0,0,0,"Janette Lynn Haggar",09/02-12/04,EDUC 437,Active
+,,,,,,,R,08:35 AM-11:25 AM,,,,,"Janette Lynn Haggar",12/04-12/04,EDUC 437,Active
+11022,EDEA,332,002,Break-Out Room,0.000,"Art Curriculum and Instruction - Elementary.",M,08:35 AM-11:25 AM,20,0,0,0,TBA,09/02-12/04,EDUC 604,Registration Not Required
+,,,,,,,R,08:35 AM-11:25 AM,,,,,TBA,12/04-12/04,EDUC 604,Registration Not Required
+15805,EDEA,332,003,Lecture,3.000,"Art Curriculum and Instruction - Elementary.",R,11:35 AM-02:25 PM,40,0,0,0,"Renee Elizabeth Jackson",09/02-12/03,EDUC 437,Active
+16792,EDEA,332,004,Break-Out Room,0.000,"Art Curriculum and Instruction - Elementary.",R,11:35 AM-02:25 PM,20,0,0,0,TBA,09/02-12/03,EDUC 632,Registration Not Required
+13442,EDEA,342,001,Lecture,3.000,"Curriculum and Instruction in Drama Education.",M,11:35 AM-02:25 PM,39,0,0,0,"Mindy Roberta Carter",09/02-12/04,TBA,Active
+,,,,,,,R,11:35 AM-02:25 PM,,,,,"Mindy Roberta Carter",12/04-12/04,TBA,Active
+3375,EDEA,345,001,Lecture,3.000,"Music Curriculum and Instruction for Generalists.",M,11:35 AM-02:25 PM,40,0,0,0,"Helene  Boucher",09/02-12/04,EDUC 624,Active
+,,,,,,,R,11:35 AM-02:25 PM,,,,,"Helene  Boucher",12/04-12/04,EDUC 624,Active
+3376,EDEA,442,001,Lecture,3.000,"Methods in Music Education 1.",F,08:35 AM-11:25 AM,20,0,0,0,"Lisa Marie  Lorenzino, Helene  Boucher",09/02-12/04,EDUC 624,Active
+3953,EDEA,496,001,Studio,3.000,"Sculpture 1.",T,05:35 PM-08:25 PM,20,0,0,0,"Celina  Segal",09/02-12/04,EDUC 604,Active
+4776,EDEA,496,002,Break-Out Room,0.000,"Sculpture 1.",T,05:35 PM-08:25 PM,20,0,0,0,"Celina  Segal",09/02-12/04,EDUC 632,Registration Not Required
+Curriculum and Instruction
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+1060,EDEC,201,001,Seminar,1.000,"First Year Professional Seminar.",F,02:35 PM-05:25 PM,33,0,0,0,"Enzo  Di Ioia",11/21-12/12,EDUC 433,Active
+1061,EDEC,201,002,Seminar,1.000,"First Year Professional Seminar.",F,08:35 AM-11:25 AM,33,0,0,0,"Deborah A G  Heuff-Munro",11/21-12/12,EDUC 433,Active
+1062,EDEC,201,003,Seminar,1.000,"First Year Professional Seminar.",F,11:35 AM-02:25 PM,33,0,0,0,"Ginette  Clarke",11/21-12/12,EDUC 211,Active
+3843,EDEC,201,004,Seminar,1.000,"First Year Professional Seminar.",F,11:35 AM-02:25 PM,33,0,0,0,"Suzan  Fournier",11/21-12/12,EDUC 437,Active
+3844,EDEC,201,005,Seminar,1.000,"First Year Professional Seminar.",F,08:35 AM-11:25 AM,33,0,0,0,"Constance  Buki",11/21-12/12,EDUC 338,Active
+3846,EDEC,201,006,Seminar,1.000,"First Year Professional Seminar.",F,02:35 PM-05:25 PM,33,0,0,0,"Donald  Houston",11/21-12/12,EDUC 434,Active
+3848,EDEC,201,007,Seminar,1.000,"First Year Professional Seminar.",F,11:35 AM-02:25 PM,33,0,0,0,TBA,11/21-12/12,EDUC 433,Active
+1063,EDEC,203,001,Lecture,3.000,"Communication in Education.",F,11:35 AM-02:25 PM,32,0,0,0,"Donna Lee  Smith",09/02-12/04,EDUC 338,Active
+1064,EDEC,203,002,Lecture,3.000,"Communication in Education.",F,02:35 PM-05:25 PM,32,0,0,0,"Donna Lee  Smith",09/02-12/04,EDUC 338,Active
+1065,EDEC,203,003,Lecture,3.000,"Communication in Education.",TR,08:35 AM-10:25 AM,32,0,0,0,"Jon G  Bradley",09/02-11/06,EDUC 338,Active
+1066,EDEC,203,004,Lecture,3.000,"Communication in Education.",MW,08:35 AM-10:25 AM,32,0,0,0,"Jon G  Bradley",09/02-11/12,EDUC 338,Active
+,,,,,,,R,08:35 AM-10:25 AM,,,,,"Jon G  Bradley",12/04-12/04,EDUC 338,Active
+19358,EDEC,215,001,Language Requirement,0.000,"English Exam for Teacher Certification.",,TBA,500,0,0,0,"Mariusz  Galczynski",11/11-11/14,TBA,Active
+3426,EDEC,247,001,Lecture,3.000,"Policy Issues in Quebec Education.",W,05:35 PM-08:25 PM,325,0,0,0,"Tino  Bordonaro",09/02-12/04,MCMED 522,Active
+10145,EDEC,247,002,Lecture,3.000,"Policy Issues in Quebec Education.",W,05:35 PM-08:25 PM,40,0,0,0,"Tino  Bordonaro",09/02-12/04,MCMED 522,Active
+5076,EDEC,247,761,Lecture,3.000,"Policy Issues in Quebec Education.",W,05:35 PM-08:25 PM,5,0,0,0,"Tino  Bordonaro",09/02-12/04,MCMED 522,Active
+3800,EDEC,248,001,Lecture,3.000,"Multicultural Education.",MW,11:35 AM-01:25 PM,100,0,0,0,"Ratna  Ghosh",09/02-11/12,MAASS 10,Active
+,,,,,,,R,11:35 AM-01:25 PM,,,,,"Ratna  Ghosh",12/04-12/04,MAASS 10,Active
+17963,EDEC,248,002,Lecture,3.000,"Multicultural Education.",MW,11:35 AM-01:25 PM,20,0,0,0,"Ratna  Ghosh",09/02-11/12,MAASS 10,Active
+,,,,,,,R,11:35 AM-01:25 PM,,,,,"Ratna  Ghosh",12/04-12/04,MAASS 10,Active
+6248,EDEC,248,003,Lecture,3.000,"Multicultural Education.",MW,11:35 AM-01:25 PM,100,0,0,0,"Mariusz  Galczynski",09/02-11/12,LEA 232,Active
+,,,,,,,R,11:35 AM-01:25 PM,,,,,"Mariusz  Galczynski",12/04-12/04,LEA 232,Active
+15780,EDEC,248,004,Lecture,3.000,"Multicultural Education.",MW,11:35 AM-01:25 PM,20,0,0,0,"Mariusz  Galczynski",09/02-11/12,LEA 232,Active
+,,,,,,,R,11:35 AM-01:25 PM,,,,,"Mariusz  Galczynski",12/04-12/04,LEA 232,Active
+10585,EDEC,249,001,Lecture,3.000,"Global Education and Social Justice.",MW,03:35 PM-05:25 PM,100,0,0,0,"Erin  Sirett",09/02-11/12,ENGMC 13,Active
+,,,,,,,R,03:35 PM-05:25 PM,,,,,"Erin  Sirett",12/04-12/04,ENGMC 13,Active
+15765,EDEC,249,002,Lecture,3.000,"Global Education and Social Justice.",MW,03:35 PM-05:25 PM,20,0,0,0,"Erin  Sirett",09/02-11/12,ENGMC 13,Active
+,,,,,,,R,03:35 PM-05:25 PM,,,,,"Erin  Sirett",12/04-12/04,ENGMC 13,Active
+3796,EDEC,260,001,Lecture,3.000,"Philosophical Foundations.",MW,09:35 AM-11:25 AM,115,0,0,0,"Boyd Eric  White",09/02-11/12,LEA 232,Active
+,,,,,,,R,09:35 AM-11:25 AM,,,,,"Boyd Eric  White",12/04-12/04,LEA 232,Active
+15766,EDEC,260,002,Lecture,3.000,"Philosophical Foundations.",MW,09:35 AM-11:25 AM,10,0,0,0,"Boyd Eric  White",09/02-11/12,LEA 232,Active
+,,,,,,,R,09:35 AM-11:25 AM,,,,,"Boyd Eric  White",12/04-12/04,LEA 232,Active
+3798,EDEC,260,003,Lecture,3.000,"Philosophical Foundations.",TR,02:35 PM-04:25 PM,135,0,0,0,"Boghos  Zanazanian",09/02-11/06,MCMED 504,Active
+15768,EDEC,260,004,Lecture,3.000,"Philosophical Foundations.",TR,02:35 PM-04:25 PM,30,0,0,0,"Boghos  Zanazanian",09/02-11/06,MCMED 504,Active
+3795,EDEC,261,001,Lecture,3.000,"Philosophy of Catholic Education.",TR,10:35 AM-12:25 PM,50,0,0,0,"Robert Joseph Di Pede",09/02-11/06,CURRIE 408/9,Active
+15769,EDEC,261,002,Lecture,3.000,"Philosophy of Catholic Education.",TR,10:35 AM-12:25 PM,20,0,0,0,"Robert Joseph Di Pede",09/02-11/06,CURRIE 408/9,Active
+3794,EDEC,262,001,Lecture,3.000,"Media, Technology and Education.",F,08:35 AM-11:25 AM,60,0,0,0,"Thomas James  Fullerton",09/02-12/04,EDUC 627,Active
+3921,EDEC,262,002,Lecture,3.000,"Media, Technology and Education.",F,08:35 AM-11:25 AM,10,0,0,0,"Thomas James  Fullerton",09/02-12/04,EDUC 627,Active
+11781,EDEC,262,003,Lecture,3.000,"Media, Technology and Education.",F,11:35 AM-02:25 PM,60,0,0,0,"Lisa  Trimble",09/02-12/04,EDUC 627,Active
+3922,EDEC,262,004,Lecture,3.000,"Media, Technology and Education.",F,11:35 AM-02:25 PM,10,0,0,0,"Lisa  Trimble",09/02-12/04,EDUC 627,Active
+9909,EDEC,351,001,Seminar,2.000,"Third Professional Seminar (Secondary).",F,08:35 AM-10:25 AM,30,0,0,0,"Naved  Bakali",09/02-12/05,EDUC 434,Active
+9911,EDEC,351,002,Seminar,2.000,"Third Professional Seminar (Secondary).",F,08:35 AM-10:25 AM,30,0,0,0,"Ginette  Clarke",09/02-12/05,EDUC 437,Active
+9910,EDEC,351,003,Seminar,2.000,"Third Professional Seminar (Secondary).",F,11:35 AM-01:25 PM,30,0,0,0,"Judy  Kenworthy-Grant",09/02-12/05,EDUC 431,Active
+Elementary Education
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+3045,EDEE,230,001,Lecture,3.000,"Elementary School Mathematics 1.",T,08:35 AM-11:25 AM,35,0,0,0,"Marta Anna Kobiela",09/02-12/04,EDUC 436,Active
+3044,EDEE,230,002,Lecture,3.000,"Elementary School Mathematics 1.",M,02:35 PM-05:25 PM,35,0,0,0,TBA,09/02-12/04,EDUC 436,Active
+,,,,,,,R,02:35 PM-05:25 PM,,,,,TBA,12/04-12/04,EDUC 436,Active
+3053,EDEE,230,003,Lecture,3.000,"Elementary School Mathematics 1.",W,02:35 PM-05:25 PM,35,0,0,0,"Marta Anna Kobiela",09/02-12/04,EDUC 436,Active
+3042,EDEE,230,004,Lecture,3.000,"Elementary School Mathematics 1.",M,08:35 AM-11:25 AM,35,0,0,0,"Annie  Savard",09/02-12/04,EDUC 436,Active
+,,,,,,,R,08:35 AM-11:25 AM,,,,,"Annie  Savard",12/04-12/04,EDUC 436,Active
+2993,EDEE,270,001,Lecture,3.000,"Elementary School Science.",W,01:35 PM-02:25 PM,130,0,0,0,TBA,09/02-12/04,ENGMC 13,Active
+3047,EDEE,270,002,Laboratory,0.000,"Elementary School Science.",R,12:35 PM-02:25 PM,26,0,0,0,TBA,09/02-12/03,EDUC 358,Active
+3048,EDEE,270,003,Laboratory,0.000,"Elementary School Science.",R,08:35 AM-10:25 AM,26,0,0,0,TBA,09/02-12/03,EDUC 358,Active
+3049,EDEE,270,004,Laboratory,0.000,"Elementary School Science.",R,10:35 AM-12:25 PM,26,0,0,0,TBA,09/02-12/03,EDUC 358,Active
+3050,EDEE,270,005,Laboratory,0.000,"Elementary School Science.",F,08:35 AM-10:25 AM,26,0,0,0,TBA,09/02-12/04,EDUC 358,Active
+3051,EDEE,270,006,Laboratory,0.000,"Elementary School Science.",F,11:35 AM-01:25 PM,26,0,0,0,TBA,09/02-12/04,EDUC 358,Active
+3852,EDEE,325,001,Lecture,3.000,"Children's Literature.",T,05:35 PM-08:25 PM,70,0,0,0,"Donna Lee  Smith",09/02-12/04,MCMED 1034,Active
+3851,EDEE,325,002,Lecture,3.000,"Children's Literature.",T,05:35 PM-08:25 PM,20,0,0,0,"Donna Lee  Smith",09/02-12/04,MCMED 1034,Active
+9917,EDEE,353,001,Lecture,3.000,"Teaching and Learning in the Elementary Classroom.",M,08:35 AM-11:25 AM,40,0,0,0,"David A  Dillon",09/02-12/08,EDUC 434,Active
+,,,,,,,R,08:35 AM-11:25 AM,,,,,"David A  Dillon",12/04-12/04,EDUC 434,Active
+9918,EDEE,353,002,Lecture,3.000,"Teaching and Learning in the Elementary Classroom.",M,02:35 PM-05:25 PM,40,0,0,0,"David A  Dillon",09/02-12/08,EDUC 433,Active
+,,,,,,,R,02:35 PM-05:25 PM,,,,,"David A  Dillon",12/04-12/04,EDUC 433,Active
+9919,EDEE,353,003,Lecture,3.000,"Teaching and Learning in the Elementary Classroom.",M,02:35 PM-05:25 PM,40,0,0,0,"Melanie  Bennett",09/02-12/08,EDUC 434,Active
+,,,,,,,R,02:35 PM-05:25 PM,,,,,"Melanie  Bennett",12/04-12/04,EDUC 434,Active
+9920,EDEE,353,004,Lecture,3.000,"Teaching and Learning in the Elementary Classroom.",M,02:35 PM-05:25 PM,40,0,0,0,"Marcia  Kennedy-Gaul",09/02-12/08,EDUC 437,Active
+,,,,,,,R,02:35 PM-05:25 PM,,,,,"Marcia  Kennedy-Gaul",12/04-12/04,EDUC 437,Active
+3336,EDEE,355,001,Lecture,3.000,"Classroom-based Evaluation.",M,02:35 PM-05:25 PM,40,0,0,0,"Christina Ryan  Delaney",09/02-12/08,EDUC 613,Active
+,,,,,,,R,02:35 PM-05:25 PM,,,,,"Christina Ryan  Delaney",12/04-12/04,EDUC 613,Active
+3337,EDEE,355,002,Lecture,3.000,"Classroom-based Evaluation.",M,11:35 AM-02:25 PM,40,0,0,0,"Lesley  Pasquin",09/02-12/08,EDUC 437,Active
+,,,,,,,R,11:35 AM-02:25 PM,,,,,"Lesley  Pasquin",12/04-12/04,EDUC 437,Active
+3338,EDEE,355,003,Lecture,3.000,"Classroom-based Evaluation.",M,11:35 AM-02:25 PM,40,0,0,0,"Sheryl  Smith-Gilman",09/02-12/01,EDUC 216,Active
+,,,,,,,R,11:35 AM-02:25 PM,,,,,"Sheryl  Smith-Gilman",12/04-12/04,EDUC 216,Active
+,,,,,,,M,11:35 AM-02:25 PM,,,,,"Sheryl  Smith-Gilman",12/08-12/08,EDUC 433,Active
+9912,EDEE,355,004,Lecture,3.000,"Classroom-based Evaluation.",M,11:35 AM-02:25 PM,40,0,0,0,"Teresa  Germano",09/02-12/08,EDUC 613,Active
+,,,,,,,R,11:35 AM-02:25 PM,,,,,"Teresa  Germano",12/04-12/04,EDUC 613,Active
+Admin & Policy Studies in Ed
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+3857,EDEM,220,001,Lecture,3.000,"Contemporary Issues in Education.",WF,08:35 AM-09:55 AM,60,0,0,0,"Lisa  Trimble",09/02-12/04,STBIO S3/3,Active
+10719,EDEM,220,002,Lecture,3.000,"Contemporary Issues in Education.",WF,08:35 AM-09:55 AM,25,0,0,0,"Lisa  Trimble",09/02-12/04,STBIO S3/3,Active
+19012,EDEM,220,003,Lecture,3.000,"Contemporary Issues in Education.",WF,08:35 AM-09:55 AM,15,0,0,0,"Lisa  Trimble",09/02-12/04,STBIO S3/3,Active
+Religious Studies
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+19013,EDER,309,001,Lecture,3.000,"The Religious Quest.",R,05:35 PM-08:25 PM,100,0,0,0,"Robert Joseph Di Pede",09/02-12/03,STBIO S3/3,Active
+17828,EDER,523,001,Lecture,3.000,"Teaching Judaism: Bible.",,TBA,1,0,0,0,"Eric  Caplan",09/02-12/04,TBA,Active
+17829,EDER,527,001,Topics Course,3.000,"Teaching Judaism: Special Topics.",,TBA,1,0,0,0,"Eric  Caplan",09/02-12/04,TBA,Active
+Secondary Education
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+9933,EDES,350,001,Lecture,3.000,"Classroom Practices (Secondary).",F,02:35 PM-05:25 PM,30,0,0,0,"John E  Commins",09/02-12/05,EDUC 629,Active
+9934,EDES,350,002,Lecture,3.000,"Classroom Practices (Secondary).",F,11:35 AM-02:25 PM,30,0,0,0,"William Keith  Wilcox",09/02-12/05,EDUC 629,Active
+9935,EDES,350,003,Lecture,3.000,"Classroom Practices (Secondary).",F,08:35 AM-11:25 AM,30,0,0,0,"Megan Elizabeth Webster",09/02-12/05,EDUC 629,Active
+13542,EDES,350,004,Lecture,3.000,"Classroom Practices (Secondary).",F,11:35 AM-02:25 PM,40,0,0,0,"James  Howden",09/02-12/05,EDUC 434,Active
+18720,EDES,350,005,Lecture,3.000,"Classroom Practices (Secondary).",F,11:35 AM-02:25 PM,15,0,0,0,"James  Howden",09/02-12/05,EDUC 434,Active
+3847,EDES,366,001,Lecture,3.000,"Literature for Young Adults.",M,05:35 PM-08:25 PM,40,0,0,0,"Connie  Morrison",09/02-12/04,STBIO S3/3,Active
+,,,,,,,R,05:35 PM-08:25 PM,,,,,"Connie  Morrison",12/04-12/04,STBIO S3/3,Active
+8984,EDES,366,002,Lecture,3.000,"Literature for Young Adults.",M,05:35 PM-08:25 PM,40,0,0,0,"Connie  Morrison",09/02-12/04,STBIO S3/3,Active
+,,,,,,,R,05:35 PM-08:25 PM,,,,,"Connie  Morrison",12/04-12/04,STBIO S3/3,Active
+Student Teaching
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+1131,EDFE,200,001,Field Course (GDEU),2.000,"First Field Experience (K/Elem & Secondary).",MTWR,TBA,115,0,0,0,"Fiona J  Benson",11/24-12/11,TBA,Active
+2323,EDFE,200,002,Field Course (GDEU),2.000,"First Field Experience (K/Elem & Secondary).",MTWR,TBA,130,0,0,0,"Fiona J  Benson",11/24-12/11,TBA,Active
+2974,EDFE,209,001,Field Course (GDEU),2.000,"First Field Experience (TESL).",MTWR,TBA,60,0,0,0,"Fiona J  Benson",11/24-12/11,TBA,Active
+7960,EDFE,306,001,Field Course (GDEU),8.000,"Third Field Experience (Kindergarten/Elementary).",TWRF,TBA,180,0,0,0,"Fiona J  Benson",09/02-12/03,TBA,Active
+,,,,,,,TWRF,TBA,,,,,"Fiona J  Benson",12/05-12/05,TBA,Active
+7962,EDFE,308,001,Field Course (GDEU),8.000,"Third Field Experience (Music).",MTWR,TBA,20,0,0,0,"Fiona J  Benson",09/02-12/04,TBA,Active
+1132,EDFE,351,001,Field Course (GDEU),8.000,"Third Field Experience (Secondary).",MTWR,TBA,100,0,0,0,"Fiona J  Benson",09/02-12/04,TBA,Active
+1133,EDFE,359,001,Field Course (GDEU),8.000,"Third Field Experience (TESL).",MTWR,TBA,50,0,0,0,"Fiona J  Benson",09/02-12/04,TBA,Active
+6430,EDFE,380,001,Field Course (GDEU),7.000,"Third Field Experience (Physical Education).",MTWRF,TBA,55,0,0,0,"Fiona J  Benson",10/14-11/28,TBA,Active
+3956,EDFE,406,001,Field Course (GDEU),7.000,"Fourth Field Experience (K/Elem).",,TBA,6,0,0,0,"Fiona J  Benson",09/02-12/04,TBA,Active
+7889,EDFE,407,001,Field Course (GDEU),7.000,"Fourth Field Experience (Music).",,TBA,1,0,0,0,"Fiona J  Benson",09/02-12/04,TBA,Temporarily closed
+7888,EDFE,451,001,Field Course (GDEU),7.000,"Fourth Field Experience (Secondary).",,TBA,1,0,0,0,"Fiona J  Benson",09/02-12/04,TBA,Temporarily closed
+14149,EDFE,459,001,Field Course (GDEU),7.000,"Fourth Field Experience (TESL).",,TBA,1,0,0,0,"Fiona J  Benson",09/02-12/04,TBA,Temporarily closed
+6606,EDFE,480,001,Field Course (GDEU),7.000,"Fourth Field Experience (Physical Education).",,TBA,3,0,0,0,"Fiona J  Benson",09/02-12/04,TBA,Active
+Education Field Montreal
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+10036,EDFM,260,001,Field Course (GDEU),1.000,"Stage de familiarisation.",,TBA,25,0,0,0,"Fiona J  Benson",09/02-12/04,TBA,Temporarily closed
+10038,EDFM,361,001,Field Course (GDEU),7.000,"Stage d'enseignement 1.",,TBA,25,0,0,0,"Fiona J  Benson",09/02-12/04,TBA,Active
+Kinesiology&Physical Education
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+3368,EDKP,204,001,Lecture,3.000,"Health Education.",MW,09:35 AM-10:25 AM,63,0,0,0,"Paula Louise  Bush",09/02-12/04,CURRIE 305/6,Active
+,,,,,,,R,09:35 AM-10:25 AM,,,,,"Paula Louise  Bush",12/04-12/04,CURRIE 305/6,Active
+3904,EDKP,204,002,Laboratory,0.000,"Health Education.",M,10:35 AM-11:25 AM,31,0,0,0,"Paula Louise  Bush",09/02-12/04,CURRIE G17,Active
+,,,,,,,R,10:35 AM-11:25 AM,,,,,"Paula Louise  Bush",12/04-12/04,CURRIE G17,Active
+3907,EDKP,204,003,Laboratory,0.000,"Health Education.",W,10:35 AM-11:25 AM,32,0,0,0,"Paula Louise  Bush",09/02-12/04,CURRIE G17,Active
+3943,EDKP,217,001,Physical Activities Skill,2.000,"Track & Field / Cross Country.",MW,10:35 AM-12:25 PM,43,0,0,0,"Dennis C  Barrett",09/02-10/10,CURRIE FIELDHOUSE,Active
+,,,,,,,TR,08:35 AM-10:25 AM,,,,,"Dennis C  Barrett",09/02-10/10,CURRIE 152,Active
+3387,EDKP,218,001,Physical Activities Skill,1.000,"Volleyball 1.",MW,01:35 PM-02:25 PM,30,0,0,0,"Rachele  Beliveau",09/02-12/04,CURRIE 124/1,Active
+,,,,,,,R,01:35 PM-02:25 PM,,,,,"Rachele  Beliveau",12/04-12/04,CURRIE 124/1,Active
+3388,EDKP,218,002,Physical Activities Skill,1.000,"Volleyball 1.",MW,02:35 PM-03:25 PM,30,0,0,0,"Rachele  Beliveau",09/02-12/04,CURRIE 124/1,Active
+,,,,,,,R,02:35 PM-03:25 PM,,,,,"Rachele  Beliveau",12/04-12/04,CURRIE 124/1,Active
+1085,EDKP,223,001,Physical Activities Skill,2.000,"Games: Principles and Practice.",TR,12:35 PM-02:25 PM,30,0,0,0,"Michael  Cicchillitti",09/02-12/03,CURRIE 124/1,Active
+1086,EDKP,223,002,Physical Activities Skill,2.000,"Games: Principles and Practice.",TR,02:35 PM-04:25 PM,30,0,0,0,"Michael  Cicchillitti",09/02-12/03,CURRIE 124/1,Active
+13736,EDKP,225,001,Physical Activities Skill,1.000,"Games: Principles and Practice 2.",T,10:05 AM-11:55 AM,30,0,0,0,"Michael  Cicchillitti",09/02-12/04,CURRIE 124/1,Active
+14034,EDKP,225,002,Physical Activities Skill,1.000,"Games: Principles and Practice 2.",R,10:05 AM-11:55 AM,30,0,0,0,"Michael  Cicchillitti",09/02-12/03,CURRIE 124/1,Active
+3945,EDKP,228,001,Physical Activities Skill,1.000,"Football 1.",TBA,TBA,25,0,0,0,TBA,09/02-12/04,TBA,Cancelled
+1087,EDKP,233,001,Physical Activities Skill,1.000,"Soccer.",MW,10:05 AM-11:25 AM,30,0,0,0,"Jose-Luis  Valdes",09/02-11/05,CURRIE STADIUM,Active
+,,,,,,,R,10:05 AM-11:25 AM,,,,,"Jose-Luis  Valdes",12/04-12/04,CURRIE STADIUM,Active
+1088,EDKP,233,002,Physical Activities Skill,1.000,"Soccer.",MW,08:35 AM-09:55 AM,30,0,0,0,"Jose-Luis  Valdes",09/02-11/05,CURRIE STADIUM,Active
+,,,,,,,R,08:35 AM-09:55 AM,,,,,"Jose-Luis  Valdes",12/04-12/04,CURRIE STADIUM,Active
+2991,EDKP,245,001,Physical Activities Skill,1.000,"Special Topics 01.",,TBA,5,0,0,0,TBA,09/02-12/04,NOROOM NEEDED,Active
+3942,EDKP,250,001,Field Course (GDEU),3.000,"Practicum 1.",,TBA,10,0,0,0,"Celena  Scheede",09/02-12/04,NOROOM NEEDED,Active
+18402,EDKP,250,015,Field Course (GDEU),3.000,"Practicum 1.",,TBA,7,0,0,0,"Celena  Scheede",09/02-12/04,TBA,Active
+16904,EDKP,250,016,Field Course (GDEU),3.000,"Practicum 1.",,TBA,1,0,0,0,"Lynn  Bookalam",09/02-12/04,TBA,Active
+4973,EDKP,254,001,Physical Activities Skill,1.000,"Principles of Dance.",M,11:35 AM-01:25 PM,60,0,0,0,TBA,09/02-12/04,CURRIE G17,Active
+,,,,,,,M,11:35 AM-01:25 PM,,,,,TBA,09/02-12/04,CURRIE ACTIVITY,Active
+,,,,,,,R,11:35 AM-01:25 PM,,,,,TBA,12/04-12/04,CURRIE G17,Active
+,,,,,,,R,11:35 AM-01:25 PM,,,,,TBA,12/04-12/04,CURRIE ACTIVITY,Active
+1089,EDKP,261,001,Lecture,3.000,"Motor Development.",W,11:35 AM-01:25 PM,153,0,0,0,"Benoit Jean-Christian Gentil",09/02-12/04,LEA 26,Active
+3964,EDKP,261,002,Lecture,3.000,"Motor Development.",W,11:35 AM-01:25 PM,15,0,0,0,"Benoit Jean-Christian Gentil",09/02-12/04,LEA 26,Active
+1090,EDKP,261,003,Laboratory,0.000,"Motor Development.",W,04:35 PM-05:25 PM,41,0,0,0,"Benoit Jean-Christian Gentil",09/02-12/04,CURRIE 305/6,Active
+1091,EDKP,261,004,Laboratory,0.000,"Motor Development.",M,01:35 PM-02:25 PM,43,0,0,0,"Benoit Jean-Christian Gentil",09/02-12/04,EDUC 211,Active
+,,,,,,,R,01:35 PM-02:25 PM,,,,,"Benoit Jean-Christian Gentil",12/04-12/04,EDUC 211,Active
+1093,EDKP,261,005,Laboratory,0.000,"Motor Development.",W,03:35 PM-04:25 PM,44,0,0,0,"Benoit Jean-Christian Gentil",09/02-12/04,CURRIE 305/6,Active
+1092,EDKP,261,006,Laboratory,0.000,"Motor Development.",M,10:35 AM-11:25 AM,43,0,0,0,"Benoit Jean-Christian Gentil",09/02-12/04,EDUC 211,Active
+,,,,,,,R,10:35 AM-11:25 AM,,,,,"Benoit Jean-Christian Gentil",12/04-12/04,EDUC 211,Active
+17283,EDKP,292,001,Lecture,3.000,"Nutrition and Wellness.",TR,04:05 PM-05:25 PM,175,0,0,0,"Hugues  Plourde",09/02-12/03,MDHAR G-10,Active
+2992,EDKP,293,001,Lecture,3.000,"Anatomy and Physiology.",TR,10:05 AM-11:25 AM,65,0,0,0,"Celena  Scheede",09/02-12/03,CURRIE 305/6,Active
+2990,EDKP,300,001,Lecture,3.000,"Special Topics 02.",,TBA,10,0,0,0,TBA,09/02-12/04,NOROOM NEEDED,Active
+16458,EDKP,300,008,Lecture,3.000,"Special Topics 02.",,TBA,1,0,0,0,"Dennis  Jensen",09/02-12/04,NOROOM NEEDED,Active
+16459,EDKP,300,011,Lecture,3.000,"Special Topics 02.",,TBA,4,0,0,0,"David J  Pearsall",09/02-12/04,NOROOM NEEDED,Active
+16742,EDKP,300,013,Lecture,3.000,"Special Topics 02.",,TBA,1,0,0,0,"Tanja  Taivassalo",09/02-12/04,NOROOM NEEDED,Active
+18568,EDKP,300,015,Lecture,3.000,"Special Topics 02.",,TBA,5,0,0,0,"Celena  Scheede",09/02-12/04,TBA,Active
+16773,EDKP,300,016,Lecture,3.000,"Special Topics 02.",,TBA,6,0,0,0,"Lynn  Bookalam",09/02-12/04,NOROOM NEEDED,Active
+17140,EDKP,311,001,Lecture,3.000,"Athletic Injuries.",WF,12:35 PM-02:25 PM,30,0,0,0,"Lynn  Bookalam",09/02-12/04,CURRIE COMBATIVES,Active
+,,,,,,,WF,12:35 PM-02:25 PM,,,,,"Lynn  Bookalam",09/02-12/04,CURRIE 152,Active
+1094,EDKP,330,001,Lecture,3.000,"Physical Activity and Health.",TR,08:35 AM-09:55 AM,155,0,0,0,"Ross  Andersen",09/02-12/03,LEA 26,Active
+3965,EDKP,330,002,Lecture,3.000,"Physical Activity and Health.",TR,08:35 AM-09:55 AM,15,0,0,0,"Ross  Andersen",09/02-12/03,LEA 26,Active
+5025,EDKP,350,001,Laboratory,3.000,"Physical Fitness Evaluation Methods.",M,02:35 PM-05:25 PM,27,0,0,0,"Celena  Scheede",09/02-12/04,CURRIE 152,Active
+,,,,,,,R,02:35 PM-05:25 PM,,,,,"Celena  Scheede",12/04-12/04,CURRIE 152,Active
+19093,EDKP,350,002,Laboratory,3.000,"Physical Fitness Evaluation Methods.",W,08:35 AM-11:25 AM,27,0,0,0,"Celena  Scheede",09/02-12/04,CURRIE 152,Active
+19094,EDKP,350,003,Laboratory,3.000,"Physical Fitness Evaluation Methods.",F,08:35 AM-11:25 AM,26,0,0,0,"Celena  Scheede",09/02-12/04,CURRIE 152,Active
+1095,EDKP,391,001,Lecture,3.000,"Physiology in Sport and Exercise.",TR,08:35 AM-09:55 AM,60,0,0,0,"Celena  Scheede",09/02-12/03,DUFF THTR 1,Active
+19096,EDKP,391,002,Tutorial,0.000,"Physiology in Sport and Exercise.",T,01:05 PM-02:25 PM,60,0,0,0,"Celena  Scheede",09/02-12/04,EDUC 624,Active
+3947,EDKP,395,001,Lecture,3.000,"Exercise Physiology.",TR,08:35 AM-09:55 AM,93,0,0,0,"Celena  Scheede",09/02-12/03,DUFF THTR 1,Active
+8045,EDKP,395,003,Laboratory,0.000,"Exercise Physiology.",M,08:35 AM-09:55 AM,31,0,0,0,"Celena  Scheede",09/02-09/28,CURRIE 352,Active
+,,,,,,,M,08:35 AM-09:55 AM,,,,,"Celena  Scheede",09/29-12/04,CURRIE 304,Active
+,,,,,,,R,08:35 AM-09:55 AM,,,,,"Celena  Scheede",12/04-12/04,CURRIE 304,Active
+8046,EDKP,395,004,Laboratory,0.000,"Exercise Physiology.",R,01:05 PM-02:25 PM,32,0,0,0,"Celena  Scheede",09/02-09/28,CURRIE 152,Active
+,,,,,,,R,01:05 PM-02:25 PM,,,,,"Celena  Scheede",09/29-12/03,CURRIE 304,Active
+8047,EDKP,395,005,Laboratory,0.000,"Exercise Physiology.",M,11:35 AM-12:55 PM,30,0,0,0,"Celena  Scheede",09/02-09/28,CURRIE ,Active
+,,,,,,,M,11:35 AM-12:55 PM,,,,,"Celena  Scheede",09/29-12/04,CURRIE ,Active
+,,,,,,,R,11:35 AM-12:55 PM,,,,,"Celena  Scheede",12/04-12/04,CURRIE ,Active
+3171,EDKP,400,001,Lecture,3.000,"Special Topics 03.",,TBA,5,0,0,0,TBA,09/02-12/04,NOROOM NEEDED,Active
+19736,EDKP,400,002,Lecture,3.000,"Special Topics 03.",,TBA,2,0,0,0,"Ross  Andersen",09/02-12/04,NOROOM NEEDED,Active
+16461,EDKP,400,008,Lecture,3.000,"Special Topics 03.",,TBA,3,0,0,0,"Dennis  Jensen",09/02-12/04,NOROOM NEEDED,Active
+18132,EDKP,400,011,Lecture,3.000,"Special Topics 03.",,TBA,2,0,0,0,"David J  Pearsall",09/02-12/04,NOROOM NEEDED,Active
+16872,EDKP,400,013,Lecture,3.000,"Special Topics 03.",,TBA,1,0,0,0,"Tanja  Taivassalo",09/02-12/04,NOROOM NEEDED,Active
+18381,EDKP,400,015,Lecture,3.000,"Special Topics 03.",,TBA,3,0,0,0,"Celena  Scheede",09/02-12/04,TBA,Active
+16859,EDKP,400,016,Lecture,3.000,"Special Topics 03.",,TBA,1,0,0,0,"Lynn  Bookalam",09/02-12/04,NOROOM NEEDED,Active
+19863,EDKP,400,020,Lecture,3.000,"Special Topics 03.",,TBA,1,0,0,0,"Shane Norman Sweet",09/02-12/04,NOROOM NEEDED,Active
+1096,EDKP,442,001,Lecture,3.000,"Physical Education Pedagogy.",TR,11:35 AM-01:25 PM,50,0,0,0,"William James  Harvey",09/02-10/10,CURRIE 305/6,Active
+3928,EDKP,442,002,Seminar,0.000,"Physical Education Pedagogy.",TR,01:35 PM-02:25 PM,25,0,0,0,"William James  Harvey",09/02-10/10,CURRIE 352,Active
+3930,EDKP,442,003,Seminar,0.000,"Physical Education Pedagogy.",TR,02:35 PM-03:25 PM,25,0,0,0,"William James  Harvey",09/02-10/10,CURRIE 352,Active
+3948,EDKP,443,001,Lecture,3.000,"Research Methods.",TR,11:35 AM-12:55 PM,121,0,0,0,"Lindsay  Duncan",09/02-09/29,SADB 2/36,Active
+,,,,,,,T,11:35 AM-12:55 PM,,,,,"Lindsay  Duncan",09/30-09/30,MCMED 504,Active
+,,,,,,,TR,11:35 AM-12:55 PM,,,,,"Lindsay  Duncan",10/01-12/03,SADB 2/36,Active
+,,,,,,,T,11:35 AM-12:55 PM,,,,,"Lindsay  Duncan",12/02-12/02,MCMED 504,Active
+18771,EDKP,446,001,Lecture,3.000,"Physical Activity and Ageing.",MW,11:35 AM-12:55 PM,65,0,0,0,"Russell Thomas Hepple",09/02-12/04,CURRIE 305/6,Active
+,,,,,,,R,11:35 AM-12:55 PM,,,,,"Russell Thomas Hepple",12/04-12/04,CURRIE 305/6,Active
+8335,EDKP,447,001,Lecture,3.000,"Motor Control.",MW,01:05 PM-02:25 PM,65,0,0,0,"Caroline  Paquette",09/02-12/04,CURRIE 305/6,Active
+,,,,,,,R,01:05 PM-02:25 PM,,,,,"Caroline  Paquette",12/04-12/04,CURRIE 305/6,Active
+18773,EDKP,449,001,Lecture,3.000,"Exercise Pathophysiology 2.",MW,10:05 AM-11:25 AM,90,0,0,0,"Tanja  Taivassalo",09/02-12/04,CURRIE 408/9,Active
+,,,,,,,R,10:05 AM-11:25 AM,,,,,"Tanja  Taivassalo",12/04-12/04,CURRIE 408/9,Active
+1097,EDKP,450,001,Field Course (GDEU),3.000,"Practicum 2.",,TBA,20,0,0,0,"Celena  Scheede",09/02-12/04,NOROOM NEEDED,Active
+18589,EDKP,450,015,Field Course (GDEU),3.000,"Practicum 2.",,TBA,1,0,0,0,"Celena  Scheede",09/02-12/04,TBA,Active
+3008,EDKP,451,001,Field Course (GDEU),3.000,"Personal Trainer Practicum.",,TBA,15,0,0,0,"Celena  Scheede",09/02-12/04,NOROOM NEEDED,Active
+18399,EDKP,451,015,Field Course (GDEU),3.000,"Personal Trainer Practicum.",,TBA,1,0,0,0,"Celena  Scheede",09/02-12/04,TBA,Active
+3223,EDKP,453,001,Research Course,3.000,"Research Practicum in Kinesiology.",,TBA,5,0,0,0,TBA,09/02-12/04,NOROOM NEEDED,Active
+16462,EDKP,453,002,Research Course,3.000,"Research Practicum in Kinesiology.",,TBA,2,0,0,0,"Ross  Andersen",09/02-12/04,NOROOM NEEDED,Active
+18597,EDKP,453,006,Research Course,3.000,"Research Practicum in Kinesiology.",,TBA,1,0,0,0,"William James  Harvey",09/02-12/04,TBA,Active
+16860,EDKP,453,007,Research Course,3.000,"Research Practicum in Kinesiology.",,TBA,2,0,0,0,"Russell Thomas Hepple",09/02-12/04,NOROOM NEEDED,Active
+16463,EDKP,453,008,Research Course,3.000,"Research Practicum in Kinesiology.",,TBA,4,0,0,0,"Dennis  Jensen",09/02-12/04,NOROOM NEEDED,Active
+16750,EDKP,453,009,Research Course,3.000,"Research Practicum in Kinesiology.",,TBA,1,0,0,0,"Theodore E. Milner",09/02-12/04,NOROOM NEEDED,Active
+16790,EDKP,453,011,Research Course,3.000,"Research Practicum in Kinesiology.",,TBA,4,0,0,0,"David J  Pearsall",09/02-12/04,NOROOM NEEDED,Active
+18133,EDKP,453,012,Research Course,3.000,"Research Practicum in Kinesiology.",,TBA,1,0,0,0,"Dilson J.E. Rassier",09/02-12/04,NOROOM NEEDED,Active
+16873,EDKP,453,013,Research Course,3.000,"Research Practicum in Kinesiology.",,TBA,1,0,0,0,"Tanja  Taivassalo",09/02-12/04,NOROOM NEEDED,Active
+18423,EDKP,453,015,Research Course,3.000,"Research Practicum in Kinesiology.",,TBA,2,0,0,0,"Celena  Scheede",09/02-12/04,TBA,Active
+18594,EDKP,453,017,Research Course,3.000,"Research Practicum in Kinesiology.",,TBA,1,0,0,0,"Caroline  Paquette",09/02-12/04,TBA,Active
+18136,EDKP,453,019,Research Course,3.000,"Research Practicum in Kinesiology.",,TBA,1,0,0,0,"Robert Thomas  Jagoe",09/02-12/04,NOROOM NEEDED,Active
+19602,EDKP,453,021,Research Course,3.000,"Research Practicum in Kinesiology.",,TBA,2,0,0,0,"Lindsay  Duncan",09/02-12/04,NOROOM NEEDED,Active
+1098,EDKP,498,001,Lecture,3.000,"Sport Psychology.",TR,08:35 AM-09:55 AM,95,0,0,0,"Gordon A. Bloom",09/02-12/03,CURRIE 408/9,Active
+3966,EDKP,498,002,Lecture,3.000,"Sport Psychology.",TR,08:35 AM-09:55 AM,5,0,0,0,"Gordon A. Bloom",09/02-12/03,CURRIE 408/9,Active
+12625,EDKP,499,001,Project,6.000,"Undergraduate Honours Research Project.",,TBA,5,0,0,0,TBA,09/02-12/04,NOROOM NEEDED,Active
+19323,EDKP,499N2,008,Project,3.000,"Undergraduate Honours Research Project.",,TBA,1,0,0,0,"Dennis  Jensen",09/02-12/04,NOROOM NEEDED,Active
+Ed Psych & Couns (Counselling)
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+2062,EDPC,501,751,Lecture,3.000,"Helping Relationships.",M,06:05 PM-08:55 PM,20,0,0,0,"Antonio  Bernardelli",09/02-12/04,EDUC 211,Active
+,,,,,,,R,06:05 PM-08:55 PM,,,,,"Antonio  Bernardelli",12/04-12/04,EDUC 211,Active
+2063,EDPC,501,752,Lecture,3.000,"Helping Relationships.",M,06:05 PM-08:55 PM,5,0,0,0,"Antonio  Bernardelli",09/02-12/04,EDUC 211,Active
+,,,,,,,R,06:05 PM-08:55 PM,,,,,"Antonio  Bernardelli",12/04-12/04,EDUC 211,Active
+5244,EDPC,501,753,Lecture,3.000,"Helping Relationships.",M,06:05 PM-08:55 PM,7,0,0,0,"Antonio  Bernardelli",09/02-12/04,EDUC 211,Active
+,,,,,,,R,06:05 PM-08:55 PM,,,,,"Antonio  Bernardelli",12/04-12/04,EDUC 211,Active
+19654,EDPC,501,754,Lecture,3.000,"Helping Relationships.",M,06:05 PM-08:55 PM,10,0,0,0,"Antonio  Bernardelli",09/02-12/04,EDUC 211,Active
+,,,,,,,R,06:05 PM-08:55 PM,,,,,"Antonio  Bernardelli",12/04-12/04,EDUC 211,Active
+5245,EDPC,502,781,Lecture,3.000,"Group Processes and Individuals.",W,06:05 PM-08:55 PM,20,0,0,0,TBA,09/02-12/04,EDUC ,Cancelled
+2064,EDPC,502,782,Lecture,3.000,"Group Processes and Individuals.",W,06:05 PM-08:55 PM,5,0,0,0,TBA,09/02-12/04,EDUC ,Cancelled
+2065,EDPC,505,761,Lecture,3.000,"Crisis Intervention Processes.",T,06:05 PM-08:55 PM,30,0,0,0,"Loris  Peternelli",09/02-12/04,EDUC 433,Active
+5246,EDPC,505,762,Lecture,3.000,"Crisis Intervention Processes.",T,06:05 PM-08:55 PM,10,0,0,0,"Loris  Peternelli",09/02-12/04,EDUC 433,Active
+18109,EDPC,509,001,Reading Course,3.000,"Individual Reading Course.",,TBA,0,0,0,0,TBA,09/02-12/04,TBA,Active
+18816,EDPC,540,771,Lecture,3.000,"Foundation of Family Life Education.",W,06:05 PM-08:55 PM,20,0,0,0,"Monica  Oala",09/02-12/04,EDUC 431,Active
+18818,EDPC,540,772,Lecture,3.000,"Foundation of Family Life Education.",W,06:05 PM-08:55 PM,10,0,0,0,"Monica  Oala",09/02-12/04,EDUC 431,Active
+Ed Psych & Couns (Psychology)
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+1115,EDPE,300,001,Lecture,3.000,"Educational Psychology.",MW,01:35 PM-03:25 PM,100,0,0,0,"Scott  Conrod",09/02-11/12,STBIO S3/3,Active
+,,,,,,,R,01:35 PM-03:25 PM,,,,,"Scott  Conrod",12/04-12/04,STBIO S3/3,Active
+1116,EDPE,300,002,Lecture,3.000,"Educational Psychology.",MW,01:35 PM-03:25 PM,10,0,0,0,"Scott  Conrod",09/02-11/12,STBIO S3/3,Active
+,,,,,,,R,01:35 PM-03:25 PM,,,,,"Scott  Conrod",12/04-12/04,STBIO S3/3,Active
+2184,EDPE,300,003,Lecture,3.000,"Educational Psychology.",TR,02:35 PM-04:25 PM,100,0,0,0,"Gus  Appignanesi",09/02-11/12,MCMED 1034,Active
+2959,EDPE,300,004,Lecture,3.000,"Educational Psychology.",TR,02:35 PM-04:25 PM,10,0,0,0,"Gus  Appignanesi",09/02-11/12,MCMED 1034,Active
+15608,EDPE,300,005,Lecture,3.000,"Educational Psychology.",MW,03:35 PM-05:25 PM,60,0,0,0,"Camelia  Birlean",09/02-11/12,MCMED 1034,Active
+,,,,,,,R,03:35 PM-05:25 PM,,,,,"Camelia  Birlean",12/04-12/04,MCMED 1034,Active
+15609,EDPE,300,006,Lecture,3.000,"Educational Psychology.",MW,03:35 PM-05:25 PM,50,0,0,0,"Camelia  Birlean",09/02-11/12,MCMED 1034,Active
+,,,,,,,R,03:35 PM-05:25 PM,,,,,"Camelia  Birlean",12/04-12/04,MCMED 1034,Active
+1117,EDPE,304,001,Lecture,3.000,"Measurement and Evaluation.",R,06:05 PM-08:55 PM,40,0,0,0,"Gus  Appignanesi",09/02-12/03,MCMED 206/7,Active
+10281,EDPE,304,002,Lecture,3.000,"Measurement and Evaluation.",R,06:05 PM-08:55 PM,40,0,0,0,"Gus  Appignanesi",09/02-12/03,MCMED 206/7,Active
+6460,EDPE,335,001,Lecture,3.000,"Instructional Psychology.",,TBA,25,0,0,0,TBA,09/02-12/04,TBA,Cancelled
+18973,EDPE,355,001,Lecture,3.000,"Cognition and Education.",W,06:05 PM-08:55 PM,10,0,0,0,"Alain  Breuleux",09/02-12/04,EDUC 539,Active
+18975,EDPE,355,002,Lecture,3.000,"Cognition and Education.",W,06:05 PM-08:55 PM,20,0,0,0,"Alain  Breuleux",09/02-12/04,EDUC 539,Active
+8239,EDPE,502,001,Lecture,3.000,"Theories of Human Development.",W,11:35 AM-02:25 PM,30,0,0,0,"Anna Maria Jankowska",09/02-12/04,EDUC 433,Active
+17899,EDPE,502,002,Lecture,3.000,"Theories of Human Development.",W,11:35 AM-02:25 PM,8,0,0,0,"Anna Maria Jankowska",09/02-12/04,EDUC 433,Active
+17063,EDPE,502,761,Lecture,3.000,"Theories of Human Development.",T,06:05 PM-08:55 PM,35,0,0,0,"Jacob A  Burack",09/02-12/04,EDUC 434,Active
+19266,EDPE,502,762,Lecture,3.000,"Theories of Human Development.",T,06:05 PM-08:55 PM,5,0,0,0,"Jacob A  Burack",09/02-12/04,EDUC 434,Active
+19361,EDPE,515,001,Lecture,3.000,"Gender Identity Development.",T,02:35 PM-05:25 PM,10,0,0,0,"Oleksandr  Fuks",09/02-12/04,EDUC 431,Active
+19027,EDPE,515,771,Lecture,3.000,"Gender Identity Development.",T,02:35 PM-05:25 PM,20,0,0,0,"Oleksandr  Fuks",09/02-12/04,EDUC 431,Active
+3501,EDPE,555,781,Lecture,3.000,"Introduction to Learning Sciences.",R,06:05 PM-08:55 PM,10,0,0,0,"Alain  Breuleux",09/02-12/03,EDUC 211,Active
+17064,EDPE,555,782,Lecture,3.000,"Introduction to Learning Sciences.",R,06:05 PM-08:55 PM,25,0,0,0,"Alain  Breuleux",09/02-12/03,EDUC 211,Active
+5533,EDPE,555,783,Lecture,3.000,"Introduction to Learning Sciences.",R,06:05 PM-08:55 PM,10,0,0,0,"Alain  Breuleux",09/02-12/03,EDUC 211,Active
+2251,EDPE,575,771,Lecture,3.000,"Educational Measurement.",W,06:05 PM-08:55 PM,20,0,0,0,"Camelia  Birlean",09/02-12/04,EDUC 437,Active
+17199,EDPE,575,772,Lecture,3.000,"Educational Measurement.",W,06:05 PM-08:55 PM,20,0,0,0,"Camelia  Birlean",09/02-12/04,EDUC 437,Active
+19211,EDPE,575,773,Lecture,3.000,"Educational Measurement.",W,06:05 PM-08:55 PM,40,0,0,0,"Carlos Andres Gomez-Garibello",09/02-12/04,ARTS W-215,Active
+Ed Psych & Couns (Inclusive)
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+17729,EDPI,309,720,Lecture,3.000,"Diverse Learners.",,TBA,20,0,0,0,"Roberta  Thomson",09/02-12/04,NOROOM NEEDED,Active
+1110,EDPI,341,001,Lecture,3.000,"Instruction in Inclusive Schools.",MW,10:05 AM-11:25 AM,100,0,0,0,TBA,09/02-12/04,STBIO S3/3,Active
+,,,,,,,R,10:05 AM-11:25 AM,,,,,TBA,12/04-12/04,STBIO S3/3,Active
+1111,EDPI,341,002,Lecture,3.000,"Instruction in Inclusive Schools.",TR,04:05 PM-05:25 PM,100,0,0,0,TBA,09/02-12/03,STBIO S3/3,Active
+1112,EDPI,341,003,Lecture,3.000,"Instruction in Inclusive Schools.",MW,10:05 AM-11:25 AM,100,0,0,0,TBA,09/02-12/04,MCMED 1034,Active
+,,,,,,,R,10:05 AM-11:25 AM,,,,,TBA,12/04-12/04,MCMED 1034,Active
+3853,EDPI,341,004,Lecture,3.000,"Instruction in Inclusive Schools.",WF,08:35 AM-09:55 AM,60,0,0,0,"Ozlem  Erten",09/02-12/04,ARTS W-215,Active
+18044,EDPI,341,005,Lecture,3.000,"Instruction in Inclusive Schools.",WF,08:35 AM-09:55 AM,40,0,0,0,"Ozlem  Erten",09/02-12/04,ARTS W-215,Active
+17312,EDPI,341,751,Lecture,3.000,"Instruction in Inclusive Schools.",M,06:05 PM-08:55 PM,20,0,0,0,"Scott  Conrod",09/02-12/04,MCMED 206/7,Active
+,,,,,,,R,06:05 PM-08:55 PM,,,,,"Scott  Conrod",12/04-12/04,MCMED 206/7,Active
+5250,EDPI,341,752,Lecture,3.000,"Instruction in Inclusive Schools.",M,06:05 PM-08:55 PM,20,0,0,0,"Scott  Conrod",09/02-12/04,MCMED 206/7,Active
+,,,,,,,R,06:05 PM-08:55 PM,,,,,"Scott  Conrod",12/04-12/04,MCMED 206/7,Active
+19039,EDPI,341,753,Lecture,3.000,"Instruction in Inclusive Schools.",M,06:05 PM-08:55 PM,40,0,0,0,"Scott  Conrod",09/02-12/04,MCMED 206/7,Active
+,,,,,,,R,06:05 PM-08:55 PM,,,,,"Scott  Conrod",12/04-12/04,MCMED 206/7,Active
+6625,EDPI,344,761,Lecture,3.000,"Assessment for Instruction.",T,06:05 PM-08:55 PM,35,0,0,0,"Carlos Andres Gomez-Garibello",09/02-12/04,EDUC 338,Active
+2205,EDPI,440,781,Lecture,3.000,"Managing the Inclusive Classroom.",R,06:05 PM-08:55 PM,30,0,0,0,TBA,09/02-12/03,TBA,Cancelled
+5251,EDPI,440,782,Lecture,3.000,"Managing the Inclusive Classroom.",R,06:05 PM-08:55 PM,5,0,0,0,TBA,09/02-12/03,TBA,Cancelled
+2067,EDPI,527,771,Lecture,3.000,"Creativity and its Cultivation.",W,06:05 PM-08:55 PM,15,0,0,0,TBA,09/02-12/04,EDUC 211,Active
+5252,EDPI,527,772,Lecture,3.000,"Creativity and its Cultivation.",W,06:05 PM-08:55 PM,25,0,0,0,TBA,09/02-12/04,EDUC 211,Active
+17077,EDPI,527,773,Lecture,3.000,"Creativity and its Cultivation.",W,06:05 PM-08:55 PM,5,0,0,0,TBA,09/02-12/04,EDUC 211,Active
+2068,EDPI,539,001,Lecture,3.000,"Field Work 1.",M,02:35 PM-05:25 PM,25,0,0,0,"Elana  Bloom",09/02-12/04,EDUC 338,Active
+,,,,,,,R,02:35 PM-05:25 PM,,,,,"Elana  Bloom",12/04-12/04,EDUC 338,Active
+6452,EDPI,539,002,Lecture,3.000,"Field Work 1.",,TBA,0,0,0,0,TBA,09/02-12/04,TBA,Active
+17198,EDPI,543,771,Lecture,3.000,"Family, School and Community.",W,06:05 PM-08:55 PM,25,0,0,0,TBA,09/02-12/04,EDUC 216,Active
+17205,EDPI,543,772,Lecture,3.000,"Family, School and Community.",W,06:05 PM-08:55 PM,20,0,0,0,TBA,09/02-12/04,EDUC 216,Active
+19051,EDPI,543,773,Lecture,3.000,"Family, School and Community.",W,06:05 PM-08:55 PM,10,0,0,0,TBA,09/02-12/04,EDUC 216,Active
+Ed Psych & Couns (Media)
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+5405,EDPT,200,761,Lecture,3.000,"Integrating Educational Technology in Classrooms.",M,06:05 PM-08:55 PM,30,0,0,0,"Sam  Bruzzese",09/02-12/04,EDUC 627,Active
+,,,,,,,R,06:05 PM-08:55 PM,,,,,"Sam  Bruzzese",12/04-12/04,EDUC 627,Active
+17078,EDPT,200,762,Lecture,3.000,"Integrating Educational Technology in Classrooms.",M,06:05 PM-08:55 PM,20,0,0,0,"Sam  Bruzzese",09/02-12/04,EDUC 627,Active
+,,,,,,,R,06:05 PM-08:55 PM,,,,,"Sam  Bruzzese",12/04-12/04,EDUC 627,Active
+2069,EDPT,204,751,Lecture,3.000,"Educational Media 1.",T,06:05 PM-08:55 PM,30,0,0,0,"Bev  Mitelman",09/02-12/04,EDUC 627,Active
+17079,EDPT,204,752,Lecture,3.000,"Educational Media 1.",T,06:05 PM-08:55 PM,20,0,0,0,"Bev  Mitelman",09/02-12/04,EDUC 627,Active
+Education in Second Languages
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+2744,EDSL,210,001,Seminar,1.000,"First Professional Seminar.",F,02:35 PM-05:25 PM,25,0,0,0,"Diane  Rinaldis",11/21-12/12,EDUC 431,Active
+14938,EDSL,210,002,Seminar,1.000,"First Professional Seminar.",F,02:35 PM-05:25 PM,25,0,0,0,"Philippa  Parks",11/21-12/12,EDUC 539,Active
+1054,EDSL,300,001,Lecture,3.000,"Foundations of L2 Education.",F,11:35 AM-02:25 PM,60,0,0,0,"Terry  Price",09/02-12/04,EDUC 624,Active
+19349,EDSL,300,002,Lecture,3.000,"Foundations of L2 Education.",F,11:35 AM-02:25 PM,10,0,0,0,"Terry  Price",09/02-12/04,EDUC 624,Active
+18885,EDSL,301,001,Lecture,3.000,"Étude de la langue.",M,05:35 PM-08:25 PM,15,0,0,0,"Gabriella  Pambianchi",09/02-12/04,EDUC 539,Active
+,,,,,,,R,05:35 PM-08:25 PM,,,,,"Gabriella  Pambianchi",12/04-12/04,EDUC 539,Active
+2989,EDSL,305,001,Lecture,3.000,"L2 Learning: Classroom Settings.",TR,08:35 AM-09:55 AM,50,0,0,0,TBA,09/02-12/03,EDUC 211,Active
+19351,EDSL,305,002,Lecture,3.000,"L2 Learning: Classroom Settings.",TR,08:35 AM-09:55 AM,10,0,0,0,TBA,09/02-12/03,EDUC 211,Active
+5030,EDSL,315,001,Lecture,2.000,"Third Year Professional Seminar.",F,08:35 AM-10:25 AM,40,0,0,0,"Mehdi  Babaei Chafjiri",09/02-12/05,EDUC 211,Active
+3951,EDSL,330,001,Lecture,3.000,"Literacy 1:Teaching Reading in ESL.",TR,02:35 PM-03:55 PM,50,0,0,0,"Philippa  Parks",09/02-12/03,EDUC 216,Active
+5228,EDSL,330,002,Lecture,3.000,"Literacy 1:Teaching Reading in ESL.",TR,02:35 PM-03:55 PM,5,0,0,0,"Philippa  Parks",09/02-12/03,EDUC 216,Active
+5019,EDSL,334,001,Lecture,3.000,"Teaching Oral Skills in ESL.",MW,11:35 AM-12:55 PM,50,0,0,0,"Andrew Hyunmin Lee",09/02-12/04,EDUC 627,Active
+,,,,,,,R,11:35 AM-12:55 PM,,,,,"Andrew Hyunmin Lee",12/04-12/04,EDUC 627,Active
+18886,EDSL,341,001,Lecture,3.000,"Littératie et littérature jeunesse en FLS.",R,05:35 PM-08:25 PM,20,0,0,0,TBA,09/02-12/03,EDUC 433,Active
+3859,EDSL,350,001,Lecture,3.000,"Essentials of English Grammar.",TR,12:35 PM-02:25 PM,55,0,0,0,"Mekhala  Sarkar",09/02-11/06,CURRIE 408/9,Active
+6250,EDSL,350,002,Lecture,3.000,"Essentials of English Grammar.",TR,12:35 PM-02:25 PM,25,0,0,0,"Mekhala  Sarkar",09/02-11/06,CURRIE 408/9,Active
+14540,EDSL,500,001,Lecture,3.000,"Foundations and Issues in Second Language Education.",,TBA,60,0,0,0,"Caroline Joan  Riches",09/02-12/04,NOROOM NEEDED,Active
+8711,EDSL,500,047,Lecture,3.000,"Foundations and Issues in Second Language Education.",,TBA,40,0,0,0,"Caroline Joan  Riches",09/02-12/04,TBA,Active
+18884,EDSL,515,001,Lecture,3.000,"Étude de la langue française pour enseignants.",M,05:35 PM-08:25 PM,15,0,0,0,"Gabriella  Pambianchi",09/02-12/04,EDUC 539,Active
+,,,,,,,R,05:35 PM-08:25 PM,,,,,"Gabriella  Pambianchi",12/04-12/04,EDUC 539,Active
+Education Teaching & Learning
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+18769,EDTL,508,001,Lecture,3.000,"Critical Influences on Educational Praxis.",R,05:35 PM-08:25 PM,45,0,0,0,"Lily Mikyung Han",09/02-12/03,EDUC 216,Active
+18770,EDTL,508,002,Lecture,3.000,"Critical Influences on Educational Praxis.",R,05:35 PM-08:25 PM,45,0,0,0,TBA,09/02-12/03,EDUC 436,Active
+18768,EDTL,520,001,Lecture,3.000,"Perspectives on Knowledge in Mathematics and Science.",T,05:35 PM-08:25 PM,35,0,0,0,TBA,09/02-12/04,STBIO S4/106,Active
+19304,EDTL,520,002,Lecture,3.000,"Perspectives on Knowledge in Mathematics and Science.",T,05:35 PM-08:25 PM,20,0,0,0,TBA,09/02-12/04,TBA,Active
+19290,EDTL,525,001,Lecture,3.000,"Teaching Science and Technology.",M,05:35 PM-08:25 PM,25,0,0,0,TBA,09/02-12/04,TBA,Active
+,,,,,,,R,05:35 PM-08:25 PM,,,,,TBA,12/04-12/04,TBA,Active
+19297,EDTL,525,002,Lecture,3.000,"Teaching Science and Technology.",M,05:35 PM-08:25 PM,20,0,0,0,TBA,09/02-12/04,TBA,Active
+,,,,,,,R,05:35 PM-08:25 PM,,,,,TBA,12/04-12/04,TBA,Active
+External
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+2411,EXTL,EXED,015,Exchange Term Away,0.000,"Exchange Term Away-Education",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2488,EXTL,IUED,001,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2489,EXTL,IUED,002,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2490,EXTL,IUED,003,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2491,EXTL,IUED,004,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2492,EXTL,IUED,005,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2493,EXTL,IUED,006,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2494,EXTL,IUED,007,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2495,EXTL,IUED,008,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2496,EXTL,IUED,009,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2497,EXTL,IUED,010,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2498,EXTL,IUED,011,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2499,EXTL,IUED,012,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+3707,EXTL,IUED,013,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+5894,EXTL,IUED,014,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,411,0,0,0,TBA,09/02-12/04,TBA,Active
+3703,EXTL,IUED,015,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+3704,EXTL,IUED,016,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+4930,EXTL,IUED,017,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+3705,EXTL,IUED,018,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+3706,EXTL,IUED,019,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2428,EXTL,LAED,001,Leave of Absence,0.000,"Leave of Absence-Education",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2398,EXTL,TAED,001,Term Away,0.000,"Term Away-Education",TBA,TBA,999,0,0,0,TBA,09/02-12/04,TBA,Active
+Registration
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+2906,REGN,WDED,001,Registration Course,0.000,"Withdrawn from the University",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active

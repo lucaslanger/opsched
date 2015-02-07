@@ -1,0 +1,959 @@
+External
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+2420,EXTL,EXMU,015,Exchange Term Away,0.000,"Exchange Term Away-Music",,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2572,EXTL,IUMU,001,Inter-University Transfer Crse,0.000,"Inter-University Transfer",,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2573,EXTL,IUMU,002,Inter-University Transfer Crse,0.000,"Inter-University Transfer",,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2574,EXTL,IUMU,003,Inter-University Transfer Crse,0.000,"Inter-University Transfer",,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2575,EXTL,IUMU,004,Inter-University Transfer Crse,0.000,"Inter-University Transfer",,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2576,EXTL,IUMU,005,Inter-University Transfer Crse,0.000,"Inter-University Transfer",,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2577,EXTL,IUMU,006,Inter-University Transfer Crse,0.000,"Inter-University Transfer",,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2578,EXTL,IUMU,007,Inter-University Transfer Crse,0.000,"Inter-University Transfer",,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2579,EXTL,IUMU,008,Inter-University Transfer Crse,0.000,"Inter-University Transfer",,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2580,EXTL,IUMU,009,Inter-University Transfer Crse,0.000,"Inter-University Transfer",,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2581,EXTL,IUMU,010,Inter-University Transfer Crse,0.000,"Inter-University Transfer",,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2582,EXTL,IUMU,011,Inter-University Transfer Crse,0.000,"Inter-University Transfer",,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2583,EXTL,IUMU,012,Inter-University Transfer Crse,0.000,"Inter-University Transfer",,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2438,EXTL,LAMU,001,Leave of Absence,0.000,"Leave of Absence-Music",,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2405,EXTL,TAMU,001,Term Away,0.000,"Term Away-Music",,TBA,999,0,0,0,TBA,09/02-12/04,TBA,Active
+Composition
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+1154,MUCO,260,001,Lecture,3.000,"Instruments of the Orchestra.",WF,01:35 PM-02:55 PM,30,0,0,0,"Melissa Ming Sum Hui",09/02-12/04,MUSIC E-109,Active
+12096,MUCO,261,001,Lecture,2.000,"Orchestration 1.",MW,03:35 PM-04:55 PM,25,0,0,0,"Denys  Bouliane",09/02-12/04,MUSIC C-411,Active
+,,,,,,,R,03:35 PM-04:55 PM,,,,,"Denys  Bouliane",12/04-12/04,TBA,Active
+1158,MUCO,340D1,001,Tutorial,2.000,"Composition 2.",,TBA,1,0,0,0,"Brian  Cherney",09/02-12/04,TBA,Active
+3649,MUCO,340D1,002,Tutorial,2.000,"Composition 2.",,TBA,1,0,0,0,"Sean Alastair  Ferguson",09/02-12/04,TBA,Active
+1159,MUCO,340D1,003,Tutorial,2.000,"Composition 2.",,TBA,1,0,0,0,"Denys  Bouliane",09/02-12/04,TBA,Active
+1161,MUCO,340D1,004,Tutorial,2.000,"Composition 2.",,TBA,1,0,0,0,"Jean  Lesage",09/02-12/04,TBA,Active
+1163,MUCO,340D1,005,Tutorial,2.000,"Composition 2.",,TBA,3,0,0,0,"Christopher Paul Harman",09/02-12/04,TBA,Active
+4642,MUCO,340D1,006,Tutorial,2.000,"Composition 2.",,TBA,1,0,0,0,"Jonathan  Wild",09/02-12/04,TBA,Active
+5940,MUCO,340D1,007,Tutorial,2.000,"Composition 2.",,TBA,1,0,0,0,"Christoph  Neidhofer",09/02-12/04,TBA,Active
+10814,MUCO,340D1,008,Tutorial,2.000,"Composition 2.",,TBA,1,0,0,0,"John  Rea",09/02-12/04,TBA,Active
+14482,MUCO,340D1,009,Tutorial,2.000,"Composition 2.",,TBA,1,0,0,0,"Melissa Ming Sum Hui",09/02-12/04,TBA,Active
+15722,MUCO,340D1,010,Tutorial,2.000,"Composition 2.",,TBA,1,0,0,0,"Philippe  Leroux",09/02-12/04,TBA,Active
+2227,MUCO,341,001,Lecture,3.000,"Digital Studio Composition 1.",F,08:35 AM-11:25 AM,12,0,0,0,"Philippe  Leroux",09/02-12/04,MUSIC E-518,Active
+1164,MUCO,440D1,001,Tutorial,2.000,"Composition 3.",,TBA,3,0,0,0,"Brian  Cherney",09/02-12/04,TBA,Active
+1166,MUCO,440D1,002,Tutorial,2.000,"Composition 3.",,TBA,2,0,0,0,"Sean Alastair  Ferguson",09/02-12/04,TBA,Active
+3280,MUCO,440D1,003,Tutorial,2.000,"Composition 3.",,TBA,1,0,0,0,"Denys  Bouliane",09/02-12/04,TBA,Active
+3650,MUCO,440D1,004,Tutorial,2.000,"Composition 3.",,TBA,1,0,0,0,"Jean  Lesage",09/02-12/04,TBA,Active
+1167,MUCO,440D1,005,Tutorial,2.000,"Composition 3.",,TBA,4,0,0,0,"Christopher Paul Harman",09/02-12/04,TBA,Active
+4813,MUCO,440D1,006,Tutorial,2.000,"Composition 3.",,TBA,1,0,0,0,"Jonathan  Wild",09/02-12/04,TBA,Active
+4814,MUCO,440D1,007,Tutorial,2.000,"Composition 3.",,TBA,3,0,0,0,"Christoph  Neidhofer",09/02-12/04,TBA,Active
+10815,MUCO,440D1,008,Tutorial,2.000,"Composition 3.",,TBA,1,0,0,0,"John  Rea",09/02-12/04,TBA,Active
+14483,MUCO,440D1,009,Tutorial,2.000,"Composition 3.",,TBA,1,0,0,0,"Melissa Ming Sum Hui",09/02-12/04,TBA,Active
+15218,MUCO,440D1,010,Tutorial,2.000,"Composition 3.",,TBA,1,0,0,0,"Philippe  Leroux",09/02-12/04,TBA,Active
+13668,MUCO,460,001,Lecture,2.000,"Orchestration 3.",M,01:35 PM-03:25 PM,20,0,0,0,"Christopher Paul Harman",09/02-12/04,MUSIC A-512,Active
+,,,,,,,R,01:35 PM-03:25 PM,,,,,"Christopher Paul Harman",12/04-12/04,TBA,Active
+3537,MUCO,541,001,Lecture,3.000,"Advanced Digital Studio Composition 1.",R,01:35 PM-04:25 PM,10,0,0,0,"Mario Marlon  Schumacher",09/02-12/03,MUSIC E-518,Active
+15649,MUCO,575,001,Lecture,3.000,"Topics in Composition.",TR,01:35 PM-02:55 PM,16,0,0,0,"Brian  Cherney",09/02-12/03,MUSIC C-411,Active
+Ensemble
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+1256,MUEN,496,001,Studio,2.000,"Opera Studio.",MTWRF,11:35 AM-01:25 PM,50,0,0,0,"Patrick John Hansen",09/02-12/04,MUSIC WIRTH OS,Active
+13227,MUEN,556,001,Studio,1.000,"Introduction to Collaborative Piano 1.",,TBA,20,0,0,0,TBA,09/02-12/04,TBA,Temporarily closed
+6529,MUEN,560,001,Studio,1.000,"Chamber Music Ensemble.",,TBA,100,0,0,0,"Douglas  McNabney, Caroline  Lizotte",09/02-12/04,TBA,Active
+7557,MUEN,560,002,Studio,1.000,"Chamber Music Ensemble.",,TBA,50,0,0,0,"Kyoko  Hashimoto, Douglas  McNabney",09/02-12/04,TBA,Active
+18510,MUEN,560,003,Studio,1.000,"Chamber Music Ensemble.",,TBA,50,0,0,0,"Andrew  Dunn",09/02-12/04,TBA,Active
+18546,MUEN,560,022,Studio,1.000,"Chamber Music Ensemble.",,TBA,50,0,0,0,"Alain  Cazes",09/02-12/04,TBA,Temporarily closed
+7500,MUEN,560,027,Studio,1.000,"Chamber Music Ensemble.",,TBA,20,0,0,0,"Matt  Haimovitz",09/02-12/04,TBA,Temporarily closed
+7559,MUEN,560,032,Studio,1.000,"Chamber Music Ensemble.",,TBA,25,0,0,0,"Abe  Kestenberg",09/02-12/04,TBA,Temporarily closed
+7497,MUEN,560,040,Studio,1.000,"Chamber Music Ensemble.",,TBA,50,0,0,0,"Andre J  Roy",09/02-12/04,TBA,Temporarily closed
+7504,MUEN,560,047,Studio,1.000,"Chamber Music Ensemble.",,TBA,50,0,0,0,"Yai-Yun  Huang",09/02-12/04,TBA,Temporarily closed
+15075,MUEN,560,048,Studio,1.000,"Chamber Music Ensemble.",,TBA,10,0,0,0,"Mark Daniel Fewer",09/02-12/04,TBA,Temporarily closed
+13225,MUEN,560,050,Studio,1.000,"Chamber Music Ensemble.",,TBA,50,0,0,0,"Andrew  Dunn",09/02-12/04,TBA,Temporarily closed
+18547,MUEN,560,053,Studio,1.000,"Chamber Music Ensemble.",,TBA,50,0,0,0,"Axel  Strauss",09/02-12/04,TBA,Temporarily closed
+16799,MUEN,560,054,Studio,1.000,"Chamber Music Ensemble.",,TBA,50,0,0,0,"Jacqueline Fairchild Leclair",09/02-12/04,TBA,Temporarily closed
+13223,MUEN,560,062,Studio,1.000,"Chamber Music Ensemble.",,TBA,50,0,0,0,"Carolyn  Christie",09/02-12/04,TBA,Temporarily closed
+13226,MUEN,560,063,Studio,1.000,"Chamber Music Ensemble.",,TBA,50,0,0,0,"Robert  Crowley",09/02-12/04,TBA,Temporarily closed
+11252,MUEN,560,064,Studio,1.000,"Chamber Music Ensemble.",,TBA,50,0,0,0,"Russell  Devuyst",09/02-12/04,TBA,Temporarily closed
+7498,MUEN,560,065,Studio,1.000,"Chamber Music Ensemble.",,TBA,50,0,0,0,"Elizabeth  Dolin",09/02-12/04,TBA,Temporarily closed
+13222,MUEN,560,066,Studio,1.000,"Chamber Music Ensemble.",,TBA,50,0,0,0,"Jean  Gaudreault",09/02-12/04,TBA,Temporarily closed
+16800,MUEN,560,071,Studio,1.000,"Chamber Music Ensemble.",,TBA,50,0,0,0,"Stephane  Levesque",09/02-12/04,TBA,Temporarily closed
+7507,MUEN,560,075,Studio,1.000,"Chamber Music Ensemble.",,TBA,50,0,0,0,"Dennis  Miller",09/02-12/04,TBA,Temporarily closed
+7576,MUEN,560,078,Studio,1.000,"Chamber Music Ensemble.",T,04:05 PM-06:25 PM,20,0,0,0,"Ali  Yazdanfar, Brian  Robinson",09/02-12/04,MUSIC C-310,Active
+16801,MUEN,560,101,Studio,1.000,"Chamber Music Ensemble.",,TBA,50,0,0,0,"Simon  Aldrich",09/02-12/04,TBA,Temporarily closed
+15084,MUEN,560,118,Studio,1.000,"Chamber Music Ensemble.",,TBA,50,0,0,0,"Denys  Derome",09/02-12/04,TBA,Temporarily closed
+13322,MUEN,560,119,Studio,1.000,"Chamber Music Ensemble.",,TBA,10,0,0,0,"Alain  Desgagne",09/02-12/04,TBA,Temporarily closed
+7508,MUEN,560,121,Studio,1.000,"Chamber Music Ensemble.",,TBA,50,0,0,0,"Trevor  Dix",09/02-12/04,TBA,Temporarily closed
+13224,MUEN,560,124,Studio,1.000,"Chamber Music Ensemble.",,TBA,50,0,0,0,"Yegor  Dyachkov",09/02-12/04,TBA,Temporarily closed
+9400,MUEN,560,132,Studio,1.000,"Chamber Music Ensemble.",,TBA,20,0,0,0,"Peter  Freeman",09/02-12/04,TBA,Temporarily closed
+15083,MUEN,560,147,Studio,1.000,"Chamber Music Ensemble.",,TBA,50,0,0,0,"Alexander David  Johnson",09/02-12/04,TBA,Temporarily closed
+7558,MUEN,560,182,Studio,1.000,"Chamber Music Ensemble.",,TBA,25,0,0,0,"Cindy  Shuter",09/02-12/04,TBA,Temporarily closed
+7502,MUEN,560,184,Studio,1.000,"Chamber Music Ensemble.",,TBA,50,0,0,0,"Jennifer  Swartz",09/02-12/04,TBA,Temporarily closed
+6530,MUEN,561,001,Studio,1.000,"2nd Chamber Music Ensemble.",,TBA,50,0,0,0,"Douglas  McNabney",09/02-12/04,TBA,Temporarily closed
+15197,MUEN,561,032,Studio,1.000,"2nd Chamber Music Ensemble.",,TBA,10,0,0,0,"Abe  Kestenberg",09/02-12/04,TBA,Temporarily closed
+16864,MUEN,561,035,Studio,1.000,"2nd Chamber Music Ensemble.",,TBA,5,0,0,0,"Douglas  McNabney",09/02-12/04,TBA,Temporarily closed
+15225,MUEN,561,064,Studio,1.000,"2nd Chamber Music Ensemble.",,TBA,10,0,0,0,"Russell  Devuyst",09/02-12/04,TBA,Temporarily closed
+15222,MUEN,561,118,Studio,1.000,"2nd Chamber Music Ensemble.",,TBA,1,0,0,0,"Denys  Derome",09/02-12/04,TBA,Temporarily closed
+14541,MUEN,562,001,Studio,1.000,"Guitar Ensemble.",,TBA,20,0,0,0,"Garry M W  Antonio",09/02-12/04,TBA,Active
+14575,MUEN,564,001,Studio,1.000,"Conducting Workshop.",,TBA,5,0,0,0,"Rudolf-Alexius  Hauser",09/02-12/04,TBA,Temporarily closed
+6531,MUEN,567,001,Laboratory,1.000,"Beethoven Orchestra.",M,06:35 PM-08:25 PM,100,0,0,0,"Rudolf-Alexius  Hauser",09/02-12/04,MUSIC ,Active
+,,,,,,,R,06:35 PM-08:25 PM,,,,,"Rudolf-Alexius  Hauser",12/04-12/04,MUSIC ,Active
+14873,MUEN,568,002,Studio,1.000,"Multiple Ensemble 1.",T,04:05 PM-06:25 PM,20,0,0,0,"Ali  Yazdanfar, Brian  Robinson",09/02-12/04,MUSIC C-310,Active
+13374,MUEN,568,003,Studio,1.000,"Multiple Ensemble 1.",R,02:35 PM-04:25 PM,20,0,0,0,"Jean  Gaudreault, Andrew  Dunn, Russell  Devuyst",09/02-12/03,MUSIC C-310,Temporarily closed
+16880,MUEN,568,004,Studio,1.000,"Multiple Ensemble 1.",T,01:35 PM-03:25 PM,10,0,0,0,"Jacqueline Fairchild Leclair",09/02-12/04,MUSIC C-310,Temporarily closed
+19701,MUEN,568,005,Studio,1.000,"Multiple Ensemble 1.",T,09:35 AM-11:25 AM,20,0,0,0,"Elizabeth  Dolin",09/02-12/04,MUSIC C-304,Active
+15687,MUEN,568,073,Studio,1.000,"Multiple Ensemble 1.",MW,01:35 PM-02:25 PM,25,0,0,0,"Shawn Eliot  Mativetsky",09/02-12/04,MUSIC C-310,Active
+,,,,,,,R,01:35 PM-02:25 PM,,,,,"Shawn Eliot  Mativetsky",12/04-12/04,MUSIC C-310,Active
+16848,MUEN,568,108,Studio,1.000,"Multiple Ensemble 1.",,TBA,5,0,0,0,"Remi  Bolduc",09/02-12/04,TBA,Temporarily closed
+16907,MUEN,568,178,Studio,1.000,"Multiple Ensemble 1.",,TBA,5,0,0,0,"Helene  Plouffe",09/02-12/04,TBA,Temporarily closed
+13647,MUEN,570,001,Studio,1.000,"Jazz Combo.",,TBA,100,0,0,0,"Donald Leyland  Kennedy",09/02-12/04,TBA,Active
+16906,MUEN,570,030,Studio,1.000,"Jazz Combo.",,TBA,10,0,0,0,"Jan  Jarczyk",09/02-12/04,TBA,Temporarily closed
+11328,MUEN,570,043,Studio,1.000,"Jazz Combo.",,TBA,50,0,0,0,"Andre  White",09/02-12/04,TBA,Temporarily closed
+7762,MUEN,570,108,Studio,1.000,"Jazz Combo.",,TBA,50,0,0,0,"Remi  Bolduc",09/02-12/04,TBA,Temporarily closed
+16881,MUEN,570,133,Studio,1.000,"Jazz Combo.",,TBA,10,0,0,0,"Michael  Gauthier",09/02-12/04,TBA,Temporarily closed
+15086,MUEN,570,136,Studio,1.000,"Jazz Combo.",,TBA,50,0,0,0,"David Mark  Gossage",09/02-12/04,TBA,Temporarily closed
+15224,MUEN,570,148,Studio,1.000,"Jazz Combo.",,TBA,50,0,0,0,"Jeffrey E H  Johnston",09/02-12/04,TBA,Temporarily closed
+16875,MUEN,570,150,Studio,1.000,"Jazz Combo.",,TBA,20,0,0,0,"David Christopher Laing",09/02-12/04,TBA,Temporarily closed
+7764,MUEN,570,158,Studio,1.000,"Jazz Combo.",,TBA,50,0,0,0,"Francisco J  Lozano",09/02-12/04,TBA,Temporarily closed
+9433,MUEN,570,161,Studio,1.000,"Jazz Combo.",,TBA,12,0,0,0,"William V  Mahar",09/02-12/04,TBA,Temporarily closed
+7768,MUEN,570,167,Studio,1.000,"Jazz Combo.",,TBA,50,0,0,0,"Christopher John McCann",09/02-12/04,TBA,Temporarily closed
+13288,MUEN,570,190,Studio,1.000,"Jazz Combo.",,TBA,10,0,0,0,"Joshua  Rager",09/02-12/04,TBA,Temporarily closed
+9435,MUEN,570,198,Studio,1.000,"Jazz Combo.",,TBA,50,0,0,0,"Joel  Miller",09/02-12/04,TBA,Temporarily closed
+13285,MUEN,570,204,Studio,1.000,"Jazz Combo.",,TBA,15,0,0,0,"Donald Leyland  Kennedy",09/02-12/04,TBA,Temporarily closed
+15087,MUEN,570,211,Studio,1.000,"Jazz Combo.",,TBA,50,0,0,0,"Dave  Turner",09/02-12/04,TBA,Temporarily closed
+7767,MUEN,570,215,Studio,1.000,"Jazz Combo.",,TBA,50,0,0,0,"Fraser  Hollins",09/02-12/04,TBA,Temporarily closed
+7615,MUEN,570,219,Studio,1.000,"Jazz Combo.",,TBA,50,0,0,0,"Chester Nathaniel Doxas",09/02-12/04,TBA,Temporarily closed
+9434,MUEN,570,220,Studio,1.000,"Jazz Combo.",,TBA,50,0,0,0,"Steve  Amirault",09/02-12/04,TBA,Temporarily closed
+18552,MUEN,570,221,Studio,1.000,"Jazz Combo.",,TBA,50,0,0,0,"David  Grott",09/02-12/04,TBA,Temporarily closed
+13287,MUEN,570,222,Studio,1.000,"Jazz Combo.",,TBA,50,0,0,0,"Allan Robert  McLean",09/02-12/04,TBA,Temporarily closed
+13289,MUEN,570,235,Studio,1.000,"Jazz Combo.",,TBA,50,0,0,0,"Carlos Alberto  Jimenez",09/02-12/04,TBA,Temporarily closed
+13305,MUEN,570,237,Studio,1.000,"Jazz Combo.",,TBA,10,0,0,0,"Paul Steven Rushka",09/02-12/04,TBA,Temporarily closed
+16876,MUEN,570,255,Studio,1.000,"Jazz Combo.",,TBA,20,0,0,0,"Chad Lamplugh Linsley",09/02-12/04,TBA,Temporarily closed
+9436,MUEN,570,302,Studio,1.000,"Jazz Combo.",,TBA,50,0,0,0,"Christine  Jensen",09/02-12/04,TBA,Temporarily closed
+7516,MUEN,570,314,Studio,1.000,"Jazz Combo.",,TBA,50,0,0,0,"Kenneth  Bibace",09/02-12/04,TBA,Temporarily closed
+6528,MUEN,572,001,Studio,2.000,"Cappella Antica.",MW,11:35 AM-01:25 PM,25,0,0,0,"Valerie  Kinslow",09/02-12/04,MUSIC C-413,Active
+,,,,,,,R,11:35 AM-01:25 PM,,,,,"Valerie  Kinslow",12/04-12/04,MUSIC C-413,Active
+6524,MUEN,573,001,Studio,2.000,"Baroque Orchestra.",MTR,04:35 PM-06:25 PM,50,0,0,0,"Hank  Knox",09/02-12/04,MUSIC WIRTH OS,Active
+6532,MUEN,578,001,Studio,1.000,"Song Interpretation 1.",F,01:35 PM-03:25 PM,50,0,0,0,"Michael  McMahon",09/02-12/04,MUSIC ,Temporarily closed
+5158,MUEN,579,001,Studio,1.000,"Song Interpretation 2.",F,11:35 AM-01:25 PM,20,0,0,0,"Michael  McMahon",09/02-12/04,MUSIC ,Active
+6535,MUEN,580,001,Studio,1.000,"Early Music Ensemble.",,TBA,50,0,0,0,"Valerie  Kinslow, Elizabeth H  MacMillan",09/02-12/04,TBA,Active
+7539,MUEN,580,033,Studio,1.000,"Early Music Ensemble.",,TBA,20,0,0,0,"Hank  Knox",09/02-12/04,TBA,Temporarily closed
+7538,MUEN,580,069,Studio,1.000,"Early Music Ensemble.",,TBA,20,0,0,0,"Valerie  Kinslow, Elizabeth H  MacMillan",09/02-12/04,TBA,Temporarily closed
+16863,MUEN,580,083,Studio,1.000,"Early Music Ensemble.",,TBA,20,0,0,0,"Lena  Weman Eriksson, Elizabeth H  MacMillan",09/02-12/04,TBA,Temporarily closed
+9478,MUEN,580,105,Studio,1.000,"Early Music Ensemble.",,TBA,10,0,0,0,"Tom  Beghin, Elizabeth H  MacMillan",09/02-12/04,TBA,Temporarily closed
+11264,MUEN,580,106,Studio,1.000,"Early Music Ensemble.",,TBA,10,0,0,0,"Sylvain  Bergeron, Elizabeth H  MacMillan",09/02-12/04,TBA,Temporarily closed
+7540,MUEN,580,160,Studio,1.000,"Early Music Ensemble.",,TBA,35,0,0,0,"Elizabeth H  MacMillan",09/02-12/04,TBA,Temporarily closed
+15174,MUEN,580,166,Studio,1.000,"Early Music Ensemble.",,TBA,10,0,0,0,"Elizabeth H  MacMillan, Matthias  Maute",09/02-12/04,TBA,Temporarily closed
+7541,MUEN,580,171,Studio,1.000,"Early Music Ensemble.",,TBA,20,0,0,0,"Natalie  Michaud, Elizabeth H  MacMillan",09/02-12/04,TBA,Temporarily closed
+7573,MUEN,580,178,Studio,1.000,"Early Music Ensemble.",,TBA,10,0,0,0,"Elizabeth H  MacMillan, Helene  Plouffe",09/02-12/04,TBA,Temporarily closed
+18561,MUEN,580,202,Studio,1.000,"Early Music Ensemble.",,TBA,10,0,0,0,"Matthew Dixon  Jennejohn",09/02-12/04,TBA,Temporarily closed
+6536,MUEN,581,001,Studio,1.000,"Piano Ensemble Seminar 1.",R,04:35 PM-05:55 PM,20,0,0,0,"Marina  Mdivani",09/02-12/03,MUSIC C517,Active
+7473,MUEN,581,002,Studio,1.000,"Piano Ensemble Seminar 1.",R,04:35 PM-05:55 PM,20,0,0,0,"Marina  Mdivani",09/02-12/03,MUSIC C517,Temporarily closed
+6537,MUEN,582,001,Studio,1.000,"Piano Ensemble Seminar 2.",,TBA,30,0,0,0,"Marina  Mdivani",09/02-12/04,MUSIC ,Active
+15221,MUEN,582,105,Studio,1.000,"Piano Ensemble Seminar 2.",,TBA,2,0,0,0,"Tom  Beghin",09/02-12/04,TBA,Temporarily closed
+6539,MUEN,584,001,Studio,1.000,"Studio Accompanying.",,TBA,20,0,0,0,"Kyoko  Hashimoto",09/02-12/04,TBA,Temporarily closed
+6540,MUEN,585,001,Laboratory,1.000,"Sonata Masterclass.",T,05:05 PM-06:55 PM,30,0,0,0,"Kyoko  Hashimoto",09/02-12/04,MUSIC C-309,Active
+6544,MUEN,590,001,Studio,2.000,"McGill Winds.",TR,11:35 AM-01:25 PM,100,0,0,0,"Alain  Cazes",09/02-12/03,MUSIC PCHALL,Active
+,,,,,,,F,11:35 AM-01:25 PM,,,,,"Alain  Cazes",09/02-12/04,MUSIC C-310,Active
+18362,MUEN,590,002,Studio,2.000,"McGill Winds.",MTW,07:05 PM-08:55 PM,50,0,0,0,"Andrew  Dunn",09/02-12/04,MUSIC C-310,Active
+,,,,,,,R,07:05 PM-08:55 PM,,,,,"Andrew  Dunn",12/04-12/04,MUSIC C-310,Active
+6547,MUEN,592,001,Studio,2.000,"Chamber Jazz Ensemble.",TR,03:35 PM-05:25 PM,50,0,0,0,"Jean-Nicolas  Trottier",09/02-12/03,MUSIC C-304,Active
+6548,MUEN,593,001,Studio,2.000,"Choral Ensembles.",MW,11:35 AM-01:25 PM,50,0,0,0,"Francois Andre Ouimet, Patrick John Hansen",09/02-12/03,MUSIC ,Active
+,,,,,,,R,11:35 AM-01:25 PM,,,,,"Francois Andre Ouimet, Patrick John Hansen",12/04-12/04,MUSIC ,Active
+6550,MUEN,593,003,Studio,2.000,"Choral Ensembles.",MW,11:35 AM-01:25 PM,160,0,0,0,"Francois Andre Ouimet",09/02-12/04,MUSIC TANNA RCTL,Active
+,,,,,,,R,11:35 AM-01:25 PM,,,,,"Francois Andre Ouimet",12/04-12/04,MUSIC TANNA RCTL,Active
+6551,MUEN,594,001,Studio,2.000,"Contemporary Music Ensemble.",MWF,04:35 PM-06:25 PM,100,0,0,0,"Guillaume  Bourgogne",09/02-12/04,MUSIC C-310,Temporarily closed
+,,,,,,,R,04:35 PM-06:25 PM,,,,,"Guillaume  Bourgogne",12/04-12/04,MUSIC C-310,Temporarily closed
+6553,MUEN,595,001,Studio,2.000,"Jazz Ensembles.",MWF,03:35 PM-04:55 PM,50,0,0,0,"Joseph Leo  Sullivan",09/02-12/04,MUSIC C-304,Active
+,,,,,,,R,03:35 PM-04:55 PM,,,,,"Joseph Leo  Sullivan",12/04-12/04,MUSIC C-304,Active
+6554,MUEN,595,002,Studio,2.000,"Jazz Ensembles.",MWF,03:35 PM-04:55 PM,50,0,0,0,"Ronald  Di Lauro",09/02-12/04,MUSIC C-301,Active
+,,,,,,,R,03:35 PM-04:55 PM,,,,,"Ronald  Di Lauro",12/04-12/04,MUSIC C-301,Active
+6555,MUEN,595,003,Studio,2.000,"Jazz Ensembles.",MW,04:05 PM-05:55 PM,50,0,0,0,"William V  Mahar",09/02-12/04,MUSIC C-309,Active
+,,,,,,,R,04:05 PM-05:55 PM,,,,,"William V  Mahar",12/04-12/04,MUSIC C-309,Active
+19684,MUEN,595,004,Studio,2.000,"Jazz Ensembles.",MW,05:35 PM-07:25 PM,50,0,0,0,TBA,09/02-12/04,MUSIC C-304,Temporarily closed
+,,,,,,,R,05:35 PM-07:25 PM,,,,,TBA,12/04-12/04,MUSIC C-304,Temporarily closed
+1262,MUEN,596,001,Studio,2.000,"Opera Repetiteur.",,TBA,10,0,0,0,"Patrick John Hansen",09/02-12/04,TBA,Active
+6556,MUEN,597,001,Studio,2.000,"Orchestral Ensembles.",MWF,11:35 AM-01:25 PM,200,0,0,0,"Rudolf-Alexius  Hauser",09/02-12/04,MUSIC PCHALL,Active
+,,,,,,,R,11:35 AM-01:25 PM,,,,,"Rudolf-Alexius  Hauser",12/04-12/04,MUSIC PCHALL,Active
+6557,MUEN,598,001,Studio,1.000,"Percussion Ensembles.",TR,04:35 PM-06:25 PM,30,0,0,0,"Fabrice  Marandola",09/02-12/03,MUSIC C101,Active
+General Music Techniques
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+19575,MUGT,205,001,Lecture,3.000,"Psychology of Music.",TR,03:05 PM-04:25 PM,47,0,0,0,"Joel  Wapnick",09/02-12/03,MUSIC C-204,Active
+10296,MUGT,215,001,Studio,1.000,"Basic Conducting Techniques.",F,09:35 AM-10:25 AM,15,0,0,0,"Alain  Cazes",09/02-12/04,MUSIC C-304,Active
+10509,MUGT,401,001,Lecture,3.000,"Issues in Music Education.",TR,01:35 PM-02:55 PM,20,0,0,0,"Lisa Marie  Lorenzino",09/02-12/03,MUSIC C-412,Active
+Music History and Literature
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+12084,MUHL,186,001,Lecture,3.000,"Western Musical Traditions.",T,01:35 PM-03:25 PM,60,0,0,0,"Roe-Min  Kok",09/02-12/04,MUSIC C-201,Active
+12085,MUHL,186,002,Tutorial,0.000,"Western Musical Traditions.",R,01:35 PM-02:25 PM,20,0,0,0,"Roe-Min  Kok",09/02-12/03,SH550 1115,Active
+12087,MUHL,186,003,Tutorial,0.000,"Western Musical Traditions.",R,02:35 PM-03:25 PM,20,0,0,0,"Roe-Min  Kok",09/02-12/03,SH550 1115,Active
+12088,MUHL,186,004,Tutorial,0.000,"Western Musical Traditions.",R,01:35 PM-02:25 PM,20,0,0,0,"Roe-Min  Kok",09/02-12/03,SH550 1116,Active
+12089,MUHL,186,005,Tutorial,0.000,"Western Musical Traditions.",R,02:35 PM-03:25 PM,10,0,0,0,"Roe-Min  Kok",09/02-12/03,SH550 1116,Temporarily closed
+13671,MUHL,286,001,Lecture,3.000,"Critical Thinking About Music.",M,01:35 PM-03:25 PM,60,0,0,0,"Lloyd Ashley Whitesell",09/02-12/04,MUSIC C-201,Active
+,,,,,,,R,01:35 PM-03:25 PM,,,,,"Lloyd Ashley Whitesell",12/04-12/04,TBA,Active
+13672,MUHL,286,002,Tutorial,0.000,"Critical Thinking About Music.",W,01:35 PM-02:25 PM,20,0,0,0,"Lloyd Ashley Whitesell",09/02-12/04,SH550 1115,Active
+13673,MUHL,286,003,Tutorial,0.000,"Critical Thinking About Music.",W,01:35 PM-02:25 PM,20,0,0,0,"Lloyd Ashley Whitesell",09/02-12/04,SH550 1116,Active
+17633,MUHL,286,004,Tutorial,0.000,"Critical Thinking About Music.",W,02:35 PM-03:25 PM,20,0,0,0,"Lloyd Ashley Whitesell",09/02-12/04,SH550 1115,Active
+19278,MUHL,330,001,Lecture,3.000,"Music and Film.",TR,10:05 AM-11:25 AM,35,0,0,0,"Lloyd Ashley Whitesell",09/02-12/03,MUSIC E-109,Active
+19871,MUHL,382,001,Lecture,3.000,"Baroque Music.",MW,03:05 PM-04:25 PM,20,0,0,0,TBA,09/02-12/04,MUSIC E-109,Active
+,,,,,,,R,03:05 PM-04:25 PM,,,,,TBA,12/04-12/04,MUSIC E-109,Active
+19280,MUHL,390,001,Lecture,3.000,"The German Lied.",MW,10:05 AM-11:25 AM,35,0,0,0,"Roe-Min  Kok",09/02-12/04,MUSIC C-412,Active
+,,,,,,,R,10:05 AM-11:25 AM,,,,,"Roe-Min  Kok",12/04-12/04,TBA,Active
+Practical Instrument
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+8948,MUIN,110,020,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"Stephen Michael Algie",09/02-12/04,TBA,Active
+4428,MUIN,110,028,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"Kyoko  Hashimoto",09/02-12/04,TBA,Active
+16441,MUIN,110,033,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"Hank  Knox",09/02-12/04,TBA,Active
+4449,MUIN,110,036,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"Marina  Mdivani",09/02-12/04,TBA,Active
+14883,MUIN,110,040,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"Andre J  Roy",09/02-12/04,TBA,Active
+13137,MUIN,110,041,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"Joseph Leo  Sullivan",09/02-12/04,TBA,Active
+16662,MUIN,110,047,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"Yai-Yun  Huang, Fabrice  Marandola",09/02-12/04,TBA,Active
+15117,MUIN,110,050,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"Andrew  Dunn",09/02-12/04,TBA,Active
+16169,MUIN,110,051,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"Ilya  Poletaev",09/02-12/04,TBA,Active
+16355,MUIN,110,053,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"Axel  Strauss",09/02-12/04,TBA,Active
+16731,MUIN,110,054,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"Jacqueline Fairchild Leclair",09/02-12/04,TBA,Active
+19819,MUIN,110,060,Studio,2.000,"Elective Practical Instruction 1.",,TBA,1,0,0,0,"Theodore  Baskin",09/02-12/04,TBA,Active
+16835,MUIN,110,064,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"Russell  Devuyst",09/02-12/04,TBA,Active
+18111,MUIN,110,065,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"Elizabeth  Dolin",09/02-12/04,TBA,Active
+14338,MUIN,110,066,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"Jean  Gaudreault",09/02-12/04,TBA,Active
+17887,MUIN,110,071,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"Stephane  Levesque",09/02-12/04,TBA,Active
+12959,MUIN,110,072,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"Denise  Lupien",09/02-12/04,TBA,Active
+13080,MUIN,110,074,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"Michael  McMahon",09/02-12/04,TBA,Active
+16617,MUIN,110,076,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"Winston  Purdy",09/02-12/04,TBA,Active
+18474,MUIN,110,077,Studio,2.000,"Elective Practical Instruction 1.",,TBA,1,0,0,0,"Richard Allen  Roberts",09/02-12/04,TBA,Active
+7627,MUIN,110,080,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"Therese  Boudreault-Sevadjian",09/02-12/04,TBA,Active
+19821,MUIN,110,101,Studio,2.000,"Elective Practical Instruction 1.",,TBA,5,0,0,0,"Simon  Aldrich",09/02-12/04,TBA,Active
+17890,MUIN,110,103,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"Garry M W  Antonio",09/02-12/04,TBA,Active
+13255,MUIN,110,105,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"Tom  Beghin",09/02-12/04,TBA,Active
+16622,MUIN,110,108,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"Remi  Bolduc",09/02-12/04,TBA,Active
+14523,MUIN,110,112,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"Greg  Clayton",09/02-12/04,TBA,Active
+19772,MUIN,110,116,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"Thomas  Davidson",09/02-12/04,TBA,Active
+18562,MUIN,110,118,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"Denys  Derome",09/02-12/04,TBA,Active
+8932,MUIN,110,119,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"Alain  Desgagne",09/02-12/04,TBA,Active
+5806,MUIN,110,120,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"Ronald  Di Lauro",09/02-12/04,TBA,Active
+17982,MUIN,110,121,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"Timothy  Dobby",09/02-12/04,TBA,Active
+14372,MUIN,110,123,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"Michael  Dumouchel",09/02-12/04,TBA,Active
+19789,MUIN,110,124,Studio,2.000,"Elective Practical Instruction 1.",,TBA,1,0,0,0,"Yegor  Dyachkov",09/02-12/04,TBA,Active
+16830,MUIN,110,130,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"Normand  Forget",09/02-12/04,TBA,Active
+16290,MUIN,110,132,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"Peter  Freeman",09/02-12/04,TBA,Active
+14881,MUIN,110,134,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"Julia  Gavrilova",09/02-12/04,TBA,Active
+12776,MUIN,110,147,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"Alexander David  Johnson",09/02-12/04,TBA,Active
+19881,MUIN,110,148,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"Jeffrey E H  Johnston",09/02-12/04,TBA,Active
+16802,MUIN,110,150,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"David Christopher Laing",09/02-12/04,TBA,Active
+16381,MUIN,110,152,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"Ranee Y  Lee",09/02-12/04,TBA,Active
+14353,MUIN,110,158,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"Francisco J  Lozano",09/02-12/04,TBA,Active
+16383,MUIN,110,161,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"William V  Mahar",09/02-12/04,TBA,Active
+5618,MUIN,110,167,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"Christopher John McCann",09/02-12/04,TBA,Active
+12932,MUIN,110,173,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"Susan Elizabeth Napper",09/02-12/04,TBA,Active
+12969,MUIN,110,178,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"Helene  Plouffe",09/02-12/04,TBA,Active
+16293,MUIN,110,182,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"Cindy  Shuter",09/02-12/04,TBA,Active
+19780,MUIN,110,184,Studio,2.000,"Elective Practical Instruction 1.",,TBA,0,0,0,0,"Jennifer  Swartz",09/02-12/04,TBA,Active
+16386,MUIN,110,187,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"Alec  Walkington",09/02-12/04,TBA,Active
+14638,MUIN,110,188,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"Luba  Zuk",09/02-12/04,TBA,Active
+19889,MUIN,110,190,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"Joshua  Rager",09/02-12/04,TBA,Active
+14521,MUIN,110,197,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"Dimitrios George Doxas",09/02-12/04,TBA,Active
+14352,MUIN,110,204,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"Donald Leyland  Kennedy",09/02-12/04,TBA,Active
+16396,MUIN,110,215,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"Fraser  Hollins",09/02-12/04,TBA,Active
+13209,MUIN,110,219,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"Chester Nathaniel Doxas",09/02-12/04,TBA,Active
+16680,MUIN,110,220,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"Steve  Amirault",09/02-12/04,TBA,Active
+14637,MUIN,110,230,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"Maria Caliopi Popescu",09/02-12/04,TBA,Active
+16377,MUIN,110,235,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"Carlos Alberto  Jimenez",09/02-12/04,TBA,Active
+16743,MUIN,110,238,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"Jérôme  Ducharme",09/02-12/04,TBA,Active
+14945,MUIN,110,239,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"Mark Christopher H. Simons",09/02-12/04,TBA,Active
+16360,MUIN,110,248,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"Marcelle  Mallette",09/02-12/04,TBA,Active
+18303,MUIN,110,251,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"Jean-Nicolas  Trottier",09/02-12/04,TBA,Active
+17901,MUIN,110,253,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"Katherine  Petersen",09/02-12/04,TBA,Active
+18019,MUIN,110,302,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"Christine  Jensen",09/02-12/04,TBA,Active
+16374,MUIN,110,314,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"Kenneth  Bibace",09/02-12/04,TBA,Active
+12945,MUIN,110,315,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"Frédéric  Lambert",09/02-12/04,TBA,Active
+14882,MUIN,110,317,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"Timothy  Dobby",09/02-12/04,TBA,Active
+12907,MUIN,110,324,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"Martin  Karlicek",09/02-12/04,TBA,Active
+19800,MUIN,110,328,Studio,2.000,"Elective Practical Instruction 1.",,TBA,5,0,0,0,"Andrew Joshua Wan",09/02-12/04,TBA,Active
+14732,MUIN,110,333,Studio,2.000,"Elective Practical Instruction 1.",,TBA,10,0,0,0,"Patil  Harboyan",09/02-12/04,TBA,Active
+19770,MUIN,110,341,Studio,2.000,"Elective Practical Instruction 1.",,TBA,1,0,0,0,"Anna  Peletsis",09/02-12/04,TBA,Active
+16363,MUIN,111,112,Studio,2.000,"Elective Practical Instruction 2.",,TBA,10,0,0,0,"Greg  Clayton",09/02-12/04,TBA,Active
+19702,MUIN,111,116,Studio,2.000,"Elective Practical Instruction 2.",,TBA,5,0,0,0,"Thomas  Davidson",09/02-12/04,TBA,Active
+16376,MUIN,111,136,Studio,2.000,"Elective Practical Instruction 2.",,TBA,10,0,0,0,"David Mark  Gossage",09/02-12/04,TBA,Active
+16382,MUIN,111,158,Studio,2.000,"Elective Practical Instruction 2.",,TBA,10,0,0,0,"Francisco J  Lozano",09/02-12/04,TBA,Active
+12648,MUIN,111,167,Studio,2.000,"Elective Practical Instruction 2.",,TBA,10,0,0,0,"Christopher John McCann",09/02-12/04,TBA,Active
+16170,MUIN,111,188,Studio,2.000,"Elective Practical Instruction 2.",,TBA,10,0,0,0,"Luba  Zuk",09/02-12/04,TBA,Active
+19806,MUIN,111,247,Studio,2.000,"Elective Practical Instruction 2.",,TBA,5,0,0,0,"Andree  Azar",09/02-12/04,TBA,Active
+12685,MUIN,180,020,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Stephen Michael Algie",09/02-12/04,TBA,Active
+12859,MUIN,180,023,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Kevin  Dean",09/02-12/04,TBA,Active
+12898,MUIN,180,027,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Matt  Haimovitz",09/02-12/04,TBA,Active
+12840,MUIN,180,028,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Kyoko  Hashimoto",09/02-12/04,TBA,Active
+18061,MUIN,180,030,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Jan  Jarczyk",09/02-12/04,TBA,Active
+12813,MUIN,180,032,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Abe  Kestenberg",09/02-12/04,TBA,Active
+16545,MUIN,180,034,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Sara  Laimon",09/02-12/04,TBA,Active
+13199,MUIN,180,036,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Marina  Mdivani",09/02-12/04,TBA,Active
+12952,MUIN,180,040,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Andre J  Roy",09/02-12/04,TBA,Active
+14767,MUIN,180,041,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Joseph Leo  Sullivan",09/02-12/04,TBA,Active
+13119,MUIN,180,047,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Yai-Yun  Huang, Fabrice  Marandola",09/02-12/04,TBA,Active
+13082,MUIN,180,048,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Mark Daniel Fewer",09/02-12/04,TBA,Active
+13101,MUIN,180,050,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Andrew  Dunn",09/02-12/04,TBA,Active
+14660,MUIN,180,051,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Ilya  Poletaev",09/02-12/04,TBA,Active
+17934,MUIN,180,053,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Axel  Strauss",09/02-12/04,TBA,Active
+16543,MUIN,180,054,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Jacqueline Fairchild Leclair",09/02-12/04,TBA,Active
+19708,MUIN,180,055,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Stéphane  Lemelin",09/02-12/04,TBA,Active
+19797,MUIN,180,056,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,TBA,09/02-12/04,TBA,Active
+19837,MUIN,180,057,Studio,3.000,"BMus Practical Lessons 1.",,TBA,5,0,0,0,"Dominique  Labelle",09/02-12/04,TBA,Active
+13034,MUIN,180,058,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Sanford  Sylvan",09/02-12/04,TBA,Active
+12800,MUIN,180,060,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Theodore  Baskin",09/02-12/04,TBA,Active
+12765,MUIN,180,061,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"James Oliver Box",09/02-12/04,TBA,Active
+14761,MUIN,180,062,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Carolyn  Christie",09/02-12/04,TBA,Active
+13094,MUIN,180,063,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Robert  Crowley",09/02-12/04,TBA,Active
+12767,MUIN,180,064,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Russell  Devuyst",09/02-12/04,TBA,Active
+14747,MUIN,180,065,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Elizabeth  Dolin",09/02-12/04,TBA,Active
+14762,MUIN,180,066,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Jean  Gaudreault",09/02-12/04,TBA,Active
+12811,MUIN,180,067,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Timothy  Hutchins",09/02-12/04,TBA,Active
+14862,MUIN,180,069,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Valerie  Kinslow",09/02-12/04,TBA,Active
+12687,MUIN,180,070,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Joanne Ellen Kolomyjec",09/02-12/04,TBA,Active
+14780,MUIN,180,071,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Stephane  Levesque",09/02-12/04,TBA,Active
+12958,MUIN,180,072,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Denise  Lupien",09/02-12/04,TBA,Active
+13297,MUIN,180,074,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Michael  McMahon",09/02-12/04,TBA,Active
+12780,MUIN,180,075,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,TBA,09/02-12/04,TBA,Active
+13070,MUIN,180,076,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Winston  Purdy",09/02-12/04,TBA,Active
+12962,MUIN,180,077,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Richard Allen  Roberts",09/02-12/04,TBA,Active
+16548,MUIN,180,078,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Brian  Robinson",09/02-12/04,TBA,Active
+14665,MUIN,180,080,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Therese  Boudreault-Sevadjian",09/02-12/04,TBA,Active
+12784,MUIN,180,081,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"John  Zirbel",09/02-12/04,TBA,Active
+16535,MUIN,180,101,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Simon  Aldrich",09/02-12/04,TBA,Active
+12941,MUIN,180,103,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Garry M W  Antonio",09/02-12/04,TBA,Active
+12857,MUIN,180,108,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Remi  Bolduc",09/02-12/04,TBA,Active
+16522,MUIN,180,110,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Eric  Chappell",09/02-12/04,TBA,Active
+12853,MUIN,180,112,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Greg  Clayton",09/02-12/04,TBA,Active
+12888,MUIN,180,113,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Jocelyn  Couture",09/02-12/04,TBA,Active
+16554,MUIN,180,116,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Thomas  Davidson",09/02-12/04,TBA,Active
+14763,MUIN,180,118,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Denys  Derome",09/02-12/04,TBA,Active
+12803,MUIN,180,119,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Alain  Desgagne",09/02-12/04,TBA,Active
+16567,MUIN,180,120,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Ronald  Di Lauro",09/02-12/04,TBA,Active
+13100,MUIN,180,121,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Trevor  Dix",09/02-12/04,TBA,Active
+14864,MUIN,180,123,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Michael  Dumouchel",09/02-12/04,TBA,Active
+14980,MUIN,180,124,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Yegor  Dyachkov",09/02-12/04,TBA,Active
+12805,MUIN,180,130,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Normand  Forget",09/02-12/04,TBA,Active
+12807,MUIN,180,132,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Peter  Freeman",09/02-12/04,TBA,Active
+16538,MUIN,180,133,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Michael  Gauthier",09/02-12/04,TBA,Active
+18007,MUIN,180,134,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Julia  Gavrilova",09/02-12/04,TBA,Active
+14770,MUIN,180,136,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"David Mark  Gossage",09/02-12/04,TBA,Active
+12908,MUIN,180,140,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Claire  Guimond",09/02-12/04,TBA,Active
+18054,MUIN,180,147,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Alexander David  Johnson",09/02-12/04,TBA,Active
+14766,MUIN,180,148,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Jeffrey E H  Johnston",09/02-12/04,TBA,Active
+16523,MUIN,180,150,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"David Christopher Laing",09/02-12/04,TBA,Active
+14757,MUIN,180,151,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Michel  Lambert",09/02-12/04,TBA,Active
+12865,MUIN,180,152,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Ranee Y  Lee",09/02-12/04,TBA,Active
+12866,MUIN,180,158,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Francisco J  Lozano",09/02-12/04,TBA,Active
+14865,MUIN,180,161,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"William V  Mahar",09/02-12/04,TBA,Active
+12816,MUIN,180,163,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Martin D  Mangrum",09/02-12/04,TBA,Active
+12902,MUIN,180,164,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Brian  Manker",09/02-12/04,TBA,Active
+12868,MUIN,180,167,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Christopher John McCann",09/02-12/04,TBA,Active
+18057,MUIN,180,178,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Helene  Plouffe",09/02-12/04,TBA,Active
+14374,MUIN,180,182,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Cindy  Shuter",09/02-12/04,TBA,Active
+14741,MUIN,180,184,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Jennifer  Swartz",09/02-12/04,TBA,Active
+14812,MUIN,180,187,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Alec  Walkington",09/02-12/04,TBA,Active
+13009,MUIN,180,190,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Joshua  Rager",09/02-12/04,TBA,Active
+14769,MUIN,180,197,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Dimitrios George Doxas",09/02-12/04,TBA,Active
+19882,MUIN,180,204,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Donald Leyland  Kennedy",09/02-12/04,TBA,Active
+13036,MUIN,180,213,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Aline  Kutan",09/02-12/04,TBA,Active
+12863,MUIN,180,215,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Fraser  Hollins",09/02-12/04,TBA,Active
+16534,MUIN,180,219,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Chester Nathaniel Doxas",09/02-12/04,TBA,Active
+12851,MUIN,180,220,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Steve  Amirault",09/02-12/04,TBA,Active
+14804,MUIN,180,221,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"David  Grott",09/02-12/04,TBA,Active
+13037,MUIN,180,230,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Maria Caliopi Popescu",09/02-12/04,TBA,Active
+18058,MUIN,180,235,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Carlos Alberto  Jimenez",09/02-12/04,TBA,Active
+14663,MUIN,180,238,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Jérôme  Ducharme",09/02-12/04,TBA,Active
+16536,MUIN,180,247,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Andree  Azar",09/02-12/04,TBA,Active
+18067,MUIN,180,248,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Marcelle  Mallette",09/02-12/04,TBA,Active
+18065,MUIN,180,251,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Jean-Nicolas  Trottier",09/02-12/04,TBA,Active
+16879,MUIN,180,254,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Scott O  Feltham",09/02-12/04,TBA,Active
+17976,MUIN,180,259,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Daniele  Bourget",09/02-12/04,TBA,Active
+18420,MUIN,180,263,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Alexander Wallace Farmer Read",09/02-12/04,TBA,Active
+16521,MUIN,180,315,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Frédéric  Lambert",09/02-12/04,TBA,Active
+17933,MUIN,180,317,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Timothy  Dobby",09/02-12/04,TBA,Active
+14743,MUIN,180,320,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Ali  Yazdanfar",09/02-12/04,TBA,Active
+13062,MUIN,180,324,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Martin  Karlicek",09/02-12/04,TBA,Active
+13089,MUIN,180,328,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Andrew Joshua Wan",09/02-12/04,TBA,Active
+13059,MUIN,180,333,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Patil  Harboyan",09/02-12/04,TBA,Active
+14661,MUIN,180,337,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Jeremy Thomas Chaulk",09/02-12/04,TBA,Active
+14658,MUIN,180,339,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Marcelo Greenhalgh Thys",09/02-12/04,TBA,Active
+18075,MUIN,180,342,Studio,3.000,"BMus Practical Lessons 1.",,TBA,10,0,0,0,"Tatiana  Dardykina",09/02-12/04,TBA,Active
+16857,MUIN,181,163,Studio,3.000,"BMus Practical Lessons 2.",,TBA,10,0,0,0,"Martin D  Mangrum",09/02-12/04,TBA,Active
+12845,MUIN,210,036,Studio,2.000,"Elective Practical Instruction 3.",,TBA,10,0,0,0,"Marina  Mdivani",09/02-12/04,TBA,Active
+18424,MUIN,210,040,Studio,2.000,"Elective Practical Instruction 3.",,TBA,10,0,0,0,"Andre J  Roy",09/02-12/04,TBA,Active
+19785,MUIN,210,103,Studio,2.000,"Elective Practical Instruction 3.",,TBA,1,0,0,0,"Garry M W  Antonio",09/02-12/04,TBA,Active
+16588,MUIN,210,134,Studio,2.000,"Elective Practical Instruction 3.",,TBA,10,0,0,0,"Julia  Gavrilova",09/02-12/04,TBA,Active
+19885,MUIN,210,152,Studio,2.000,"Elective Practical Instruction 3.",,TBA,10,0,0,0,"Ranee Y  Lee",09/02-12/04,TBA,Active
+16729,MUIN,210,204,Studio,2.000,"Elective Practical Instruction 3.",,TBA,10,0,0,0,"Donald Leyland  Kennedy",09/02-12/04,TBA,Active
+17889,MUIN,210,230,Studio,2.000,"Elective Practical Instruction 3.",,TBA,10,0,0,0,"Maria Caliopi Popescu",09/02-12/04,TBA,Active
+16288,MUIN,210,239,Studio,2.000,"Elective Practical Instruction 3.",,TBA,10,0,0,0,"Mark Christopher H. Simons",09/02-12/04,TBA,Active
+18020,MUIN,210,254,Studio,2.000,"Elective Practical Instruction 3.",,TBA,10,0,0,0,"Scott O  Feltham",09/02-12/04,TBA,Active
+19715,MUIN,210,256,Studio,2.000,"Elective Practical Instruction 3.",,TBA,5,0,0,0,"Patrice  Richer",09/02-12/04,TBA,Active
+19781,MUIN,210,317,Studio,2.000,"Elective Practical Instruction 3.",,TBA,1,0,0,0,"Timothy  Dobby",09/02-12/04,TBA,Active
+14738,MUIN,210,324,Studio,2.000,"Elective Practical Instruction 3.",,TBA,10,0,0,0,"Martin  Karlicek",09/02-12/04,TBA,Active
+14863,MUIN,250,020,Studio,8.000,"L.Mus. Practical Instruction 1.",,TBA,10,0,0,0,"Stephen Michael Algie",09/02-12/04,TBA,Active
+16568,MUIN,250,028,Studio,8.000,"L.Mus. Practical Instruction 1.",,TBA,10,0,0,0,"Kyoko  Hashimoto",09/02-12/04,TBA,Active
+16681,MUIN,250,030,Studio,8.000,"L.Mus. Practical Instruction 1.",,TBA,10,0,0,0,"Jan  Jarczyk",09/02-12/04,TBA,Active
+9339,MUIN,250,033,Studio,8.000,"L.Mus. Practical Instruction 1.",,TBA,10,0,0,0,"Hank  Knox",09/02-12/04,TBA,Active
+5720,MUIN,250,040,Studio,8.000,"L.Mus. Practical Instruction 1.",,TBA,10,0,0,0,"Andre J  Roy",09/02-12/04,TBA,Active
+16596,MUIN,250,041,Studio,8.000,"L.Mus. Practical Instruction 1.",,TBA,10,0,0,0,"Joseph Leo  Sullivan",09/02-12/04,TBA,Active
+13117,MUIN,250,047,Studio,8.000,"L.Mus. Practical Instruction 1.",,TBA,10,0,0,0,"Yai-Yun  Huang, Fabrice  Marandola",09/02-12/04,TBA,Active
+14789,MUIN,250,048,Studio,8.000,"L.Mus. Practical Instruction 1.",,TBA,10,0,0,0,"Mark Daniel Fewer",09/02-12/04,TBA,Active
+19840,MUIN,250,057,Studio,8.000,"L.Mus. Practical Instruction 1.",,TBA,5,0,0,0,"Dominique  Labelle",09/02-12/04,TBA,Active
+10895,MUIN,250,058,Studio,8.000,"L.Mus. Practical Instruction 1.",,TBA,10,0,0,0,"Sanford  Sylvan",09/02-12/04,TBA,Active
+18105,MUIN,250,064,Studio,8.000,"L.Mus. Practical Instruction 1.",,TBA,10,0,0,0,"Russell  Devuyst",09/02-12/04,TBA,Active
+12686,MUIN,250,070,Studio,8.000,"L.Mus. Practical Instruction 1.",,TBA,10,0,0,0,"Joanne Ellen Kolomyjec",09/02-12/04,TBA,Active
+14776,MUIN,250,072,Studio,8.000,"L.Mus. Practical Instruction 1.",,TBA,10,0,0,0,"Denise  Lupien",09/02-12/04,TBA,Active
+16542,MUIN,250,075,Studio,8.000,"L.Mus. Practical Instruction 1.",,TBA,10,0,0,0,"Dennis  Miller",09/02-12/04,TBA,Active
+4624,MUIN,250,076,Studio,8.000,"L.Mus. Practical Instruction 1.",,TBA,10,0,0,0,"Winston  Purdy",09/02-12/04,TBA,Active
+18059,MUIN,250,112,Studio,8.000,"L.Mus. Practical Instruction 1.",,TBA,10,0,0,0,"Greg  Clayton",09/02-12/04,TBA,Active
+14944,MUIN,250,113,Studio,8.000,"L.Mus. Practical Instruction 1.",,TBA,10,0,0,0,"Jocelyn  Couture",09/02-12/04,TBA,Active
+12756,MUIN,250,118,Studio,8.000,"L.Mus. Practical Instruction 1.",,TBA,2,0,0,0,"Denys  Derome",09/02-12/04,TBA,Active
+16519,MUIN,250,119,Studio,8.000,"L.Mus. Practical Instruction 1.",,TBA,10,0,0,0,"Alain  Desgagne",09/02-12/04,TBA,Active
+13071,MUIN,250,151,Studio,8.000,"L.Mus. Practical Instruction 1.",,TBA,10,0,0,0,"Michel  Lambert",09/02-12/04,TBA,Active
+14916,MUIN,250,152,Studio,8.000,"L.Mus. Practical Instruction 1.",,TBA,10,0,0,0,"Ranee Y  Lee",09/02-12/04,TBA,Active
+17998,MUIN,250,170,Studio,8.000,"L.Mus. Practical Instruction 1.",,TBA,10,0,0,0,"Paul A  Merkelo",09/02-12/04,TBA,Active
+14742,MUIN,250,184,Studio,8.000,"L.Mus. Practical Instruction 1.",,TBA,10,0,0,0,"Jennifer  Swartz",09/02-12/04,TBA,Active
+12689,MUIN,250,213,Studio,8.000,"L.Mus. Practical Instruction 1.",,TBA,5,0,0,0,"Aline  Kutan",09/02-12/04,TBA,Active
+18063,MUIN,250,220,Studio,8.000,"L.Mus. Practical Instruction 1.",,TBA,10,0,0,0,"Steve  Amirault",09/02-12/04,TBA,Active
+19888,MUIN,250,222,Studio,8.000,"L.Mus. Practical Instruction 1.",,TBA,10,0,0,0,"Allan Robert  McLean",09/02-12/04,TBA,Active
+15134,MUIN,250,230,Studio,8.000,"L.Mus. Practical Instruction 1.",,TBA,10,0,0,0,"Maria Caliopi Popescu",09/02-12/04,TBA,Active
+18339,MUIN,250,256,Studio,8.000,"L.Mus. Practical Instruction 1.",,TBA,10,0,0,0,"Patrice  Richer",09/02-12/04,TBA,Active
+18559,MUIN,250,259,Studio,8.000,"L.Mus. Practical Instruction 1.",,TBA,10,0,0,0,"Daniele  Bourget",09/02-12/04,TBA,Active
+19878,MUIN,250,267,Studio,8.000,"L.Mus. Practical Instruction 1.",,TBA,10,0,0,0,TBA,09/02-12/04,TBA,Active
+15133,MUIN,251,033,Studio,8.000,"L.Mus. Practical Instruction 2.",,TBA,10,0,0,0,"Hank  Knox",09/02-12/04,TBA,Active
+19843,MUIN,251,057,Studio,8.000,"L.Mus. Practical Instruction 2.",,TBA,5,0,0,0,"Dominique  Labelle",09/02-12/04,TBA,Active
+18526,MUIN,269,001,Practical Examination,1.000,"Classical Concerto Exam.",,TBA,10,0,0,0,TBA,09/02-12/04,TBA,Active
+18416,MUIN,274,105,Studio,1.500,"Practical Lessons Performance Minor 4.",,TBA,1,0,0,0,"Tom  Beghin",09/02-12/04,TBA,Active
+13145,MUIN,280,020,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Stephen Michael Algie",09/02-12/04,TBA,Active
+14533,MUIN,280,023,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Kevin  Dean",09/02-12/04,TBA,Active
+12899,MUIN,280,027,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Matt  Haimovitz",09/02-12/04,TBA,Active
+12841,MUIN,280,028,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Kyoko  Hashimoto",09/02-12/04,TBA,Active
+13001,MUIN,280,030,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Jan  Jarczyk",09/02-12/04,TBA,Active
+14377,MUIN,280,032,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Abe  Kestenberg",09/02-12/04,TBA,Active
+16541,MUIN,280,033,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Hank  Knox",09/02-12/04,TBA,Active
+12842,MUIN,280,034,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Sara  Laimon",09/02-12/04,TBA,Active
+14779,MUIN,280,035,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Douglas  McNabney",09/02-12/04,TBA,Active
+12846,MUIN,280,036,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Marina  Mdivani",09/02-12/04,TBA,Active
+12954,MUIN,280,040,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Andre J  Roy",09/02-12/04,TBA,Active
+13014,MUIN,280,041,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Joseph Leo  Sullivan",09/02-12/04,TBA,Active
+13016,MUIN,280,043,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Andre  White",09/02-12/04,TBA,Active
+13115,MUIN,280,047,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Yai-Yun  Huang, Fabrice  Marandola",09/02-12/04,TBA,Active
+13092,MUIN,280,048,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Mark Daniel Fewer",09/02-12/04,TBA,Active
+13102,MUIN,280,050,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Andrew  Dunn",09/02-12/04,TBA,Active
+14915,MUIN,280,051,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Ilya  Poletaev",09/02-12/04,TBA,Active
+16155,MUIN,280,052,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Erik Hans-Ola Eriksson",09/02-12/04,TBA,Active
+16354,MUIN,280,053,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Axel  Strauss",09/02-12/04,TBA,Active
+19825,MUIN,280,054,Studio,3.000,"BMus Practical Lessons 3.",,TBA,5,0,0,0,"Jacqueline Fairchild Leclair",09/02-12/04,TBA,Active
+19704,MUIN,280,055,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Stéphane  Lemelin",09/02-12/04,TBA,Active
+19828,MUIN,280,056,Studio,3.000,"BMus Practical Lessons 3.",,TBA,5,0,0,0,"Felicia Karen Moye",09/02-12/04,TBA,Active
+19838,MUIN,280,057,Studio,3.000,"BMus Practical Lessons 3.",,TBA,5,0,0,0,"Dominique  Labelle",09/02-12/04,TBA,Active
+13035,MUIN,280,058,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Sanford  Sylvan",09/02-12/04,TBA,Active
+14375,MUIN,280,060,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Theodore  Baskin",09/02-12/04,TBA,Active
+12762,MUIN,280,061,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"James Oliver Box",09/02-12/04,TBA,Active
+16217,MUIN,280,062,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Carolyn  Christie",09/02-12/04,TBA,Active
+13093,MUIN,280,063,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Robert  Crowley",09/02-12/04,TBA,Active
+14343,MUIN,280,064,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Russell  Devuyst",09/02-12/04,TBA,Active
+12897,MUIN,280,065,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Elizabeth  Dolin",09/02-12/04,TBA,Active
+12775,MUIN,280,066,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Jean  Gaudreault",09/02-12/04,TBA,Active
+13126,MUIN,280,067,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Timothy  Hutchins",09/02-12/04,TBA,Active
+12688,MUIN,280,070,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Joanne Ellen Kolomyjec",09/02-12/04,TBA,Active
+12814,MUIN,280,071,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Stephane  Levesque",09/02-12/04,TBA,Active
+13162,MUIN,280,072,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Denise  Lupien",09/02-12/04,TBA,Active
+16136,MUIN,280,075,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Dennis  Miller",09/02-12/04,TBA,Active
+13146,MUIN,280,076,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Winston  Purdy",09/02-12/04,TBA,Active
+12961,MUIN,280,077,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Richard Allen  Roberts",09/02-12/04,TBA,Active
+16547,MUIN,280,078,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Brian  Robinson",09/02-12/04,TBA,Active
+14645,MUIN,280,080,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Therese  Boudreault-Sevadjian",09/02-12/04,TBA,Active
+12783,MUIN,280,081,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"John  Zirbel",09/02-12/04,TBA,Active
+17937,MUIN,280,082,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Fabrice  Marandola",09/02-12/04,TBA,Active
+12786,MUIN,280,101,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Simon  Aldrich",09/02-12/04,TBA,Active
+16546,MUIN,280,102,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Greg G  Amirault",09/02-12/04,TBA,Active
+12942,MUIN,280,103,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Garry M W  Antonio",09/02-12/04,TBA,Active
+12856,MUIN,280,108,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Remi  Bolduc",09/02-12/04,TBA,Active
+16570,MUIN,280,110,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Eric  Chappell",09/02-12/04,TBA,Active
+12855,MUIN,280,112,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Greg  Clayton",09/02-12/04,TBA,Active
+14531,MUIN,280,113,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Jocelyn  Couture",09/02-12/04,TBA,Active
+15009,MUIN,280,116,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Thomas  Davidson",09/02-12/04,TBA,Active
+15022,MUIN,280,118,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Denys  Derome",09/02-12/04,TBA,Active
+12804,MUIN,280,119,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Alain  Desgagne",09/02-12/04,TBA,Active
+12860,MUIN,280,120,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Ronald  Di Lauro",09/02-12/04,TBA,Active
+13099,MUIN,280,121,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Trevor  Dix",09/02-12/04,TBA,Active
+16214,MUIN,280,123,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Michael  Dumouchel",09/02-12/04,TBA,Active
+14745,MUIN,280,124,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Yegor  Dyachkov",09/02-12/04,TBA,Active
+12806,MUIN,280,130,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Normand  Forget",09/02-12/04,TBA,Active
+14376,MUIN,280,132,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Peter  Freeman",09/02-12/04,TBA,Active
+18018,MUIN,280,133,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Michael  Gauthier",09/02-12/04,TBA,Active
+12838,MUIN,280,134,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Julia  Gavrilova",09/02-12/04,TBA,Active
+16375,MUIN,280,136,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"David Mark  Gossage",09/02-12/04,TBA,Active
+19717,MUIN,280,147,Studio,3.000,"BMus Practical Lessons 3.",,TBA,5,0,0,0,"Alexander David  Johnson",09/02-12/04,TBA,Active
+14593,MUIN,280,148,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Jeffrey E H  Johnston",09/02-12/04,TBA,Active
+14765,MUIN,280,150,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"David Christopher Laing",09/02-12/04,TBA,Active
+14777,MUIN,280,151,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Michel  Lambert",09/02-12/04,TBA,Active
+14768,MUIN,280,152,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Ranee Y  Lee",09/02-12/04,TBA,Active
+12867,MUIN,280,158,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Francisco J  Lozano",09/02-12/04,TBA,Active
+13178,MUIN,280,161,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"William V  Mahar",09/02-12/04,TBA,Active
+14369,MUIN,280,163,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Martin D  Mangrum",09/02-12/04,TBA,Active
+14836,MUIN,280,164,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Brian  Manker",09/02-12/04,TBA,Active
+12778,MUIN,280,165,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"David R  Martin",09/02-12/04,TBA,Active
+18056,MUIN,280,166,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Matthias  Maute",09/02-12/04,TBA,Active
+13134,MUIN,280,167,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Christopher John McCann",09/02-12/04,TBA,Active
+14760,MUIN,280,182,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Cindy  Shuter",09/02-12/04,TBA,Active
+16150,MUIN,280,184,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Jennifer  Swartz",09/02-12/04,TBA,Active
+14764,MUIN,280,187,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Alec  Walkington",09/02-12/04,TBA,Active
+12848,MUIN,280,188,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Luba  Zuk",09/02-12/04,TBA,Active
+13010,MUIN,280,190,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Joshua  Rager",09/02-12/04,TBA,Active
+13107,MUIN,280,197,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Dimitrios George Doxas",09/02-12/04,TBA,Active
+14861,MUIN,280,211,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Dave  Turner",09/02-12/04,TBA,Active
+12864,MUIN,280,215,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Fraser  Hollins",09/02-12/04,TBA,Active
+12999,MUIN,280,219,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Chester Nathaniel Doxas",09/02-12/04,TBA,Active
+14527,MUIN,280,220,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Steve  Amirault",09/02-12/04,TBA,Active
+12862,MUIN,280,221,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"David  Grott",09/02-12/04,TBA,Active
+18064,MUIN,280,222,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Allan Robert  McLean",09/02-12/04,TBA,Active
+13038,MUIN,280,230,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Maria Caliopi Popescu",09/02-12/04,TBA,Active
+13013,MUIN,280,232,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Francois  Stevenson",09/02-12/04,TBA,Active
+13136,MUIN,280,235,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Carlos Alberto  Jimenez",09/02-12/04,TBA,Active
+14664,MUIN,280,238,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Jérôme  Ducharme",09/02-12/04,TBA,Active
+16539,MUIN,280,241,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Pierre  Beaudry",09/02-12/04,TBA,Active
+16544,MUIN,280,247,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Andree  Azar",09/02-12/04,TBA,Active
+16358,MUIN,280,248,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Marcelle  Mallette",09/02-12/04,TBA,Active
+16653,MUIN,280,251,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Jean-Nicolas  Trottier",09/02-12/04,TBA,Active
+16691,MUIN,280,253,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Katherine  Petersen",09/02-12/04,TBA,Active
+18047,MUIN,280,254,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Scott O  Feltham",09/02-12/04,TBA,Active
+19820,MUIN,280,259,Studio,3.000,"BMus Practical Lessons 3.",,TBA,5,0,0,0,"Daniele  Bourget",09/02-12/04,TBA,Active
+18411,MUIN,280,263,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Alexander Wallace Farmer Read",09/02-12/04,TBA,Active
+19705,MUIN,280,268,Studio,3.000,"BMus Practical Lessons 3.",,TBA,1,0,0,0,"Gili B Loftus",09/02-12/04,TBA,Active
+12852,MUIN,280,314,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Kenneth  Bibace",09/02-12/04,TBA,Active
+12944,MUIN,280,315,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Frédéric  Lambert",09/02-12/04,TBA,Active
+16520,MUIN,280,317,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Timothy  Dobby",09/02-12/04,TBA,Active
+16237,MUIN,280,320,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Ali  Yazdanfar",09/02-12/04,TBA,Active
+13064,MUIN,280,324,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Martin  Karlicek",09/02-12/04,TBA,Active
+13090,MUIN,280,328,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Andrew Joshua Wan",09/02-12/04,TBA,Active
+14733,MUIN,280,333,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Patil  Harboyan",09/02-12/04,TBA,Active
+18077,MUIN,280,337,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Jeremy Thomas Chaulk",09/02-12/04,TBA,Active
+14662,MUIN,280,339,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Marcelo Greenhalgh Thys",09/02-12/04,TBA,Active
+18074,MUIN,280,341,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Anna  Peletsis",09/02-12/04,TBA,Active
+19707,MUIN,280,342,Studio,3.000,"BMus Practical Lessons 3.",,TBA,2,0,0,0,"Tatiana  Dardykina",09/02-12/04,TBA,Active
+18076,MUIN,280,344,Studio,3.000,"BMus Practical Lessons 3.",,TBA,10,0,0,0,"Tracy Anne Loreen Smith",09/02-12/04,TBA,Active
+16764,MUIN,281,027,Studio,3.000,"BMus Practical Lessons 4.",,TBA,10,0,0,0,"Matt  Haimovitz",09/02-12/04,TBA,Active
+16540,MUIN,281,033,Studio,3.000,"BMus Practical Lessons 4.",,TBA,10,0,0,0,"Hank  Knox",09/02-12/04,TBA,Active
+17888,MUIN,281,116,Studio,3.000,"BMus Practical Lessons 4.",,TBA,10,0,0,0,"Thomas  Davidson",09/02-12/04,TBA,Active
+19887,MUIN,281,158,Studio,3.000,"BMus Practical Lessons 4.",,TBA,10,0,0,0,"Francisco J  Lozano",09/02-12/04,TBA,Active
+18022,MUIN,281,167,Studio,3.000,"BMus Practical Lessons 4.",,TBA,10,0,0,0,"Christopher John McCann",09/02-12/04,TBA,Active
+18338,MUIN,281,230,Studio,3.000,"BMus Practical Lessons 4.",,TBA,10,0,0,0,"Maria Caliopi Popescu",09/02-12/04,TBA,Active
+15169,MUIN,281,235,Studio,3.000,"BMus Practical Lessons 4.",,TBA,10,0,0,0,"Carlos Alberto  Jimenez",09/02-12/04,TBA,Active
+18592,MUIN,282,001,Practical Examination,0.000,"BMus Performance Examination 1.",,TBA,50,0,0,0,TBA,09/02-12/04,TBA,Active
+14982,MUIN,300,033,Studio,2.000,"Voice Coaching 1.",,TBA,10,0,0,0,"Hank  Knox",09/02-12/04,TBA,Active
+14972,MUIN,300,069,Studio,2.000,"Voice Coaching 1.",,TBA,10,0,0,0,"Valerie  Kinslow",09/02-12/04,TBA,Active
+6014,MUIN,300,074,Studio,2.000,"Voice Coaching 1.",,TBA,10,0,0,0,"Michael  McMahon",09/02-12/04,TBA,Active
+18506,MUIN,300,174,Studio,2.000,"Voice Coaching 1.",,TBA,10,0,0,0,"Dana  Nigrim",09/02-12/04,TBA,Active
+4901,MUIN,300,176,Studio,2.000,"Voice Coaching 1.",,TBA,10,0,0,0,"Louise  Pelletier",09/02-12/04,TBA,Active
+7461,MUIN,300,212,Studio,2.000,"Voice Coaching 1.",,TBA,10,0,0,0,"Louise  Diamond",09/02-12/04,TBA,Active
+16822,MUIN,300,244,Studio,2.000,"Voice Coaching 1.",,TBA,10,0,0,0,"Marie-Ève Émilie Scarfone",09/02-12/04,TBA,Active
+9318,MUIN,300,318,Studio,2.000,"Voice Coaching 1.",,TBA,10,0,0,0,"Olivier  Godin",09/02-12/04,TBA,Active
+14367,MUIN,301,176,Studio,2.000,"Voice Coaching 2.",,TBA,10,0,0,0,"Louise  Pelletier",09/02-12/04,TBA,Active
+14366,MUIN,301,212,Studio,2.000,"Voice Coaching 2.",,TBA,10,0,0,0,"Louise  Diamond",09/02-12/04,TBA,Active
+16676,MUIN,301,244,Studio,2.000,"Voice Coaching 2.",,TBA,10,0,0,0,"Marie-Ève Émilie Scarfone",09/02-12/04,TBA,Active
+19836,MUIN,350,020,Studio,8.000,"L.Mus. Practical Instruction 3.",,TBA,5,0,0,0,"Stephen Michael Algie",09/02-12/04,TBA,Active
+16364,MUIN,350,030,Studio,8.000,"L.Mus. Practical Instruction 3.",,TBA,10,0,0,0,"Jan  Jarczyk",09/02-12/04,TBA,Active
+14840,MUIN,350,040,Studio,8.000,"L.Mus. Practical Instruction 3.",,TBA,10,0,0,0,"Andre J  Roy",09/02-12/04,TBA,Active
+16235,MUIN,350,048,Studio,8.000,"L.Mus. Practical Instruction 3.",,TBA,10,0,0,0,"Mark Daniel Fewer",09/02-12/04,TBA,Active
+18421,MUIN,350,063,Studio,8.000,"L.Mus. Practical Instruction 3.",,TBA,10,0,0,0,"Robert  Crowley",09/02-12/04,TBA,Active
+16865,MUIN,350,076,Studio,8.000,"L.Mus. Practical Instruction 3.",,TBA,10,0,0,0,"Winston  Purdy",09/02-12/04,TBA,Active
+16776,MUIN,350,113,Studio,8.000,"L.Mus. Practical Instruction 3.",,TBA,10,0,0,0,"Jocelyn  Couture",09/02-12/04,TBA,Active
+17984,MUIN,350,119,Studio,8.000,"L.Mus. Practical Instruction 3.",,TBA,10,0,0,0,"Alain  Desgagne",09/02-12/04,TBA,Active
+16902,MUIN,350,167,Studio,8.000,"L.Mus. Practical Instruction 3.",,TBA,10,0,0,0,"Christopher John McCann",09/02-12/04,TBA,Active
+19713,MUIN,350,170,Studio,8.000,"L.Mus. Practical Instruction 3.",,TBA,5,0,0,0,"Paul A  Merkelo",09/02-12/04,TBA,Active
+16151,MUIN,350,184,Studio,8.000,"L.Mus. Practical Instruction 3.",,TBA,10,0,0,0,"Jennifer  Swartz",09/02-12/04,TBA,Active
+16246,MUIN,350,230,Studio,8.000,"L.Mus. Practical Instruction 3.",,TBA,10,0,0,0,"Maria Caliopi Popescu",09/02-12/04,TBA,Active
+19824,MUIN,350,259,Studio,8.000,"L.Mus. Practical Instruction 3.",,TBA,5,0,0,0,"Daniele  Bourget",09/02-12/04,TBA,Active
+19877,MUIN,350,267,Studio,8.000,"L.Mus. Practical Instruction 3.",,TBA,10,0,0,0,TBA,09/02-12/04,TBA,Active
+16146,MUIN,351,033,Studio,8.000,"L.Mus. Practical Instruction 4.",,TBA,10,0,0,0,"Hank  Knox",09/02-12/04,TBA,Active
+2307,MUIN,369,001,Studio,0.000,"Concerto.",,TBA,50,0,0,0,TBA,09/02-12/04,TBA,Active
+15026,MUIN,380,020,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Stephen Michael Algie",09/02-12/04,TBA,Active
+19879,MUIN,380,023,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Kevin  Dean",09/02-12/04,TBA,Active
+14835,MUIN,380,027,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Matt  Haimovitz",09/02-12/04,TBA,Active
+14735,MUIN,380,028,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Kyoko  Hashimoto",09/02-12/04,TBA,Active
+13003,MUIN,380,030,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Jan  Jarczyk",09/02-12/04,TBA,Active
+16270,MUIN,380,032,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Abe  Kestenberg",09/02-12/04,TBA,Active
+14348,MUIN,380,033,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Hank  Knox",09/02-12/04,TBA,Active
+14912,MUIN,380,036,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Marina  Mdivani",09/02-12/04,TBA,Active
+14839,MUIN,380,040,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Andre J  Roy",09/02-12/04,TBA,Active
+13015,MUIN,380,041,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Joseph Leo  Sullivan",09/02-12/04,TBA,Active
+13017,MUIN,380,043,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Andre  White",09/02-12/04,TBA,Active
+17936,MUIN,380,047,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Yai-Yun  Huang, Fabrice  Marandola",09/02-12/04,TBA,Active
+14837,MUIN,380,048,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Mark Daniel Fewer",09/02-12/04,TBA,Active
+14344,MUIN,380,050,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Andrew  Dunn",09/02-12/04,TBA,Active
+14636,MUIN,380,051,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Ilya  Poletaev",09/02-12/04,TBA,Active
+16157,MUIN,380,052,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Erik Hans-Ola Eriksson",09/02-12/04,TBA,Active
+16353,MUIN,380,053,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Axel  Strauss",09/02-12/04,TBA,Active
+19774,MUIN,380,055,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Stéphane  Lemelin",09/02-12/04,TBA,Active
+19832,MUIN,380,056,Studio,3.000,"BMus Practical Lessons 5.",,TBA,5,0,0,0,"Felicia Karen Moye",09/02-12/04,TBA,Active
+14365,MUIN,380,058,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Sanford  Sylvan",09/02-12/04,TBA,Active
+16218,MUIN,380,060,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Theodore  Baskin",09/02-12/04,TBA,Active
+14340,MUIN,380,061,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"James Oliver Box",09/02-12/04,TBA,Active
+19810,MUIN,380,062,Studio,3.000,"BMus Practical Lessons 5.",,TBA,5,0,0,0,"Carolyn  Christie",09/02-12/04,TBA,Active
+14370,MUIN,380,063,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Robert  Crowley",09/02-12/04,TBA,Active
+14846,MUIN,380,064,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Russell  Devuyst",09/02-12/04,TBA,Active
+14832,MUIN,380,065,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Elizabeth  Dolin",09/02-12/04,TBA,Active
+17820,MUIN,380,066,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Jean  Gaudreault",09/02-12/04,TBA,Active
+16216,MUIN,380,067,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Timothy  Hutchins",09/02-12/04,TBA,Active
+14359,MUIN,380,070,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Joanne Ellen Kolomyjec",09/02-12/04,TBA,Active
+14368,MUIN,380,071,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Stephane  Levesque",09/02-12/04,TBA,Active
+14823,MUIN,380,072,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Denise  Lupien",09/02-12/04,TBA,Active
+14345,MUIN,380,075,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,TBA,09/02-12/04,TBA,Active
+14364,MUIN,380,076,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Winston  Purdy",09/02-12/04,TBA,Active
+16236,MUIN,380,077,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Richard Allen  Roberts",09/02-12/04,TBA,Active
+17914,MUIN,380,078,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Brian  Robinson",09/02-12/04,TBA,Active
+17917,MUIN,380,080,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Therese  Boudreault-Sevadjian",09/02-12/04,TBA,Active
+14339,MUIN,380,081,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"John  Zirbel",09/02-12/04,TBA,Active
+17945,MUIN,380,083,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Lena  Weman Eriksson",09/02-12/04,TBA,Active
+16369,MUIN,380,102,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Greg G  Amirault",09/02-12/04,TBA,Active
+17823,MUIN,380,103,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Garry M W  Antonio",09/02-12/04,TBA,Active
+14529,MUIN,380,108,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Remi  Bolduc",09/02-12/04,TBA,Active
+17913,MUIN,380,110,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Eric  Chappell",09/02-12/04,TBA,Active
+12994,MUIN,380,112,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Greg  Clayton",09/02-12/04,TBA,Active
+12997,MUIN,380,113,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Jocelyn  Couture",09/02-12/04,TBA,Active
+17946,MUIN,380,118,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Denys  Derome",09/02-12/04,TBA,Active
+14371,MUIN,380,119,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Alain  Desgagne",09/02-12/04,TBA,Active
+12998,MUIN,380,120,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Ronald  Di Lauro",09/02-12/04,TBA,Active
+15198,MUIN,380,121,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Trevor  Dix",09/02-12/04,TBA,Active
+17884,MUIN,380,123,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Michael  Dumouchel",09/02-12/04,TBA,Active
+16242,MUIN,380,124,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Yegor  Dyachkov",09/02-12/04,TBA,Active
+14731,MUIN,380,134,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Julia  Gavrilova",09/02-12/04,TBA,Active
+18394,MUIN,380,147,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Alexander David  Johnson",09/02-12/04,TBA,Active
+14525,MUIN,380,148,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Jeffrey E H  Johnston",09/02-12/04,TBA,Active
+16378,MUIN,380,150,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"David Christopher Laing",09/02-12/04,TBA,Active
+18023,MUIN,380,151,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Michel  Lambert",09/02-12/04,TBA,Active
+16380,MUIN,380,152,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Ranee Y  Lee",09/02-12/04,TBA,Active
+14357,MUIN,380,158,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Francisco J  Lozano",09/02-12/04,TBA,Active
+16647,MUIN,380,161,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"William V  Mahar",09/02-12/04,TBA,Active
+16238,MUIN,380,164,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Brian  Manker",09/02-12/04,TBA,Active
+14341,MUIN,380,165,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"David R  Martin",09/02-12/04,TBA,Active
+13007,MUIN,380,167,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Christopher John McCann",09/02-12/04,TBA,Active
+17827,MUIN,380,184,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Jennifer  Swartz",09/02-12/04,TBA,Active
+14644,MUIN,380,187,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Alec  Walkington",09/02-12/04,TBA,Active
+13256,MUIN,380,190,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Joshua  Rager",09/02-12/04,TBA,Active
+13206,MUIN,380,197,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Dimitrios George Doxas",09/02-12/04,TBA,Active
+13004,MUIN,380,204,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Donald Leyland  Kennedy",09/02-12/04,TBA,Active
+18048,MUIN,380,213,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Aline  Kutan",09/02-12/04,TBA,Active
+12985,MUIN,380,215,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Fraser  Hollins",09/02-12/04,TBA,Active
+13000,MUIN,380,219,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Chester Nathaniel Doxas",09/02-12/04,TBA,Active
+14526,MUIN,380,220,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Steve  Amirault",09/02-12/04,TBA,Active
+14355,MUIN,380,221,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"David  Grott",09/02-12/04,TBA,Active
+14363,MUIN,380,230,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Maria Caliopi Popescu",09/02-12/04,TBA,Active
+15013,MUIN,380,235,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Carlos Alberto  Jimenez",09/02-12/04,TBA,Active
+14828,MUIN,380,238,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Jérôme  Ducharme",09/02-12/04,TBA,Active
+14849,MUIN,380,241,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Pierre  Beaudry",09/02-12/04,TBA,Active
+16595,MUIN,380,248,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Marcelle  Mallette",09/02-12/04,TBA,Active
+16368,MUIN,380,251,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Jean-Nicolas  Trottier",09/02-12/04,TBA,Active
+17822,MUIN,380,256,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Patrice  Richer",09/02-12/04,TBA,Active
+17997,MUIN,380,259,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Daniele  Bourget",09/02-12/04,TBA,Active
+18348,MUIN,380,262,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Mark Austin  Howle",09/02-12/04,TBA,Active
+19805,MUIN,380,263,Studio,3.000,"BMus Practical Lessons 5.",,TBA,5,0,0,0,"Alexander Wallace Farmer Read",09/02-12/04,TBA,Active
+12990,MUIN,380,314,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Kenneth  Bibace",09/02-12/04,TBA,Active
+16303,MUIN,380,315,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Frédéric  Lambert",09/02-12/04,TBA,Active
+17824,MUIN,380,317,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Timothy  Dobby",09/02-12/04,TBA,Active
+17910,MUIN,380,320,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Ali  Yazdanfar",09/02-12/04,TBA,Active
+16232,MUIN,380,328,Studio,3.000,"BMus Practical Lessons 5.",,TBA,10,0,0,0,"Andrew Joshua Wan",09/02-12/04,TBA,Active
+13218,MUIN,381,030,Studio,3.000,"BMus Practical Lessons 6.",,TBA,10,0,0,0,"Jan  Jarczyk",09/02-12/04,TBA,Active
+14654,MUIN,381,034,Studio,3.000,"BMus Practical Lessons 6.",,TBA,10,0,0,0,"Sara  Laimon",09/02-12/04,TBA,Active
+16709,MUIN,381,036,Studio,3.000,"BMus Practical Lessons 6.",,TBA,10,0,0,0,"Marina  Mdivani",09/02-12/04,TBA,Active
+14351,MUIN,381,043,Studio,3.000,"BMus Practical Lessons 6.",,TBA,10,0,0,0,"Andre  White",09/02-12/04,TBA,Active
+18302,MUIN,381,053,Studio,3.000,"BMus Practical Lessons 6.",,TBA,10,0,0,0,"Axel  Strauss",09/02-12/04,TBA,Active
+19714,MUIN,381,121,Studio,3.000,"BMus Practical Lessons 6.",,TBA,5,0,0,0,"Trevor  Dix",09/02-12/04,TBA,Active
+19883,MUIN,381,151,Studio,3.000,"BMus Practical Lessons 6.",,TBA,10,0,0,0,"Michel  Lambert",09/02-12/04,TBA,Active
+19844,MUIN,381,230,Studio,3.000,"BMus Practical Lessons 6.",,TBA,5,0,0,0,"Maria Caliopi Popescu",09/02-12/04,TBA,Active
+18593,MUIN,382,001,Practical Examination,0.000,"BMus Performance Examination 2.",,TBA,50,0,0,0,TBA,09/02-12/04,TBA,Active
+17818,MUIN,400,001,Studio,2.000,"Voice Coaching 3.",,TBA,10,0,0,0,"Olivier  Godin",09/02-12/04,TBA,Active
+11136,MUIN,400,074,Studio,2.000,"Voice Coaching 3.",,TBA,10,0,0,0,"Michael  McMahon",09/02-12/04,TBA,Active
+18392,MUIN,400,199,Studio,2.000,"Voice Coaching 3.",,TBA,10,0,0,0,"Esther  Gonthier",09/02-12/04,TBA,Active
+18380,MUIN,431,248,Studio,4.000,"Performance Practical Instruction 8.",,TBA,1,0,0,0,"Marcelle  Mallette",09/02-12/04,TBA,Active
+5768,MUIN,432,001,Practical Examination,0.000,"Performance 3 Examination.",,TBA,10,0,0,0,TBA,09/02-12/04,TBA,Active
+12449,MUIN,433,001,Studio,0.000,"Piano Techniques 3.",,TBA,10,0,0,0,TBA,09/02-12/04,TBA,Temporarily closed
+12815,MUIN,450,071,Studio,8.000,"L.Mus. Practical Instruction 5.",,TBA,10,0,0,0,"Stephane  Levesque",09/02-12/04,TBA,Active
+18301,MUIN,450,076,Studio,8.000,"L.Mus. Practical Instruction 5.",,TBA,10,0,0,0,"Winston  Purdy",09/02-12/04,TBA,Active
+13201,MUIN,450,130,Studio,8.000,"L.Mus. Practical Instruction 5.",,TBA,10,0,0,0,"Normand  Forget",09/02-12/04,TBA,Active
+18113,MUIN,450,184,Studio,8.000,"L.Mus. Practical Instruction 5.",,TBA,10,0,0,0,"Jennifer  Swartz",09/02-12/04,TBA,Active
+19694,MUIN,451,033,Studio,8.000,"L.Mus. Practical Instruction 6.",,TBA,1,0,0,0,"Hank  Knox",09/02-12/04,TBA,Active
+13060,MUIN,460,028,Studio,8.000,"Artist Diploma Practical Instruction 1.",,TBA,10,0,0,0,"Kyoko  Hashimoto",09/02-12/04,TBA,Active
+9078,MUIN,460,033,Studio,8.000,"Artist Diploma Practical Instruction 1.",,TBA,10,0,0,0,"Hank  Knox",09/02-12/04,TBA,Active
+10906,MUIN,460,036,Studio,8.000,"Artist Diploma Practical Instruction 1.",,TBA,10,0,0,0,"Marina  Mdivani",09/02-12/04,TBA,Active
+14778,MUIN,460,040,Studio,8.000,"Artist Diploma Practical Instruction 1.",,TBA,10,0,0,0,"Andre J  Roy",09/02-12/04,TBA,Active
+18523,MUIN,460,050,Studio,8.000,"Artist Diploma Practical Instruction 1.",,TBA,10,0,0,0,"Andrew  Dunn",09/02-12/04,TBA,Active
+14917,MUIN,460,052,Studio,8.000,"Artist Diploma Practical Instruction 1.",,TBA,10,0,0,0,"Erik Hans-Ola Eriksson",09/02-12/04,TBA,Active
+16571,MUIN,460,054,Studio,8.000,"Artist Diploma Practical Instruction 1.",,TBA,10,0,0,0,"Jacqueline Fairchild Leclair",09/02-12/04,TBA,Active
+17962,MUIN,460,058,Studio,8.000,"Artist Diploma Practical Instruction 1.",,TBA,10,0,0,0,"Sanford  Sylvan",09/02-12/04,TBA,Active
+13103,MUIN,460,061,Studio,8.000,"Artist Diploma Practical Instruction 1.",,TBA,10,0,0,0,"James Oliver Box",09/02-12/04,TBA,Active
+5753,MUIN,460,070,Studio,8.000,"Artist Diploma Practical Instruction 1.",,TBA,10,0,0,0,"Joanne Ellen Kolomyjec",09/02-12/04,TBA,Active
+17974,MUIN,460,071,Studio,8.000,"Artist Diploma Practical Instruction 1.",,TBA,10,0,0,0,"Stephane  Levesque",09/02-12/04,TBA,Active
+16533,MUIN,460,074,Studio,8.000,"Artist Diploma Practical Instruction 1.",,TBA,10,0,0,0,"Michael  McMahon",09/02-12/04,TBA,Active
+18340,MUIN,460,101,Studio,8.000,"Artist Diploma Practical Instruction 1.",,TBA,10,0,0,0,"Simon  Aldrich",09/02-12/04,TBA,Active
+16727,MUIN,460,110,Studio,8.000,"Artist Diploma Practical Instruction 1.",,TBA,10,0,0,0,"Eric  Chappell",09/02-12/04,TBA,Active
+14918,MUIN,460,130,Studio,8.000,"Artist Diploma Practical Instruction 1.",,TBA,10,0,0,0,"Normand  Forget",09/02-12/04,TBA,Active
+12980,MUIN,460,159,Studio,8.000,"Artist Diploma Practical Instruction 1.",,TBA,10,0,0,0,"Mathieu  Lussier",09/02-12/04,TBA,Active
+17973,MUIN,460,178,Studio,8.000,"Artist Diploma Practical Instruction 1.",,TBA,10,0,0,0,"Helene  Plouffe",09/02-12/04,TBA,Active
+19689,MUIN,460,202,Studio,8.000,"Artist Diploma Practical Instruction 1.",,TBA,5,0,0,0,"Matthew Dixon  Jennejohn",09/02-12/04,TBA,Active
+16537,MUIN,460,238,Studio,8.000,"Artist Diploma Practical Instruction 1.",,TBA,10,0,0,0,"Jérôme  Ducharme",09/02-12/04,TBA,Active
+16726,MUIN,460,241,Studio,8.000,"Artist Diploma Practical Instruction 1.",,TBA,10,0,0,0,"Pierre  Beaudry",09/02-12/04,TBA,Active
+16569,MUIN,460,320,Studio,8.000,"Artist Diploma Practical Instruction 1.",,TBA,10,0,0,0,"Ali  Yazdanfar",09/02-12/04,TBA,Active
+19798,MUIN,460,328,Studio,8.000,"Artist Diploma Practical Instruction 1.",,TBA,2,0,0,0,"Andrew Joshua Wan",09/02-12/04,TBA,Active
+18112,MUIN,461,040,Studio,8.000,"Artist Diploma Practical Instruction 2.",,TBA,10,0,0,0,"Andre J  Roy",09/02-12/04,TBA,Active
+19695,MUIN,461,178,Studio,8.000,"Artist Diploma Practical Instruction 2.",,TBA,1,0,0,0,"Helene  Plouffe",09/02-12/04,TBA,Active
+17821,MUIN,461,241,Studio,8.000,"Artist Diploma Practical Instruction 2.",,TBA,10,0,0,0,"Pierre  Beaudry",09/02-12/04,TBA,Active
+7774,MUIN,462,001,Practical Examination,0.000,"Artist Diploma Recital 1.",,TBA,10,0,0,0,TBA,09/02-12/04,TBA,Active
+14970,MUIN,469,001,Studio,1.000,"Artist Diploma Concerto 1.",,TBA,10,0,0,0,TBA,09/02-12/04,TBA,Active
+17915,MUIN,480,020,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"Stephen Michael Algie",09/02-12/04,TBA,Active
+14356,MUIN,480,023,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"Kevin  Dean",09/02-12/04,TBA,Active
+16239,MUIN,480,027,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"Matt  Haimovitz",09/02-12/04,TBA,Active
+16166,MUIN,480,028,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"Kyoko  Hashimoto",09/02-12/04,TBA,Active
+13002,MUIN,480,030,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"Jan  Jarczyk",09/02-12/04,TBA,Active
+17996,MUIN,480,032,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"Abe  Kestenberg",09/02-12/04,TBA,Active
+16147,MUIN,480,033,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"Hank  Knox",09/02-12/04,TBA,Active
+14655,MUIN,480,034,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"Sara  Laimon",09/02-12/04,TBA,Active
+15141,MUIN,480,036,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"Marina  Mdivani",09/02-12/04,TBA,Active
+16698,MUIN,480,040,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"Andre J  Roy",09/02-12/04,TBA,Active
+13018,MUIN,480,043,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"Andre  White",09/02-12/04,TBA,Active
+16803,MUIN,480,048,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"Mark Daniel Fewer",09/02-12/04,TBA,Active
+16139,MUIN,480,050,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"Andrew  Dunn",09/02-12/04,TBA,Active
+16685,MUIN,480,051,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"Ilya  Poletaev",09/02-12/04,TBA,Active
+17830,MUIN,480,052,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"Erik Hans-Ola Eriksson",09/02-12/04,TBA,Active
+17902,MUIN,480,053,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"Axel  Strauss",09/02-12/04,TBA,Active
+19831,MUIN,480,056,Studio,3.000,"BMus Practical Lessons 7.",,TBA,5,0,0,0,"Felicia Karen Moye",09/02-12/04,TBA,Active
+16243,MUIN,480,058,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"Sanford  Sylvan",09/02-12/04,TBA,Active
+17891,MUIN,480,060,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"Theodore  Baskin",09/02-12/04,TBA,Active
+16137,MUIN,480,061,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"James Oliver Box",09/02-12/04,TBA,Active
+16213,MUIN,480,063,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"Robert  Crowley",09/02-12/04,TBA,Active
+16795,MUIN,480,064,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"Russell  Devuyst",09/02-12/04,TBA,Active
+16732,MUIN,480,065,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"Elizabeth  Dolin",09/02-12/04,TBA,Active
+15046,MUIN,480,066,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"Jean  Gaudreault",09/02-12/04,TBA,Active
+17886,MUIN,480,067,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"Timothy  Hutchins",09/02-12/04,TBA,Active
+16244,MUIN,480,070,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"Joanne Ellen Kolomyjec",09/02-12/04,TBA,Active
+16209,MUIN,480,071,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"Stephane  Levesque",09/02-12/04,TBA,Active
+16294,MUIN,480,072,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"Denise  Lupien",09/02-12/04,TBA,Active
+16180,MUIN,480,076,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"Winston  Purdy",09/02-12/04,TBA,Active
+17903,MUIN,480,077,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"Richard Allen  Roberts",09/02-12/04,TBA,Active
+19786,MUIN,480,078,Studio,3.000,"BMus Practical Lessons 7.",,TBA,1,0,0,0,"Brian  Robinson",09/02-12/04,TBA,Active
+19846,MUIN,480,080,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"Therese  Boudreault-Sevadjian",09/02-12/04,TBA,Active
+16138,MUIN,480,081,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"John  Zirbel",09/02-12/04,TBA,Active
+16362,MUIN,480,102,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"Greg G  Amirault",09/02-12/04,TBA,Active
+12991,MUIN,480,108,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"Remi  Bolduc",09/02-12/04,TBA,Active
+14524,MUIN,480,112,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"Greg  Clayton",09/02-12/04,TBA,Active
+18016,MUIN,480,113,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"Jocelyn  Couture",09/02-12/04,TBA,Active
+19872,MUIN,480,118,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"Denys  Derome",09/02-12/04,TBA,Active
+17883,MUIN,480,119,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"Alain  Desgagne",09/02-12/04,TBA,Active
+18017,MUIN,480,121,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"Trevor  Dix",09/02-12/04,TBA,Active
+16215,MUIN,480,123,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"Michael  Dumouchel",09/02-12/04,TBA,Active
+17909,MUIN,480,124,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"Yegor  Dyachkov",09/02-12/04,TBA,Active
+19716,MUIN,480,147,Studio,3.000,"BMus Practical Lessons 7.",,TBA,5,0,0,0,"Alexander David  Johnson",09/02-12/04,TBA,Active
+16366,MUIN,480,148,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"Jeffrey E H  Johnston",09/02-12/04,TBA,Active
+14522,MUIN,480,150,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"David Christopher Laing",09/02-12/04,TBA,Active
+16379,MUIN,480,151,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"Michel  Lambert",09/02-12/04,TBA,Active
+14649,MUIN,480,152,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"Ranee Y  Lee",09/02-12/04,TBA,Active
+14530,MUIN,480,158,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"Francisco J  Lozano",09/02-12/04,TBA,Active
+14532,MUIN,480,161,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"William V  Mahar",09/02-12/04,TBA,Active
+17907,MUIN,480,164,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"Brian  Manker",09/02-12/04,TBA,Active
+16310,MUIN,480,165,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"David R  Martin",09/02-12/04,TBA,Active
+13008,MUIN,480,167,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"Christopher John McCann",09/02-12/04,TBA,Active
+19779,MUIN,480,184,Studio,3.000,"BMus Practical Lessons 7.",,TBA,5,0,0,0,"Jennifer  Swartz",09/02-12/04,TBA,Active
+16384,MUIN,480,187,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"Alec  Walkington",09/02-12/04,TBA,Active
+13005,MUIN,480,204,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"Donald Leyland  Kennedy",09/02-12/04,TBA,Active
+12989,MUIN,480,215,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"Fraser  Hollins",09/02-12/04,TBA,Active
+12996,MUIN,480,219,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"Chester Nathaniel Doxas",09/02-12/04,TBA,Active
+12987,MUIN,480,220,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"Steve  Amirault",09/02-12/04,TBA,Active
+14354,MUIN,480,221,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"David  Grott",09/02-12/04,TBA,Active
+18342,MUIN,480,230,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"Maria Caliopi Popescu",09/02-12/04,TBA,Active
+13012,MUIN,480,232,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"Francois  Stevenson",09/02-12/04,TBA,Active
+18473,MUIN,480,235,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"Carlos Alberto  Jimenez",09/02-12/04,TBA,Active
+16149,MUIN,480,238,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"Jérôme  Ducharme",09/02-12/04,TBA,Active
+16728,MUIN,480,241,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"Pierre  Beaudry",09/02-12/04,TBA,Active
+19807,MUIN,480,248,Studio,3.000,"BMus Practical Lessons 7.",,TBA,5,0,0,0,"Marcelle  Mallette",09/02-12/04,TBA,Active
+16652,MUIN,480,251,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"Jean-Nicolas  Trottier",09/02-12/04,TBA,Active
+18353,MUIN,480,262,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"Mark Austin  Howle",09/02-12/04,TBA,Active
+19804,MUIN,480,263,Studio,3.000,"BMus Practical Lessons 7.",,TBA,5,0,0,0,"Alexander Wallace Farmer Read",09/02-12/04,TBA,Active
+19876,MUIN,480,267,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,TBA,09/02-12/04,TBA,Active
+14643,MUIN,480,314,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"Kenneth  Bibace",09/02-12/04,TBA,Active
+16710,MUIN,480,315,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"Frédéric  Lambert",09/02-12/04,TBA,Active
+19788,MUIN,480,320,Studio,3.000,"BMus Practical Lessons 7.",,TBA,5,0,0,0,"Ali  Yazdanfar",09/02-12/04,TBA,Active
+17904,MUIN,480,328,Studio,3.000,"BMus Practical Lessons 7.",,TBA,10,0,0,0,"Andrew Joshua Wan",09/02-12/04,TBA,Active
+19791,MUIN,481,027,Studio,3.000,"BMus Practical Lessons 8.",,TBA,1,0,0,0,"Matt  Haimovitz",09/02-12/04,TBA,Active
+16167,MUIN,481,034,Studio,3.000,"BMus Practical Lessons 8.",,TBA,10,0,0,0,"Sara  Laimon",09/02-12/04,TBA,Active
+19706,MUIN,481,036,Studio,3.000,"BMus Practical Lessons 8.",,TBA,5,0,0,0,"Marina  Mdivani",09/02-12/04,TBA,Active
+16387,MUIN,481,041,Studio,3.000,"BMus Practical Lessons 8.",,TBA,10,0,0,0,"Joseph Leo  Sullivan",09/02-12/04,TBA,Active
+19719,MUIN,481,081,Studio,3.000,"BMus Practical Lessons 8.",,TBA,5,0,0,0,"John  Zirbel",09/02-12/04,TBA,Active
+13189,MUIN,481,108,Studio,3.000,"BMus Practical Lessons 8.",,TBA,10,0,0,0,"Remi  Bolduc",09/02-12/04,TBA,Active
+13171,MUIN,481,158,Studio,3.000,"BMus Practical Lessons 8.",,TBA,10,0,0,0,"Francisco J  Lozano",09/02-12/04,TBA,Active
+14349,MUIN,481,167,Studio,3.000,"BMus Practical Lessons 8.",,TBA,10,0,0,0,"Christopher John McCann",09/02-12/04,TBA,Active
+18591,MUIN,482,001,Practical Examination,0.000,"BMus Performance Examination 3.",,TBA,50,0,0,0,TBA,09/02-12/04,TBA,Active
+2311,MUIN,560,001,Studio,8.000,"Artist Diploma Practical Instruction 3.",,TBA,25,0,0,0,TBA,09/02-12/04,TBA,Active
+12900,MUIN,560,027,Studio,8.000,"Artist Diploma Practical Instruction 3.",,TBA,10,0,0,0,"Matt  Haimovitz",09/02-12/04,TBA,Active
+14737,MUIN,560,028,Studio,8.000,"Artist Diploma Practical Instruction 3.",,TBA,10,0,0,0,"Kyoko  Hashimoto",09/02-12/04,TBA,Active
+13106,MUIN,560,036,Studio,8.000,"Artist Diploma Practical Instruction 3.",,TBA,10,0,0,0,"Marina  Mdivani",09/02-12/04,TBA,Active
+4379,MUIN,560,040,Studio,8.000,"Artist Diploma Practical Instruction 3.",,TBA,10,0,0,0,"Andre J  Roy",09/02-12/04,TBA,Active
+16156,MUIN,560,052,Studio,8.000,"Artist Diploma Practical Instruction 3.",,TBA,10,0,0,0,"Erik Hans-Ola Eriksson",09/02-12/04,TBA,Active
+17892,MUIN,560,054,Studio,8.000,"Artist Diploma Practical Instruction 3.",,TBA,10,0,0,0,"Jacqueline Fairchild Leclair",09/02-12/04,TBA,Active
+13196,MUIN,560,058,Studio,8.000,"Artist Diploma Practical Instruction 3.",,TBA,10,0,0,0,"Sanford  Sylvan",09/02-12/04,TBA,Active
+19874,MUIN,560,070,Studio,8.000,"Artist Diploma Practical Instruction 3.",,TBA,10,0,0,0,"Joanne Ellen Kolomyjec",09/02-12/04,TBA,Active
+19818,MUIN,560,071,Studio,8.000,"Artist Diploma Practical Instruction 3.",,TBA,5,0,0,0,"Stephane  Levesque",09/02-12/04,TBA,Active
+13211,MUIN,560,074,Studio,8.000,"Artist Diploma Practical Instruction 3.",,TBA,10,0,0,0,"Michael  McMahon",09/02-12/04,TBA,Active
+12605,MUIN,560,080,Studio,8.000,"Artist Diploma Practical Instruction 3.",,TBA,10,0,0,0,"Therese  Boudreault-Sevadjian",09/02-12/04,TBA,Active
+19826,MUIN,560,101,Studio,8.000,"Artist Diploma Practical Instruction 3.",,TBA,5,0,0,0,"Simon  Aldrich",09/02-12/04,TBA,Active
+18304,MUIN,560,110,Studio,8.000,"Artist Diploma Practical Instruction 3.",,TBA,10,0,0,0,"Eric  Chappell",09/02-12/04,TBA,Active
+16589,MUIN,560,130,Studio,8.000,"Artist Diploma Practical Instruction 3.",,TBA,10,0,0,0,"Normand  Forget",09/02-12/04,TBA,Active
+14346,MUIN,560,159,Studio,8.000,"Artist Diploma Practical Instruction 3.",,TBA,10,0,0,0,"Mathieu  Lussier",09/02-12/04,TBA,Active
+12901,MUIN,560,164,Studio,8.000,"Artist Diploma Practical Instruction 3.",,TBA,10,0,0,0,"Brian  Manker",09/02-12/04,TBA,Active
+17825,MUIN,560,238,Studio,8.000,"Artist Diploma Practical Instruction 3.",,TBA,10,0,0,0,"Jérôme  Ducharme",09/02-12/04,TBA,Active
+12905,MUIN,560,320,Studio,8.000,"Artist Diploma Practical Instruction 3.",,TBA,10,0,0,0,"Ali  Yazdanfar",09/02-12/04,TBA,Active
+13097,MUIN,561,036,Studio,8.000,"Artist Diploma Practical Instruction 4.",,TBA,10,0,0,0,"Marina  Mdivani",09/02-12/04,TBA,Active
+19385,MUIN,562,001,Studio,0.000,"Artist Diploma Recital 2.",,TBA,10,0,0,0,TBA,09/02-12/04,TBA,Active
+2314,MUIN,569,001,Studio,1.000,"Artist Diploma Concerto 2.",,TBA,25,0,0,0,TBA,09/02-12/04,TBA,Active
+Instrumental Techniques
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+1239,MUIT,202,001,Lecture,3.000,"Woodwind Techniques.",WF,02:35 PM-03:55 PM,12,0,0,0,"Peter  Freeman",09/02-12/04,MUSIC C-309,Active
+1240,MUIT,202,002,Studio,0.000,"Woodwind Techniques.",TR,10:35 AM-11:25 AM,12,0,0,0,"Peter  Freeman",09/02-12/03,MUSIC C-310,Active
+1241,MUIT,203,001,Lecture,3.000,"Brass Techniques.",MWF,01:35 PM-02:25 PM,12,0,0,0,"Trevor  Dix",09/02-12/04,MUSIC C-304,Active
+,,,,,,,R,01:35 PM-02:25 PM,,,,,"Trevor  Dix",12/04-12/04,TBA,Active
+1242,MUIT,203,002,Studio,0.000,"Brass Techniques.",TR,10:35 AM-11:25 AM,12,0,0,0,"Trevor  Dix",09/02-12/03,MUSIC C-310,Active
+1243,MUIT,204,001,Lecture,3.000,"Percussion Techniques.",MWF,02:35 PM-03:25 PM,12,0,0,0,"Shawn Eliot  Mativetsky",09/02-12/04,MUSIC C-310,Active
+,,,,,,,R,02:35 PM-03:25 PM,,,,,"Shawn Eliot  Mativetsky",12/04-12/04,TBA,Active
+1244,MUIT,204,002,Studio,0.000,"Percussion Techniques.",TR,10:35 AM-11:25 AM,12,0,0,0,"Shawn Eliot  Mativetsky",09/02-12/03,MUSIC C-310,Active
+1245,MUIT,315,001,Lecture,3.000,"Instrumental Conducting.",TR,09:05 AM-10:25 AM,5,0,0,0,"Alain  Cazes",09/02-12/03,MUSIC C-309,Active
+1246,MUIT,315,002,Studio,0.000,"Instrumental Conducting.",TR,10:35 AM-11:25 AM,5,0,0,0,"Alain  Cazes",09/02-12/03,MUSIC C-310,Active
+Jazz Studies
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+1247,MUJZ,160,001,Lecture,3.000,"Jazz Materials 1.",TR,01:35 PM-02:55 PM,30,0,0,0,TBA,09/02-12/03,MUSIC E-109,Active
+1248,MUJZ,170,001,Studio,1.000,"Jazz Keyboard Proficiency 1.",F,11:35 AM-12:25 PM,12,0,0,0,"Min Jung  Suh",09/02-12/04,MUSIC E-433,Active
+1249,MUJZ,170,002,Studio,1.000,"Jazz Keyboard Proficiency 1.",F,12:35 PM-01:25 PM,12,0,0,0,TBA,09/02-12/04,MUSIC E-433,Active
+19581,MUJZ,213,001,Studio,2.000,"Non-Performance Jazz Improvisation 1.",TR,11:35 AM-12:25 PM,12,0,0,0,TBA,09/02-12/03,MUSIC E-109,Active
+1250,MUJZ,223,001,Lecture,3.000,"Jazz Improvisation/Musicianship 1.",TR,01:35 PM-02:55 PM,12,0,0,0,"Alec  Walkington, Greg  Clayton",09/02-12/03,MUSIC C-301,Active
+1251,MUJZ,223,002,Lecture,3.000,"Jazz Improvisation/Musicianship 1.",TR,01:35 PM-02:55 PM,12,0,0,0,"Alec  Walkington, Greg  Clayton",09/02-12/03,MUSIC C-312,Active
+7198,MUJZ,260,001,Lecture,3.000,"Jazz Arranging 1.",TR,03:35 PM-04:55 PM,20,0,0,0,"Joshua  Rager",09/02-12/03,MUSIC C-412,Active
+7199,MUJZ,260,002,Lecture,3.000,"Jazz Arranging 1.",TR,03:35 PM-04:55 PM,20,0,0,0,"Donald Leyland  Kennedy",09/02-12/03,MUSIC E-109,Active
+19580,MUJZ,262,001,Lecture,3.000,"Applied Jazz Theory.",MW,01:35 PM-02:55 PM,0,0,0,0,"Joseph Leo  Sullivan",09/02-12/04,MUSIC A-412,Active
+,,,,,,,R,01:35 PM-02:55 PM,,,,,"Joseph Leo  Sullivan",12/04-12/04,MUSIC A-412,Active
+7650,MUJZ,340,001,Lecture,3.000,"Jazz Composition 1.",TR,10:05 AM-11:25 AM,15,0,0,0,"Kevin  Dean",09/02-12/03,MUSIC C-301,Active
+7651,MUJZ,340,002,Lecture,3.000,"Jazz Composition 1.",TR,10:05 AM-11:25 AM,15,0,0,0,"Jean-Nicolas  Trottier",09/02-12/03,MUSIC C-302,Active
+1257,MUJZ,423,001,Lecture,3.000,"Jazz Improvisation/Musicianship 3.",TR,11:35 AM-12:55 PM,14,0,0,0,"Fraser  Hollins, Remi  Bolduc",09/02-12/03,MUSIC C-301,Active
+1258,MUJZ,423,002,Lecture,3.000,"Jazz Improvisation/Musicianship 3.",TR,11:35 AM-12:55 PM,14,0,0,0,"Fraser  Hollins, Remi  Bolduc",09/02-12/03,MUSIC C-312,Active
+1259,MUJZ,440D1,001,Lecture,2.000,"Advanced Jazz Composition.",T,01:35 PM-03:25 PM,15,0,0,0,"Jan  Jarczyk",09/02-12/04,MUSIC C-304,Active
+1261,MUJZ,461D1,001,Lecture,2.000,"Advanced Jazz Arranging.",R,01:35 PM-03:25 PM,18,0,0,0,"Jean-Nicolas  Trottier",09/02-12/03,MUSIC A-412,Active
+12561,MUJZ,493,001,Lecture,3.000,"Jazz Performance Practice.",MW,01:35 PM-02:55 PM,20,0,0,0,"Kevin  Dean",09/02-12/04,MUSIC C-412,Active
+,,,,,,,R,01:35 PM-02:55 PM,,,,,"Kevin  Dean",12/04-12/04,TBA,Active
+Music Technology
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+1193,MUMT,202,001,Lecture,3.000,"Fundamentals of New Media.",M,05:35 PM-08:25 PM,32,0,0,0,TBA,09/02-12/04,MUSIC C-204,Active
+,,,,,,,R,05:35 PM-08:25 PM,,,,,TBA,12/04-12/04,TBA,Active
+8634,MUMT,203,001,Lecture,3.000,"Introduction to Digital Audio.",R,09:35 AM-12:25 PM,12,0,0,0,"Marcelo Mortensen Wanderley",09/02-12/03,MUSIC E-215,Active
+13669,MUMT,301,001,Lecture,3.000,"Music and the Internet.",R,04:35 PM-07:25 PM,12,0,0,0,TBA,09/02-12/03,MUSIC E-215,Active
+1195,MUMT,306,001,Lecture,3.000,"Music and Audio Computing 1.",T,01:35 PM-04:25 PM,12,0,0,0,"Gary Paul Scavone",09/02-12/04,MUSIC E-215,Active
+8635,MUMT,501,001,Lecture,3.000,"Digital Audio Signal Processing.",W,01:35 PM-04:25 PM,12,0,0,0,"Philippe  Depalle",09/02-12/04,MUSIC A-512,Active
+Music Professional Development
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+12123,MUPD,135,001,Lecture,1.000,"Music as a Profession 1.",F,01:35 PM-02:25 PM,180,0,0,0,"Abe  Kestenberg",09/02-12/04,MUSIC TANNA RCTL,Active
+15668,MUPD,201,001,Lecture,3.000,"Business Fundamentals for Musicians.",R,08:35 AM-11:25 AM,100,0,0,0,"Jay Allen Hewlin",09/02-12/03,MUSIC C-201,Active
+13701,MUPD,204,001,Lecture,3.000,"Production for Digital Media 1.",T,08:35 AM-11:25 AM,16,0,0,0,"Abe  Kestenberg, George  Massenburg",09/02-12/04,MUSIC A-412,Active
+12492,MUPD,560,001,Lecture,1.000,"Introduction to Research Methods in Music.",W,03:35 PM-04:25 PM,20,0,0,0,"Brian Cameron  McMillan",09/02-12/04,MUSIC A-412,Active
+12493,MUPD,560,002,Lecture,1.000,"Introduction to Research Methods in Music.",R,09:35 AM-10:25 AM,20,0,0,0,TBA,09/02-12/03,MUSIC A-412,Temporarily closed
+12494,MUPD,560,003,Lecture,1.000,"Introduction to Research Methods in Music.",R,10:35 AM-11:25 AM,20,0,0,0,"Brian Cameron  McMillan",09/02-12/03,MUSIC A-412,Active
+14481,MUPD,560,004,Lecture,1.000,"Introduction to Research Methods in Music.",R,03:35 PM-04:25 PM,20,0,0,0,TBA,09/02-12/03,MUSIC A-412,Temporarily closed
+Performance
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+12125,MUPG,209,001,Lecture,1.000,"Introduction to Lyric Diction.",T,09:35 AM-10:25 AM,16,0,0,0,"Maria Caliopi Popescu",09/02-12/04,MUSIC C-201,Active
+1198,MUPG,210,001,Lecture,2.000,"Italian Diction.",MW,02:35 PM-03:25 PM,13,0,0,0,"Maria Caliopi Popescu",09/02-12/04,MUSIC C-204,Active
+,,,,,,,R,02:35 PM-03:25 PM,,,,,"Maria Caliopi Popescu",12/04-12/04,TBA,Active
+1200,MUPG,212,001,Lecture,2.000,"English Diction.",MW,01:35 PM-02:25 PM,13,0,0,0,"Elizabeth  Koch",09/02-12/04,MUSIC C-204,Active
+,,,,,,,R,01:35 PM-02:25 PM,,,,,"Elizabeth  Koch",12/04-12/04,TBA,Active
+19314,MUPG,224,003,Studio,2.000,"Orchestral Excerpts Strings 1.",TBA,TBA,25,0,0,0,TBA,09/02-12/04,TBA,Cancelled
+16632,MUPG,230,001,Studio,2.000,"Orchestral Excerpts Woodwind 1.",T,01:35 PM-03:25 PM,20,0,0,0,"Jacqueline Fairchild Leclair",09/02-12/04,MUSIC C-310,Temporarily closed
+13241,MUPG,235,001,Studio,2.000,"Orchestral Excerpts Brass 1.",R,02:35 PM-04:25 PM,25,0,0,0,"Jean  Gaudreault, Andrew  Dunn, Russell  Devuyst",09/02-12/03,MUSIC C-310,Active
+1202,MUPG,272D1,001,Studio,2.000,"Continuo.",MW,09:35 AM-10:25 AM,10,0,0,0,"Rona Miriam  Nadler",09/02-12/04,MUSIC C-531,Active
+,,,,,,,R,09:35 AM-10:25 AM,,,,,"Rona Miriam  Nadler",12/04-12/04,MUSIC C-531,Active
+12117,MUPG,296,001,Studio,1.000,"Acting for Voice.",TR,09:35 AM-10:25 AM,18,0,0,0,"Jonathan David  Patterson",09/02-12/03,MUSIC WIRTH OS,Active
+12118,MUPG,297,001,Studio,1.000,"Movement for Voice.",TR,10:35 AM-11:25 AM,24,0,0,0,"Jonathan David  Patterson",09/02-12/03,MUSIC WIRTH OS,Active
+19390,MUPG,300,001,Lecture,2.000,"Music Performance Strategies.",W,09:35 AM-11:25 AM,24,0,0,0,"Isabelle  Cossette",09/02-12/04,MUSIC A-412,Active
+1203,MUPG,315D1,001,Lecture,2.000,"Introduction to Orchestral Conducting.",M,06:35 PM-08:25 PM,10,0,0,0,"Rudolf-Alexius  Hauser",09/02-12/04,TBA,Active
+,,,,,,,R,06:35 PM-08:25 PM,,,,,"Rudolf-Alexius  Hauser",12/04-12/04,TBA,Active
+19866,MUPG,328,001,Studio,1.000,"Introduction to Percussion Pedagogy.",,TBA,15,0,0,0,"Fabrice  Marandola",09/02-12/04,TBA,Active
+1204,MUPG,372D1,001,Studio,1.000,"Continuo.",W,01:35 PM-02:25 PM,10,0,0,0,"Hank  Knox",09/02-12/04,MUSIC C-531,Temporarily closed
+13600,MUPG,429,001,Lecture,2.000,"Percussion Seminar.",W,04:35 PM-06:25 PM,10,0,0,0,"Yai-Yun  Huang",09/02-12/04,MUSIC A-412,Active
+13168,MUPG,473,003,Project,1.000,"Special Project in Performance.",R,12:05 PM-01:25 PM,25,0,0,0,"Julie Emelyn  Cumming",09/02-12/03,MUSIC C-411,Active
+3197,MUPG,541,001,Studio,2.000,"Senior Piano Seminar 1.",R,01:35 PM-03:25 PM,15,0,0,0,"Ilya  Poletaev, Kyoko  Hashimoto",09/02-12/03,MUSIC C-420,Active
+14576,MUPG,580,001,Studio,2.000,"Rehearsal Techniques for Conductors 1.",,TBA,5,0,0,0,"Rudolf-Alexius  Hauser",09/02-12/04,TBA,Temporarily closed
+15669,MUPG,590,001,Seminar,3.000,"Vocal Styles and Conventions.",T,01:35 PM-04:25 PM,14,0,0,0,"Anja  Strauss",09/02-12/04,MUSIC A-510,Active
+Musicianship
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+12083,MUSP,123,001,Studio,2.000,"Jazz Ear Training 1.",TR,09:35 AM-10:25 AM,15,0,0,0,TBA,09/02-12/03,SH550 1117,Active
+13283,MUSP,123,002,Studio,2.000,"Jazz Ear Training 1.",TR,10:35 AM-11:25 AM,15,0,0,0,TBA,09/02-12/03,SH550 1117,Temporarily closed
+12074,MUSP,140,001,Studio,2.000,"Musicianship Training 1.",TR,08:35 AM-09:25 AM,12,0,0,0,"Pierrette  Mather",09/02-12/03,SH550 1115,Active
+12075,MUSP,140,002,Studio,2.000,"Musicianship Training 1.",MW,01:35 PM-02:25 PM,12,0,0,0,"Margaret Emily  De Castro",09/02-12/04,SH550 1118,Active
+,,,,,,,R,01:35 PM-02:25 PM,,,,,"Margaret Emily  De Castro",12/04-12/04,SH550 1118,Active
+12076,MUSP,140,003,Studio,2.000,"Musicianship Training 1.",MW,02:35 PM-03:25 PM,12,0,0,0,"Margaret Emily  De Castro",09/02-12/04,SH550 1118,Active
+,,,,,,,R,02:35 PM-03:25 PM,,,,,"Margaret Emily  De Castro",12/04-12/04,SH550 1118,Active
+12077,MUSP,140,004,Studio,2.000,"Musicianship Training 1.",MW,03:35 PM-04:25 PM,12,0,0,0,"Margaret Emily  De Castro",09/02-12/04,SH550 1118,Active
+,,,,,,,R,03:35 PM-04:25 PM,,,,,"Margaret Emily  De Castro",12/04-12/04,SH550 1118,Active
+12078,MUSP,140,005,Studio,2.000,"Musicianship Training 1.",TR,03:35 PM-04:25 PM,12,0,0,0,"Fredericka  Petit-Homme",09/02-12/03,SH550 1117,Active
+12079,MUSP,140,006,Studio,2.000,"Musicianship Training 1.",TR,02:35 PM-03:25 PM,12,0,0,0,"Fredericka  Petit-Homme",09/02-12/03,SH550 1117,Active
+12080,MUSP,140,007,Studio,2.000,"Musicianship Training 1.",TR,09:35 AM-10:25 AM,12,0,0,0,"Pierrette  Mather",09/02-12/03,SH550 1115,Active
+12212,MUSP,140,010,Optional Tutorial,0.000,"Musicianship Training 1.",F,02:35 PM-03:25 PM,30,0,0,0,"Monica  Asly",09/02-12/04,SH550 1117,Active
+12213,MUSP,140,011,Optional Tutorial,0.000,"Musicianship Training 1.",F,02:35 PM-03:25 PM,30,0,0,0,TBA,09/02-12/04,SH550 1118,Active
+12094,MUSP,141,001,Studio,2.000,"Musicianship Training 2.",MF,03:35 PM-04:25 PM,12,0,0,0,"Justin B  Mariner",09/02-12/04,SH550 1116,Active
+,,,,,,,R,03:35 PM-04:25 PM,,,,,"Justin B  Mariner",12/04-12/04,SH550 1116,Active
+14004,MUSP,141,010,Optional Tutorial,0.000,"Musicianship Training 2.",TBA,TBA,20,0,0,0,TBA,09/02-12/04,TBA,Temporarily closed
+1171,MUSP,170,001,Studio,1.000,"Musicianship (Keyboard) 1.",M,03:35 PM-04:25 PM,10,0,0,0,"Thomas  Davidson",09/02-12/04,MUSIC E-433,Active
+,,,,,,,R,03:35 PM-04:25 PM,,,,,"Thomas  Davidson",12/04-12/04,MUSIC E-433,Active
+1173,MUSP,170,002,Studio,1.000,"Musicianship (Keyboard) 1.",W,01:35 PM-02:25 PM,10,0,0,0,"Jolan Ilona  Kovacs",09/02-12/04,MUSIC E-433,Active
+1174,MUSP,170,003,Studio,1.000,"Musicianship (Keyboard) 1.",R,02:35 PM-03:25 PM,10,0,0,0,"Julia  Gavrilova",09/02-12/03,MUSIC E-433,Active
+1175,MUSP,170,004,Studio,1.000,"Musicianship (Keyboard) 1.",T,08:35 AM-09:25 AM,10,0,0,0,"Marek Kazimierz Krowicki",09/02-12/04,MUSIC E-433,Active
+5854,MUSP,170,005,Studio,1.000,"Musicianship (Keyboard) 1.",R,09:35 AM-10:25 AM,10,0,0,0,"Geoffrey Allan Conquer",09/02-12/03,MUSIC E-433,Active
+9362,MUSP,170,006,Studio,1.000,"Musicianship (Keyboard) 1.",R,08:35 AM-09:25 AM,10,0,0,0,"Geoffrey Allan Conquer",09/02-12/03,MUSIC E-433,Active
+11994,MUSP,170,007,Studio,1.000,"Musicianship (Keyboard) 1.",M,08:35 AM-09:25 AM,10,0,0,0,"Jonathan  Vromet",09/02-12/04,MUSIC E-433,Active
+,,,,,,,R,08:35 AM-09:25 AM,,,,,"Jonathan  Vromet",12/04-12/04,MUSIC E-433,Active
+17838,MUSP,170,008,Studio,1.000,"Musicianship (Keyboard) 1.",M,02:35 PM-03:25 PM,10,0,0,0,"Jolan Ilona  Kovacs",09/02-12/04,MUSIC E-433,Temporarily closed
+,,,,,,,R,02:35 PM-03:25 PM,,,,,"Jolan Ilona  Kovacs",12/04-12/04,MUSIC E-433,Temporarily closed
+15006,MUSP,170,009,Studio,1.000,"Musicianship (Keyboard) 1.",R,11:35 AM-12:25 PM,10,0,0,0,"Thomas  Davidson",09/02-12/03,MUSIC E-433,Active
+1176,MUSP,171,001,Studio,1.000,"Musicianship (Keyboard) 2.",R,01:35 PM-02:25 PM,10,0,0,0,"Julia  Gavrilova",09/02-12/03,MUSIC E-433,Active
+1177,MUSP,171,002,Studio,1.000,"Musicianship (Keyboard) 2.",W,02:35 PM-03:25 PM,10,0,0,0,"Jolan Ilona  Kovacs",09/02-12/04,MUSIC E-433,Active
+1178,MUSP,171,003,Studio,1.000,"Musicianship (Keyboard) 2.",R,10:35 AM-11:25 AM,10,0,0,0,TBA,09/02-12/03,MUSIC E-433,Temporarily closed
+13747,MUSP,240,001,Studio,2.000,"Musicianship Training 3.",MF,02:35 PM-03:25 PM,12,0,0,0,"Thomas  Davidson",09/02-12/04,SH550 1116,Active
+,,,,,,,R,02:35 PM-03:25 PM,,,,,"Thomas  Davidson",12/04-12/04,SH550 1116,Active
+13748,MUSP,240,002,Studio,2.000,"Musicianship Training 3.",MW,02:35 PM-03:25 PM,12,0,0,0,"Monica  Asly",09/02-12/04,SH550 1117,Active
+,,,,,,,R,02:35 PM-03:25 PM,,,,,"Monica  Asly",12/04-12/04,SH550 1117,Active
+13749,MUSP,240,003,Studio,2.000,"Musicianship Training 3.",MW,03:35 PM-04:25 PM,12,0,0,0,"Monica  Asly",09/02-12/04,SH550 1117,Active
+,,,,,,,R,03:35 PM-04:25 PM,,,,,"Monica  Asly",12/04-12/04,SH550 1117,Active
+13750,MUSP,240,004,Studio,2.000,"Musicianship Training 3.",TR,01:35 PM-02:25 PM,12,0,0,0,"John W P  Guzik",09/02-12/03,SH550 1118,Active
+13751,MUSP,240,005,Studio,2.000,"Musicianship Training 3.",MF,01:35 PM-02:25 PM,12,0,0,0,"Thomas  Davidson",09/02-12/04,SH550 1115,Active
+,,,,,,,R,01:35 PM-02:25 PM,,,,,"Thomas  Davidson",12/04-12/04,SH550 1115,Active
+14416,MUSP,240,006,Studio,2.000,"Musicianship Training 3.",TR,02:35 PM-03:25 PM,12,0,0,0,"John W P  Guzik",09/02-12/03,SH550 1118,Active
+14983,MUSP,240,007,Studio,2.000,"Musicianship Training 3.",MW,10:35 AM-11:25 AM,12,0,0,0,"Monica  Asly",09/02-12/04,SH550 1118,Active
+,,,,,,,R,10:35 AM-11:25 AM,,,,,"Monica  Asly",12/04-12/04,SH550 1118,Active
+16871,MUSP,240,008,Studio,2.000,"Musicianship Training 3.",TBA,TBA,11,0,0,0,TBA,09/02-12/04,TBA,Cancelled
+14492,MUSP,240,010,Optional Tutorial,0.000,"Musicianship Training 3.",F,03:35 PM-04:25 PM,35,0,0,0,"Monica  Asly",09/02-12/04,SH550 1117,Active
+13752,MUSP,241,001,Studio,2.000,"Musicianship Training 4.",MW,01:35 PM-02:25 PM,12,0,0,0,"Monica  Asly",09/02-12/04,SH550 1117,Active
+,,,,,,,R,01:35 PM-02:25 PM,,,,,"Monica  Asly",12/04-12/04,SH550 1117,Active
+16335,MUSP,241,002,Studio,2.000,"Musicianship Training 4.",TR,03:35 PM-04:25 PM,12,0,0,0,TBA,09/02-12/03,SH550 1118,Temporarily closed
+17659,MUSP,241,010,Optional Tutorial,0.000,"Musicianship Training 4.",F,03:35 PM-04:25 PM,10,0,0,0,"Monica  Asly",09/02-12/04,SH550 1117,Active
+15673,MUSP,346,001,Studio,2.000,"Post-Tonal Musicianship.",MF,02:35 PM-03:25 PM,17,0,0,0,"Justin B  Mariner",09/02-12/04,SH550 1115,Active
+,,,,,,,R,02:35 PM-03:25 PM,,,,,"Justin B  Mariner",12/04-12/04,SH550 1115,Active
+15674,MUSP,346,002,Studio,2.000,"Post-Tonal Musicianship.",TR,01:35 PM-02:25 PM,17,0,0,0,"Justin B  Mariner",09/02-12/03,SH550 1117,Active
+Sound Recording
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+18021,MUSR,200,001,Lecture,3.000,"Audio Recording Essentials.",F,01:35 PM-04:25 PM,80,0,0,0,"Matthew Alan Boerum, George  Massenburg",09/02-12/03,MUSIC C-201,Active
+3524,MUSR,232,001,Lecture,3.000,"Introduction to Electronics.",W,04:35 PM-06:25 PM,12,0,0,0,"Robert Eric Gaskell",09/02-12/04,MUSIC A-510,Active
+3543,MUSR,300D1,001,Lecture,3.000,"Introduction to Music Recording.",T,08:35 AM-11:25 AM,8,0,0,0,"Jung Wook  Hong",09/02-12/04,MUSIC A-512,Active
+Music Theory and Analysis
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+18155,MUTH,100,001,Lecture,3.000,"Music Theory Fundamentals.",TR,10:05 AM-11:25 AM,30,0,0,0,"Justin B  Mariner",09/02-12/03,MUSIC C-204,Active
+12102,MUTH,150,001,Lecture,3.000,"Theory and Analysis 1.",W,10:05 AM-11:25 AM,96,0,0,0,"Robert Tatsuo Hasegawa",09/02-12/04,MUSIC C-201,Active
+12104,MUTH,150,002,Tutorial,0.000,"Theory and Analysis 1.",F,10:05 AM-11:25 AM,12,0,0,0,"Robert Tatsuo Hasegawa",09/02-12/04,SH550 1115,Active
+12105,MUTH,150,003,Tutorial,0.000,"Theory and Analysis 1.",F,10:05 AM-11:25 AM,12,0,0,0,"Robert Tatsuo Hasegawa",09/02-12/04,SH550 1117,Active
+12106,MUTH,150,004,Tutorial,0.000,"Theory and Analysis 1.",F,10:05 AM-11:25 AM,12,0,0,0,"Robert Tatsuo Hasegawa",09/02-12/04,SH550 1118,Active
+12107,MUTH,150,005,Tutorial,0.000,"Theory and Analysis 1.",F,10:05 AM-11:25 AM,12,0,0,0,"Robert Tatsuo Hasegawa",09/02-12/04,MUSIC C-201,Active
+12108,MUTH,150,006,Tutorial,0.000,"Theory and Analysis 1.",F,08:35 AM-09:55 AM,12,0,0,0,"Robert Tatsuo Hasegawa",09/02-12/04,SH550 1115,Active
+12109,MUTH,150,007,Tutorial,0.000,"Theory and Analysis 1.",F,08:35 AM-09:55 AM,12,0,0,0,"Robert Tatsuo Hasegawa",09/02-12/04,SH550 1117,Active
+12110,MUTH,150,008,Tutorial,0.000,"Theory and Analysis 1.",F,08:35 AM-09:55 AM,12,0,0,0,"Robert Tatsuo Hasegawa",09/02-12/04,SH550 1118,Active
+12111,MUTH,150,009,Tutorial,0.000,"Theory and Analysis 1.",TBA,TBA,12,0,0,0,TBA,09/02-12/04,TBA,Temporarily closed
+12113,MUTH,150,011,Laboratory,0.000,"Theory and Analysis 1.",M,09:35 AM-11:25 AM,96,0,0,0,"Robert Tatsuo Hasegawa",09/02-12/04,MUSIC C-201,Active
+,,,,,,,R,09:35 AM-11:25 AM,,,,,"Robert Tatsuo Hasegawa",12/04-12/04,MUSIC C-201,Active
+12073,MUTH,202,001,Lecture,3.000,"Modal Counterpoint 1.",MW,10:05 AM-11:25 AM,20,0,0,0,"Jonathan  Wild",09/02-12/03,MUSIC C-411,Active
+,,,,,,,R,10:05 AM-11:25 AM,,,,,"Jonathan  Wild",12/04-12/04,MUSIC C-411,Active
+12559,MUTH,204,001,Lecture,3.000,"Tonal Counterpoint 1.",TR,10:05 AM-11:25 AM,20,0,0,0,"Christoph  Neidhofer",09/02-12/03,MUSIC C-412,Active
+13721,MUTH,250,001,Lecture,3.000,"Theory and Analysis 3.",MW,09:05 AM-09:55 AM,99,0,0,0,"René Lynn Rusch",09/02-12/04,MUSIC C-201,Active
+,,,,,,,R,09:05 AM-09:55 AM,,,,,"René Lynn Rusch",12/04-12/04,TBA,Active
+13722,MUTH,250,002,Tutorial,0.000,"Theory and Analysis 3.",F,10:35 AM-11:25 AM,20,0,0,0,"René Lynn Rusch",09/02-12/04,MUSIC C-411,Active
+13723,MUTH,250,003,Tutorial,0.000,"Theory and Analysis 3.",F,09:35 AM-10:25 AM,20,0,0,0,"René Lynn Rusch",09/02-12/04,MUSIC C-411,Active
+13726,MUTH,250,004,Tutorial,0.000,"Theory and Analysis 3.",F,08:35 AM-09:25 AM,20,0,0,0,"René Lynn Rusch",09/02-12/04,MUSIC C-411,Active
+13727,MUTH,250,005,Tutorial,0.000,"Theory and Analysis 3.",F,02:35 PM-03:25 PM,20,0,0,0,"René Lynn Rusch",09/02-12/04,MUSIC C-411,Active
+13728,MUTH,250,006,Tutorial,0.000,"Theory and Analysis 3.",F,01:35 PM-02:25 PM,20,0,0,0,"René Lynn Rusch",09/02-12/04,MUSIC C-411,Temporarily closed
+17428,MUTH,321,001,Lecture,3.000,"Topics in Tonal Analysis.",TR,03:05 PM-04:25 PM,20,0,0,0,"William Earl  Caplin",09/02-12/03,TBA,Active
+19573,MUTH,475,001,Project,3.000,"Special Project.",,TBA,1,0,0,0,"Jonathan  Wild",09/02-12/04,TBA,Active
+19282,MUTH,528,001,Lecture,3.000,"Schenkerian Theory and Analysis.",T,08:35 AM-11:25 AM,12,0,0,0,"René Lynn Rusch",09/02-12/04,MUSIC A-410,Active
+19283,MUTH,541,001,Lecture,3.000,"Topics in Popular Music Analysis.",R,08:35 AM-11:25 AM,12,0,0,0,"Nicole  Biamonte",09/02-12/03,MUSIC A-510,Active
+Registration
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+2905,REGN,WDMU,001,Registration Course,0.000,"Withdrawn from the University",,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active

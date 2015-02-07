@@ -1,0 +1,62 @@
+External
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+2342,EXTL,EXNU,015,Exchange Term Away,0.000,"Exchange Term Away-Nursing",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2504,EXTL,IUNU,001,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2505,EXTL,IUNU,002,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2506,EXTL,IUNU,003,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2507,EXTL,IUNU,004,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2508,EXTL,IUNU,005,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2509,EXTL,IUNU,006,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2510,EXTL,IUNU,007,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2511,EXTL,IUNU,008,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2512,EXTL,IUNU,009,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2513,EXTL,IUNU,010,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2514,EXTL,IUNU,011,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2515,EXTL,IUNU,012,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2356,EXTL,LANU,001,Leave of Absence,0.000,"Leave of Absence-Nursing",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2327,EXTL,TANU,001,Term Away,0.000,"Term Away-Nursing",TBA,TBA,999,0,0,0,TBA,01/05-04/14,TBA,Active
+Health Science Electives
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+2313,HSEL,309,001,Lecture,3.000,"Women's Reproductive Health.",W,11:35 AM-02:25 PM,85,10,1,9,"Cheryl  Armistead",01/05-04/14,MCMED 1034,Active
+Nursing
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+3142,NUR1,200,001,Lecture,4.000,"Biology for Illness & Therapy.",W,08:35 AM-11:25 AM,250,0,0,0,"Frederick P  Nestel",01/05-04/14,SADB M-1,Active
+5898,NUR1,200,002,Midterm Exam,0.000,"Biology for Illness & Therapy.",W,06:35 PM-08:55 PM,450,0,0,0,TBA,02/25-02/25,MCMED 522,Registration Not Required
+,,,,,,,W,06:35 PM-08:55 PM,,,,,TBA,02/25-02/25,MCMED 521,Registration Not Required
+13343,NUR1,219,001,Lecture,1.000,"Transition to the McGill Model.",W,02:35 PM-05:25 PM,120,0,0,0,"Maria  Di Feo",01/05-04/14,MCMED 1034,Active
+32,NUR1,221,001,Lecture,3.000,"Families and Health Behaviour.",W,02:35 PM-05:25 PM,145,0,0,0,"Joann  Creager",01/05-04/14,SADB 2/36,Active
+2667,NUR1,234,001,Clinical Teaching,3.000,"Nursing Elderly Families.",T,09:05 AM-03:55 PM,58,0,0,0,"Norma  Ponzoni, Rosalia  Sanzone",01/05-04/13,TBA,Active
+12939,NUR1,234,002,Clinical Teaching,3.000,"Nursing Elderly Families.",R,09:05 AM-03:55 PM,58,0,0,0,"Norma  Ponzoni, Rosalia  Sanzone",01/05-04/14,TBA,Active
+6706,NUR1,234,003,Conference,0.000,"Nursing Elderly Families.",,TBA,145,0,0,0,"Norma  Ponzoni, Rosalia  Sanzone",01/05-04/14,TBA,Active
+10030,NUR1,234,004,Optional Tutorial,0.000,"Nursing Elderly Families.",,TBA,60,0,0,0,TBA,01/05-04/14,TBA,Registration Not Required
+33,NUR1,235,001,Lecture,4.000,"Health and Physical Assessment.",F,08:35 AM-11:25 AM,145,0,0,0,"Sandie Stephanie Larouche",01/05-04/14,SADB 2/36,Active
+,,,,,,,T,08:35 AM-11:25 AM,,,,,"Sandie Stephanie Larouche",04/14-04/14,SADB 2/36,Active
+3549,NUR1,235,002,Laboratory,0.000,"Health and Physical Assessment.",M,09:35 AM-11:55 AM,28,0,0,0,TBA,01/05-04/14,UNVHLL NUR LAB B,Active
+12940,NUR1,235,003,Laboratory,0.000,"Health and Physical Assessment.",M,02:05 PM-04:25 PM,28,0,0,0,TBA,01/05-04/14,UNVHLL NUR LAB B,Active
+12941,NUR1,235,004,Laboratory,0.000,"Health and Physical Assessment.",T,09:35 AM-11:55 AM,28,0,0,0,TBA,01/05-04/13,UNVHLL NUR LAB B,Active
+12942,NUR1,235,005,Laboratory,0.000,"Health and Physical Assessment.",R,09:35 AM-11:55 AM,28,0,0,0,TBA,01/05-04/14,UNVHLL NUR LAB B,Active
+14464,NUR1,320,001,Lecture,3.000,"Stress & Illness Management 2.",M,08:35 AM-11:25 AM,105,0,0,0,"Annie  Chevrier",01/05-04/14,SADB 2/36,Active
+34,NUR1,322,001,Lecture,3.000,"Chronic Illness and Palliative Care.",F,08:35 AM-11:25 AM,240,0,0,0,"Margaret L  Eades, Heather Dawn  Hart",01/05-04/14,SADB M-1,Active
+,,,,,,,T,08:35 AM-11:25 AM,,,,,"Margaret L  Eades, Heather Dawn  Hart",04/14-04/14,SADB M-1,Active
+2267,NUR1,324,001,Lecture,3.000,"Illness Management 2.",T,02:35 PM-05:25 PM,125,0,0,0,"Madeleine  Buck",01/05-04/13,STBIO S1/3,Active
+35,NUR1,332,001,Clinical Teaching,4.000,"Nursing in Illness 2.",MW,09:05 AM-09:25 PM,125,0,0,0,"Elaine M  Doucette",01/05-04/14,TBA,Active
+3401,NUR1,332,002,Conference,0.000,"Nursing in Illness 2.",,TBA,125,0,0,0,"Elaine M  Doucette",01/05-04/14,TBA,Active
+10034,NUR1,332,003,Optional Tutorial,0.000,"Nursing in Illness 2.",,TBA,30,0,0,0,TBA,01/05-04/14,TBA,Registration Not Required
+36,NUR1,421,001,Lecture,3.000,"Resources: Special Populations.",R,11:35 AM-02:25 PM,220,0,0,0,"Francoise  Filion",01/05-04/14,SADB M-1,Active
+14072,NUR1,431,001,Clinical Teaching,4.000,"Community Health Nursing Practicum.",MW,08:35 AM-04:25 PM,98,0,0,0,"Josée  Bonneau",01/05-04/14,TBA,Active
+14073,NUR1,431,002,Conference,0.000,"Community Health Nursing Practicum.",,TBA,110,0,0,0,"Josée  Bonneau",01/05-04/14,TBA,Active
+37,NUR1,432,001,Clinical Teaching,4.000,"Community Health Nursing Project.",MW,08:35 AM-04:25 PM,98,0,0,0,"Diana  Gausden, Francoise  Filion",01/05-04/14,TBA,Active
+12890,NUR1,432,002,Conference,0.000,"Community Health Nursing Project.",,TBA,110,0,0,0,"Diana  Gausden, Francoise  Filion",01/05-04/14,TBA,Active
+Nursing
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+16,NUR2,511D2,001,Lecture,3.000,"Practice of Nursing Part 1.",W,11:35 AM-02:25 PM,26,0,0,0,"Sonia Elizabeth  Semenic, Catherine P  Gros",01/05-04/14,LEA 116,Active
+7316,NUR2,511D2,002,Seminar,0.000,"Practice of Nursing Part 1.",W,02:35 PM-05:25 PM,26,0,0,0,"Catherine P  Gros",01/05-04/14,WILSON 110,Active
+17,NUR2,514D2,001,Clinical Teaching,5.000,"Clinical Laboratory in Nursing.",MF,07:05 AM-03:55 PM,26,0,0,0,"Jodi Louise  Tuck",01/05-04/14,TBA,Active
+,,,,,,,T,07:05 AM-03:55 PM,,,,,"Jodi Louise  Tuck",04/14-04/14,TBA,Active
+3681,NUR2,514D2,002,Seminar,0.000,"Clinical Laboratory in Nursing.",F,08:35 AM-11:25 AM,26,0,0,0,"Jodi Louise  Tuck",01/05-04/14,WILSON 110,Active
+,,,,,,,T,08:35 AM-11:25 AM,,,,,"Jodi Louise  Tuck",04/14-04/14,WILSON 110,Active
+12101,NUR2,535,001,Lecture,4.000,"Health Assessment.",T,12:35 PM-02:25 PM,26,0,0,0,"Rachel Elizabeth Lomas",01/05-04/13,WILSON 110,Active
+12102,NUR2,535,002,Laboratory,0.000,"Health Assessment.",R,12:05 PM-01:55 PM,26,0,0,0,"Rachel Elizabeth Lomas",01/05-04/14,UNVHLL NUR LAB B,Active
+Registration
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+3329,REGN,WDNU,001,Registration Course,0.000,"Withdrawn from the University",TBA,TBA,1000,0,0,0,TBA,01/05-04/14,TBA,Active

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Testpage</title>
+</head>
+<body>
+	<form method="post">
+		<select name="school">
+		<option value="mcgill">Mcgill</option>
+		<option value="mcgill">Mcgill</option>
+		<option value="mcgill">Mcgill</option>
+		<option value="mcgill">Mcgill</option>
+		</select>
+
+		<select name="major">
+		{% for p in major %}
+			<option value="{{p}}">{{p}}</option>
+		
+		{% endfor %}
+		</select>
+
+		<select name="cars">
+		<option value="volvo">Volvo</option>
+		<option value="saab">Saab</option>
+		<option value="fiat">Fiat</option>
+		<option value="audi">Audi</option>
+		</select>
+
+		<input type="submit" name="get_schedule">
+	</form>
+
+	<form method="post">
+		<input type="text" name="d_email" placeholder="Email"></input><span>{{ee}}</span>
+		<input type="password" name="d_password" placeholder="Desired password"></input><span>{{pe}}</span>
+		<input type="text" name="verify" placeholder="Retype the Password"></input><span>{{vpe}}</span>
+		<input type="submit" name="signup" value="Signup"></input>
+	</form>
+
+	{% if loggedout %}
+		<form method="post">
+		<input type="text" name="username" placeholder="Username"></input>
+		<input type="password" name="password" placeholder="Password"></input>
+		<input type="submit" name="login" value="Login"></input>
+		</form>
+		<span>{{iu}}</span>
+
+	{% else %}
+		<span>Welcome to the wonderful of Oz.</span>
+		<form method="post">
+			<input type="submit" name="logout" value="Logout"></input>
+		</form>
+		
+	{% endif %}
+
+
+</body>
+</html>

@@ -1,0 +1,302 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+
+
+
+
+
+
+
+
+
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>VSB McGill</title>
+        <script type="text/javascript" charset="UTF-8" src="js/common.js?v=5"></script>
+        <link href="css/lookmain.css?v=4" rel="stylesheet" type="text/css">
+        <link href="css/dategrid.css?v=2" rel="stylesheet" type="text/css">
+        
+        <style type="text/css">
+        .printonly {
+        	display:none;
+        }
+        @media print {
+            body * {
+                visibility:hidden;
+            } 
+  			.noprint{ display: none;}
+  			.printonly { visibility:visible;display:block;}
+  			div.bubble{ display: none;}
+            #printable, #printable * {
+                visibility:visible;
+            }
+            .course_header {border-left:1px solid #BBBBBB;border-top:1px solid #BBBBBB;}
+            .time_block {opacity:1.0;}
+            #nav_table{ display: none;}
+        }
+        </style>
+        
+
+
+
+
+
+
+        <link rel="shortcut icon" type="image/png" href="images/favicon_trans.png" />
+
+
+        
+		<script type="text/javascript" charset="UTF-8" src="js/dragcode_text_en.js?v=1"></script>
+		<script type="text/javascript" charset="UTF-8" src="js/dragcode.js?v=15"></script>
+		<script type="text/javascript" charset="UTF-8" src="js/dategrid.js?v=3"></script>
+        
+		<script type="text/javascript">
+		
+var minDuration = 1;
+var crnHelpText = "Copy/paste preferred CRNs into the Minerva Registration Quick Add boxes.";
+var minCampusSwitchTime = 60;
+var enrollType = "";
+
+
+var tipNumber = 2;
+
+
+var currentSort = "timeinclass";
+var currentHideFull = false;
+var currentHideOnline = false;
+var currentHideOnCampus = false;
+var bbs = "";
+var lockedxids = new Array();
+
+
+function initResults() {
+	dragInit();
+	
+	//loadxml("jsinterface/resultset.xml");
+	loadxml("resultset.jsp?td_1_0_1=201409&td_3_0_0=201409&dropdown_3_0=al&course_3_0=MATH-240&sa_0_0=tty&sa_1_0=tm&code_number=&view_details=&dropdown_2_0=al&submit_action=search&tip=1&remove_course=&pins=&course_2_0=COMP-273&bbs=&dropdown_1_0=al&course_0_0=COMP-250&td_2_0_1=201409&course_1_0=COMP-206&sa_3_0=tm&dropdown_0_0=al&cams=all&td_0_0_1=201409&sa_2_0=tm&sf=ffftimeinclass&session_201409=1&noc=140663440",true);
+}
+
+function enrollUrl(ids) {
+	this.document.location.href = ""+ids;
+}
+
+		</script>
+    
+    </head>
+    <body onload="initResults();" id="resultBody">
+
+
+
+
+
+
+
+
+
+<div class="mainframe"> <!-- Closed in the footer -->
+
+
+
+<div style="position:relative;height:75px;width:100%">
+<div style="position:relative;float:left;"><img src="images/vsb_logo.png"/></div>
+<div style="position:relative;float:right;text-align:right">
+<span class="title">Visual Schedule Builder</span><br/>
+<span class="subtitle">McGill University</span><br/>
+<span class="subsubtitle"></span>
+</div>
+</div>
+
+
+
+
+
+
+
+<div class="navigation noprint" id="navigation">
+<ul>
+<li><a href="#" title="Go back to Search" style="color:white;" id="backlink0">Add Courses</a></li>
+<li><a href="#" class="navselected" style="color:black;">Results</a></li>
+</ul>
+<div style="float:right; position:relative; margin-top: 5px; margin-right: 5px;"></div>
+<div style="clear:both;"></div>
+</div>
+
+
+<div class="subnavigation noprint">
+
+	<div style="float:right;position:relative;padding-top:5px" id="subnavinfo">
+	<span id="toobigmessage">&nbsp;</span>
+	<span id="processingInfo">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+	Combinations checked: <span id="combinationsChecked">---</span>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+	Processing time: <span id="processingTime">---</span> ms
+    </span>
+	</div>
+
+
+	<div style="clear:both;"></div>
+
+</div>
+
+<div style="width:100%;text-align:center;" id="tip_div" class="noprint">
+<img onclick="changeTip(false);" alt="Previous Tip" title="Previous Tip" src="images/tip_prev.png" style="padding-left:2px;cursor: pointer;" onmouseover="this.style.paddingRight='2px';this.style.paddingLeft='0px';" onmouseout="this.style.paddingRight='0px';this.style.paddingLeft='2px';"/>
+<img alt="Tip instructions" id="tipImage" src="images/helptip2.png" usemap="#closemap"/>
+<img onclick="changeTip(true);" alt="Next Tip" title="Next Tip" src="images/tip_next.png" style="padding-right:2px;cursor: pointer;" onmouseover="this.style.paddingLeft='2px';this.style.paddingRight='0px';" onmouseout="this.style.paddingLeft='0px';this.style.paddingRight='2px';"/>
+</div>
+<map name="closemap">
+	<area shape="circle" coords="587,24,12" onclick="hideTip();return false;" href="#" title="Hide all tips"/>
+</map>
+
+
+ 
+<div id="printable">
+<div id="flap_loaded" style="text-align:center;position:relative;display:none;">
+
+
+<div style="float:left;position:relative;" class="noprint">
+	<div class="ResultsPageTitle" id="pagetitle">Loading...</div>
+</div>
+<div style="float:right;position:relative;margin-top:6px;margin-right:0px" class="noprint">
+	Sort preferences:
+	<select name="sort_by" onchange="sortResults(this.value);" onkeydown="return avoidChange(event);" onkeypress="return avoidChange(event);" onkeyup="return avoidChange(event);">
+	<option value="none" >None</option>
+	<option value="daysoff" >Most days off</option>
+	<option value="morning" >Morning classes</option>
+	<option value="midday" >Mid-day classes</option>
+	<option value="evening" >Evening classes</option>
+	<option value="timeatschool" >Time off campus</option>
+	<option value="timeinclass" selected="selected">Most on-campus</option>
+	<!-- <option value="score">Highest Score</option> -->
+	</select>
+</div>
+<div style="clear:both;"></div>
+
+
+<!-- Start of Navigation -->
+<table width="100%" align="center" onselectstart="return false;" id="nav_table">
+    <tr>
+        <td width="280" align="left" valign="top">
+			<a href="criteria.jsp?todo=1" title="Back to search" id="backlink1"><img style="vertical-align: middle" src="images/search.gif" alt="Back to seach icon"/>&nbsp;Back to search</a>
+			<br/><a href="#" title="Print printer-friendly schedule" onclick="window.print();"><img style="vertical-align: middle" src="images/print.png" alt="Print Schedule icon"/>&nbsp;Print schedule (Printer friendly)</a>
+
+			<br/><a href="#" style="display:none" onclick="showTip();return false;" id="tip_link"><img style="vertical-align: middle" src="images/help.png" alt="show tips icon"/>&nbsp;Display helpful tips</a><br/>
+
+
+		</td>
+        <td width="30" valign="middle" align="right">
+			<div class="goLeft" onmousedown="goPrev();" title="Previous Result" alt="Click left arrow button to move to previous result"></div>
+        </td>
+        <td width="140" align="center" valign="middle" nowrap="nowrap">
+        	<span style="font-size:18px;">
+        	<span id="resultIndex">0</span>
+        	of 
+        	<span id="resultMax">0</span>        	
+        	</span>
+        </td>
+        <td width="30" valign="middle" align="left">
+			<div class="goRight" onmousedown="goNext();" title="Next Result" alt="Click right arrow button to move to next result"></div>
+        </td>
+        <td width="280" align="right" valign="top" nowrap="nowrap">
+        	<table>
+        	<tr>
+        	<td align="left">
+       		<input type="checkbox" id="hide_full" value="hide" onclick="changeHideFull(this.checked);"  style="vertical-align:middle;"/>Hide full classes			
+        	
+       		</td></tr>
+       		</table>
+       		
+		</td>
+	</tr>
+</table>
+<!-- End of Navigation -->
+
+<div style="width:100%;height:30px;">
+&nbsp;
+</div>
+
+
+<div style="position:relative;display:block;width:800px;text-align:left;min-height:650px;" id="flip_area">
+
+	<div class="legend_box" id="legend_box">
+	</div>
+
+
+
+
+	<div id="weekArea0" style="position:absolute;display:block;width:509px;height:650px;top:0px;left:291px;">
+
+		<div id="weekTitle0" class="title_block" style="background-image:url('images/days_bg_mid_en.png');">
+			<img class="printonly" id="weekTitleImg0" src="images/days_bg_mid_en.png" style="margin-top:0px;position:absolute;clip:rect(0px,200px,200px,0px);" alt=""/>
+			<div id="weekName0" style="position:absolute;display:block;top:-16px;left:0px;width:100%;text-align:center;">
+				&nbsp;
+			</div>
+		</div>
+
+		<div id="currentBusyBlock0" style="position:absolute;display:block;top:0px;left:0px;width:361px;height:650px">
+			&nbsp;
+		</div>
+		
+		<div id="busyBlocks0" style="position:absolute;display:block;top:0px;left:0px;width:361px;height:650px" title="Click and drag to choose where you don't want classes">
+			&nbsp;
+		</div>
+
+		<img class="printonly" id="weekTimesImg0" src="images/calendar_bg_mid_en.png" style="margin-top:0px;position:absolute;clip:rect(0px,0px,0px,0px);" alt=""/>
+		<div id="weekTimes0" class="cal_view" style="background-image:url('images/calendar_bg_mid_en.png');">
+		</div>
+
+	</div>
+	
+	<div id="dateGridHolder" style="position:absolute;display:block;width:509px;height:200px;top:450px;left:291px;">
+		<div id="dateGrid">&nbsp;</div>
+		<div id="dateGridBlocks">&nbsp;</div>
+	</div>
+
+
+
+</div>
+<div style="position:relative;display:none;width:100%;text-align:center;" id="message_div">
+	<br/>
+	<span style="font-size:20px;color:#CC3333;">No Results</span><br/>
+	<br/>There are no conflict-free schedule combinations with the selected courses. 
+	<br/> 
+</div>
+
+</div><!-- End of loaded flap -->
+</div><!-- End of printable flap -->
+
+<div id="flap_loading" style="text-align:center;position:relative;display:block;">
+&nbsp;
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<div class="footer">
+	Copyright &copy; 2006-2012, All Rights Reserved
+</div>
+
+
+</div> <!-- mainframe. Opened in the header -->
+
+
+
+
+<div id="console" style="position:absolute;display:none;top:0px;left:0px;background-color:white">
+Hello
+</div>
+<div id="console2" style="position:absolute;display:none;top:100px;left:0px;background-color:white">
+Hello
+</div>
+
+    </body>    
+</html>

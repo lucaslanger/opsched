@@ -107,7 +107,8 @@ def find_requisites(soup, title):
             p = re.findall(r'[A-Z]{2,6} [0-9]{2,6}[a-zA-Z]*[0-9]*',text)
 
             coreq.extend( evaluate_requirements(p) )
-            
+    
+    '''        
     if len(prereq) == 0:
         try:
             level = re.findall("-[0-9]{3,6}", title)[0][1]
@@ -116,6 +117,7 @@ def find_requisites(soup, title):
         
         except:
             print "Fail: " + title
+    '''
     
     return prereq,coreq
 

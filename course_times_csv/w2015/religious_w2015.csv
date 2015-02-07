@@ -1,0 +1,37 @@
+External
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+2336,EXTL,EXRS,015,Exchange Term Away,0.000,"Exchnge Term Away-Religious St",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2431,EXTL,IURS,001,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2432,EXTL,IURS,002,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2433,EXTL,IURS,003,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2434,EXTL,IURS,004,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2435,EXTL,IURS,005,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2436,EXTL,IURS,006,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2437,EXTL,IURS,007,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2438,EXTL,IURS,008,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2439,EXTL,IURS,009,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2440,EXTL,IURS,010,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2441,EXTL,IURS,011,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2442,EXTL,IURS,012,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2350,EXTL,LARS,001,Leave of Absence,0.000,"Leave of Absence-Religious St",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2321,EXTL,TARS,001,Term Away,0.000,"Term Away-Religious Studies",TBA,TBA,999,0,0,0,TBA,01/05-04/14,TBA,Active
+Religious Studies
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+2819,RELG,265,001,Lecture,3.000,"Introductory Tibetan 2.",MWF,09:35 AM-10:25 AM,15,0,0,0,"Thomas Whitney Troughton",01/05-04/14,BIRKS 105,Active
+,,,,,,,T,09:35 AM-10:25 AM,,,,,"Thomas Whitney Troughton",04/14-04/14,BIRKS 105,Active
+21,RELG,280D2,001,Lecture,3.000,"Elementary New Testament Greek.",MTR,10:35 AM-11:25 AM,15,0,0,0,"Sean Alan Ross",01/05-04/13,BIRKS 017,Active
+23,RELG,312,001,Lecture,3.000,"New Testament Studies 2.",TR,01:05 PM-02:25 PM,40,0,0,0,"Frederick  Tappenden",01/05-04/13,BIRKS 111,Active
+24,RELG,323,001,Lecture,3.000,"The Church in History 2.",TR,11:35 AM-12:55 PM,23,0,0,0,"Matthew Marc Chapman Milner",01/05-04/13,BIRKS 105,Active
+25,RELG,333,001,Lecture,3.000,"Principles of Christian Theology 1.",TR,10:05 AM-11:25 AM,20,0,0,0,"John  Simons",01/05-04/13,BIRKS 104,Active
+13580,RELG,336,001,Lecture,3.000,"Contemporary Theological Issues.",TR,02:35 PM-03:55 PM,45,0,0,0,"Frederick  Tappenden",01/05-04/13,BIRKS 203,Active
+26,RELG,390D2,001,Lecture,3.000,"Elementary Biblical Hebrew.",WF,01:05 PM-02:25 PM,10,0,0,0,"Youngho  Jang, Patricia  Kirkpatrick",01/05-04/14,BIRKS 105,Active
+,,,,,,,T,01:05 PM-02:25 PM,,,,,"Youngho  Jang, Patricia  Kirkpatrick",04/14-04/14,BIRKS 105,Active
+14320,RELG,399,001,Lecture,3.000,"Christian Spirituality.",TR,10:05 AM-11:25 AM,30,0,0,0,"Peter James Richardson-Bryson",01/05-04/13,BIRKS 111,Active
+27,RELG,411,001,Seminar,3.000,"New Testament Exegesis.",M,08:35 AM-10:25 AM,10,0,0,0,"Frederick  Tappenden",01/05-04/14,BIRKS 104,Active
+,,,,,,,M,02:35 PM-03:25 PM,,,,,"Frederick  Tappenden",01/05-04/14,BIRKS 104,Active
+2676,RELG,420,001,Lecture,3.000,"Canadian Church History.",TR,08:35 AM-09:55 AM,30,0,0,0,"Lucille  Marr",01/05-04/13,BIRKS 111,Active
+28,RELG,479,001,Lecture,3.000,"Christianity in Global Perspective.",T,11:35 AM-01:55 PM,25,0,0,0,"Daniel M  Cere, Patricia  Kirkpatrick",01/05-04/13,BIRKS 104,Active
+29,RELG,482,001,Seminar,3.000,"Exegesis of Greek New Testament.",M,08:35 AM-10:25 AM,10,0,0,0,"Frederick  Tappenden",01/05-04/14,BIRKS 104,Active
+,,,,,,,W,04:35 PM-05:25 PM,,,,,"Frederick  Tappenden",01/05-04/14,BIRKS 104,Active
+14449,RELG,498,001,Lecture,3.000,"Special Studies.",M,08:35 AM-11:25 AM,25,0,0,0,"Garth Warwick Green",01/05-04/14,ARTS 160,Active
+14322,RELG,550,001,Seminar,3.000,"Comparative Religion.",W,02:35 PM-04:25 PM,10,0,0,0,"Arvind  Sharma",01/05-04/14,BIRKS 105,Active

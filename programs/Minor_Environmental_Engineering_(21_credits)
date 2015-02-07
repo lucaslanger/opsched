@@ -1,0 +1,3072 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="modified" content="2014-08-13 07:59:05" />
+<meta name="created" content="2014-08-13 07:59:05" />
+<meta name="status" content="1" />
+<meta name="content-language" content="en" />
+<meta name="type" content="program" />
+<meta name="author" content="anonymous" />
+<link rel="shortcut icon" href="/study/2014-2015/sites/all/themes/study/favicon.ico" type="image/x-icon" />
+<link type="text/css" rel="stylesheet" media="all" href="/study/2014-2015/sites/mcgill.ca.study.2014-2015/files/advagg_css/css_6ed802ef6a91c06cc3e548ac0058790a_0.css" />
+<link type="text/css" rel="stylesheet" media="print" href="/study/2014-2015/sites/mcgill.ca.study.2014-2015/files/advagg_css/css_6f9e641a3d8b13f61d3d584d36f0dccd_0.css" />
+<script type="text/javascript" src="/study/2014-2015/sites/mcgill.ca.study.2014-2015/files/advagg_js/js_1d97b0b2bb0b4c0855f62cf463cfe2f0_6448.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/study\/2014-2015\/","googleanalytics":{"trackOutgoing":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|avi|csv|doc|exe|flv|gif|gz|jpe?g|js|mp(3|4|e?g)|mov|pdf|phps|png|ppt|rar|sit|tar|torrent|txt|wma|wmv|xls|xml|zip"},"spamspan":{"m":"spamspan","u":"u","d":"d","h":"h","t":"t"},"lightbox2":{"rtl":0,"file_path":"\/study\/2014-2015\/(\\w\\w\/)sites\/mcgill.ca.study.2014-2015\/files","default_image":"\/study\/2014-2015\/sites\/all\/modules\/patched\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":1,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":0,"disable_resize":0,"disable_zoom":0,"force_show_nav":0,"show_caption":1,"loop_items":0,"node_link_text":"View Image Details","node_link_target":0,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\/kbd\u003E\u003C\/a\u003E to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":0,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":600,"iframe_height":400,"iframe_border":1,"enable_video":1,"flvPlayer":"\/study\/2014-2015\/sites\/all\/modules\/contrib\/swftools\/shared\/flash_media_player\/player-viral.swf","flvFlashvars":"autostart=true"}});
+//--><!]]>
+</script>
+  <title>Minor Environmental Engineering (21 credits) | Programs, Courses and University Regulations - McGill University</title>
+</head>
+
+<body class="not-front not-logged-in page-node node-type-program one-sidebar sidebar-left i18n-en ">
+  <div id="feedback"><h4><a href="/study/2014-2015/feedback">Feedback</a></h4></div>
+    <div id="strap">
+    <div id="strap-container">
+      <div id="mcgill-logo">
+        <a title="return to McGill University" href="http://www.mcgill.ca"><span id="site-name" class="base-hide">McGill University</span></a>
+      </div>
+      
+       
+
+    </div>
+    <!-- End strap container -->
+  </div>
+  <!-- End Strap -->
+
+  <div id="container">
+          <div id="navigation">
+        <h2 class="base-hide">Main navigation</h2>
+        
+
+	<div id="block-ew_active_menu-2" class="block block-ew_active_menu ">
+
+		<div class="content">
+					
+    	<div class="menu-block-8 menu-name-primary-links parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="leaf first menu-mlid-42913"><a href="/study/2014-2015/" title="eCalendar Home">Home</a></li>
+<li class="expanded menu-mlid-43113 active-trail"><a href="/study/2014-2015/node/631" title="Faculties &amp; Schools" class="active-trail">Faculties &amp; Schools</a><ul class="menu"><li class="expanded first menu-mlid-43189 active-trail"><a href="/study/2014-2015/node/717" title="" class="active-trail">Online Calendars</a><ul class="menu"><li class="leaf first menu-mlid-43190 has-children"><a href="/study/2014-2015/faculties/macdonald" title="Faculty of Agricultural &amp; Environmental Sciences, including School of Dietetics and Human Nutrition">Faculty of Agricultural &amp; Environmental Sciences</a></li>
+<li class="leaf menu-mlid-43191 has-children"><a href="/study/2014-2015/faculties/arts" title="Faculty of Arts, including Schools of Social Work and Information Studies">Faculty of Arts</a></li>
+<li class="leaf menu-mlid-43192 has-children"><a href="/study/2014-2015/faculties/basc" title="Bachelor of Arts &amp; Science">Bachelor of Arts &amp; Science</a></li>
+<li class="leaf menu-mlid-43193 has-children"><a href="/study/2014-2015/faculties/continuing" title="School of Continuing Studies">School of Continuing Studies</a></li>
+<li class="leaf menu-mlid-43194 has-children"><a href="/study/2014-2015/faculties/dentistry" title="Faculty of Dentistry">Faculty of Dentistry</a></li>
+<li class="leaf menu-mlid-43195 has-children"><a href="/study/2014-2015/faculties/education" title="Faculty of Education">Faculty of Education</a></li>
+<li class="leaf menu-mlid-43196 has-children active active-trail"><a href="/study/2014-2015/faculties/engineering" title="Faculty of Engineering, including Schools of Architecture and Urban Planning" class="active-trail active">Faculty of Engineering</a></li>
+<li class="leaf menu-mlid-43197 has-children"><a href="/study/2014-2015/faculties/environment" title="McGill School of Environment">McGill School of Environment</a></li>
+<li class="leaf menu-mlid-43198 has-children"><a href="/study/2014-2015/faculties/fieldstudies" title="Field Studies">Field Studies</a></li>
+<li class="leaf menu-mlid-43199 has-children"><a href="/study/2014-2015/faculties/law" title="Faculty of Law">Faculty of Law</a></li>
+<li class="leaf menu-mlid-43200 has-children"><a href="/study/2014-2015/faculties/desautels" title="Desautels Faculty of Management">Desautels Faculty of Management</a></li>
+<li class="leaf menu-mlid-43201 has-children"><a href="/study/2014-2015/faculties/medicine" title="Faculty of Medicine">Faculty of Medicine</a></li>
+<li class="leaf menu-mlid-43202 has-children"><a href="/study/2014-2015/faculties/music" title="Schulich School of Music">Schulich School of Music</a></li>
+<li class="leaf menu-mlid-43203 has-children"><a href="/study/2014-2015/faculties/nursing" title="Ingram School of Nursing">Ingram School of Nursing</a></li>
+<li class="leaf menu-mlid-43204 has-children"><a href="/study/2014-2015/faculties/spot" title="School of Physical and Occupational Therapy">School of Physical &amp; Occupational Therapy</a></li>
+<li class="leaf menu-mlid-43205 has-children"><a href="/study/2014-2015/faculties/religiousstudies" title="Faculty of Religious Studies">Faculty of Religious Studies</a></li>
+<li class="leaf menu-mlid-43206 has-children"><a href="/study/2014-2015/faculties/science" title="Faculty of Science, including School of Computer Science">Faculty of Science</a></li>
+<li class="leaf last menu-mlid-45005"><a href="/study/2014-2015/faculties/summer" title="Summer Studies at McGill">Summer Studies</a></li>
+</ul></li>
+<li class="expanded last menu-mlid-45888"><a href="/study/2014-2015/node/49618" title="">External Calendars</a><ul class="menu"><li class="leaf first menu-mlid-45896"><a href="http://coursecalendar.mcgill.ca/hs201415/" title="Health Sciences Undergraduate/Professional (Dentistry; Dietetics &amp; Human Nutrition; Medicine; Nursing; Physical &amp; Occupational Therapy)">Health Sciences Undergraduate/Professional</a></li>
+<li class="leaf menu-mlid-45897"><a href="http://coursecalendar.mcgill.ca/hs201415/wwhelp/wwhimpl/js/html/wwhelp.htm#href=HSDEN20142015.06.01.html" title="Health Sciences – Faculty of Dentistry (Professional)">- Faculty of Dentistry</a></li>
+<li class="leaf menu-mlid-45898"><a href="http://coursecalendar.mcgill.ca/hs201415/wwhelp/wwhimpl/js/html/wwhelp.htm#href=HSDIET20142015.07.01.html" title="Health Sciences – School of Dietetics &amp; Human Nutrition (Undergraduate)">- School of Dietetics &amp; Human Nutrition</a></li>
+<li class="leaf menu-mlid-45899"><a href="http://coursecalendar.mcgill.ca/hs201415/wwhelp/wwhimpl/js/html/wwhelp.htm#href=HSMED20142015.08.01.html" title="Health Sciences – Faculty of Medicine (Professional)">- Faculty of Medicine</a></li>
+<li class="leaf menu-mlid-45900"><a href="http://coursecalendar.mcgill.ca/hs201415/wwhelp/wwhimpl/js/html/wwhelp.htm#href=HSNURS20142015.09.01.html" title="Health Sciences – Ingram School of Nursing (Undergraduate)">- Ingram School of Nursing</a></li>
+<li class="leaf menu-mlid-45901"><a href="http://coursecalendar.mcgill.ca/hs201415/wwhelp/wwhimpl/js/html/wwhelp.htm#href=HSPOT20142015.10.01.html" title="Health Sciences – School of Physical &amp; Occupational Therapy (Undergraduate)">- School of Physical &amp; Occupational Therapy</a></li>
+<li class="leaf last menu-mlid-45911"><a href="http://coursecalendar.mcgill.ca/scholarships201415/" title="Undergraduate Scholarships &amp; Awards">Scholarships &amp; Awards Undergraduate</a></li>
+</ul></li>
+</ul></li>
+<li class="leaf menu-mlid-43186"><a href="/study/2014-2015/courses/search" title="">All Courses</a></li>
+<li class="leaf menu-mlid-43187"><a href="/study/2014-2015/programs/search" title="">All Programs</a></li>
+<li class="expanded menu-mlid-43105"><a href="/study/2014-2015/university_regulations_and_resources" title="University Regulations and Resources">University Regulations and Resources</a><ul class="menu"><li class="leaf first menu-mlid-44687"><a href="/study/2014-2015/university_regulations_and_resources/undergraduate" title="Undergraduate University Regulations and Resources">Undergraduate</a></li>
+<li class="leaf menu-mlid-47305"><a href="/study/2014-2015/university_regulations_and_resources/graduate" title="Graduate and Postdoctoral Studies General Information and Regulations">Graduate</a></li>
+<li class="leaf last menu-mlid-45317"><a href="/study/2014-2015/university_regulations_and_resources/continuing">Continuing Studies</a></li>
+</ul></li>
+<li class="leaf menu-mlid-43188"><a href="/study/2014-2015/important-dates" title="">Important Dates</a></li>
+<li class="leaf last menu-mlid-43114"><a href="/study/2014-2015/archives" title="Archives">Archives</a></li>
+</ul></div>
+  	</div>
+	</div>
+
+
+      </div>
+        <div id="header" class="">
+      <div id="header_image">
+         
+          <p id="slogan">Fall 2014 – Summer 2015</p>
+              </div>
+              <div id="header-blocks">
+          <h2 class="base-hide">Header Blocks</h2>
+          
+
+	<div id="block-views-faculty-block_1" class="block block-views ">
+
+		<div class="content">
+					  	<h3>Programs, Courses and University Regulations</h3>
+					
+    	<div class="view view-faculty view-id-faculty view-display-id-block_1 view-dom-id-73287b9638342609017d5d8d3fd9c4cf">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/study/2014-2015/faculties/engineering">Faculty of Engineering</a></span>  </span>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  	</div>
+	</div>
+
+
+        </div>
+          </div>
+
+          <div id="sub-navigation">
+        <h2 class="base-hide">Sub navigation</h2>
+        <form action="/study/2014-2015/faculties/engineering/undergraduate/programs/bachelor-engineering-beng-minor-environmental-engineeri"  accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="site-search" class="container-inline">
+  <div id="search-dropdown">
+    <div class="search-label">Search</div> 
+    <div class="search-scope">Entire Site</div>
+    <ul class="search-dropdown-list">
+      <li id="search-scope-all">Entire Site</li>
+          <li id="search-scope-macdonald">Agric Environ Sci</li>
+          <li id="search-scope-arts">Arts</li>
+          <li id="search-scope-basc">B.A. & Sc.</li>
+          <li id="search-scope-continuing">Continuing Studies</li>
+          <li id="search-scope-dentistry">Dentistry</li>
+          <li id="search-scope-education">Education</li>
+          <li id="search-scope-engineering">Engineering</li>
+          <li id="search-scope-environment">Environment</li>
+          <li id="search-scope-fieldstudies">Field Studies</li>
+          <li id="search-scope-law">Law</li>
+          <li id="search-scope-desautels">Management</li>
+          <li id="search-scope-medicine">Medicine</li>
+          <li id="search-scope-music">Music</li>
+          <li id="search-scope-nursing">Nursing</li>
+          <li id="search-scope-spot">Phys. & Occ. Ther.</li>
+          <li id="search-scope-religiousstudies">Religious Studies</li>
+          <li id="search-scope-science">Science</li>
+          <li id="search-scope-summer">Summer Studies</li>
+          <!--li id="search-scope-mcgill"></li-->
+    </ul>
+  </div>
+  <div class="form-item" id="edit-search-theme-form-1-wrapper">
+ <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-1" size="15" value="" title="Enter the terms you wish to search for." class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Go"  class="form-submit" />
+<input type="hidden" name="active-scope" id="edit-active-scope" value="engineering"  />
+<input type="hidden" name="form_build_id" id="form-pPenv8csWmdtC1fD2dSJK5-KGgBMs0XNK9qzYozgyC0" value="form-pPenv8csWmdtC1fD2dSJK5-KGgBMs0XNK9qzYozgyC0"  />
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
+</div>
+
+</div></form>
+        
+
+	<div id="block-ew_active_menu-3" class="block block-ew_active_menu ">
+
+		<div class="content">
+					
+    	<div class="menu-block-3 menu-name-primary-links parent-mlid-0 menu-level-4">
+  <ul class="menu"><li class="leaf first menu-mlid-43666"><a href="/study/2014-2015/faculties/engineering/information">The Faculty</a></li>
+<li class="leaf menu-mlid-43672 has-children"><a href="/study/2014-2015/faculties/engineering/undergraduate">Undergraduate</a></li>
+<li class="leaf last menu-mlid-46761 has-children"><a href="/study/2014-2015/faculties/engineering/graduate" title="Faculty of Engineering, including Schools of Architecture and Urban Planning (Graduate)">Graduate</a></li>
+</ul></div>
+  	</div>
+	</div>
+
+
+      </div>
+    
+    <div class="breadcrumb"><a href="http://www.mcgill.ca/">McGill.ca</a> » <a href="/study/2014-2015/">Overview</a> » <a href="/study/2014-2015/faculties/engineering" title="Faculty of Engineering, including Schools of Architecture and Urban Planning">Faculty of Engineering</a></div>
+
+          <div id="left-sidebar">
+        <h2 class="base-hide">Section navigation</h2>
+        
+
+	<div id="block-ew_active_menu-1" class="block block-ew_active_menu ">
+
+		<div class="content">
+					
+    	<ul class="menu"><li class="collapsed first"><a href="/study/2014-2015/faculties/engineering/undergraduate/ug_eng_about_the_faculty_of_engineering">About the Faculty of Engineering (Undergraduate)</a></li>
+<li class="leaf"><a href="/study/2014-2015/faculties/engineering/undergraduate/ug_eng_degrees_and_reqs_for_professional_registration">Degrees and Requirements for Professional Registration</a></li>
+<li class="leaf"><a href="/study/2014-2015/faculties/engineering/undergraduate/ug_eng_admission_reqs">Admission Requirements</a></li>
+<li class="leaf"><a href="/study/2014-2015/faculties/engineering/undergraduate/ug_eng_student_progress">Student Progress</a></li>
+<li class="leaf"><a href="/study/2014-2015/faculties/engineering/undergraduate/ug_eng_student_activities">Student Activities</a></li>
+<li class="leaf"><a href="/study/2014-2015/faculties/engineering/undergraduate/ug_eng_degrees_and_programs_offered">Degrees and Programs Offered</a></li>
+<li class="leaf"><a href="/study/2014-2015/faculties/engineering/undergraduate/ug_eng_engineering_internship_program">Engineering Internship Program</a></li>
+<li class="expanded last active-trail"><a href="/study/2014-2015/faculties/engineering/undergraduate/ug_eng_acad_programs">Academic Programs</a><ul class="menu"><li class="leaf first"><a href="/study/2014-2015/faculties/engineering/undergraduate/ug_eng_gen_engineering_program">General Engineering  Program</a></li>
+<li class="leaf"><a href="/study/2014-2015/faculties/engineering/undergraduate/ug_eng_school_of_architecture">School of Architecture</a></li>
+<li class="leaf"><a href="/study/2014-2015/faculties/engineering/undergraduate/ug_eng_dept_of_bioengineering">Department of Bioengineering</a></li>
+<li class="leaf"><a href="/study/2014-2015/faculties/engineering/undergraduate/ug_eng_dept_of_chemical_engineering">Department of Chemical Engineering</a></li>
+<li class="leaf"><a href="/study/2014-2015/faculties/engineering/undergraduate/ug_eng_dept_of_civil_engineering_and_applied_mechanics">Department of Civil Engineering and Applied Mechanics</a></li>
+<li class="leaf"><a href="/study/2014-2015/faculties/engineering/undergraduate/ug_eng_dept_of_electrical_and_computer_engineering">Department of Electrical and Computer Engineering</a></li>
+<li class="leaf"><a href="/study/2014-2015/faculties/engineering/undergraduate/ug_eng_dept_of_mechanical_engineering">Department of Mechanical Engineering</a></li>
+<li class="leaf"><a href="/study/2014-2015/faculties/engineering/undergraduate/ug_eng_dept_of_mining_and_materials_engineering">Department of Mining and Materials Engineering</a></li>
+<li class="leaf"><a href="/study/2014-2015/faculties/engineering/undergraduate/ug_eng_school_of_urban_planning">School of Urban Planning</a></li>
+<li class="leaf"><a href="/study/2014-2015/faculties/engineering/undergraduate/ug_eng_faculty_of_engineering_related_programs">Other Engineering Related Programs</a></li>
+<li class="leaf last active-trail"><a href="/study/2014-2015/faculties/engineering/undergraduate/ug_eng_minor_programs">Minor Programs</a></li>
+</ul></li>
+</ul>  	</div>
+	</div>
+
+
+      </div>
+      <!-- End left block area -->
+    
+    
+    <div id="center-column" class="one-four-col">
+      
+      
+      
+      <div id="content">
+        <div id="content-inner">
+
+	        <div id="top-content">
+                      </div>
+
+                      <h1>Minor Environmental Engineering (21 credits)</h1>
+           
+
+
+            <!-- End top content block area -->
+
+          <div id="content-area">
+            <div id="node-43508" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <strong>Offered by:</strong> Civil Engineering    &nbsp;&nbsp;&nbsp;
+    <strong>Degree:</strong> Bachelor of Engineering      </div>
+
+  <div class="content">
+    <h3>Program Requirements</h3>
+
+    
+    <p>Minor Adviser: Prof. S. Ghoshal, Macdonald Engineering Building, Room 569C</p>
+<p>Minor program credit weight: 21-22 credits</p>
+<p>The Environmental Engineering Minor is administered by the Department of Civil Engineering and Applied Mechanics and is offered for all students in Engineering (including B.S.E. students) and in the Department of Bioresource Engineering wishing to pursue studies in this area.</p>
+<p>A maximum of 12 credits of coursework in the student's major may double-count with the Minor. </p>
+<p>To complete the Minor in Environmental Engineering, students must obtain a grade of C or better in all approved courses in the Minor, and satisfy the requirements of both the Minor and their major program.</p>
+<p>Note: Not all courses listed are offered every year. Students should see the "Courses" section of this eCalendar to know if a course is offered.</p>
+
+          <h4>Complementary Courses</h4>
+
+    
+              <p>21-22 credits</p>
+<p>18 credits from Stream A, B, or C below</p>
+<p>and</p>
+<p>One course (3-4 credits) from the following list:</p>
+    
+              <ul class="program-set">
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/bree-327" class="program-course-title">
+              BREE 327 Bio-Environmental Engineering (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-19120" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Bioresource Engineering (<a href="/study/2014-2015/node/606">Agricultural &amp; Environmental Sciences</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Bioresource Engineering              : An introduction to how humans affect the earth's ecosystem and projections for the needs of food, water, air and energy to support the human population. Ecologically-reasonable coping strategies including biofuels, bioprocessing, waste management, and remediation methods.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Fall 2014          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Mark Lefsrud (Fall)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>Restrictions: U2 students and above. Not open to students who have taken ABEN 305.</li>
+              <li>This course carries an additional course charge of $9.23 to cover transportation costs for field trips which may include a solar installation site and if registrations permit, a bio-ethanol plant. The fee is refundable only during the withdrawal with full refund period.</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/chee-230" class="program-course-title">
+              CHEE 230 Environmental Aspects of Technology (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-20178" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Chemical Engineering (<a href="/study/2014-2015/node/609">Faculty of Engineering</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Chemical Engineering              : The impact of urbanization and technology on the environment. Topics include urbanization: causes, effects, land use regulations; transportation technology and environmental implications; environmental impact of energy conversions; energy policy alternatives; formulation of energy and environmental policy; air pollution: sources, effects, control; water pollution: sources, effects, control.          </p>
+
+    <p class="catalog-terms">
+      Terms:              This course is not scheduled for the 2014-2015 academic year.          </p>
+
+    <p class="catalog-instructors">
+      Instructors:              There are no professors associated with this course for the 2014-2015 academic year.          </p>
+
+    
+          <ul class="catalog-notes">
+              <li>(3-0-6)</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/cive-225" class="program-course-title">
+              CIVE 225 Environmental Engineering (4 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-20606" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Civil Engineering (<a href="/study/2014-2015/node/609">Faculty of Engineering</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Civil Engineering              : Introduction to environmental chemistry; mass balance analyses in engineered and natural systems; water, soil and air pollution characterization and control; water quality parameters; drinking water and wastewater treatment technologies; global climate change: possible causes and effects; risk assessment for pollutant exposure; solid- and hazardous-waste management.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Winter 2015          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Dominic Frigon (Winter)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>(4-2-6)</li>
+              <li>Prerequisite: CIVE 290.</li>
+              <li>Corequisite: MATH 263.</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                </ul>
+      
+      
+                <h4>Stream A</h4>
+
+    
+              <p>15 credits* from the Engineering Course List and 3 credits from the Non-Engineering Course List below<br />
+* A minimum of 6 credits must be from outside the student's department. A maximum of 6 credits of research project courses may be counted toward this category, provided the project has sufficient environmental engineering content (project requires approval of project supervisor and coordinator of the Minor). </p>
+    
+      
+      
+                <h4>Stream B</h4>
+
+    
+              <p>15 credits of courses that make up the "Barbados Field Study Semester" below, provided the project for CIVE/AGRI/<a href="/study/2014-2015/courses/urbp-519">URBP 519</a> Sustainable Development Plans has sufficient environmental engineering content (project requires approval of the Coordinator of the Minor);</p>
+<p>AND</p>
+<p>One course (3-4 credits) chosen from the Engineering Course List below, excluding <a href="/study/2014-2015/courses/chee-496">CHEE 496</a>.</p>
+    
+      
+      
+                <h4>Barbados Field Study Courses</h4>
+
+    
+      
+      
+      
+                <h4>Required Courses</h4>
+
+    
+              <p>6 credits</p>
+    
+              <ul class="program-set">
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/urbp-507" class="program-course-title">
+              URBP 507 Planning and Infrastructure (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-36041" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Urban Planning (<a href="/study/2014-2015/node/609">Faculty of Engineering</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Urban Planning              : An exploration of the interrelationship between land-use planning and infrastructure provision, especially water and sewerage. An examination of their policy and regulatory frameworks and other methodology of plan making and evaluation.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Fall 2014          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Lisa Bornstein, Heather Braiden (Fall)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>(8-.5-.5)</li>
+              <li>Restriction: Must be enrolled in the Barbados Field study Semester.</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/urbp-520" class="program-course-title">
+              URBP 520 Globalization: Planning and Change (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-36045" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Urban Planning (<a href="/study/2014-2015/node/609">Faculty of Engineering</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Urban Planning              : Economic and social issues related to planning for sustainable development, with a focus on water.  Political and environmental determinants of resource use.  Impact of global, regional and local institutions, programs and plans in Barbados and in the field locale in general.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Fall 2014          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Leroy E Phillip, Inteaz Alli (Fall)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>(3-3-3)</li>
+              <li>Restriction: Must be enrolled in the Barbados Field Study Semester.</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                </ul>
+      
+      
+                <h4>Complementary Courses</h4>
+
+    
+              <p>9 credits</p>
+<p>One of the following cross-listed courses (3 credits):</p>
+    
+              <ul class="program-set">
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/agri-452" class="program-course-title">
+              AGRI 452 Water Resources in Barbados (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-17480" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Bioresource Engineering (<a href="/study/2014-2015/node/606">Agricultural &amp; Environmental Sciences</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Agriculture              : Physical environment challenges, centered on water, being faced by an island nation. Guest speakers, field study tours and laboratory tests. Private, government and NGO institutional context of conservation strategies, and water quantity and quality analyses for water management specific to Barbados.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Fall 2014          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Ronald Gehr, Angela Keane (Fall)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>Restrictions: Enrolment in full "Barbados Field Study Semester".  Not open to students who have taken CIVE 452.</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/cive-452" class="program-course-title">
+              CIVE 452 Water Resources in Barbados (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-20658" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Civil Engineering (<a href="/study/2014-2015/node/609">Faculty of Engineering</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Civil Engineering              : Physical environment challenges, centered on water, being faced by an island nation. Guest speakers, field study tours and laboratory tests. Private, government and NGO institutional context of conservation strategies, and water quantity and quality analyses for water management specific to Barbados.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Fall 2014          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Ronald Gehr (Fall)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>Corequisites: None.</li>
+              <li>Restrictions: Must be enrolled in the Barbados Field Study Semester.</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                </ul>
+      
+      
+                <h4></h4>
+
+    
+              <p>AND</p>
+<p>One of the following cross-listed project courses (6 credits):</p>
+    
+              <ul class="program-set">
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/agri-519" class="program-course-title">
+              AGRI 519 Sustainable Development Plans (6 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-17498" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Bioresource Engineering (<a href="/study/2014-2015/node/606">Agricultural &amp; Environmental Sciences</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Agriculture              : Geared for solving real-world environmental problems related to water at the local, regional and international scale in Barbados. Projects to be designed by instructors in consultation with university, government and NGO partners and to be conducted by teams of 2 to 4 students in collaboration with them.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Fall 2014          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Inteaz Alli (Fall)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>Restrictions: Enrolment in full "Barbados Field Study Semester". Not open to students who have taken CIVE 519 or URBP 519.</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/cive-519" class="program-course-title">
+              CIVE 519 Sustainable Development Plans (6 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-20676" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Civil Engineering (<a href="/study/2014-2015/node/609">Faculty of Engineering</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Civil Engineering              : Geared for solving real-world environmental problems related to water at the local, regional and international scale in Barbados. Projects to be designed by instructors in consultation with university, government and NGO partners and to be conducted by teams of two to four students in collaboration with them.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Fall 2014          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Inteaz Alli (Fall)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>(1-9-8)</li>
+              <li>Restriction: Must be enrolled in the Barbados Field Study Semester.</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/urbp-519" class="program-course-title">
+              URBP 519 Sustainable Development Plans (6 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-36043" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Urban Planning (<a href="/study/2014-2015/node/609">Faculty of Engineering</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Urban Planning              : Geared for solving real-world environmental problems related to water at the local, regional and international scale in Barbados. Projects to be designed by instructors in consultation with university, government and NGO partners and to be conducted by teams of 2 to 4 students in collaboration with them.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Fall 2014          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Inteaz Alli (Fall)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>(0-10-8)</li>
+              <li>Restrictions: Must be enrolled in Barbados Field Study Semester. Not open to students who have taken or are taking AGRI 519 or CIVE 519.</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                </ul>
+      
+      
+                <h4>Stream C</h4>
+
+    
+              <p>9 credits of courses specified from the "Barbados Interdisciplinary Tropical Studies (BITS)" field semester below, provided the project has sufficient environmental engineering content (project requires approval of the Coordinator of the Minor):</p>
+    
+              <ul class="program-set">
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/aebi-425" class="program-course-title">
+              AEBI 425 Tropical Energy and Food (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-17328" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Plant Science (<a href="/study/2014-2015/node/606">Agricultural &amp; Environmental Sciences</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Biology (Agric &amp; Envir Sc)              : Tropical biofuel crops, conversion processes and final products, particularly energy and greenhouse gas balances and bionutraceuticals. Topics include effects of process extraction during refining on biofuel economics, the food versus fuel debate and impact of biofuels and bioproducts on tropical agricultural economics.          </p>
+
+    <p class="catalog-terms">
+      Terms:              This course is not scheduled for the 2014-2015 academic year.          </p>
+
+    <p class="catalog-instructors">
+      Instructors:              There are no professors associated with this course for the 2014-2015 academic year.          </p>
+
+    
+          <ul class="catalog-notes">
+              <li>Corequisite(s): AEBI 421, AEBI 423 and AEBI 427.</li>
+              <li>Restriction: Restricted to students that are participating in the Barbados Interdisciplinary Tropical Studies Field Semester</li>
+              <li>**In addition to Wednesday, Thursday and Friday scheduled classes, the last day of class will be held on Saturday, August 16, 2014. The exam will be written on the last day of class.</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/aebi-427" class="program-course-title">
+              AEBI 427 Barbados Interdisciplinary Project (6 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-17330" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Plant Science (<a href="/study/2014-2015/node/606">Agricultural &amp; Environmental Sciences</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Biology (Agric &amp; Envir Sc)              : The planning of projects and research activities related to tropical food, nutrition, or energy at the local, regional, or national scale in Barbados. Projects and activities designed in consultation with university instructors, government, NGO, or private partners, and prepared by teams of 2-3 students working cooperatively with these mentors.          </p>
+
+    <p class="catalog-terms">
+      Terms:              This course is not scheduled for the 2014-2015 academic year.          </p>
+
+    <p class="catalog-instructors">
+      Instructors:              There are no professors associated with this course for the 2014-2015 academic year.          </p>
+
+    
+          <ul class="catalog-notes">
+              <li>Corequisite(s): AEBI 421, AEBI 423 and AEBI 425</li>
+              <li>Restriction(s): Restricted to students that are participating in the Barbados Interdisciplinary Tropical Studies Field Semester</li>
+              <li>**In addition to Monday and Tuesday scheduled classes, the last day of class will be held on Wednesday, August 20, 2014. The exam will be written on the last day of class.</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                </ul>
+      
+              <p>AND</p>
+<p> 9 credits chosen from the Engineering Course List below, excluding <a href="/study/2014-2015/courses/chee-496">CHEE 496</a>.</p>
+      
+                <h4>Engineering Course List</h4>
+
+    
+              <p>Courses offered at the Macdonald campus:</p>
+    
+              <ul class="program-set">
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/bree-217" class="program-course-title">
+              BREE 217 Hydrology and Water Resources (3 credits)              *            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-19098" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Bioresource Engineering (<a href="/study/2014-2015/node/606">Agricultural &amp; Environmental Sciences</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Bioresource Engineering              : Measurements and analysis of components of the water cycle. Precipitation, evaporation, infiltration and groundwater. Analysis of hydrologic data. Hydrograph theory. Hydrologic estimations for design of water control projects; flood control and reservoir routing. Integrated watershed management and water conservation. Water management systems for environmental protection.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Winter 2015          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Shiv Prasher (Winter)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>3 lectures, one 2-hour lab</li>
+              <li>Restriction: Not open to students who have taken ABEN 217.</li>
+              <li>Note: This course carries an additional course charge of $30 to cover transportation costs for two field trips, which may include a visit to a national weather station and a trip to gain hands-on experience on monitoring water flow in streams.</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/bree-322" class="program-course-title">
+              BREE 322 Organic Waste Management (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-19114" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Bioresource Engineering (<a href="/study/2014-2015/node/606">Agricultural &amp; Environmental Sciences</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Bioresource Engineering              : An introduction to engineering aspects of handling, storage and treatment of all biological and food industry wastes. Design criteria will be elaborated and related to characteristics of wastes. Physical, chemical and biological treatment systems.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Fall 2014          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Grant Clark (Fall)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>2 lectures and one 2-hour lab</li>
+              <li>Restriction: Not open to students who have taken ABEN 322.</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/bree-416" class="program-course-title">
+              BREE 416 Engineering for Land Development (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-19126" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Bioresource Engineering (<a href="/study/2014-2015/node/606">Agricultural &amp; Environmental Sciences</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Bioresource Engineering              : The engineering aspects of soil and water conservation, irrigation, water conveyance structures and canals, use of geosynthetics for soil protection, seepage and uplift. Students will produce an integrated development project.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Fall 2014          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Zhiming Qi (Fall)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>3 lectures and one 2-hour lab or design problems</li>
+              <li>Prerequisite: BREE 217 (formerly ABEN 217)</li>
+              <li>Restriction: Not open to students who have taken ABEN 416.</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/bree-518" class="program-course-title">
+              BREE 518 Bio-Treatment of Wastes (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-19180" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Bioresource Engineering (<a href="/study/2014-2015/node/606">Agricultural &amp; Environmental Sciences</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Bioresource Engineering              : Special topics concerning control of pollution agents from the agricultural industry; odour control, agricultural waste treatment including biological digestion, flocculants, land disposal and sedimentation, pesticide transport.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Winter 2015          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Grant Clark (Winter)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>One 3 hour lecture</li>
+              <li>Restriction: Not open to students who have taken ABEN 518.</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                </ul>
+      
+              <p>* Not open to students who have passed <a href="/study/2014-2015/courses/cive-323">CIVE 323</a>.</p>
+      
+                <h4></h4>
+
+    
+              <p>Courses offered at the Downtown campus:</p>
+    
+              <ul class="program-set">
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/arch-377" class="program-course-title">
+              ARCH 377 Energy, Environment and Buildings (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-18114" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Architecture (<a href="/study/2014-2015/node/609">Faculty of Engineering</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Architecture              : Exploration of the interrelationship between energy, environment and building. Topics include sustainability, assessment tools, the integrated design process, water conservation, energy conservation, renewable energy, materials and embodied energy, indoor environmental quality, environmental acoustics, and advanced building technology.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Winter 2015          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Sevag Pogharian (Winter)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>(3-0-6)</li>
+              <li>Prerequisite: ARCH 202 or permission of instructor </li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/arch-515" class="program-course-title">
+              ARCH 515 Sustainable Design (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-18142" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Architecture (<a href="/study/2014-2015/node/609">Faculty of Engineering</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Architecture              : This course will address sustainable design theory and applications in the built environment with students from a variety of fields (architecture, urban planning, engineering, sociology, environmental studies, economics, international studies). Architecture will provide the focus for environmental, socio-cultural and economic issues.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Winter 2015          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Michael Jemtrud (Winter)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>(3-0-6)</li>
+              <li>Prerequisite: ARCH 377 or permission of instructor.</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/chee-351" class="program-course-title">
+              CHEE 351 Separation Processes (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-20190" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Chemical Engineering (<a href="/study/2014-2015/node/609">Faculty of Engineering</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Chemical Engineering              : Concepts underlying separation processes. Equilibrium-based processes with staging and continuous contacting, distillation, evaporation, liquid-liquid extraction, leaching. Introduction to membrane based separations.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Winter 2015          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Jeff Gostick (Winter)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>(3-0-6)</li>
+              <li>Prerequisites: CHEE 204, CHEE 220. Corequisites: CHEE 315. </li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/chee-370" class="program-course-title">
+              CHEE 370 Elements of Biotechnology (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-20196" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Chemical Engineering (<a href="/study/2014-2015/node/609">Faculty of Engineering</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Chemical Engineering              : Biological macromolecules; cell structure and metabolism; industrially significant microbes; enzyme kinetics; introduction to molecular biology and genetic engineering, laboratory exercises.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Fall 2014          </p>
+
+    <p class="catalog-instructors">
+      Instructors:              There are no professors associated with this course for the 2014-2015 academic year.          </p>
+
+    
+          <ul class="catalog-notes">
+              <li>(3-1-5)</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/chee-496" class="program-course-title">
+              CHEE 496 Environmental Research Project (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-20244" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Chemical Engineering (<a href="/study/2014-2015/node/609">Faculty of Engineering</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Chemical Engineering              : Independent study and experimental work on environmental topic(s) chosen by consultation between the student and professor. Students must find a supervisor amongst department faculty before registering for this course.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Fall 2014, Winter 2015          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Jeff Gostick (Fall)                  Jeff Gostick (Winter)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>(1-6-2)</li>
+              <li>Students are required to complete a written report and a presentation before the end of the semester.</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/chee-591" class="program-course-title">
+              CHEE 591 Environmental Bioremediation (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-20276" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Chemical Engineering (<a href="/study/2014-2015/node/609">Faculty of Engineering</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Chemical Engineering              : The presence and role of microorganisms in the environment, the role of microbes in environmental remediation either through natural or human-mediated processes, the application of microbes in pollution control and the monitoring of environmental pollutants.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Winter 2015          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Laleh Yerushalmi (Winter)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>(3-0-6)</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/chee-592" class="program-course-title">
+              CHEE 592 Industrial Air Pollution Control (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-20278" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Chemical Engineering (<a href="/study/2014-2015/node/609">Faculty of Engineering</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Chemical Engineering              : Air pollution effects, control laws and regulations, measurements; emission estimates, meteorology for air pollution control engineers, dispersion models, nature of particulate pollutants, control of primary particulates, control of volatile organic compounds, sulfur oxides and nitrogen oxides; air pollutants and global climate.          </p>
+
+    <p class="catalog-terms">
+      Terms:              This course is not scheduled for the 2014-2015 academic year.          </p>
+
+    <p class="catalog-instructors">
+      Instructors:              There are no professors associated with this course for the 2014-2015 academic year.          </p>
+
+    
+          <ul class="catalog-notes">
+              <li>(3-0-6)</li>
+              <li>Prerequisite: CHEE 314 or permission of instructor.</li>
+              <li>Restriction: Not open to students who have taken CHEE 472.</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/chee-593" class="program-course-title">
+              CHEE 593 Industrial Water Pollution Control (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-20280" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Chemical Engineering (<a href="/study/2014-2015/node/609">Faculty of Engineering</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Chemical Engineering              : Wastewater constituents of concern; legislation pertinent to wastewater treatment; wastewater sampling and analysis techniques; process analysis and selection; physical, chemical and biological processes; advanced wastewater treatment methods; integration of sciences and engineering principles to design wastewater treatment processes.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Winter 2015          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Viviane Yargeau (Winter)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>(3-1-5)</li>
+              <li>Prerequisite: CHEE 314 or equivalent.</li>
+              <li>Restriction: Not open to students who have taken CHEE 471.</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/cive-225" class="program-course-title">
+              CIVE 225 Environmental Engineering (4 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-20606" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Civil Engineering (<a href="/study/2014-2015/node/609">Faculty of Engineering</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Civil Engineering              : Introduction to environmental chemistry; mass balance analyses in engineered and natural systems; water, soil and air pollution characterization and control; water quality parameters; drinking water and wastewater treatment technologies; global climate change: possible causes and effects; risk assessment for pollutant exposure; solid- and hazardous-waste management.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Winter 2015          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Dominic Frigon (Winter)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>(4-2-6)</li>
+              <li>Prerequisite: CIVE 290.</li>
+              <li>Corequisite: MATH 263.</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/cive-323" class="program-course-title">
+              CIVE 323 Hydrology and Water Resources (3 credits)              **            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-20626" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Civil Engineering (<a href="/study/2014-2015/node/609">Faculty of Engineering</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Civil Engineering              : Precipitation, evaporation and transpiration. Streamflow, storage reservoirs. Groundwater hydrology. Morphology of river basins. Statistical analysis in hydrology, stochastic modelling and simulation. Case studies in hydroelectric power development, flood damage mitigation, irrigation and drainage.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Fall 2014          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Thomas Gleeson (Fall)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>(3-2-4)</li>
+              <li>Prerequisite: CIVE 302 </li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/cive-421" class="program-course-title">
+              CIVE 421 Municipal Systems (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-20642" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Civil Engineering (<a href="/study/2014-2015/node/609">Faculty of Engineering</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Civil Engineering              : Design of water-related municipal services; sources of water and intake design; estimation of water demand and wastewater production rates; design, construction and maintenance of water distribution, wastewater and stormwater collection systems; pumps and pumping stations; pipe materials, network analysis and optimization; storage; treatment objectives for water and wastewater.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Winter 2015          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Ronald Gehr (Winter)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>(3-2-4)</li>
+              <li>Prerequisite: CIVE 327 </li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/cive-428" class="program-course-title">
+              CIVE 428 Water Resources and Hydraulic Engineering (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-20644" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Civil Engineering (<a href="/study/2014-2015/node/609">Faculty of Engineering</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Civil Engineering              : Application of continuity, energy and momentum concepts to open-channel flow; design of channels considering uniform flow and flow resistance, non-uniform flow and longitudinal profiles; design of channel controls and transitions; unsteady flow and flood routing; river ice engineering.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Fall 2014          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Susan J Gaskin (Fall)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>(3-3-3)</li>
+              <li>Prerequisite: CIVE 327 </li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/cive-430" class="program-course-title">
+              CIVE 430 Water Treatment and Pollution Control (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-20646" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Civil Engineering (<a href="/study/2014-2015/node/609">Faculty of Engineering</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Civil Engineering              : Principles of water and sewage treatment. Water and sewage characteristics; design of conventional unit operations and processes; laboratory analyses of potable and waste waters.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Fall 2014          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Ronald Gehr (Fall)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>(3-3-3)</li>
+              <li>Prerequisites: CIVE 225 and CIVE 327 </li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/cive-451" class="program-course-title">
+              CIVE 451 Geoenvironmental Engineering (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-20656" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Civil Engineering (<a href="/study/2014-2015/node/609">Faculty of Engineering</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Civil Engineering              : Geoenvironmental hazards; land management of waste; regulatory overview, waste characterization; soil-waste interaction; geosynthetics; low permeability clay barriers; contaminant transport; containment systems; collection and removal systems; design aspects; strategies for remediation; rehabilitation technologies.          </p>
+
+    <p class="catalog-terms">
+      Terms:              This course is not scheduled for the 2014-2015 academic year.          </p>
+
+    <p class="catalog-instructors">
+      Instructors:              There are no professors associated with this course for the 2014-2015 academic year.          </p>
+
+    
+          <ul class="catalog-notes">
+              <li>(3-2-4)</li>
+              <li>Prerequisites: CIVE 225 and CIVE 311 </li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/cive-550" class="program-course-title">
+              CIVE 550 Water Resources Management (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-20690" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Civil Engineering (<a href="/study/2014-2015/node/609">Faculty of Engineering</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Civil Engineering              : State-of-the-art water resources management techniques; case studies of their application to Canadian situations; identification of major issues and problem areas; interprovincial and international river basins; implications of development alternatives; institutional arrangements for planning and development of water resources; and, legal and economic aspects.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Winter 2015          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Van-Thanh-Van Nguyen (Winter)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>(3-0-6)</li>
+              <li>Prerequisite (Undergraduate): CIVE 323 or equivalent</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/cive-555" class="program-course-title">
+              CIVE 555 Environmental Data Analysis (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-20694" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Civil Engineering (<a href="/study/2014-2015/node/609">Faculty of Engineering</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Civil Engineering              : Application of statistical principles to design of measurement systems and sampling programs. Introduction to experimental design. Graphical data analysis. Description of uncertainty. Hypothesis tests. Model parameter estimation methods: linear and nonlinear regression methods. Trend analysis. Statistical analysis of censored data. Statistics of extremes.          </p>
+
+    <p class="catalog-terms">
+      Terms:              This course is not scheduled for the 2014-2015 academic year.          </p>
+
+    <p class="catalog-instructors">
+      Instructors:              There are no professors associated with this course for the 2014-2015 academic year.          </p>
+
+    
+          <ul class="catalog-notes">
+              <li>(3-0-6)</li>
+              <li>Prerequisite (Undergraduate): CIVE 302 or permission of instructor</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/cive-557" class="program-course-title">
+              CIVE 557 Microbiology for Environmental Engineering (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-20696" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Civil Engineering (<a href="/study/2014-2015/node/609">Faculty of Engineering</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Civil Engineering              : Microbiological concepts applied to the practice of environmental engineering and biotechnologies including the following topics: cellular and pathway organizations, evolution, growth, gene expression, horizontal gene transfer, metabolic microbial diversity, ecosystem structures, and quantitative mathematical modelling.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Fall 2014          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Dominic Frigon (Fall)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>Prerequisite: CIVE 225 or permission of the instructor</li>
+              <li>(3-1-5)</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/cive-572" class="program-course-title">
+              CIVE 572 Computational Hydraulics (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-20704" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Civil Engineering (<a href="/study/2014-2015/node/609">Faculty of Engineering</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Civil Engineering              : Computation of unsteady flows in open channels; abrupt waves, flood waves, tidal propagations; method of characteristics; mathematical modelling of river and coastal currents.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Fall 2014          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Vincent H Chu (Fall)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>(3-0-6)</li>
+              <li>Prerequisite: CIVE 327 or equivalent </li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/cive-573" class="program-course-title">
+              CIVE 573 Hydraulic Structures (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-20706" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Civil Engineering (<a href="/study/2014-2015/node/609">Faculty of Engineering</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Civil Engineering              : Hydraulic aspects of the theory and design of hydraulic structures. Storage dams, spillways, outlet works, diversion works, drop structures, stone structures, conveyance and control structures, flow measurement and culverts.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Fall 2014          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Marc Villeneuve (Fall)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>(3-0-6)</li>
+              <li>Prerequisites: CIVE 323 and CIVE 327 </li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/cive-574" class="program-course-title">
+              CIVE 574 Fluid Mechanics of Water Pollution (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-20708" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Civil Engineering (<a href="/study/2014-2015/node/609">Faculty of Engineering</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Civil Engineering              : Mixing, dilution and dispersion of pollutants discharged into lakes, rivers, estuaries and oceans; salinity intrusion in estuaries and its effects on dispersion; biochemical oxygen demand and dissolved oxygen as water quality indicators; thermal pollution; oil pollution.          </p>
+
+    <p class="catalog-terms">
+      Terms:              This course is not scheduled for the 2014-2015 academic year.          </p>
+
+    <p class="catalog-instructors">
+      Instructors:              There are no professors associated with this course for the 2014-2015 academic year.          </p>
+
+    
+          <ul class="catalog-notes">
+              <li>(3-0-6)</li>
+              <li>Prerequisite: CIVE 327 or equivalent. </li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/cive-577" class="program-course-title">
+              CIVE 577 River Engineering (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-20710" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Civil Engineering (<a href="/study/2014-2015/node/609">Faculty of Engineering</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Civil Engineering              : Fluvial geomorphology; sediment properties; river turbulence; mechanics of the entrainment, transportation and deposition of solids by fluids; threshold of movement; bed forms; suspended load, bed load and total load equations; stable channel design and regime rivers; river modelling; river engineering; and river management.          </p>
+
+    <p class="catalog-terms">
+      Terms:              This course is not scheduled for the 2014-2015 academic year.          </p>
+
+    <p class="catalog-instructors">
+      Instructors:              There are no professors associated with this course for the 2014-2015 academic year.          </p>
+
+    
+          <ul class="catalog-notes">
+              <li>(3-0-6)</li>
+              <li>Prerequisite (Undergraduate): CIVE 428 or permission of the instructor.</li>
+              <li>Corequisite (Graduate): CIVE 428</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/cive-584" class="program-course-title">
+              CIVE 584 Groundwater Engineering (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-20712" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Civil Engineering (<a href="/study/2014-2015/node/609">Faculty of Engineering</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Civil Engineering              : Origins and types of groundwater; Darcy's law; hydraulic anisotropy; conservation laws; fundamental equations of porous media flow; Laplace's and Poisson's equations: analytical solution of potential flow problems; determination of hydraulic conductivity; flow in unconfined and confined acquifers; seepage modelling; unsaturated flow; transient flows in porous media; introduction to computational methods.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Winter 2015          </p>
+
+    <p class="catalog-instructors">
+      Instructors:              There are no professors associated with this course for the 2014-2015 academic year.          </p>
+
+    
+          <ul class="catalog-notes">
+              <li>(3-0-6)</li>
+              <li>Prerequisite: CIVE 311 or Permission of Instructor.</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/mech-447" class="program-course-title">
+              MECH 447 Combustion (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-29854" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Mechanical Engineering (<a href="/study/2014-2015/node/609">Faculty of Engineering</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Mechanical Engineering              : Equilibrium analysis of reacting systems, Hugoniot analysis, flame propagation mechanisms, introduction to chemical kinetics, models for laminar flame propagation, ignition, quenching, flammability limits, turbulent flames, flame instability mechanisms, detonations, solid and liquid combustion.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Fall 2014          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Jeffrey Bergthorson (Fall)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>(3-0-6)</li>
+              <li>Prerequisite: MECH 240 </li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/mech-526" class="program-course-title">
+              MECH 526 Manufacturing and the Environment (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-29884" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Mechanical Engineering (<a href="/study/2014-2015/node/609">Faculty of Engineering</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Mechanical Engineering              : Course topics include: clean manufacturing, product and process design for minimizing materials and energy use, the product life cycle, impact of technology on the environment, environmental impact assessment, regulatory process, and managing the "political" process.          </p>
+
+    <p class="catalog-terms">
+      Terms:              This course is not scheduled for the 2014-2015 academic year.          </p>
+
+    <p class="catalog-instructors">
+      Instructors:              There are no professors associated with this course for the 2014-2015 academic year.          </p>
+
+    
+          <ul class="catalog-notes">
+              <li>(3-0-6)</li>
+              <li>Prerequisite (Undergraduate): Permission of the instructor</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/mech-534" class="program-course-title">
+              MECH 534 Air Pollution Engineering (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-29896" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Mechanical Engineering (<a href="/study/2014-2015/node/609">Faculty of Engineering</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Mechanical Engineering              : Pollutants from power production and their effects on the environment. Mechanisms of pollutant formation in combustion. Photochemical pollutants and smog, atmospheric dispersion. Pollutant generation from internal combustion engines and stationary power plants. Methods of pollution control (exhaust gas treatment, absorption, filtration, scrubbers, etc.).          </p>
+
+    <p class="catalog-terms">
+      Terms:              Fall 2014          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        David Frost (Fall)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>(3-0-6)</li>
+              <li>Prerequisite (Undergraduate): MECH 331, MECH 341.</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/mech-535" class="program-course-title">
+              MECH 535 Turbomachinery and Propulsion (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-29898" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Mechanical Engineering (<a href="/study/2014-2015/node/609">Faculty of Engineering</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Mechanical Engineering              : Introduction to propulsion: turboprops, turbofans and turbojets. Review of thermodynamic cycles. Euler turbine equation. Velocity triangles. Axial-flow compressors and pumps. Centrifugal compressors and pumps. Axial-flow turbines. Loss mechanisms. Dimensional analysis of turbomachines. Performance maps. 3-D effects. Introduction to numerical methods in turbomachines. Prediction of performance of gas turbines.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Fall 2014          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Wagdi George Habashi (Fall)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>(3-0-6)</li>
+              <li>Prerequisite: MECH 331.</li>
+              <li>Restriction: Not open to students who have taken MECH 434.</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/mime-422" class="program-course-title">
+              MIME 422 Mine Ventilation (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-30372" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Mining &amp; Materials Engineering (<a href="/study/2014-2015/node/609">Faculty of Engineering</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Mining &amp; Materials Engineering              : Statutory regulations and engineering design criteria. Occupational health hazards of mine gases, dusts, etc. Ventilation system design. Natural and mechanical ventilation. Measuring and modelling air flow in ventilation networks. Calculation of head losses. Selection of mine ventilation fans. Air heating and cooling. Aspects of economics.          </p>
+
+    <p class="catalog-terms">
+      Terms:              This course is not scheduled for the 2014-2015 academic year.          </p>
+
+    <p class="catalog-instructors">
+      Instructors:              There are no professors associated with this course for the 2014-2015 academic year.          </p>
+
+    
+          <ul class="catalog-notes">
+              <li>(3-3-3)</li>
+              <li>Prerequisite: MIME 340</li>
+              <li>Restriction: Not open to students who have taken MPMC 422.</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/mime-512" class="program-course-title">
+              MIME 512 Corrosion and Degradation of Materials (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-30400" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Mining &amp; Materials Engineering (<a href="/study/2014-2015/node/609">Faculty of Engineering</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Mining &amp; Materials Engineering              : Electrochemical theory of metal corrosion, Evans Diagrams, corrosion rate controlling mechanisms, mixed corrodents, alloying effects, passivation. Discussion and analysis of the various forms of corrosion. Corrosion prevention methods. Oxidation of alloys-mechanisms and kinetics. Degradation of ceramics and polymers. Case studies.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Winter 2015          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        George Demopoulos (Winter)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>(3-1.5-4.5)</li>
+              <li>Prerequisites: MIME 261 and MIME 352 or permission of instructor.</li>
+              <li>Restriction: Not open to students who have taken MIME 412.</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/mpmc-328" class="program-course-title">
+              MPMC 328 Environnement et gestion des rejets miniers (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-30768" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Mining &amp; Materials Engineering (<a href="/study/2014-2015/node/609">Faculty of Engineering</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      McGill/Poly Mining Coop              : Effets du milieu de travail sur l'homme (hygiène du travail) : législation; contraintes thermiques, problèmes de bruit, de contaminants gazeux et de poussières; techniques de mesures. Effets de l'exploitation d'une mine sur le milieu (environnement et écologie) : législation; études d'impacts; effluents miniers: origine, nature et traitement des effluents; entreposage des résidus; restauration des sites.          </p>
+
+    <p class="catalog-terms">
+      Terms:              This course is not scheduled for the 2014-2015 academic year.          </p>
+
+    <p class="catalog-instructors">
+      Instructors:              There are no professors associated with this course for the 2014-2015 academic year.          </p>
+
+    
+          <ul class="catalog-notes">
+              <li>(3-3-3)</li>
+              <li>Prérequis : MIME 200 et MIME 291</li>
+              <li>Due to the intensive nature of this course, the standard add/drop and withdrawal deadlines do not apply. Add/drop is the second lecture day and withdrawal is the fourth lecture day.</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/urbp-506" class="program-course-title">
+              URBP 506 Environmental Policy and Planning (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-36039" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Urban Planning (<a href="/study/2014-2015/node/609">Faculty of Engineering</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Urban Planning              : Analytical and institutional approaches for understanding and addressing urban and other environmental problems at various scales; characteristics of environmental problems and implications; political-institutional context and policy instruments; risk perception and implications; cost-benefit analysis, risk assessment, multiple-objectives approaches, life-cycle analysis; policy implementation issues; case studies.          </p>
+
+    <p class="catalog-terms">
+      Terms:              This course is not scheduled for the 2014-2015 academic year.          </p>
+
+    <p class="catalog-instructors">
+      Instructors:              There are no professors associated with this course for the 2014-2015 academic year.          </p>
+
+    
+          <ul class="catalog-notes">
+              <li>(3-0-6)</li>
+              <li>Restriction: This course is open to students in U3 and above</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                </ul>
+      
+              <p>** Not open to students who have passed <a href="/study/2014-2015/courses/bree-217">BREE 217</a>.</p>
+      
+                <h4>Non-Engineering Course List</h4>
+
+    
+              <p>Courses offered at the Macdonald campus:</p>
+    
+              <ul class="program-set">
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/lsci-230" class="program-course-title">
+              LSCI 230 Introductory Microbiology (3 credits)              +            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-29398" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Natural Resource Sciences (<a href="/study/2014-2015/node/606">Agricultural &amp; Environmental Sciences</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Life Sciences              : The occurrence and importance of microorganisms (especially bacteria) in the biosphere. Principles governing growth, death and metabolic activities of microorganisms. An introduction to the microbiology of soil, water, plants, food, man and animals.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Winter 2015          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Sebastien Faucher (Winter)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>Winter</li>
+              <li>Restriction: Not open to students who have taken MICR 230.</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/micr-331" class="program-course-title">
+              MICR 331 Microbial Ecology (3 credits)              +            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-30290" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Natural Resource Sciences (<a href="/study/2014-2015/node/606">Agricultural &amp; Environmental Sciences</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Microbiology (Agric&amp;Envir Sc)              : The ecology of microorganisms, primarily bacteria and archaea, and their roles in biogeochemical cycles will be discussed. Microbial interactions with the environment, plants, animals and other microbes emphasizing the underlying genetics and physiology. Diversity, evolution (microbial phylogenetics) and the application of molecular biology in microbial ecology.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Winter 2015          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Brian T Driscoll (Winter)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>Winter</li>
+              <li>Restriction: Not open to students who have successfully completed NRSC 331</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/micr-341" class="program-course-title">
+              MICR 341 Mechanisms of Pathogenicity (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-30294" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Natural Resource Sciences (<a href="/study/2014-2015/node/606">Agricultural &amp; Environmental Sciences</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Microbiology (Agric&amp;Envir Sc)              : A study of the means by which bacteria cause disease in animals and humans. Includes response of host to invading bacteria, bacterial attachment and penetration processes, and modes of actions of exotoxins and endotoxins.          </p>
+
+    <p class="catalog-terms">
+      Terms:              This course is not scheduled for the 2014-2015 academic year.          </p>
+
+    <p class="catalog-instructors">
+      Instructors:              There are no professors associated with this course for the 2014-2015 academic year.          </p>
+
+    
+          <ul class="catalog-notes">
+              <li>Fall</li>
+              <li>3 lectures, one 3-hour lab</li>
+              <li>Prerequisite: MICR 230 or LSCI 230</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/relg-270" class="program-course-title">
+              RELG 270 Religious Ethics and the Environment (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-34911" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Religious Studies (<a href="/study/2014-2015/node/607">Faculty of Arts</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Religious Studies              : Environmental potential of various religious traditions and secular perspectives, including animal rights, ecofeminism, and deep ecology.
+
+          </p>
+
+    <p class="catalog-terms">
+      Terms:              Fall 2014, Winter 2015          </p>
+
+    <p class="catalog-instructors">
+      Instructors:              There are no professors associated with this course for the 2014-2015 academic year.          </p>
+
+    
+          <ul class="catalog-notes">
+              <li>Fall: Macdonald Campus (Ste-Anne-de-Bellevue). Winter: Downtown Campus.</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/soil-210" class="program-course-title">
+              SOIL 210 Principles of Soil Science (3 credits)              ++            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-35793" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Natural Resource Sciences (<a href="/study/2014-2015/node/606">Agricultural &amp; Environmental Sciences</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Soil Science              : Soil formation; examination of chemical, physical and biological properties  of soils, interaction between soils, plants and the environment; function of soils in ecosystems with an emphasis on soil nutrients and fertility, and water quality.          </p>
+
+    <p class="catalog-terms">
+      Terms:              This course is not scheduled for the 2014-2015 academic year.          </p>
+
+    <p class="catalog-instructors">
+      Instructors:              There are no professors associated with this course for the 2014-2015 academic year.          </p>
+
+    
+          <ul class="catalog-notes">
+              <li>Fall</li>
+              <li>3 lectures and one 3-hour lab</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/soil-331" class="program-course-title">
+              SOIL 331 Environmental Soil Physics (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-35801" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Natural Resource Sciences (<a href="/study/2014-2015/node/606">Agricultural &amp; Environmental Sciences</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Soil Science              : This course addresses physical properties and processes in soil, state and transport of matter and energy affecting environment and agriculture (State: soil texture, structure, temperature, water; Transport: water flow, chemical transport, heat and gas flow), mass and energy balance in soil, effect of various environmental events on soil physical properties, management of physical properties and processes for various practical agricultural, hydrological and environmental applications including land reclamation.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Winter 2015          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Asim Biswas (Winter)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>Winter</li>
+              <li>3 lectures and one 3-hour lab</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/wild-375" class="program-course-title">
+              WILD 375 Issues: Environmental Sciences (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-36133" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Natural Resource Sciences (<a href="/study/2014-2015/node/606">Agricultural &amp; Environmental Sciences</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Resource Development              : Principles and trends in global ecology as they pertain to agricultural and natural ecosystems and the impact of environmental change on food production.          </p>
+
+    <p class="catalog-terms">
+      Terms:              This course is not scheduled for the 2014-2015 academic year.          </p>
+
+    <p class="catalog-instructors">
+      Instructors:              There are no professors associated with this course for the 2014-2015 academic year.          </p>
+
+    
+          <ul class="catalog-notes">
+              <li>Winter</li>
+              <li>3 lectures</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/wild-415" class="program-course-title">
+              WILD 415 Conservation Law (2 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-36139" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Natural Resource Sciences (<a href="/study/2014-2015/node/606">Agricultural &amp; Environmental Sciences</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Resource Development              : A study of the various federal, provincial and municipal laws affecting wildlife habitat. Topics include: laws to protect wild birds and animals; the regulation of hunting; legal protection of trees and flowers, sanctuaries, reserves, parks; techniques of acquiring and financing desirable land, property owner rights.          </p>
+
+    <p class="catalog-terms">
+      Terms:              This course is not scheduled for the 2014-2015 academic year.          </p>
+
+    <p class="catalog-instructors">
+      Instructors:              There are no professors associated with this course for the 2014-2015 academic year.          </p>
+
+    
+          <ul class="catalog-notes">
+              <li>Fall</li>
+              <li>2 lectures</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/wood-420" class="program-course-title">
+              WOOD 420 Environmental Issues: Forestry (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-36185" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Natural Resource Sciences (<a href="/study/2014-2015/node/606">Agricultural &amp; Environmental Sciences</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Woodland Resources              : The science behind current environmental issues relating to forests including the effects of management on productivity and biodiversity, conservation of old-growth forests and endangered species, pesticide use, and industrial pollution. The role of scientific knowledge, relative to social and economic forces, in forest resource decision-making is discussed.          </p>
+
+    <p class="catalog-terms">
+      Terms:              This course is not scheduled for the 2014-2015 academic year.          </p>
+
+    <p class="catalog-instructors">
+      Instructors:              There are no professors associated with this course for the 2014-2015 academic year.          </p>
+
+    
+          <ul class="catalog-notes">
+              <li>Winter</li>
+              <li>3 lectures and one 2-hour tutorial</li>
+              <li>Prerequisites: PLNT 201 or AEBI 210 and SOIL 210 or ENVB 210 or permission of instructor</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                </ul>
+      
+              <p>+ Not open to students who have passed <a href="/study/2014-2015/courses/chee-370">CHEE 370</a>.<br />
+++ Not part of the Minor for Agricultural Engineering students.</p>
+      
+                <h4></h4>
+
+    
+              <p>Courses offered at the Downtown campus:</p>
+    
+              <ul class="program-set">
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/anth-206" class="program-course-title">
+              ANTH 206 Environment and Culture (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-17688" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Anthropology (<a href="/study/2014-2015/node/607">Faculty of Arts</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Anthropology              : Introduction to ecological anthropology, focusing on social and cultural adaptations to different environments, human impact on the environment, cultural constructions of the environment, management of common resources, and conflict over the use of resources.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Fall 2014          </p>
+
+    <p class="catalog-instructors">
+      Instructors:              There are no professors associated with this course for the 2014-2015 academic year.          </p>
+
+    
+          <ul class="catalog-notes">
+              <li>Fall</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/biol-205" class="program-course-title">
+              BIOL 205 Biology of Organisms (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-18758" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Biology (<a href="/study/2014-2015/node/615">Faculty of Science</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Biology (Sci)              : Unified view of form and function in animals and plants. Focus on how the laws of chemistry and physics illuminate biological processes relating to the acquisition of energy and materials and their use in movement, growth, development, reproduction and responses to environmental stress.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Winter 2015          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Rajinder S Dhindsa (Winter)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>Winter</li>
+              <li>3 hours lecture, optional conference hour</li>
+              <li>Prerequisites: BIOL 200 and PHYS 101 or 131 or equivalent</li>
+              <li>Corequisite: ANAT 212/BIOC 212 or BIOL 201</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/biol-432" class="program-course-title">
+              BIOL 432 Limnology (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-18844" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Biology (<a href="/study/2014-2015/node/615">Faculty of Science</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Biology (Sci)              : A study of the physical, chemical and biological properties of lakes and other inland waters, with emphasis on their functioning as systems.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Fall 2014          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Gregor Fussmann, Irene Gregory-Eaves (Fall)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>Fall</li>
+              <li>2 hours lecture; 2 weekends at field station equivalent to 3 hours laboratory per week</li>
+              <li>Prerequisites: BIOL 206 and BIOL 215 or permission of instructor.</li>
+              <li>This course, involving two field weekends, has an additional fee of $280, which includes room and board and transportation. The fee is refundable during the period where a student can drop the course with full refund. The Department of Biology subsidizes a portion of the cost for this activity.</li>
+              <li>Restrictions: Not open to students who have taken or are taking ENVB 315.</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/cmpl-580" class="program-course-title">
+              CMPL 580 Environment and the Law (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-21086" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Law (<a href="/study/2014-2015/node/627">Faculty of Law</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Comparative Law              : Environmental law, with emphasis on ecological, economic, political, and international dimensions.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Winter 2015          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Richard Janda (Winter)                  </p>
+
+    
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/econ-225" class="program-course-title">
+              ECON 225 Economics of the Environment (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-22318" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Economics (<a href="/study/2014-2015/node/607">Faculty of Arts</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Economics (Arts)              : A study of the application of economic theory to questions of environmental policy. Particular attention will be given to the measurement and regulation of pollution, congestion and waste and other environmental aspects of specific economies.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Fall 2014          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Guillaume Lord (Fall)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>Restriction: Not open to students who have taken 154-325 or 154-425</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/econ-326" class="program-course-title">
+              ECON 326 Ecological Economics (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-22368" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Economics (<a href="/study/2014-2015/node/607">Faculty of Arts</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Economics (Arts)              : Macroeconomic and structural aspects of the ecological crisis. A course in which subjects discussed include the conflict between economic growth and the laws of thermodynamics; the search for alternative economic indicators; the fossil fuels crisis; and "green'' fiscal policy.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Fall 2014, Winter 2015          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Robin Thomas Naylor (Fall)                  Robin Thomas Naylor (Winter)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>Prerequisites: ECON 208 and ECON 209 or consent of instructor </li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/econ-347" class="program-course-title">
+              ECON 347 Economics of Climate Change (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-22392" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Economics (<a href="/study/2014-2015/node/607">Faculty of Arts</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Economics (Arts)              : The course focuses on the economic implications of, and problems posed by, predictions of global warming due to anthropogenic emissions of greenhouse gases. Attention is given to economic policies such as carbon taxes and tradeable emission permits and to the problems of displacing fossil fuels with new energy technologies.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Fall 2014, Winter 2015          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Isabel Galiana (Fall)                  Isabel Galiana (Winter)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>Prerequisites: ECON 208 and ECON 209 or those listed under Prerequisites above </li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/epsc-549" class="program-course-title">
+              EPSC 549 Hydrogeology (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-25372" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Earth &amp; Planetary Sciences (<a href="/study/2014-2015/node/615">Faculty of Science</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Earth &amp; Planetary Sciences              : Introduction to groundwater flow through porous media. Notions of fluid potential and hydraulic head. Darcy flux and Darcy's Law. Physical properties of porous media and their measurement. Equation of groundwater flow. Flow systems. Hydraulics of pumping and recharging wells. Notions of hydrology. Groundwater quality and contamination. Physical processes of contaminant transport.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Winter 2015          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Jeffrey McKenzie (Winter)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>Winter</li>
+              <li>3 hours lectures, 1-2 hours laboratory</li>
+              <li>Prerequisite: permission of the instructor</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/geog-200" class="program-course-title">
+              GEOG 200 Geographical Perspectives: World Environmental Problems (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-26544" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Geography (<a href="/study/2014-2015/node/615">Faculty of Science</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Geography              : Introduction to geography as the study of nature and human beings in a spatial context. An integrated approach to environmental systems and the human organization of them from the viewpoint of spatial relationships and processes. Special attention to environmental problems as a constraint upon Third World development.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Fall 2014          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        James Ford (Fall)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>Fall</li>
+              <li>3 hours</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/geog-201" class="program-course-title">
+              GEOG 201 Introductory Geo-Information Science (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-26546" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Geography (<a href="/study/2014-2015/node/615">Faculty of Science</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Geography              : An introduction to Geographic Information Systems. The systematic management of spatial data. The use and construction of maps. The use of microcomputers and software for mapping and statistical work. Air photo and topographic map analyses.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Fall 2014          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Raja Sengupta, Bernhard Lehner (Fall)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>Fall</li>
+              <li>3 hours and lab</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/geog-203" class="program-course-title">
+              GEOG 203 Environmental Systems (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-26550" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Geography (<a href="/study/2014-2015/node/615">Faculty of Science</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Geography              : An introduction to system-level interactions among climate, hydrology, soils and vegetation at the scale of drainage basins, including the study of the global geographical variability in these land-surface systems. The knowledge acquired is used to study the impact on the environment of various human activities such as deforestation and urbanisation.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Fall 2014          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Timothy R Moore, Gail L Chmura (Fall)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>Fall</li>
+              <li>3 hours</li>
+              <li>Restriction: Because of quantitative science content of course, not recommended for B.A. and B.Ed. students in their U0 year.</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/geog-205" class="program-course-title">
+              GEOG 205 Global Change: Past, Present and Future (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-26552" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Geography (<a href="/study/2014-2015/node/615">Faculty of Science</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Geography              : An examination of global change, from the Quaternary Period to the present day involving changes in the physical geography of specific areas. Issues such as climatic change and land degradation will be discussed, with speculations on future environments.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Winter 2015          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Gail L Chmura (Winter)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>Winter</li>
+              <li>3 hours</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/geog-302" class="program-course-title">
+              GEOG 302 Environmental Management 1 (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-26572" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Geography (<a href="/study/2014-2015/node/615">Faculty of Science</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Geography              : An ecological analysis of the physical and biotic components of natural resource systems. Emphasis on scientific, technological and institutional aspects of environmental management. Study of the use of biological resources and of the impact of individual processes.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Fall 2014          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Thomas C Meredith (Fall)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>3 hours</li>
+              <li>Prerequisite: Any 200-level course in Geography or MSE or BIOL 208 or permission of instructor.</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/geog-308" class="program-course-title">
+              GEOG 308 Principles of Remote Sensing (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-26582" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Geography (<a href="/study/2014-2015/node/615">Faculty of Science</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Geography              : A conceptual view of remote sensing and the underlying physical principles. Covers ground-based, aerial, satellite systems, and the electromagnetic spectrum, from visible to microwave. Emphasis on application of remotely sensed data in geography including land cover change and ecological processes.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Fall 2014          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Margaret Kalacska (Fall)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>Fall</li>
+              <li>3 hours and laboratory periods</li>
+              <li>Corequisite(s): GEOG 201</li>
+              <li>Restriction: Not open to students who have taken ATOC 308</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/geog-321" class="program-course-title">
+              GEOG 321 Climatic Environments (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-26594" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Geography (<a href="/study/2014-2015/node/615">Faculty of Science</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Geography              : The earth-atmosphere system, radiation and energy balances. Surface-atmosphere exchange of energy, mass and momentum and related atmospheric processes on a local and regional scale. Introduction to measurement theory and practice in micrometeorology.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Winter 2015          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Ian Brett Strachan (Winter)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>Winter</li>
+              <li>3 hours</li>
+              <li>Prerequisite: GEOG 203 or ATOC 210 or permission of instructor</li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/geog-404" class="program-course-title">
+              GEOG 404 Environmental Management 2 (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-26622" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Geography (<a href="/study/2014-2015/node/615">Faculty of Science</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Geography              : Practical application of environmental planning, analysis and management techniques with reference to the needs and problems of developing areas. Special challenges posed by cultural differences and traditional resource systems are discussed. This course involves practical field work in a developing area (Kenya or Panama).          </p>
+
+    <p class="catalog-terms">
+      Terms:              Winter 2015          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Thomas C Meredith (Winter)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>Winter</li>
+              <li>3 hours</li>
+              <li>Prerequisite: GEOG 302 or permission of instructor </li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                  <li class="program-course">
+            <a href="/study/2014-2015/courses/mimm-211" class="program-course-title">
+              MIMM 211 Introductory Microbiology (3 credits)              <!---->            </a>
+            <div class="program-course-description">
+              <div class="program-course-description-inner">
+                <div id="node-30636" class=" clearfix">
+  
+  
+  
+  <div class="meta">
+    <p>Offered by: Microbiology &amp; Immunology (<a href="/study/2014-2015/node/615">Faculty of Science</a>)</p>
+      </div>
+
+  <div class="content">
+    <h3>Overview</h3>
+
+    <p>
+      Microbiology and Immun (Sci)              : A general treatment of microbiology bearing specifically on the biological properties of microorganisms. Emphasis will be on procaryotic cells. Basic principles of microbial genetics are also introduced.          </p>
+
+    <p class="catalog-terms">
+      Terms:              Fall 2014          </p>
+
+    <p class="catalog-instructors">
+      Instructors:                        Benoit Cousineau, Selena Sagan, Martin Olivier (Fall)                  </p>
+
+    
+          <ul class="catalog-notes">
+              <li>Fall</li>
+              <li>3 hours of lecture</li>
+              <li>Corequisite: BIOL 200 </li>
+            </ul>
+      </div>
+
+  </div> <!-- /.node -->
+              </div>
+            </div>
+          </li>
+                </ul>
+      
+      
+            </div>
+
+    
+  
+  <div class="disclaimer">Faculty of Engineering&mdash;2014-2015 (last updated Feb. 18, 2014) (<a href="/study/2014-2015/disclaimer">disclaimer</a>)</div>
+  </div> <!-- /.node -->
+          </div>
+        </div>
+      </div>
+          </div>
+    <!-- center column -->
+
+    
+    
+    <div id="footer">
+      <h2 class="base-hide">Department and University Information</h2>
+      
+
+	<div id="block-views-faculty_links-block_1" class="block block-views ">
+
+		<div class="content">
+					  	<h3>Faculty Links</h3>
+					
+    	<div class="view view-faculty-links view-id-faculty_links view-display-id-block_1 view-dom-id-0d4d49e83a6ad372bb70909f80d6bae1">
+    
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field views-field-field-faculty-links-url">        <span class="field-content"><a href="http://www.mcgill.ca/engineering/">Faculty of Engineering Home</a></span>  </div></li>
+          <li class="views-row views-row-2 views-row-even views-row-last">  
+  <div class="views-field views-field-field-faculty-links-url">        <span class="field-content"><a href="http://www.mcgill.ca/engineering/student/sao">Contact</a></span>  </div></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  	</div>
+	</div>
+
+
+
+
+	<div id="block-views-faculty_address-block_1" class="block block-views ">
+
+		<div class="content">
+					  	<h3>Faculty of Engineering</h3>
+					
+    	<div class="view view-faculty-address view-id-faculty_address view-display-id-block_1 view-dom-id-0074c98ba2a11b45b6bc90a8d3f12875">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-faculty-address-value">        <div class="field-content"><p>Room 378, Macdonald Engineering Building</p>
+<p>817 Sherbrooke Street West <a href="http://www.mcgill.ca/maps/?Building=000130" rel="nofollow">[Map]</a></p>
+<p>Montreal, Quebec H3A 0C3</p>
+<p>Tel.: <span>514-398-7257<a href="#" title=" 514-398-7257" rel="nofollow"><img style="margin:0px; width:16px; display:inline; float:none; height:16px" title=" 514-398-7257" src="http://www.mcgill.ca/study/2014-2015/data%3Aimage/png%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAIGNIUk0AAHolAACAgwAA%20f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAKLSURBVHjadJPfS5NhFMe/21xvuhXRyJAZroiSrJnbRdT7vrAf5HBaK5RABmEEwQIvkpZ/QRcWXdSFw5soKaF0F7qZeLO13mGBDpQsf5CoxVKHOt0Pctp2uvEdrzG/V%20c553w/54HnPDIiQiGpPMETABoB2AAYd9MRAMMAvGmX%20RcAyAoBVJ7gZQDtABworH4AHWmX%20bOMZdkjCoXiUzabvcAwzPSsob5p/VTNY9GcdpnxdmYZ9wJThSCtCr1e/4XjuNPd3d1KjUZzaGbI27ysqzGQoggAsLa1A7ehArrDxfDNr0oBlQB%20wmKxbJFEL968SxoamsjkHaPU9l9piUo6A0RE1DG2QCWdASrpDAzJM5kMI8XecdjVxfEl%20K9dxFgsgUvvR6HyBKHyBAEATyKLeGSsENuNcqk5kUjEGm7fzcYqr0ClVODl99%20YXEvl6%20c1amjVe%20ahiGGYaUEQKnmeh91uL43rqheixjpdmzCL11er0PcjhrTLvMfUJsyKYUSeyWQ6enp6tgCgrKxsfbP8bB8AdE1G89cOReMAgOv%20Cag8QXRNRkXAsDwcDr%20am5tLCYKA3t7eo2dG%201vVK/MfpRPtA%20MIReMYaKj%20/xm9MiICx3EmpVL5wefzFavValis1u1vvHMkdfykCQC0kSGUTo%20Ajmnx1dSC7IGD%20UUCEYGIwLKsyWazrSeTSSIiMpnNf7Ttz5%20ec96fr7/VnE0mk%20QfHMzV3WjcKH/4rEr05QGFIA6HY4llWRLPRER%20v3/HYrFMFQSIkNra2tVQKJSlfcSyLO0LECFWq3XF6XRGA4HAptTsdrsXeZ6fEHtl%2031nAOA4rkUulz/I5XL63dQGgHEAN8Ph8AYA/BsAt4ube4GblQIAAAAASUVORK5CYII%3D" /></a></span> | Fax: <span>514-398-7379<a href="#" title=" 514-398-7379" rel="nofollow"><img style="margin:0px; width:16px; display:inline; float:none; height:16px" title=" 514-398-7379" src="http://www.mcgill.ca/study/2014-2015/data%3Aimage/png%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAIGNIUk0AAHolAACAgwAA%20f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAKLSURBVHjadJPfS5NhFMe/21xvuhXRyJAZroiSrJnbRdT7vrAf5HBaK5RABmEEwQIvkpZ/QRcWXdSFw5soKaF0F7qZeLO13mGBDpQsf5CoxVKHOt0Pctp2uvEdrzG/V%20c553w/54HnPDIiQiGpPMETABoB2AAYd9MRAMMAvGmX%20RcAyAoBVJ7gZQDtABworH4AHWmX%20bOMZdkjCoXiUzabvcAwzPSsob5p/VTNY9GcdpnxdmYZ9wJThSCtCr1e/4XjuNPd3d1KjUZzaGbI27ysqzGQoggAsLa1A7ehArrDxfDNr0oBlQB%20wmKxbJFEL968SxoamsjkHaPU9l9piUo6A0RE1DG2QCWdASrpDAzJM5kMI8XecdjVxfEl%20K9dxFgsgUvvR6HyBKHyBAEATyKLeGSsENuNcqk5kUjEGm7fzcYqr0ClVODl99%20YXEvl6%20c1amjVe%20ahiGGYaUEQKnmeh91uL43rqheixjpdmzCL11er0PcjhrTLvMfUJsyKYUSeyWQ6enp6tgCgrKxsfbP8bB8AdE1G89cOReMAgOv%20Cag8QXRNRkXAsDwcDr%20am5tLCYKA3t7eo2dG%201vVK/MfpRPtA%20MIReMYaKj%20/xm9MiICx3EmpVL5wefzFavValis1u1vvHMkdfykCQC0kSGUTo%20Ajmnx1dSC7IGD%20UUCEYGIwLKsyWazrSeTSSIiMpnNf7Ttz5%20ec96fr7/VnE0mk%20QfHMzV3WjcKH/4rEr05QGFIA6HY4llWRLPRER%20v3/HYrFMFQSIkNra2tVQKJSlfcSyLO0LECFWq3XF6XRGA4HAptTsdrsXeZ6fEHtl%2031nAOA4rkUulz/I5XL63dQGgHEAN8Ph8AYA/BsAt4ube4GblQIAAAAASUVORK5CYII%3D" /></a></span></p>
+<p><span class="spamspan"><span class="u">information</span> [at] <span class="d">engineering [dot] mcgill [dot] ca</span><span class="t"> ([Email])</span></span></p></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  	</div>
+	</div>
+
+
+    </div>
+    <!-- End footer -->
+
+    <div id="clear" ></div>
+    <!-- End clear -->
+  </div>
+  <!-- End container -->
+  <script type="text/javascript" src="/study/2014-2015/sites/mcgill.ca.study.2014-2015/files/advagg_js/js_f9636d81181e101e76c9b6db598ffe16_0.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var gaJsHost=(("https:"==document.location.protocol)?"https://ssl.":"http://www.");document.write(unescape("%3Cscript src='"+gaJsHost+"google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"))
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+try{var pageTracker=_gat._getTracker("UA-26739495-1");pageTracker._setLocalGifPath(location.protocol+"//"+location.hostname+"/errors/sites/all/libraries/urchin/__utm.gif");pageTracker._setLocalRemoteServerMode();pageTracker._trackPageview()}catch(err){}
+//--><!]]>
+</script>
+</body>
+</html>

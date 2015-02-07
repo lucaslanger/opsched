@@ -1,0 +1,77 @@
+External
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+2421,EXTL,EXNU,015,Exchange Term Away,0.000,"Exchange Term Away-Nursing",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2584,EXTL,IUNU,001,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2585,EXTL,IUNU,002,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2586,EXTL,IUNU,003,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2587,EXTL,IUNU,004,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2588,EXTL,IUNU,005,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2589,EXTL,IUNU,006,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2590,EXTL,IUNU,007,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2591,EXTL,IUNU,008,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2592,EXTL,IUNU,009,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2593,EXTL,IUNU,010,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2594,EXTL,IUNU,011,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2595,EXTL,IUNU,012,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2435,EXTL,LANU,001,Leave of Absence,0.000,"Leave of Absence-Nursing",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active
+2406,EXTL,TANU,001,Term Away,0.000,"Term Away-Nursing",TBA,TBA,999,0,0,0,TBA,09/02-12/04,TBA,Active
+Health Science Electives
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+34,HSEL,308,001,Lecture,3.000,"Issues in Women's Health.",W,05:35 PM-08:25 PM,85,10,10,0,"Kimani  Daniel",09/02-12/04,STBIO S3/3,Active
+Nursing
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+26,NUR1,220,001,Lecture,3.000,"Therapeutic Relationships.",TR,11:35 AM-12:55 PM,145,0,0,0,"Catherine P  Gros, Rosalia  Sanzone",09/02-12/03,RPHYS 112,Active
+13796,NUR1,220,002,Conference,0.000,"Therapeutic Relationships.",W,03:35 PM-05:25 PM,145,0,0,0,TBA,09/17-09/17,MNI TIMMINS,Active
+4884,NUR1,220,003,Tutorial,0.000,"Therapeutic Relationships.",R,12:35 PM-01:25 PM,19,0,0,0,"Catherine P  Gros",09/02-12/03,WILSON 103,Temporarily closed
+5454,NUR1,220,004,Tutorial,0.000,"Therapeutic Relationships.",T,01:35 PM-02:25 PM,19,0,0,0,"Catherine P  Gros",09/02-12/04,WILSON 110,Temporarily closed
+5460,NUR1,220,005,Tutorial,0.000,"Therapeutic Relationships.",R,11:35 AM-12:25 PM,19,0,0,0,"Catherine P  Gros",09/02-12/03,WILSON 103,Temporarily closed
+17102,NUR1,220,006,Tutorial,0.000,"Therapeutic Relationships.",R,01:35 PM-02:25 PM,19,0,0,0,"Catherine P  Gros",09/02-12/03,WILSON 103,Temporarily closed
+17103,NUR1,220,007,Tutorial,0.000,"Therapeutic Relationships.",R,11:35 AM-12:25 PM,19,0,0,0,"Rosalia  Sanzone",09/02-12/03,WILSON 110,Temporarily closed
+17104,NUR1,220,008,Tutorial,0.000,"Therapeutic Relationships.",R,12:35 PM-01:25 PM,19,0,0,0,"Rosalia  Sanzone",09/02-12/03,WILSON 110,Temporarily closed
+17236,NUR1,220,009,Tutorial,0.000,"Therapeutic Relationships.",T,01:35 PM-02:25 PM,19,0,0,0,"Rosalia  Sanzone",09/02-12/04,WILSON 104,Temporarily closed
+17237,NUR1,220,010,Tutorial,0.000,"Therapeutic Relationships.",R,01:35 PM-02:25 PM,19,0,0,0,"Rosalia  Sanzone",09/02-12/03,WILSON 110,Temporarily closed
+27,NUR1,222,001,Lecture,1.000,"McGill Model of Nursing.",TR,01:05 PM-02:25 PM,170,0,0,0,"Cheryl  Armistead",09/02-12/03,LEA 219,Active
+6522,NUR1,223,001,Lecture,3.000,"Development over the Lifespan.",TR,08:35 AM-09:55 AM,185,0,0,0,"Rosalia  Sanzone",09/02-12/03,LEA 219,Active
+6523,NUR1,223,002,Break-Out Room,0.000,"Development over the Lifespan.",TR,08:35 AM-09:55 AM,65,0,0,0,"Rosalia  Sanzone",09/02-12/03,WILSON 105,Registration Not Required
+17707,NUR1,239,001,Lecture,3.000,"Health & Physical Assessment 2.",T,08:35 AM-11:25 AM,105,0,0,0,"Sandie Stephanie Larouche",09/02-12/04,STBIO S3/3,Active
+17708,NUR1,239,002,Laboratory,0.000,"Health & Physical Assessment 2.",R,11:55 AM-02:15 PM,25,0,0,0,"Rosetta  Antonacci",09/02-12/03,UNVHLL NUR LAB B,Active
+17709,NUR1,239,003,Laboratory,0.000,"Health & Physical Assessment 2.",W,12:35 PM-02:55 PM,25,0,0,0,"Rosetta  Antonacci",09/02-12/04,UNVHLL NUR LAB B,Active
+17710,NUR1,239,004,Laboratory,0.000,"Health & Physical Assessment 2.",R,09:25 AM-11:45 AM,25,0,0,0,TBA,09/02-12/03,UNVHLL NUR LAB B,Active
+19685,NUR1,239,005,Laboratory,0.000,"Health & Physical Assessment 2.",W,03:05 PM-05:25 PM,25,0,0,0,"Rosetta  Antonacci",09/02-12/04,UNVHLL NUR LAB B,Active
+8388,NUR1,311,001,Lecture,3.000,"Infection Prevention and Control.",R,02:35 PM-05:25 PM,125,0,0,0,"Ramona  Rodrigues",09/02-12/03,LEA 26,Active
+3497,NUR1,319,001,Lecture,3.000,"Stress & Illness Management.",TR,02:35 PM-03:55 PM,130,0,0,0,"Annie  Chevrier, Elaine M  Doucette",09/02-12/03,STBIO S3/3,Active
+13801,NUR1,319,002,Conference,0.000,"Stress & Illness Management.",W,03:35 PM-05:25 PM,130,0,0,0,TBA,09/17-09/17,MNI TIMMINS,Active
+28,NUR1,321,001,Lecture,2.000,"Acute Stressors and Coping.",F,09:35 AM-11:25 AM,125,0,0,0,"Caroline  Marchionni",09/02-12/04,LEA 232,Active
+29,NUR1,323,001,Lecture,3.000,"Illness Management 1.",T,02:35 PM-05:25 PM,125,0,0,0,"Madeleine  Buck",09/02-12/04,MCMED 521,Active
+4021,NUR1,331,001,Clinical Teaching,4.000,"Nursing in Illness 1.",MW,07:05 AM-09:25 PM,125,0,0,0,"Elaine M  Doucette",09/02-12/04,TBA,Active
+,,,,,,,R,07:05 AM-09:25 PM,,,,,"Elaine M  Doucette",12/04-12/04,TBA,Active
+30,NUR1,331,002,Conference,0.000,"Nursing in Illness 1.",,TBA,125,0,0,0,"Elaine M  Doucette",09/02-12/04,TBA,Active
+13159,NUR1,331,003,Optional Tutorial,0.000,"Nursing in Illness 1.",,TBA,30,0,0,0,TBA,09/02-12/04,TBA,Registration Not Required
+31,NUR1,420,001,Lecture,3.000,"Primary Health Care.",T,02:35 PM-05:25 PM,220,0,0,0,"Francoise  Filion",09/02-12/04,LEA 219,Active
+19851,NUR1,420,002,Midterm Exam,0.000,"Primary Health Care.",T,02:35 PM-05:25 PM,200,0,0,0,TBA,10/14-10/14,TBA,Registration Not Required
+32,NUR1,422,001,Lecture,3.000,"Research in Nursing.",TR,04:05 PM-05:25 PM,280,0,0,0,"Antonia  Arnaert",09/02-12/03,SADB M-1,Active
+4274,NUR1,424,001,Lecture,3.000,"Legal and Ethical Issues: Nursing.",F,08:35 AM-11:25 AM,110,0,0,0,"Josée  Bonneau, Lynne Violette Jean Chlala",09/02-09/18,MCMED 521,Active
+,,,,,,,F,08:35 AM-11:25 AM,,,,,"Josée  Bonneau, Lynne Violette Jean Chlala",09/19-09/19,CURRIE 408/9,Active
+,,,,,,,F,08:35 AM-11:25 AM,,,,,"Josée  Bonneau, Lynne Violette Jean Chlala",09/20-12/04,MCMED 521,Active
+17410,NUR1,428,001,Lecture,3.000,"Learning and Health Education.",R,02:35 PM-05:25 PM,220,0,0,0,"Sylvie  Lambert, Cheryl  Armistead",09/02-12/03,LEA 219,Active
+33,NUR1,431,001,Clinical Teaching,4.000,"Community Health Nursing Practicum.",MW,08:35 AM-04:25 PM,98,0,0,0,"Josée  Bonneau",09/02-12/04,TBA,Active
+,,,,,,,R,08:35 AM-04:25 PM,,,,,"Josée  Bonneau",12/04-12/04,TBA,Active
+4022,NUR1,431,002,Conference,0.000,"Community Health Nursing Practicum.",,TBA,110,0,0,0,"Josée  Bonneau",09/02-12/04,TBA,Active
+18834,NUR1,432,001,Clinical Teaching,4.000,"Community Health Nursing Project.",MW,08:35 AM-04:25 PM,98,0,0,0,"Diana  Gausden, Francoise  Filion",09/02-12/04,TBA,Active
+,,,,,,,R,08:35 AM-04:25 PM,,,,,"Diana  Gausden, Francoise  Filion",12/04-12/04,TBA,Active
+18835,NUR1,432,002,Conference,0.000,"Community Health Nursing Project.",,TBA,110,0,0,0,"Diana  Gausden, Francoise  Filion",09/02-12/04,TBA,Active
+Nursing
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+14,NUR2,511D1,001,Lecture,3.000,"Practice of Nursing Part 1.",W,11:35 AM-02:25 PM,26,0,0,0,"Sonia Elizabeth  Semenic, Catherine P  Gros",09/02-12/04,WILSON 103,Active
+4882,NUR2,511D1,002,Seminar,0.000,"Practice of Nursing Part 1.",W,02:35 PM-05:25 PM,26,0,0,0,"Sonia Elizabeth  Semenic, Catherine P  Gros",09/02-09/10,WILSON 110,Active
+,,,,,,,W,03:35 PM-05:25 PM,,,,,"Sonia Elizabeth  Semenic, Catherine P  Gros",09/17-09/17,MNI TIMMINS,Active
+,,,,,,,W,02:35 PM-05:25 PM,,,,,"Sonia Elizabeth  Semenic, Catherine P  Gros",09/24-12/04,WILSON 110,Active
+15,NUR2,514D1,001,Clinical Teaching,5.000,"Clinical Laboratory in Nursing.",MF,08:35 AM-04:25 PM,26,0,0,0,"Jodi Louise  Tuck",09/02-12/04,TBA,Active
+,,,,,,,R,08:35 AM-04:25 PM,,,,,"Jodi Louise  Tuck",12/04-12/04,TBA,Active
+4313,NUR2,514D1,002,Seminar,0.000,"Clinical Laboratory in Nursing.",F,08:35 AM-11:25 AM,26,0,0,0,"Jodi Louise  Tuck",09/02-12/04,WILSON 110,Active
+8716,NUR2,515,001,Lecture,3.000,"Applied Statistics for Nursing.",W,08:35 AM-11:25 AM,55,0,0,0,"Brett David  Thombs",09/02-12/04,WILSON 110,Active
+9486,NUR2,515,002,Break-Out Room,0.000,"Applied Statistics for Nursing.",W,08:35 AM-11:25 AM,20,0,0,0,"Brett David  Thombs",09/02-12/04,STBIO N4/17,Registration Not Required
+19098,NUR2,515,003,Break-Out Room,0.000,"Applied Statistics for Nursing.",W,10:35 AM-11:25 AM,20,0,0,0,TBA,09/02-12/04,LEA 212,Registration Not Required
+Registration
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+2909,REGN,WDNU,001,Registration Course,0.000,"Withdrawn from the University",TBA,TBA,100,0,0,0,TBA,09/02-12/04,TBA,Active

@@ -1,0 +1,64 @@
+Dentistry
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+4660,DENT,101J2,001,Small Group Teaching,2.000,"Dentistry Apprenticeship 1.",WF,12:55 PM-03:25 PM,38,0,0,0,"Irwin M  Fried, Marie Edith  Dagenais, Ying Wai  Sia, Nathalie Marie Morin, Roy  Raviv",12/15-03/15,TBA,Active
+1919,DENT,202,001,Lecture,8.000,"Oral Health.",MTWRF,08:05 AM-04:55 PM,0,0,0,0,TBA,01/05-04/14,TBA,Temporarily closed
+1920,DENT,203,001,Lecture,4.000,"Oral Disease.",MTWRF,08:35 AM-11:55 AM,34,0,0,0,"Monzur  Murshed",01/05-04/14,TBA,Temporarily closed
+,,,,,,,WR,08:05 AM-11:55 AM,,,,,"Monzur  Murshed",01/05-04/14,TBA,Temporarily closed
+,,,,,,,F,08:05 AM-11:55 AM,,,,,"Monzur  Murshed",01/05-04/14,TBA,Temporarily closed
+,,,,,,,,01:05 PM-04:55 PM,,,,,"Monzur  Murshed",01/05-04/14,TBA,Temporarily closed
+1921,DENT,204D1,001,Lecture,12.500,"Management of Oral Disease.",MTWRF,08:05 AM-11:55 AM,34,0,0,0,"Samer  Abi-Nader",01/05-04/14,TBA,Temporarily closed
+,,,,,,,MTR,01:05 PM-04:55 PM,,,,,"Samer  Abi-Nader",01/05-04/14,TBA,Temporarily closed
+,,,,,,,WF,03:35 PM-04:55 PM,,,,,"Samer  Abi-Nader",01/05-04/14,TBA,Temporarily closed
+1922,DENT,205D1,001,Lecture,1.500,"Dental Public Health 1.",M,09:05 AM-10:55 AM,34,0,0,0,"Paul J  Allison",01/05-04/14,TBA,Temporarily closed
+14654,DENT,215D1,001,Lecture,1.000,"Tooth Movement.",TBA,TBA,40,0,0,0,TBA,12/29-05/03,TBA,Active
+14655,DENT,217,001,Lecture,7.000,"Foundations of Dentistry.",TBA,TBA,40,0,0,0,TBA,12/29-05/03,TBA,Active
+14656,DENT,218D1,001,Lecture,1.000,"Support Tissue.",TBA,TBA,40,0,0,0,TBA,12/29-05/03,TBA,Active
+14657,DENT,220D1,001,Lecture,6.500,"Introduction to Restorative Dentistry.",TBA,TBA,40,0,0,0,TBA,12/29-05/03,TBA,Active
+14658,DENT,221D1,001,Lecture,2.500,"Tooth Loss.",TBA,TBA,40,0,0,0,TBA,12/29-05/03,TBA,Active
+14659,DENT,222D1,001,Lecture,1.000,"Radiology.",TBA,TBA,40,0,0,0,TBA,12/29-05/03,TBA,Active
+14732,DENT,224D1,001,Lecture,2.000,"Transition to Clinic.",TBA,TBA,40,0,0,0,TBA,12/29-05/03,TBA,Active
+14661,DENT,225D2,001,Lecture,1.500,"Oral Health Research.",TBA,TBA,40,0,0,0,TBA,12/29-05/03,TBA,Active
+11105,DENT,305D1,001,Lecture,1.500,"Dental Public Health 2.",,TBA,40,0,0,0,"Christophe  Bedos, Frances Anne  Power",01/05-05/03,TBA,Active
+1924,DENT,310J2,001,Field Course (GDEU),5.000,"Clinical Practice/Junior Clerkship.",,TBA,40,0,0,0,"Peter  Chauvin",01/05-05/03,TBA,Active
+1925,DENT,311J2,001,Lecture,1.000,"Endodontics 1.",,TBA,40,0,0,0,"Bassel  Kano",01/05-05/03,TBA,Active
+1926,DENT,315J2,001,Lecture,0.700,"Orthodontics 1.",T,01:05 PM-01:55 PM,40,0,0,0,"Jean-Marc  Retrouvey",01/05-05/03,TBA,Active
+1927,DENT,316D2,001,Lecture,2.000,"Pediatric Dentistry 1.",,TBA,40,0,0,0,"Irwin M  Fried",01/05-05/03,TBA,Active
+1928,DENT,317D2,001,Lecture,1.500,"Oral Pathology and Medicine.",,TBA,40,0,0,0,"Peter  Chauvin",01/05-05/03,TBA,Active
+1929,DENT,318J2,001,Lecture,1.000,"Periodontology.",W,08:05 AM-08:55 AM,40,0,0,0,"Veronique  Benhamou Cohen",01/05-05/03,TBA,Active
+1930,DENT,319D2,001,Lecture,1.500,"Dental Pharmacology.",,TBA,40,0,0,0,"Catherine Linda  Wiltshire",01/05-05/03,TBA,Active
+2909,DENT,320J2,001,Lecture,2.330,"Restorative Dentistry.",T,08:05 AM-10:55 AM,40,0,0,0,"Faleh Ahmad Tamimi Marino",01/05-05/03,TBA,Active
+,,,,,,,T,01:05 PM-03:55 PM,,,,,"Faleh Ahmad Tamimi Marino",01/05-05/03,TBA,Active
+,,,,,,,W,01:05 PM-02:55 PM,,,,,"Faleh Ahmad Tamimi Marino",01/05-05/03,TBA,Active
+,,,,,,,F,03:05 PM-04:55 PM,,,,,"Faleh Ahmad Tamimi Marino",01/05-05/03,TBA,Active
+14549,DENT,322J2,001,Lecture,1.330,"Image Interpretation.",,TBA,40,0,0,0,"Marie Edith  Dagenais",01/05-05/03,TBA,Active
+1931,DENT,323J2,001,Lecture,1.330,"Oral and Maxillofacial Surgery.",T,08:05 AM-08:55 AM,40,0,0,0,"Deborah  Iera",01/05-05/03,TBA,Active
+,,,,,,,R,08:05 AM-09:55 AM,,,,,"Deborah  Iera",01/05-05/03,TBA,Active
+1932,DENT,337,001,Lecture,2.000,"Clinical Decision Making.",,TBA,40,0,0,0,"John  Blomfield, Shahrokh  Esfandiari",01/05-05/03,TBA,Active
+14457,DENT,406,001,Lecture,1.000,"Ethics and Jurisprudence.",TBA,TBA,40,0,0,0,TBA,01/05-05/15,TBA,Active
+13561,DENT,407D2,001,Lecture,1.000,"Practice Management.",TBA,TBA,0,0,0,0,TBA,01/05-05/15,TBA,Active
+1935,DENT,410D2,001,Clinical Teaching,5.500,"Clinical Practice/Senior Clerkship.",,TBA,40,0,0,0,"Peter  Chauvin",01/05-05/15,TBA,Active
+14662,DENT,412D2,001,Lecture,1.000,"Introduction to Orofacial Pain.",TBA,TBA,40,0,0,0,TBA,01/05-05/15,TBA,Active
+1937,DENT,415D2,001,Lecture,1.500,"Orthodontics 2.",,TBA,40,0,0,0,"Jean-Marc  Retrouvey",01/05-05/15,TBA,Active
+1938,DENT,416D2,001,Lecture,2.000,"Pediatric Dentistry 2.",W,08:05 AM-11:55 AM,40,0,0,0,"Irwin M  Fried",01/05-05/15,TBA,Active
+1940,DENT,423D2,001,Lecture,2.500,"Oral Maxillofacial Surgery & Pathology.",M,01:05 PM-02:55 PM,40,0,0,0,"Peter  Chauvin, Deborah  Iera",01/05-05/15,TBA,Active
+10991,DENT,578,001,Field Course (DEPT),0.000,"Community Practice Rotations.",TBA,TBA,25,0,0,0,TBA,01/05-04/14,TBA,Active
+External
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+2332,EXTL,EXDE,015,Exchange Term Away,0.000,"Exchange Term Away-Dentistry",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2395,EXTL,IUDE,001,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2396,EXTL,IUDE,002,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2397,EXTL,IUDE,003,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2398,EXTL,IUDE,004,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2399,EXTL,IUDE,005,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2400,EXTL,IUDE,006,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2401,EXTL,IUDE,007,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2402,EXTL,IUDE,008,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2403,EXTL,IUDE,009,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2404,EXTL,IUDE,010,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2405,EXTL,IUDE,011,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2406,EXTL,IUDE,012,Inter-University Transfer Crse,0.000,"Inter-University Transfer",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2347,EXTL,LADE,001,Leave of Absence,0.000,"Leave of Absence-Dentistry",TBA,TBA,100,0,0,0,TBA,01/05-04/14,TBA,Active
+2318,EXTL,TADE,001,Term Away,0.000,"Term Away-Dentistry",TBA,TBA,999,0,0,0,TBA,01/05-04/14,TBA,Active
+Registration
+CRN,Subject,Course,Section,Type,Credits,Title,Days,Time,Capacity,WL Capacity,WL Actual,WL Remaining,Instructor,Date (MM//DD),Location,Status
+2988,REGN,RCDE,001,Registration Course,0.000,"I confirm Dental Reg",TBA,TBA,9999,0,0,0,TBA,01/05-04/14,TBA,Active
